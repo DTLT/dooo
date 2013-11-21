@@ -1,3 +1,5 @@
+# Basic Privacy
+
 WordPress is a platform intended to allow you to share your thoughts and ideas freely and easily with the world. However, there are options to publish to a more limited audience.
 
 The first way is to limit who can find your website. That is done by keeping search engines, like Google, from seeing (known as indexing) your site.
