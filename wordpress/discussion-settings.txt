@@ -1,3 +1,4 @@
+#Discussion Settings
 What makes WordPress a powerful platform is that not only can you create a dynamic website, but you can also allow dynamic discussions about the content with your visitors. Having said that, the Discussion part of the site needs to be managed. Comments, the bread and butter of the discussion, can add to the overhead of your website management. You have to keep up with responses to your commenters or they will think your aren't paying attention. Comments also can come, unfortunately, in the form of Spam. We will give you some additional information about dealing with Spam in another section. For now, let's have an overview of the Discussion Settings for a WordPress site.
 
 Start at the **Dashboard**.
