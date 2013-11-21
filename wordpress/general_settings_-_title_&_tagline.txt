@@ -1,3 +1,5 @@
+# General Settings: Title and Tagline
+
 Now that you have your WordPress installed and running, it's time to look at some basic settings for your site. The place that you will access the settings for your site is called the **Dashboard**, and it provides the starting point for accessing all of your sites dials and knobs.
 
 ![image](http://farm8.staticflickr.com/7380/9422128077_30256097ab_c_d.jpg)

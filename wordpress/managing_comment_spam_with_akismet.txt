@@ -1,3 +1,5 @@
+# Managing Comment Spam with Akismet
+
 SPAM! Everyone hates it in their email. If you're new to WordPress and blogging platforms, spam exists in the form of comment spam - people (or vermin) leave comments promoting their services or schemes, on a post or page.
 
 So how do you deal with comment spam when it can come in even more often than email spam? Do you have to delete every comment that comes in? Well, the answer to the second question is "no", and the answer to the first question is, with a plugin called [Akismet](http://akismet.com/).

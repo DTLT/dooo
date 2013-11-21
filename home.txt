@@ -1,1 +1,3 @@
-#Welcome to the Domain of One's Own Documentation
+# DoOO Docs Home 
+
+Welcome to the Domain of One's Own Documentation

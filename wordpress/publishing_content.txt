@@ -1,3 +1,5 @@
+# Publishing Content
+
 The primary activity that you're likely to be doing on your WordPress site is publishing content. The content could be text you write, pictures you take, videos or audios (which may be hosted on another site), or other media that you've found elsewhere on the Web. WordPress makes it very easy to publish media content of all types, whether hosted on your actual Web server or elsewhere.
 
 ##Posts vs Pages
