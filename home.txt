@@ -3,3 +3,5 @@
 If I edit this page it should show up on Github! Cool eh?
 
 Let's create a link to [[Getting Started Information]]
+
+I'm also curious if we can push in the other direction.
