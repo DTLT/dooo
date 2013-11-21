@@ -1,0 +1,20 @@
+WordPress is a platform intended to allow you to share your thoughts and ideas freely and easily with the world. However, there are options to publish to a more limited audience.
+
+The first way is to limit who can find your website. That is done by keeping search engines, like Google, from seeing (known as indexing) your site.
+
+To do this, we'll start at the **Dashboard**.
+
+![image](http://farm8.staticflickr.com/7380/9422128077_30256097ab_c_d.jpg)
+
+Navigate to **Settings > Reading**.
+
+![image](http://farm6.staticflickr.com/5344/9465649709_c26c1b8ebf_c_d.jpg)
+
+Normally the box next to **Search Engine Visibility** is unchecked. If you decide to check the box, it will "Discourage search engines from indexing this site." It will depend on the search engine to honor your "request". Some search engines will simply ignore it. Obviously this is not a sure-fire way of keeping your blog private.
+
+You also have options on individual posts to keep them private, so that only people who are logged in to your site can view a given post. You can also password protect posts with a password you supply. Choose the **Private** radio button to keep a post hidden behind the login, or choose the **Password protected** button and then type in the password you wish to use. Click on **OK** when you are finished. Then be sure you click the **Update** button to save your post with the new settings.
+
+![image](http://farm4.staticflickr.com/3773/9465707997_1bb442b7b8_o_d.jpg)
+
+
+There is a plugin called [More Privacy Options](http://wordpress.org/plugins/more-privacy-options/) that allows you to fine-tune privacy settings on your site (doesn't currently work on WordPress 3.6).
