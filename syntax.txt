@@ -231,25 +231,25 @@ Some times you want to mark some text to show it's a reply or comment. You can u
   
   > No we shouldn't
   
-  >> Well, I say we should
+  Well, I say we should
   
   > Really?
   
-  >> Yes!
+  Yes!
   
-  >>> Then lets do it!
+  > Then lets do it!
 
 I think we should do it
 
 > No we shouldn't
 
->> Well, I say we should
+Well, I say we should
 
 > Really?
 
->> Yes!
+Yes!
 
->>> Then lets do it!
+> Then lets do it!
 
 ===== Tables =====
 
