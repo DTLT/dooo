@@ -1,0 +1,42 @@
+#Installing Wordpress
+
+WordPress is an open-source publishing platform that can be used for setting up a blog or website easily. In fact it's one of the most popular publishing platforms on the web, and it's the software that drives [UMW Blogs](http://umwblogs.org/). Setting up a WordPress install on your own domain can be done by following these simple steps:
+
+To get started you'll need to login to your control panel by going to the UMW Domains homepage and clicking **Login**.
+
+![image](http://farm4.staticflickr.com/3808/9394644932_42072c3f76_c.jpg)
+
+Here you'll login with the username and password that was provided to you with the Welcome email during the signup process.
+
+![image](http://farm4.staticflickr.com/3834/9394646464_cb1e711493_c.jpg)
+
+Once logged in you'll be at the homepage of your control panel. The easiest way to navigate the panel is using the search feature in the top right panel. Let's use it now to search for WordPress.
+
+![image](http://farm6.staticflickr.com/5521/9394646810_9b824be97d_c.jpg)
+
+As you can see when you search a term, the corresponding section is shown. Click the **WordPress** button.
+
+![image](http://farm3.staticflickr.com/2888/9391875259_1d872f2cb5_c.jpg)
+
+This page gives you more information about the WordPress software. To begin the install click **Install** in the upper-righthand corner.
+
+![image](http://farm4.staticflickr.com/3670/9394645268_33b9661d68_c.jpg)
+
+On the next page the installer will ask for some information about this install. The first thing you'll want to do is decide where to install it. If you're wanting to install WordPress on your main domain, you can leave the directory area empty. If you created a subdomain, you can select it from the dropdown menu. You also have the option of installing WordPress in a subfolder by typing in the folder name in the **Directory** field. Click here for more information about subdomains and subfolders.
+
+![image](http://farm4.staticflickr.com/3818/9391875751_b2edbb7a92_c.jpg)
+
+By default the installer will automatically backup your website and update it anytime a new version comes out. While we recommend you keep this option, it is possible to only do minor updates, or turn them off completely. The installer will also create a database for you automatically, but if you've already created one for this website you can choose **Let me manage the database settings** and enter the details.
+Finally, you'll need to create an initial username and password for the WordPress install. Enter that information in final section and click **Install**.
+
+![image](http://farm6.staticflickr.com/5322/9394645648_cca5904005_c.jpg)
+
+The installer will take just a few moments to install WordPress and a progress bar will keep you updated. When it is complete you will see a link to your new WordPress site as well as a link to the backend administrative section for your WordPress site.
+
+![image](http://farm6.staticflickr.com/5529/9394707472_fe587f6b64_c.jpg)
+
+![image](http://farm4.staticflickr.com/3768/9391876221_708d6794eb_c.jpg)
+
+Congratulations, you've now installed WordPress! Now start customizing WordPress with themes, plugins, and more.
+
+![image](http://farm8.staticflickr.com/7418/9417386277_781a9c42fd_c.jpg)
