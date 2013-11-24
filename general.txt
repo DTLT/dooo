@@ -1,6 +1,6 @@
 #General Information
 
-  * [[LAMP Environments]]
-  * [[Static and Dynamic Websites]]
-  * [[RSS and Syndication]]
-  * [[Social Media]]
+  * [[general:LAMP Environments]]
+  * [[general:Static and Dynamic Websites]]
+  * [[general:RSS and Syndication]]
+  * [[general:Social Media]]
