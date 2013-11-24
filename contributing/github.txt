@@ -1,3 +1,3 @@
 #GitHub
 
-This article is a stub
+Documentation created and edited in this wiki is synced every 5 minutes with [[https://github.com/DTLT/dooo|our GitHub repository]]. If you're comfortable using Git you can fork the project and make edits using the editor of your choosing. You'll need to use [[contributing:syntax|DokuWiki syntax]] or Markdown formatting and new files should all end in .txt.
