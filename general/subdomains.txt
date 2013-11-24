@@ -1,4 +1,4 @@
-#What is a subdomain?
+#What are Subdomains?
 
 A subdomain is one way of organizing and separating content on your site. You're already familiar with the concept of subdomains, even if you don't know it. Consider UMW's public web site at [http://www.umw.edu](http://www.umw.edu). 
 
