@@ -1,6 +1,27 @@
 # Domain of One's Own Documentation
+~~NOTOC~~
+{{ ::screen_shot_2013-11-24_at_3.40.52_pm.png?nolink&250|}}Welcome to the Domain of One's Own Documentation wiki. You'll find lots of information about the software and tools that support the [[http://umwdomains.com|Domain of One's Own]] project as well as information on how you can find out more. If you'd like to contribute please consider [[https://github.com/DTLT/dooo|forking this wiki at GitHub]] and improving the documentation.
 
-{{ ::screen_shot_2013-11-24_at_3.40.52_pm.png?nolink&250|}}Welcome to the Domain of One's Own Documentation wiki. You'll find lots of information about the software and tools that support the [[http://umwdomains.com|Domain of One's Own]] project as well as information on how you can find out more. If you'd like to contribute please consider [[https://github.com/DTLT/dooo|forking this wiki at GitHub]] and improving the documentation.\\
-\\
+----
+
+<WRAP third column>
+====== Your Domain ======
+You've got a lot of tools at your disposal with the Domain of One's Own project but maybe you're unsure where to start. We've got you covered with [[domain-management:domain-management|documentation on a variety of the tools]] you'll find in the control panel.
+</WRAP>
+
+<WRAP third column>
+====== Wordpress ======
+
+We have extensive documentation on Wordpress available to help assist you. Everything from [[wordpress:publishing-content|publishing basics]] to [[wordpress:wordpress-themes|installing new themes]]. You can view the [[wordpress:wordpress|full documentation here]].
+</WRAP>
+
+<WRAP third column>
+====== Contribute ======
+
+You can help improve this documentation! We welcome edits both here and by forking our [[https://github.com/DTLT/dooo|GitHub repository]] which mirrors this site.
+</WRAP>
+
+----
+
 **Latest Contributions** ([[contributing:contributing|How can I help?]])
 {{changes>5&render = list(signature)}}
