@@ -1,0 +1,21 @@
+#Ways to Contribute
+One of the biggest hurdles to contributing to a wiki is knowing what's needed, and yet that's the real power of using a wiki for documentation. Your contributions are important to keeping this archive up-to-date and relevant as well as building it out as a rich resource for the Domain of One's Own project. Here are some ways that you can contribute, even in small bits and pieces, to this documentation:
+
+##Suggest a page
+Have you ever read an article on [[http://www.wikipedia.org/|Wikipedia]] and then found yourself clicking through to other articles and following a web of information further and further down a rabbit hole? Part of what makes wikis awesome is that you can easily link to other articles and resources and if they don't exist yet that link will go directly to a page where a user can start editing. As you're reading the documentation here if there are specific words that you wished we had an article defining, edit the page and surround the word(s) in double brackets like this: 
+
+In a sentence [[this]] will be a link. You can also choose what the link text is with the pipe symbol like this [[article name|link text]]
+  In a sentence [[this]] will be a link. You can also choose
+  what the link text is with the pipe symbol like this [[article name|link text]]
+  
+Links that don't yet have an article created for them are shown as red, making it easier for others to know where to start when they want to begin writing articles for the documentation wiki.
+
+##Write an article
+Perhaps you're a great writer and like writing tutorials or information, but you're not exactly sure where to start. The great news is that this wiki is full of suggested places to begin writing. Just look for links in red [[like this one]] that others have suggested as a potentially good article and when you click it you'll be able to start writing. If you have an idea for an article and you don't see a link for it you can simply type the name of the article into the search field and then click the edit button to the right of the search results to start writing it.
+
+##Improve an article
+Some of us weren't born with the gift of writing. Or maybe you just don't have the time to write full-length tutorials and documentation, but you do want to help. We'd love to have you help improve the articles that are already available here. Here are a few quick and easy things that you can do to existing articles that will make them more legible:
+  * [[contributing:syntax#sectioning|Create headings]] if the article doesn't already use them. That way the table of contents will get generated and be useful for navigating to sections of the article.
+  * [[contributing:syntax#images-and-other-files|Add images]] where appropriate. Perhaps the tutorial references a screenshot that is from a previous version of the software, or maybe you just want to add the logo of the software being talked about.
+  * Spelling and grammatical errors. If you notice an issue it takes just seconds to hit the edit button and fix it.
+  * Adding [[contributing:ways-to-contribute#suggest-a-page|suggested links]] to articles where it makes sense so others know where to start writing new articles.
