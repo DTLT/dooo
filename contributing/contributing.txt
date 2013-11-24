@@ -3,6 +3,6 @@
 This documentation is collaboratively edited by the [Division of Teaching and Learning Technologies](http://academics.umw.edu/dtlt) in a variety of ways and we welcome additions and changes by others. You can get involved in a number of ways to contribute to this resource.\\
 \\
 **Latest Changes**
-{{changes>}}
+{{changes>5&render = list(signature)}}
 
 {{namespace>contributing}}
