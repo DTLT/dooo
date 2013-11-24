@@ -1,0 +1,63 @@
+#Markdown Syntax
+Markdown syntax was created by John Gruber in 2004 as a lightweight method of writing HTML documents. It has gained in popularity with its adoption into software and web-based programs like Movable Type, GitHub, and WordPress. Full documentation on the syntax is available at [[http://daringfireball.net/projects/markdown/syntax|Daring Fireball]]. We use a plugin that allows Markdown syntax here on the Domain of One's Own Documentation Wiki. This page is a sampling of some of the more common types of markup and how you would write them using Markdown.
+
+##Text Formatting
+
+_italic_ or *italic*\\
+**bold** or __bold__\\
+A [link](http://url.com/ "Link")
+
+  _italic_ or *italic*
+  **bold** or __bold__
+  A [link](http://url.com/ "Link")
+
+##Headers
+
+  Header 1
+  ========
+  
+  Header 2
+  --------
+  
+  #H1
+  ##H2
+  ###H3
+  ####H4
+  #####H5
+  ######H6
+
+##Images
+
+![image](http://docs.umwdomains.com/_media/wiki/dokuwiki-128.png "DokuWiki")
+
+  ![image](http://docs.umwdomains.com/_media/wiki/dokuwiki-128.png "DokuWiki")
+
+##Lists
+
+###Unordered List
+
+  * Foo
+  * Bar
+
+###Ordered List
+
+1.  Foo
+2.  Bar
+
+
+##Blockquotes
+
+>That's what she said
+
+  \>That's what she said
+
+##Horizontal Rules
+
+* * *
+
+- - - -
+
+  
+  * * *
+  
+  - - - -
