@@ -14,4 +14,4 @@ If you browse to the help pages maintained by the technology department at [http
 
 As you can see the domains serve two purposes: they help to organize the site from a technical perspective, but they also serve as indications to the users that they are in a new/different space. As you work on your site, you're welcome to create as many subdomains as you like, and in each subdomain you can actually create a distinct, individual web site. 
 
-You can learn more about how to set up your own subdomains here. 
+You can learn more about [[domain-management:setting-up-subdomains|how to set up your own subdomains here]]. 

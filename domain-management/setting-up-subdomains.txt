@@ -1,6 +1,6 @@
 #Setting Up Subdomains
 
-A subdomain is one way of organizing and separating content on your site. For more information about subdomains, visit [[What is a subdomain]]. To create a subdomain, use the following steps:
+A [[Glossary|subdomain]] is one way of organizing and separating content on your site. For more information about subdomains, visit [[What is a subdomain]]. To create a subdomain, use the following steps:
 
 
 To get started you'll need to login to your control panel by going to the UMW Domains homepage and clicking **Login**.
@@ -11,11 +11,11 @@ Here you'll login with the username and password that was provided to you with t
 
 ![image](http://farm4.staticflickr.com/3834/9394646464_cb1e711493_c.jpg)
 
-Once logged in you'll be at the homepage of your control panel. The easiest way to navigate the panel is using the search feature in the top right panel. Click the **Search box** and type "subdomains" (without the quotes). As you type, the cPanel page will begin to narrow down results, and soon the only visible option will be **Subdomains**. Click the **Subdomains** button to continue.
+Once logged in you'll be at the homepage of your [[Glossary|control panel]]. The easiest way to navigate the panel is using the search feature in the top right panel. Click the **Search box** and type "subdomains" (without the quotes). As you type, the cPanel page will begin to narrow down results, and soon the only visible option will be **Subdomains**. Click the **Subdomains** button to continue.
 
 ![image](http://farm4.staticflickr.com/3700/9401786303_42e5ea7718_c_d.jpg)
 
-Choose a name for your subdomain and type it into the **Subdomain** box. Just like top-level domains (e.g. umwdomainsdemo.com), subdomains can only contain numbers, letters, and hyphens, and the best subdomains are simple, short, and descriptive. 
+Choose a name for your subdomain and type it into the **Subdomain** box. Just like [[Glossary|top-level domains]] (e.g. umwdomainsdemo.com), subdomains can only contain numbers, letters, and hyphens, and the best subdomains are simple, short, and descriptive. 
 
 ![image](http://farm8.staticflickr.com/7419/9409817188_af3d9bb24e_c_d.jpg)
 
@@ -23,6 +23,6 @@ Once you've typed in a name, cPanel will automatically populate the **Document r
 
 ![image](http://farm3.staticflickr.com/2845/9407169693_a8a86137d0_c_d.jpg)
 
-Once you're done, click Create. If everything went well, you should see a message that your subdomain was created successfully. Your subdomain will now be available as an option for automatic installation of various software (WordPress, MediaWiki, etc). If you prefer to install web applications manually, you can do so in the document root you created in step 5.
+Once you're done, click Create. If everything went well, you should see a message that your subdomain was created successfully. Your subdomain will now be available as an option for automatic installation of various software ([[WordPress]], [[MediaWiki]], etc). If you prefer to install web applications manually, you can do so in the document root you created in step 5.
 
 ![image](http://farm6.staticflickr.com/5473/9407276753_ec74c9f286_c_d.jpg)
