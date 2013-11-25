@@ -16,6 +16,6 @@ Perhaps you're a great writer and like writing tutorials or information, but you
 ##Improve an article
 Some of us weren't born with the gift of writing. Or maybe you just don't have the time to write full-length tutorials and documentation, but you do want to help. We'd love to have you help improve the articles that are already available here. Here are a few quick and easy things that you can do to existing articles that will make them more legible:
   * [[contributing:syntax#sectioning|Create headings]] if the article doesn't already use them. That way the table of contents will get generated and be useful for navigating to sections of the article.
-  * [[contributing:syntax#images-and-other-files|Add images]] where appropriate. Perhaps the tutorial references a screenshot that is from a previous version of the software, or maybe you just want to add the logo of the software being talked about.
+  * [[contributing:syntax#images-and-other-files|Add images]] as well as audio and video where appropriate. Perhaps the tutorial references a screenshot that is from a previous version of the software, or maybe you just want to add the logo of the software being talked about. If you find a good tutorial on YouTube feel free to embed it in the page.
   * Spelling and grammatical errors. If you notice an issue it takes just seconds to hit the edit button and fix it.
   * Adding [[contributing:ways-to-contribute#suggest-a-page|suggested links]] to articles where it makes sense so others know where to start writing new articles.
