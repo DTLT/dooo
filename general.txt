@@ -4,3 +4,4 @@
   * [[general:Static and Dynamic Websites]]
   * [[general:RSS and Syndication]]
   * [[general:Social Media]]
+  * [[general:Choosing a Domain Name]]
