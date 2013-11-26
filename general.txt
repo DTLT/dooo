@@ -5,3 +5,4 @@
   * [[general:RSS and Syndication]]
   * [[general:Social Media]]
   * [[general:Choosing a Domain Name]]
+  * [[general: Signing up on Domain of One's Own]]
