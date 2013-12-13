@@ -1,9 +1,15 @@
 #General Information
 
+
+  * [[general: Signing up on Domain of One's Own]]
+  * [[general:Choosing a Domain Name]]
+  * [[general:Understanding a Domain of One's Own Accounts & Passwords]]
+  * [[cpanel:introduction-to-cpanel|Introduction to cPanel]]
+  * [[cpanel:accessing-your-files-through-the-file-manager|Accessing Your Files through the File Manager]]
+  * [[cpanel:file-structures-and-the-file-manager|File Structures and the File Manager]]
+  * [[general:What Exactly is a Web Application?]]
+  * [[general:Installing Applications Using Installatron]]
   * [[general:LAMP Environments]]
   * [[general:Static and Dynamic Websites]]
   * [[general:RSS and Syndication]]
   * [[general:Social Media]]
-  * [[general:Choosing a Domain Name]]
-  * [[general: Signing up on Domain of One's Own]]
-  * [[general:Understanding Domain of One's Own Accounts & Passwords]]
