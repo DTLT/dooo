@@ -4,3 +4,7 @@
 * [[cpanel:Introduction to cPanel]]
 * [[cpanel:Accessing your Files through the File Manager]]
 * [[cpanel:File Structures and the File Manager]]
+* [[cpanel:What is Domain Mapping?]]
+* [[cpanel:Map Your Domain to UMW Blogs]]
+* [[cpanel:Map Your Domain to Tumblr]]
+* [[cpanel:Map Your Domain to Blogger]]
