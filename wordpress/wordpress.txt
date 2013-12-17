@@ -6,4 +6,4 @@ WordPress is an open source blog application. WordPress forked from b2/cafelog i
 
 {{namespace>wordpress}}
 
-{{indexmenu_n>2>}}
+{{indexmenu_n>4}}

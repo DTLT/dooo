@@ -9,4 +9,4 @@
 * [[cpanel:Map Your Domain to Tumblr]]
 * [[cpanel:Map Your Domain to Blogger]]
 
-{{indexmenu_n>3}}
+{{indexmenu_n>2}}
