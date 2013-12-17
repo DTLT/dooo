@@ -1,3 +1,7 @@
-# Domain Management
+====== Domain Management ======
 
-{{namespace>domain-management}}
+  * [[domain-management:setting-up-subdomains|Setting Up Subdomains]]
+  * [[domain-management:What is a subdomain?]]
+
+{{indexmenu_n>1}}
+
