@@ -1,7 +1,15 @@
 ====== Domain Management ======
 
+  * [[domain-management:What is DNS?]]
+  * [[domain-management:What is a Subdomain?]]
   * [[domain-management:setting-up-subdomains|Setting Up Subdomains]]
-  * [[domain-management:What is a subdomain?]]
+  * [[domain-management:What is Domain Mapping?]]
+  * [[domain-management:Map Your Domain to UMW Blogs]]
+  * [[domain-management:Map Your Domain to WordPress.com]]
+  * [[domain-management:Map Your Domain to Google Sites]]
+  * [[domain-management:Map Your Domain to Tumblr]]
+  * [[domain-management:Map Your Domain to Blogger]]
+  * [[domain-management:Pointing an Existing Domain to DoOO]]
 
 {{indexmenu_n>3}}
 
