@@ -1,0 +1,15 @@
+====== What is Domain Mapping? ======
+
+
+<html>
+<p>Domain mapping, simply put, is deciding where visitors should be directed when they visit various pieces of your website. Domains and subdomains can be mapped directly to folders located within your UMW Domains webhosting account, where you may have installed WordPress, Omeka, MediaWiki, or other web applications. Domains and subdomains can also be mapped to some third-party providers.&nbsp;Because the purpose of the Domain of One's Own project is for you to learn about owning and hosting your own domain and web presence, including content hosted by third-party companies, we encourage experimenting with mapping domains and subdomains to third-party services as needed.</p>
+<p>We have created a series of instructions documenting how to map your subdomains to popular third-party services:</p>
+<ul>
+<li>Map your domain to <a href="http://umwdomains.com/support/knowledgebase/26/Map-your-domain-to-UMW-Blogs.html">UMW Blogs</a></li>
+<li>Map your domain to <a href="http://umwdomains.com/support/knowledgebase/28/Map-your-domain-to-Google-Sites.html">Google Sites</a></li>
+<li>Map your domain to <a href="http://umwdomains.com/support/knowledgebase/29/Map-your-domain-to-Tumblr.html">Tumblr</a></li>
+<li>Map your domain to <a href="http://umwdomains.com/support/knowledgebase/30/Map-your-domain-to-Blogger.html">Blogger</a></li>
+</ul>
+</html>
+
+{{indexmenu_n>3}}

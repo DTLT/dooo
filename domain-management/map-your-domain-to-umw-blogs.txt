@@ -1,0 +1,16 @@
+====== Map Your Domain to UMW Blogs ======
+
+
+<html>
+<p>Mapping your domain is an important part of Domain of One's Own; it reinforces the idea that you don't necessary need to host all your own applications. You should, however, be mindful of making your web presences part of a domain you control. If you would like to map a subdomain and have not yet created it, use&nbsp;<a href="http://umwdomains.com/support/knowledgebase/10/Setting-up-subdomains.html" target="_blank">this tutorial on creating subdomains</a>&nbsp;before proceeding.&nbsp;To map your domain, or a subdomain, to UMW Blogs, use these steps:<br /><br /></p>
+<ol>
+<li>To get started you'll need to login to your control panel by going to the UMW Domains homepage and clicking <strong>Login</strong>.<br /><br /><img src="http://farm4.staticflickr.com/3808/9394644932_42072c3f76_c_d.jpg" alt="UMW Domains Home Page" /><br /><br /></li>
+<li>Here you'll login with the username and password that was provided to you with the Welcome email during the signup process.<br /><br /><img src="http://farm4.staticflickr.com/3834/9394646464_cb1e711493_c.jpg" alt="UMW Domains Login Page" width="800" height="709" /><br /><br /></li>
+<li>Once logged in you'll be at the homepage of your control panel. The easiest way to navigate the panel is using the search feature in the top right panel. Click the <strong>Search box</strong> and type "DNS" (without the quotes). As you type, the cPanel page will begin to narrow down results. Find and click on&nbsp;<strong>Advanced DNS Zone Editor</strong> to continue.</li>
+<li>Find the domain, or subdomain, you want to map to UMW Blogs in the list of Zone File Records. Under the "Action" column, click&nbsp;<strong>Edit</strong>.</li>
+<li>Leave the Name, Type, and TTL fields set to their defaults. Update the <strong>Address</strong> field to match the UMW Blogs IP address:&nbsp;174.37.153.244 and click&nbsp;<strong>Edit record</strong> when you are done.</li>
+<li></li>
+</ol>
+</html>
+
+{{indexmenu_n>4}}

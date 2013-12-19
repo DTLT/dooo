@@ -26,3 +26,5 @@ Once you've typed in a name, cPanel will automatically populate the **Document r
 Once you're done, click Create. If everything went well, you should see a message that your subdomain was created successfully. Your subdomain will now be available as an option for automatic installation of various software ([[Wordpress:WordPress]], [[Mediawiki:MediaWiki]], etc). If you prefer to install web applications manually, you can do so in the document root you created in step 5.
 
 ![image](http://farm6.staticflickr.com/5473/9407276753_ec74c9f286_c_d.jpg)
+
+{{indexmenu_n>2}}
