@@ -62,3 +62,5 @@
 </ul>
 <p>When you map a domain, users who visit your URL will automatically see your space on one of these services. It's a great way to incorporate you activity elsewhere into your domain, and it might be a good first-step if you've already established a presence somewhere else and just want to point your new domain to that space.</p>
 </html>
+
+{{indexmenu_n>0}}

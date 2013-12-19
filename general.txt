@@ -8,7 +8,6 @@
   * [[general:Static and Dynamic Websites]]
   * [[general:LAMP Environments]]
   * [[general:understanding-domain-of-one-s-own-accounts-passwords|Understanding Domain of One's Own Accounts & Passwords]]
-  * [[general:RSS and Syndication]]
   * [[general:Social Media]]
 
 {{indexmenu_n>1}}

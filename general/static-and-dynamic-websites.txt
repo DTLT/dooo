@@ -31,3 +31,5 @@ Generally speaking, it IS easier to regularly update content on a dynamic Web si
 ##A Side Note about Separating Content from Presentation: Style Sheets
 
 Another aspect of separating content from presentation involves the use of '''Cascading Style Sheets''' (CSS). These are special files that live on your Web server and are linked to your Web pages. They contain information (written in a special markup language) about how to make elements on your site look. They allow you, for example, to define in a single location what all Level 1 Headings look like on your site. They are an important aspect of understanding how to separate content from presentation, but they're not really an aspect of the difference between static and dynamic sites. Both static and dynamic sites can use style sheets.
+
+{{indexmenu_n>6}}

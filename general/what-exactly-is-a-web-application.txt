@@ -6,3 +6,5 @@
 <p>The system we use for Domain of One's Own uses a special script installer called Installatron that allows you to automatically install dozens of open source applications. When you use Installatron, you don't need to worry about moving files, creating datbases, or doing the initial configuration. It's all taken care of for you.&nbsp;<a href="http://umwdomains.com/support/knowledgebase/25/Installing-Applications-using-Installatron.html">You can find out more about Installatron here</a>.&nbsp;</p>
 <p>In order to run on the Domain of One's Own server, Web applications must be aple to run on a&nbsp;<a href="http://umwdomains.com/support/knowledgebase.php?action=displayarticle&amp;id=4">LAMP server</a>, which&nbsp;is the particular kind of Web server that we use. Occasionally, a Web application may require additional components or modules that need to be installed on the server. If you want to install an application (that is not part of the Installatron suite), and it has requirements that you're not sure the server can meet,&nbsp;<a href="http://umwdomains.com/?topic=help#contact">please contact us</a></p>
 </html>
+
+{{indexmenu_n>5}}

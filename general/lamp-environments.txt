@@ -39,3 +39,5 @@ What makes LAMP environments special is that all of the component parts are open
 You may find this video, which explains how the LAMP technology stack works, useful in further understanding LAMP Web environments. 
 
 {{vimeo>59021721?large}}
+
+{{indexmenu_n>6}}
