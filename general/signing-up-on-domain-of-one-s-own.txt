@@ -7,7 +7,7 @@ Getting started on Domain of One's Own is a straightforward process.
 The first step is determining that you have an account in our client system that allows you to then signup for a domain and hosting. Here are some general guidelines to determine if you have an account: 
 
   *If you are freshman at the University who started Fall 2013 or later, you should automatically be added to our system. 
-  *If you are not a freshman who started Fall 2013 or later, an account will need to be created for you. You can [[http://umwdomains.com/#contact|request an account by filing out this form]]. In addition, students in classes that are participating in Domain of One's Own will have accounts created for them. 
+  *If you are not a freshman who started Fall 2013 or later, an account will need to be created for you. You can [[http://umwdomains.com/#contact|request an account by filling out this form]]. In addition, students in classes that are participating in Domain of One's Own will have accounts created for them. 
   *If you are a faculty or staff member, you will need to [[http://umwdomains.com/#contact|request an account by filling out this form]].
 
 If you request an account, you'll receive an email when it's been created. If you're in a class that's participating in Domain of One's Own, your professor will let you know when your account is created and you can signup. 
