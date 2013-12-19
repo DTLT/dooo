@@ -4,9 +4,10 @@
 * [[cpanel:Introduction to cPanel]]
 * [[cpanel:Changing Your Password]]
 * [[cpanel:Installing Applications with Installatron]]
-* [[cpanel:Installing Applications Manually]]
+* [[cpanel:Applications Available using Installatron]]
 * [[cpanel:Accessing your Files through the File Manager]]
 * [[cpanel:File Structures and the File Manager]]
+* [[cpanel:Creating an Email Address]]
 * [[cpanel:Setting up FTP]]
 
 {{indexmenu_n>2}}
