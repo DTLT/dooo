@@ -15,3 +15,5 @@
 <li>Alternatively, if you know the exact name of the file or folder you are looking for, but not its location, you can use the <strong>Search</strong> box to find it.<br /><br /><img src="http://farm6.staticflickr.com/5494/9510502114_9f956a82e6_c_d.jpg" alt="File Manager Search by name" width="800" height="584" /><br /><br /></li>
 </ol>
 </html>
+
+{{indexmenu_n>4}}

@@ -16,3 +16,5 @@ Accessing cPanel is easy: You simply need to go to [[http://www.umwdomains.com |
 Once you're logged in, you'll see the cPanel interface. It is divided into sections, making it easy to locate the different tools and services available to you. 
 
 Many of the tutorials on this site walk you through particular tasks in cPanel, but we encourage you to explore on your own, as well.
+
+{{indexmenu_n>0}}
