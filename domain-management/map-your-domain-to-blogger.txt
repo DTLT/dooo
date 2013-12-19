@@ -21,3 +21,5 @@
 <li>If everything was successful, your domain will now appear as the <strong>Blog Address</strong>. Keep in mind that it may take up to 72 hours for your domain or subdomain to correctly point all visitors to the correct location.<br /><br /><img style="border: 1px solid black;" src="http://farm4.staticflickr.com/3685/9510267917_800038c63b_z_d.jpg" alt="Domain Map Successful" width="640" height="132" /><br /><br /></li>
 </ol>
 </html>
+
+{{indexmenu_n>6}}
