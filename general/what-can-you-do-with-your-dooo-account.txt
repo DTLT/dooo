@@ -1,0 +1,62 @@
+<html>
+<p>Your ability to do things on Domain of One's Own is dictated to a large degree by the limits of your imagination. That said, there are some technical requirements and limitations that you <a href="http://umwdomains.com/support/knowledgebase/4/What-are-the-technical-requirementsorlimitations-of-Domain-of-Ones-Own-.html">should be aware of and might want to review</a>.</p>
+<p>To spark your imagination, here are some ideas that might help you get started:</p>
+<h3>Install a Web Application in Your Space</h3>
+<p>Domain of One's Own makes it very simple to install certain Web applications in your Web space. <a href="http://umwdomains.com/support/knowledgebase/24/What-exactly-is-a-Web-application.html">Web applications</a> are just special software that run on a Web server. Usually they allow you to build and manage a Web site. The kind of site you can build depends upon the type of application you install. Here are some examples of applications that you can easily install within the Domain of One's Own Web hosting interface:&nbsp;</p>
+<p><img style="float: left; margin-left: 10px; margin-right: 10px; border: 1px solid black;" src="http://farm8.staticflickr.com/7308/9368929059_35c6e831b3_o.png" alt="WordPress Logo" width="65" height="62" /><strong>WordPress</strong>: Probably the most popular application among Domain of One's Own users, WordPress is a blogging application.&nbsp;While it allows you to quickly and easily set up a blog, it also comes with a set of features that really make it possible to set up any kind of basic Web site without much difficulty. WordPress is also the application that runs <a href="http://umwblogs.org">UMW Blogs</a> and UMW's <a href="http://umw.edu">main Web site</a>. We have <a href="http://umwdomains.com/support/knowledgebase/1/Wordpress">additional knowledgebase articles available that are focused specifically on installing and using WordPress</a>.</p>
+<p><img style="border: 1px solid black; float: left; margin-right: 10px; margin-left: 10px;" src="http://farm4.staticflickr.com/3818/9368957915_c9114154cc_o.png" alt="Mediawiki Logo" width="66" height="63" /><strong>Mediawiki:&nbsp;</strong>If you've ever browsed or edited <a href="http://wikipedia.org">Wikipedia</a>, you've already used Mediawiki. It is the open-source wiki software that runs the online encyclopedia, and you can install it on your Web space. It's a good choice if you're interested in publishing documents and then collaborating with others on them. We have <a href="http://umwdomains.com/support/knowledgebase/13/Installing-MediaWiki.html">instructions for installing Mediawiki</a> elsewhere in our Knowledgebase.</p>
+<p><img style="float: left; margin-left: 10px; margin-right: 10px; border: 1px solid black;" src="http://farm8.staticflickr.com/7292/9371760534_bba01f26a8_o.png" alt="ZenPhoto icon" width="66" height="61" /><strong>ZenPhoto</strong>: This application is a good choice if you're looking for a way to share images in your Web space. It's a quick install as well, and we have instructions available in the knowledgebase.<br /><br /></p>
+<p><img style="margin-left: 10px; margin-right: 10px; border: 1px solid black; float: left;" src="http://farm3.staticflickr.com/2855/9368998107_245dc5aec6_o.png" alt="OwnCloud icon" width="65" height="62" /><strong>OwnCloud</strong>: If you've used <a href="http://dropbox.com">DropBox</a>, the cocept of OwnCloud will be familiar. It allows you to upload and access files from anywhere with Web access. You can also share those files and sync them to your devices. You can read more about installing it in this knowledgebase article.</p>
+<p>These are just a FEW of the open-source applications that are available to you in your Domain of One's Own Web space; <a href="http://umwdomains.com/support/knowledgebase/33/Applications-Available-through-Installatron.html">you can find a list of all of hte applications you can install automatically here</a>. &nbsp;We encourage you to read more about what Web applications are and which ones are available to you through this project.</p>
+<h3>Set up an Email Address</h3>
+<p>Through your Domain of One's Own Account, you can set up an email address (or several) of your own. Addresses can be linked to complete inboxes (which you can then access through a Web mail client or by setting up another email client) or they can just be forwarding addresses which you point to an existing email you already have. We have <a href="http://umwdomains.com/support/knowledgebase/7/Create-an-Email-Address.html">instructions available about how to set up your own email address</a>.</p>
+<h3>Organize Your Site with Subdomains and Folders</h3>
+<p>Through this project, you've received a domain name that you can actually subdivide and organize anyway you like. One easy way to organize your domain is to <a href="http://umwdomains.com/support/knowledgebase/8/What-is-a-subdomain.html">create subdomains</a>, in which you can then install other applications. In addition, you can just set up subfolders for your site (which can also have their own applications installed in them). Here's an example of how you might organize your site (using the submdomain vs. the subfolder approach)</p>
+<div style="text-align: center;">
+<table border="1" cellpadding="4" align="center">
+<tbody>
+<tr>
+<td><strong>Subdomain Approach</strong></td>
+<td>&nbsp;</td>
+<td><strong>Subfolder Approach</strong></td>
+</tr>
+<tr>
+<td>yourdomain.com ("root")</td>
+<td>Install WordPress as your "main site"</td>
+<td>yourdomain.com ("root")</td>
+</tr>
+<tr>
+<td>course1.yourdomain.com</td>
+<td>Install a second WordPress instance for a course you're taking</td>
+<td>yourdomain.com/course1</td>
+</tr>
+<tr>
+<td>photos.yourdomain.com</td>
+<td>Install ZenPhoto for a public photo gallery of your photos</td>
+<td>yourdomain.com/photos</td>
+</tr>
+<tr>
+<td>docs.yourdomain.com</td>
+<td>Install MediaWiki for a club you belong to that wants to collaboratively edit its bylaws</td>
+<td>yourdomain.com/docs</td>
+</tr>
+<tr>
+<td>files.yourdomain.com</td>
+<td>Install OwnCloud so you can access your files on your laptop and at work</td>
+<td>yourdomain.com/files</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>This is just an EXAMPLE of a way to organize your site and then use different sections to do different things. There is no one solution to this challenge, and what you do should be driven by what makes sense to you. To start, you may just want to install one thing at the "root" of your domain, and then let the rest evolve as you get to know more about what's possible.&nbsp;<br /><br /></p>
+<h3>Map Your Domain (or a Subdomain)</h3>
+<p>If you already have a digital presence that you'd like to pull into your Domain of One's Own space, <a href="http://umwdomains.com/support/knowledgebase/22/What-is-domain-mapping.html">domain mapping</a> is an option you may wish to explore. This allows you to assign your domain (or a subdomain) to another service. Some services that work with domain mapping are:&nbsp;</p>
+<ul>
+<li style="font-size: small;"><a href="http://umwdomains.com/support/knowledgebase/26/Map-your-domain-to-UMW-Blogs.html">UMW Blogs</a></li>
+<li style="font-size: small;">Wordpress.com</li>
+<li style="font-size: small;"><a href="http://umwdomains.com/support/knowledgebase/28/Map-your-domain-to-Google-Sites.html">Google Sites</a></li>
+<li style="font-size: small;"><a href="http://umwdomains.com/support/knowledgebase/29/Map-your-domain-to-Tumblr.html">Tumblr</a></li>
+<li style="font-size: small;"><a href="http://umwdomains.com/support/knowledgebase/30/Map-your-domain-to-Blogger.html">Blogger</a></li>
+</ul>
+<p>When you map a domain, users who visit your URL will automatically see your space on one of these services. It's a great way to incorporate you activity elsewhere into your domain, and it might be a good first-step if you've already established a presence somewhere else and just want to point your new domain to that space.</p>
+</html>

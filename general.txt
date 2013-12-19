@@ -7,7 +7,7 @@
   * [[general:What Exactly is a Web Application?]]
   * [[general:Static and Dynamic Websites]]
   * [[general:LAMP Environments]]
-  * [[general:Understanding a Domain of One's Own Accounts & Passwords]]
+  * [[general:understanding-domain-of-one-s-own-accounts-passwords|Understanding Domain of One's Own Accounts & Passwords]]
   * [[general:RSS and Syndication]]
   * [[general:Social Media]]
 

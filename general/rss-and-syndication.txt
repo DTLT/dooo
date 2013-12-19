@@ -1,0 +1,22 @@
+==RSS==
+
+RSS stands for Really Simple Syndication, and learning how you to use it will save you some time. RSS is basically a subscription service. You subscribe to a given website, or rather to the website’s "feed". So instead of you visiting a given website to see if there is anything new, the website’s feed notifies you. How does it notify you? You need to use what is known as a feed reader (or aggregator).
+
+For example, Google has a website called Google Reader that is a feed aggregator. It’s just another web page that you visit that aggregates, or collects, all of the new information that is available from those websites that you normally would visit one at a time. You visit one site to see what the new offerings are for many sites, thereby saving you time. Think of it as though you were subscribing to a newspaper (only you don’t have to pay). You sign up for a subscription to the feed, and you get new news delivered right to your door, or rather your computer screen.
+
+Google Reader works just like an email program as periodically new items will be delivered to you from the feeds you are subscribed to. You may want to start out slow and limit how many feeds you subscribe to. Like your email inbox, your reader will start to fill, so be selective about adding subscriptions. That’s another beauty about RSS. You control what you are subscribed to, so it is much easier to get rid of unwanted subscriptions (sometimes it is impossible to get rid of unwanted email).
+
+Getting started with reader is as simple as using your Google account (if you use Gmail or have an account on YouTube you've got a Google account). Go to [http://google.com Google.com] and sign in. Click on the More button in the Google menu. Select Reader. Now you'll need to subscribe to a blog or website. Click the red Subscribe button and simply paste in the web address (URL) of the site you want to subscribe to. Let's use [http://fi.domains.com http://fi.domains.com] as an example.
+
+http://farm9.staticflickr.com/8508/8468944638_8572f16575_o.jpg
+
+
+Once you type that in and click the Add button, it should appear in your Reader. The listing should appear in the side bar and it will show how many new posts are available to read.
+
+
+http://farm9.staticflickr.com/8086/8467853547_a9fc3b4563_c.jpg
+
+
+That's it. Now you just return to your reader periodically and you'll see any new posts appear here.
+
+This video called [http://www.youtube.com/watch?v=0klgLsSxGsU RSS in Plain English] may help.
