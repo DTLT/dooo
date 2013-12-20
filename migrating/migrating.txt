@@ -1,4 +1,4 @@
-====== Migrating off of Domain of One's Own ======
+====== Migrating Off of Domain of One's Own ======
 
 
   * [[migrating: When do You Need to Leave Domain of One's Own?]]
