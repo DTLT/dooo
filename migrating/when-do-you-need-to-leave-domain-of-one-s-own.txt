@@ -8,7 +8,7 @@ Upon graduation, students have six months to migrate their Web hosting accounts 
   * August graduations have until **February 1st**
   * December graduations have until **July 1st**
 
-If a student’s domain comes up for renewal during the 6-month window, UMW will renew it and pay for that renewal, but the student must still take ownership of it*. If a student’s domain doesn’t come up for renewal during the 6-month window, the student must take ownership of it and renew it at the next renewal date. 
+If a student’s domain comes up for renewal during the 6-month window, UMW will renew it and pay for that renewal, but the student must still take ownership of it((Even if UMW has renewed a domain name, upon registering it elsewhere students will still have to pay an annual registration fee, but the term of the registration will be added on to remains on their domain)). If a student’s domain doesn’t come up for renewal during the 6-month window, the student must take ownership of it and renew it at the next renewal date. 
 
 Students who withdraw from the University, may stay on the service until a date determined by the semester in which they withdrew: 
 
@@ -16,8 +16,8 @@ Students who withdraw from the University, may stay on the service until a date 
   * Spring semester withdrawals have until **December 1st**
   * Summer semester withdrawals have until **February 1st**
 
-If a student’s domain comes up for renewal before the deadline, UMW will renew it and pay for that renewal, but the student must still take ownership of it by the deadline*. If a student’s domain doesn’t come up for renewal before the deadline, the student must take ownership of it and renew it at the next renewal date. 
+If a student’s domain comes up for renewal before the deadline, UMW will renew it and pay for that renewal, but the student must still take ownership of it by the deadline((Even if UMW has renewed a domain name, upon registering it elsewhere students will still have to pay an annual registration fee, but the term of the registration will be added on to remains on their domain)). If a student’s domain doesn’t come up for renewal before the deadline, the student must take ownership of it and renew it at the next renewal date. 
 
-//Migration of all account files and data to a new service is the sole responsibility of the student. UMW will provide documentation about how to obtain files/data and how, generally, to migrate them to new service providers.// 
+**//Migration of all account files and data to a new service is the sole responsibility of the student. UMW will provide documentation about how to obtain files/data and how, generally, to migrate them to new service providers.//** 
 
 *Even if UMW has renewed a domain name, upon registering it elsewhere students will still have to pay an annual registration fee, but the term of the registration will be added on to remains on their domain. 
