@@ -1,0 +1,5 @@
+#Elements of a Backup File
+
+If you have already gone through the process of [[migrating:site-migration:generating-a-cpanel-backup|generating a full backup]] of your account, you may be wondering what all those folders and files mean. This document will give you a breakdown of what all those folders and files are and how to use them.
+
+{{http://farm3.staticflickr.com/2815/11805603595_42600120ee_c.jpg}}
