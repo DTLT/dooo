@@ -1,0 +1,8 @@
+#Generating a cPanel Backup
+
+Whether you plan to migrate your website to another service or you just want to have a local backup of your data, cPanel makes it easy to generate a backup of your account.
+
+  * To begin you will need to login to your control panel by going to the homepage of UMW Domains and clicking the **Login** button in the top righthand corner.
+<img src="http://farm4.staticflickr.com/3808/9394644932_42072c3f76_c_d.jpg" alt="UMW Domains Login Link" width="800" height="409" />
+  * Login to your control panel using the username and password provided to you in the New Account email you received during the signup process.
+<img src="http://farm4.staticflickr.com/3834/9394646464_cb1e711493_c.jpg" alt="UMW Domains Login Page" width="800" height="709" />
