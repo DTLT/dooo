@@ -14,7 +14,7 @@ You probably haven't logged into this system since the day you registered your d
 By default, all domains on the Domain of One's Own are "locked" to make it harder for your domain to be accidentally or maliciously transferred. 
    - From the main Account Overview screen, go to **Domains** > **My Domains**. {{http://farm4.staticflickr.com/3671/11805885504_95f1d6d6ba_c.jpg}}
    - Click on **Manage Domain** {{http://farm4.staticflickr.com/3814/11805724243_aaf1d09c60_c.jpg}}
-   - Click the **Registrar Lock** tab {{http://farm3.staticflickr.com/2841/11805885594_a8101d7f00_c.jpg}
+   - Click the **Registrar Lock** tab {{http://farm3.staticflickr.com/2841/11805885594_a8101d7f00_c.jpg}}
    - Click **Disable Registrar Lock** {{http://farm6.staticflickr.com/5494/11805470345_c4da711402_c.jpg}}
 
 ====== Generate an EPP Code ======
@@ -34,3 +34,16 @@ If you're also planning on migrating your files/databases off of Domain of One's
 As a starting place, you may wish to review LifeHacker's list of [[http://lifehacker.com/5943452/five-best-domain-name-registrars|Five Best Domain Registrars]]. //Please note that neither UMW nor Domain of One's Own is endorsing any of these companies.// 
 
 At this point, how you proceed will depend upon the steps the Domain Registrar you've chosen requires. Generally speaking you will need to sign up for an account with them and then follow the instructions to transfer a domain to them. At some point in this process, you will be asked for the EPP code in order to complete the transfer. 
+
+====== Point Your Domain to Your Site ======
+Taking ownership of your domain is the first step to taking full control of your Domain. In addition, you need to decide what you want people to see when they visit your domain. You may be migrating the site(s) you developed as part of Domain of One's Own to a new Web hosting company. You may be starting from scratch with a new hosting company. Or you may decide to point your domain at a third-party service where you are hosting a Web site, such as Google Sites or WordPress.com. 
+
+Regardless, you will need to tell your new Domain Registrar where to point your domain. Within the domain management interface at the Registrar, you will have options to provide information the **Name Servers** that correspond to the server where your site will live. The information will come in the form of a numerical Web address, such as 123.123.11.22. You will need to discover the address of your site's Name Servers and enter them at your new Registrar.
+
+If you have migrated your site from Domain of One's Own to a new Web hosting company or if you are starting from scratch with a hosting company, you can find out the address of the Name Servers by contacting your new hosting company. Often, this information will be included in a new account email or somewhere in the company's online documentation. 
+
+If you are pointing your domain to a third-party service, you'll need to enter the address of the Name Servers associated with that service. Below are links to helpful articles for some popular services: 
+
+  * [[https://support.google.com/sites/answer/99448?hl=en|Mapping a Domain to Google Sites]]
+  * [[http://en.support.wordpress.com/domains/map-existing-domain/|Mapping a Domain to WordPress.com]] //Please note that this is a premium feature with an annual fee.//
+  * [[http://www.tumblr.com/docs/en/custom_domains|Map a Domain to Tumblr]]
