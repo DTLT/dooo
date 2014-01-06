@@ -1,3 +1,4 @@
 #Adventures in Digital History
+
+{{page>general:choosing-a-domain-name}}
 {{page>general:signing-up-on-domain-of-one-s-own}}
-{{page>general:understanding-domain-of-one-s-own-accounts-passwords}}
