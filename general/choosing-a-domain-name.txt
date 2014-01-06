@@ -12,10 +12,4 @@ Choosing your domain name is the first step in getting started on Domain of One'
 **You May Wish to Include Your Name in Your Domain**: There is no requirement that your domain reflect your specific identity in the form of your first and last name. However, choosing a domain name that includes your name may make it easier for you to achieve higher rankings in search engines when someone queries your real name. 
 
 **Pick a Domain you Like**: At the end of the day, your domain should reflect you. Pick a domain you like and are proud of. It can reflect your interests, sports you play, or your hobby. Or it could just be your name. The "right" domain for you is the one you're comfortable with. 
-===== A Short Video about Choosing Your Domain =====
-
-
-<html>
- <iframe width="400" height="225" frameborder="0" src="http://media.umw.edu/media/bagman_domainmp4/embed_player"></iframe>
-</html>
 
