@@ -2,4 +2,5 @@
 
 [[courses:Adventures in Digital History]]
 
-{{indexmenu_n>7}}
+[[courses:History 298]]
+
