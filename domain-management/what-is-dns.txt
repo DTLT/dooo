@@ -6,4 +6,4 @@ A name server is computer, running as a server, that keeps a record of all the d
 
 When you signed up for a domain through the UMW Domains system your nameservers were chosen for you. They are ns1.umwdomains.com and ns2.umwdomains.com. So when people type in your address, the server responds with information about your account. When you migrate an account away from one hosting platform like UMW Domains and onto a new service, it will require you to change the nameservers so that your domain name points to a new server with its own files and structure. It's also possible to have subdomains that point to entirely different servers than UMW Domains. For example, you could have a subdomain that looks to [[http://tumblr.com|Tumblr]] or [[http://umwblogs.org|UMW Blogs]] for files.
 
-{{indexmenu_n>1}
+{{indexmenu_n>1}}

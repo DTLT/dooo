@@ -40,3 +40,5 @@ The installer will take just a few moments to install WordPress and a progress b
 Congratulations, you've now installed WordPress! Now start customizing WordPress with themes, plugins, and more.
 
 ![image](http://farm8.staticflickr.com/7418/9417386277_781a9c42fd_c.jpg)
+
+{{indexmenu_n>1}}
