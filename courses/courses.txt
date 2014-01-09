@@ -4,3 +4,4 @@
 
 [[courses:History 298]]
 
+{{indexmenu_n>6}}

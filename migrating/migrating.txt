@@ -2,3 +2,4 @@
 
 {{namespace>:migrating}}
 
+{{indexmenu_n>7}}
