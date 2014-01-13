@@ -6,3 +6,4 @@
 
 [[courses: Spring 2014 Faculty Initiative]]
 
+{{indexmenu_n>8}}

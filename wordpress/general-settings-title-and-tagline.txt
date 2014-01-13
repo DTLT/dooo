@@ -17,3 +17,5 @@ When you change the Blog title and tag line, they will show up at the top of you
 ![image](http://farm6.staticflickr.com/5464/9424988496_e4f3778e51_c_d.jpg)
 
 There are more settings on the General Settings page, such as setting the administrative email account, time zone, date format, etc. Change those to whatever is appropriate for your site and geographical location.
+
+{{indexmenu_n>2}}

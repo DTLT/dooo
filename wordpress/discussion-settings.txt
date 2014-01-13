@@ -26,3 +26,5 @@ Sometimes it's nice to have visual representations of the people who are comment
 Avatars are visual representations, pictures, graphics, etc., of users of the web. A common universal system that is used is called [Gravatars](http://gravatar.com/) (Globally Recognized Avatars). The system requires you to sign up with your email address. You can upload a graphical representation of yourself (again a picture or other graphic). From then on you are identified with your Gravatar on any blog that you use that email address with.
 
 In the WordPress Discussion Settings, you have a few options. Whether to show Avatars at all, the "rating" allowed to be shown, and what the default Avatar will be if a user does not have a Gravatar. 
+
+{{indexmenu_n>3}}

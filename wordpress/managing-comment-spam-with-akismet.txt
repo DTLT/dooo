@@ -36,3 +36,5 @@ Also fill in your name and click **Continue**.
 You're finished with the sign up process for your key, and it will be displayed on the page for you (we've blurred ours out). Now follow the steps that they show you for using your new key. You will enter the key in either the Akismet area under Plugins or JetPack (if you have that installed).
 
 **An additional note**: If you installed Wordpress through Domain of One's Own using Installatron you will also have another spam plugin "Cookies for Comments" activated automatically which helps to catch spam that Akismet might not.
+
+{{indexmenu_n>6}}

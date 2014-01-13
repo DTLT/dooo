@@ -25,3 +25,5 @@ Finally, when you write a blog post, you have the option of editing the permalin
 Then type in whatever is appropriate (and hasn't been used yet). Generally you want to make it as simple and short a word, or words, as makes sense. In the example below, we get a little silly with the O's.
 
 ![image](http://farm8.staticflickr.com/7423/9525827254_7e8d9c98c3_c_d.jpg)
+
+{{indexmenu_n>9}}

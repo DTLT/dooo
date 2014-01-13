@@ -20,3 +20,4 @@ You also have options on individual posts to keep them private, so that only peo
 
 
 There is a plugin called [More Privacy Options](http://wordpress.org/plugins/more-privacy-options/) that allows you to fine-tune privacy settings on your site (doesn't currently work on WordPress 3.6).
+{{indexmenu_n>4}}

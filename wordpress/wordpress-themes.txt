@@ -29,3 +29,5 @@ Once activated, your site will be using the new theme.
 At the top of the page will be a message "New Theme Activated". Click on the **Visit Site** link to view your site with the new look.
 
 ![image](http://farm6.staticflickr.com/5350/9599507231_8220f73854_c_d.jpg)
+
+{{indexmenu_n>5}}

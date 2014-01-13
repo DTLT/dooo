@@ -41,3 +41,5 @@ For the most part, post formats are designed as a way to **style** a site (and c
 
 ##Custom Post Types
 This is really a more advanced topic and feature of WordPress. Starting a few versions back, WordPress made it easier to create what are called **custom post types**. Basically, these allow you to define your own types of content for your special purposes. You can even define sets of custom fields for different custom post types -- allowing you to collect very specifically defined information. With this feature, it's possible to begin to turn WordPress into a more robust content management system or a system for data collection and presentation.
+
+{{indexmenu_n>8}}
