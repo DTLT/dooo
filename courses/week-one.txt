@@ -6,12 +6,13 @@ Spring 2014 Faculty Initiative
 
 One goal of Domain of One’s Own is to help participants develop a deeper understanding of how the Web actually works. Prior to the first meeting, we’ve chosen a set of readings/videos/resources to review that, we hope, will give you a better understanding of the the history and underpinnings of the Web. 
 
- * //[[http://www.ps.uni-saarland.de/~duchier/pub/vbush/vbush-all.shtml | As We May Think]]//, Vannevar Bush
+ * //[[http://www.ps.uni-saarland.de/~duchier/pub/vbush/vbush-all.shtml | As We May Think]]//, Vannevar Bush (1945)
  * [[http://sloan.stanford.edu/mousesite/1968Demo.html | Doug Engelbart 1968 Demo]] 
- * [[http://info.cern.ch | Home of the First Web Site]]
- * [[https://www.video2brain.com/en/lessons/how-the-web-works | How the Web Works]]
- * [[http://www.youtube.com/watch?v=BNHR6IQJGZs | How Search Works]]
- * //[[http://blog.jonudell.net/2011/01/24/seven-ways-to-think-like-the-web/ | Seven Way to Think about the Web]]//, Jon Udell
+ * [[http://info.cern.ch | Home of the First Web Site]] (~1992)
+ * //[[http://www.smallpieces.com/content/preface.html | Small Pieces, Loosely Joined: Preface]]//, David Weinberger (2002)
+ * //[[https://www.video2brain.com/en/lessons/how-the-web-works | How the Web Works]]//, Chad Chelius (2011)
+ * //[[http://www.youtube.com/watch?v=BNHR6IQJGZs | How Search Works]]//, Matt Cutts (2010)
+ * //[[http://blog.jonudell.net/2011/01/24/seven-ways-to-think-like-the-web/ | Seven Way to Think about the Web]]//, Jon Udell (2011)
 
 ===== Other Work =====
  
