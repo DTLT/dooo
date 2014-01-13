@@ -4,4 +4,5 @@
 
 [[courses:History 298]]
 
-{{indexmenu_n>6}}
+[[courses: Spring 2014 Faculty Initiative]]
+
