@@ -1,0 +1,20 @@
+====== Week One: Understanding the Web ======
+
+Spring 2014 Faculty Initiative
+
+===== Reading & Review =====
+
+One goal of Domain of One’s Own is to help participants develop a deeper understanding of how the Web actually works. Prior to the first meeting, we’ve chosen a set of readings/videos/resources to review that, we hope, will give you a better understanding of the the history and underpinnings of the Web. 
+
+ * //[[http://www.ps.uni-saarland.de/~duchier/pub/vbush/vbush-all.shtml | As We May Think]]//, Vannevar Bush
+ * [[http://sloan.stanford.edu/mousesite/1968Demo.html | Doug Engelbart 1968 Demo]] 
+ * [[http://info.cern.ch | Home of the First Web Site]]
+ * //[[http://dmlcentral.net/blog/doug-belshaw/web-literacies-what-web-anyway | What is the Web Anyway?]]//, Doug  Belshaw
+ * //[[http://blog.jonudell.net/2011/01/24/seven-ways-to-think-like-the-web/ | Seven Way to Think about the Web]]//, Jon Udell
+
+==== Other Work ====
+ 
+In addition, prior to the first meeting, we want you to go ahead and register your own domain name and get a hosting account through Domain of One’s Own. You’ve each been added to our client system, so that you can sign up automatically. We’ve also put together a tutorial about choosing a domain and how to sign-up: 
+
+{{page>general:choosing-a-domain-name}}
+{{page>general:signing-up-on-domain-of-one-s-own}}
