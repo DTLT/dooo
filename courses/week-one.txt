@@ -10,6 +10,7 @@ One goal of Domain of One’s Own is to help participants develop a deeper under
  * [[http://sloan.stanford.edu/mousesite/1968Demo.html | Doug Engelbart 1968 Demo]] 
  * [[http://info.cern.ch | Home of the First Web Site]]
  * //[[http://dmlcentral.net/blog/doug-belshaw/web-literacies-what-web-anyway | What is the Web Anyway?]]//, Doug  Belshaw
+ * [[https://www.video2brain.com/en/lessons/how-the-web-works | How the Web Works]]
  * //[[http://blog.jonudell.net/2011/01/24/seven-ways-to-think-like-the-web/ | Seven Way to Think about the Web]]//, Jon Udell
 
 ===== Other Work =====
