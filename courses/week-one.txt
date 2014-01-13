@@ -14,7 +14,15 @@ One goal of Domain of One’s Own is to help participants develop a deeper under
 
 ==== Other Work ====
  
-In addition, prior to the first meeting, we want you to go ahead and register your own domain name and get a hosting account through Domain of One’s Own. You’ve each been added to our client system, so that you can sign up automatically. We’ve also put together a tutorial about choosing a domain and how to sign-up: 
+In addition, prior to the first meeting, you must register your own domain name and get a hosting account through Domain of One’s Own. You'll also need to install WordPress on your domain. 
 
-{{page>general:choosing-a-domain-name}}
-{{page>general:signing-up-on-domain-of-one-s-own}}
+If you already have a domain, you do not need to sign-up again. Similarly, if you already have WordPress installed, you can use your existing installation for the Faculty Initiative -- Or you can install another copy of WordPress. Ultimately, you will be blogging as part of your participation in the program, and you can decide if you would like to use an existing WordPress or a new one. 
+
+The following tutorials will walk you through choosing a domain name, signing up on DoOO, and installing WordPress. 
+
+[[general:choosing-a-domain-name|Choosing a Domain Name]]
+
+[[general:signing-up-on-domain-of-one-s-own|Signing up on Domain of One's Own]]
+
+[[wordpress:installing-wordpress|Installing Wordpress]]
+
