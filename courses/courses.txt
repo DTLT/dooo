@@ -6,4 +6,6 @@
 
 [[courses: Spring 2014 Faculty Initiative]]
 
+[[courses: The Internet]]
+
 {{indexmenu_n>8}}
