@@ -36,3 +36,4 @@ The following tutorials will walk you through choosing a domain name, signing up
 
 {{page>wordpress:installing-wordpress}}
 
+{{indexmenu_n>1}}
