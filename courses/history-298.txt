@@ -1,5 +1,6 @@
-====== History 298 ======
-
+====== HIST 298: History Practicum ======
 
 {{page>general:choosing-a-domain-name}}
 {{page>general:signing-up-on-domain-of-one-s-own}}
+
+{{indexmenu_n>3}}
