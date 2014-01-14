@@ -10,3 +10,7 @@
   * [[wordpress:publishing-content|Publishing Content]]
   * [[wordpress:wordpress-themes|WordPress Themes]]
 
+===== FTP Information =====
+
+{{page>cpanel:setting-up-ftp}}
+
