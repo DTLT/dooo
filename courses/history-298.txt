@@ -1,6 +1,16 @@
 ====== HIST 298: History Practicum ======
 
+====Signing Up====
 {{page>general:choosing-a-domain-name}}
 {{page>general:signing-up-on-domain-of-one-s-own}}
 
-{{indexmenu_n>3}}
+====WordPress====
+NOTE: When installing WordPress for this class, we recommend you choose the "Professional Portfolio" package. This will provide you with a preset collection of WordPress plugins & themes as well as some default pages. 
+
+{{page>]wordpress:installing-wordpress}}
+
+====Other WordPress Tutorials====
+  * [[wordpress:general-settings-title-and-tagline|General Settings: Title and Tagline]]
+  * [[wordpress:reading-settings-front-page|Reading Settings - Front Page]]
+  * [[wordpress:publishing-content|Publishing Content]]
+
