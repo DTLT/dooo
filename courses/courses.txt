@@ -1,11 +1,22 @@
 ====== Course Tutorials ======
 
-[[courses:Adventures in Digital History]]
+==== Computer Science ====
 
-[[courses:History 298]]
+  * Jim Groom and Paul Bond's CPSC 104: [[courses: The Internet]]
 
-[[courses: Spring 2014 Faculty Initiative]]
+==== Freshman Seminars ====
 
-[[courses: The Internet]]
+  * Nabil Al-Tikriti's FSEM 100J9: History of Genocides
+
+==== History and American Studies ====
+
+  * Jeff McClurken's HIST 428: [[courses:Adventures in Digital History]]
+  * Jeff McClurken's [[courses:History 298]]: History Practicum
+  * Jess Rigelhaupt's AMST 202: Sophomore American Studies Seminar
+
+==== Other Projects ====
+
+  * [[courses: Spring 2014 Faculty Initiative]]
+
 
 {{indexmenu_n>8}}
