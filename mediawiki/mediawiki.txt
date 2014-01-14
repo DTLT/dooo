@@ -2,4 +2,6 @@
 
 [[mediawiki:Installing Mediawiki]]
 
+[[mediawiki: Managing Permissions]]
+
 {{indexmenu_n>5}}
