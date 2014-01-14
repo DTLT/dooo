@@ -1,0 +1,38 @@
+====== Setting up FTP ======
+
+There may be times when you need to place files onto your space on your Web server. There are a number of scenarios when this might be necessary: 
+
+  * You're working with an application that allows you to install plugins/extensions, but the files need to be manually moved to the server in order to add them. (Note: This is NOT required with WordPress which allows you to install plugins through the backend in your browser.)
+  * You've developed a custom site/pages using a Web design program, and you need to upload the files you created to the server
+  * You're installing an application that isn't part of [[cpanel:applications-available-using-installatron|the applications in Installatron]]. 
+
+One way to upload files is by using [[cpanel:accessing-your-files-through-the-file-manager|the File Manager that is part of cPanel]]. However, sometimes you'll find it easier/necessary to use FTP, or File Transfer Protocol, to move files to the server. This can be particularly useful if you're working with a Web space where you're not the owner (so you don't have access to the File Manager in cPanel) or if you need to provide file access to someone else to your space on the Web server. 
+
+===== What exactly is FTP? =====
+
+File Transfer Protocol is a method that allows you to remotely move files to a Web server from another location -- usually your local/personal computer. Using a pre-defined FTP account (with a username and password), you can configure an FTP client (a program you run on your computer that allows you to transfer files via FTP. 
+
+There are lots of FTP clients that you can use; some are free and some are not. A few free ones you might consider: 
+
+  * [[https://filezilla-project.org/| FileZilla (Mac & PC)]]
+  * [[http://cyberduck.io/ | CyberDuck (Mac & PC)]]
+
+For the purpose of this tutorial, we'll show you how to set up FTP in FileZilla, but you should be able to generalize these instructions to use in any FTP client. 
+
+===== Get Information about Your FTP Account =====
+
+If you're FTPing to your own space on the Web server, or if you're setting up an FTP account for someone else to use to FTP to your space, you'll need to start by getting information about the FTP credentials from cPanel: 
+
+1. Login to cPanel. 
+2. In the **Search Box** at the top of the page, search for "FTP", and click the **FTP Accounts** icon that appears. {{http://farm8.staticflickr.com/7368/11948164363_e9b77b2df9_c.jpg}}
+3. You'll have the option to create a new FTP account, or you can scroll down the page to find the credentials for the default FTP account. If you want to create an account, fill out the **Add FTP Account** form  with a username and password. By default, the new FTP account will be limited to a directory with the same name as the  account you're creating. You can change this to a different directory, if you want to grant this account access to a different location.  **NOTE: Make sure you know/remember the password you enter.** When you're done, click **Create FTP Account**. {{http://farm4.staticflickr.com/3712/11948243673_c290443efe_c.jpg}}
+4. Once you've created the new account, you'll see it appear in the list at the bottom of the FTP Accounts page. In addition to any accounts you've created, in the Special FTP Accounts section, you'll see the default FTP Account. You'll know this account because the username corresponds to your cPanel username. This FTP account has full privileges to access any space on your Web server. {{http://farm4.staticflickr.com/3823/11948291363_2fe3af302d_c.jpg}}
+5. For whichever account you need credentials for, click the **Configure FTP Client** link. 
+6. Write down the username, server, and port information that appears. You will need to use this (or you will need to provide this to the person you are giving FTP access) along with the password you created in Step 3 in order to configure your FTP client. {{http://farm6.staticflickr.com/5525/11948860256_d70b5d1dd3_c.jpg}}
+
+===== Configure FTP in Your FTP Client =====
+
+Below are links to tutorials for setting up both FileZilla and CyberDuck to connect to you FTP account. 
+
+  * [[http://www.siteground.com/tutorials/filezilla/filezilla_management.htm|FileZilla Configuration Instructions]]
+  * [[https://trac.cyberduck.io/wiki/help/en/howto/ftp|CyberDuck Configuration Instructions]]
