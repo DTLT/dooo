@@ -1,7 +1,5 @@
 ====== Week 1: Understanding the Web ======
 
-Spring 2014 Faculty Initiative
-
 ===== Reading & Review =====
 
 One goal of Domain of One’s Own is to help participants develop a deeper understanding of how the Web actually works. Prior to the first meeting, we’ve chosen a set of readings/videos/resources to review that, we hope, will give you a better understanding of the the history and underpinnings of the Web. 
