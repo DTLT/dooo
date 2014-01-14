@@ -14,9 +14,9 @@ One goal of Domain of One’s Own is to help participants develop a deeper under
  * //[[http://www.youtube.com/watch?v=BNHR6IQJGZs | How Search Works]]//, Matt Cutts (2010) (VIDEO)
  * //[[http://blog.jonudell.net/2011/01/24/seven-ways-to-think-like-the-web/ | Seven Way to Think about the Web]]//, Jon Udell (2011)
 
-You'll notice that the readings & resources for this week cover a fairly large swath of time. Bush's article from 1945 predates the Internet by almost six decades, and Engelbart's demos, by almost 20 decades. They're still worth reviewing and reflecting upon, however, in that they brilliant foreshadowed the systems that ultimately became the Internet and the Web. 
+You'll notice that the readings & resources for this week cover a fairly large swath of time. Bush's article from 1945 predates the Internet by almost six decades, and Engelbart's demos, by almost 20 decades. They're still worth reviewing and reflecting upon, however, in that they brilliantly foreshadowed the systems that ultimately became the Internet and the Web. 
 
-As you review the First Web Site, we encourage you to explore it via the Line Mode Browser Simulator, to get a real sense of how we first interfaced with the Web. Take a moment and reflect upon the incredible degree to which those interfaces have changed in the last 20 years. 
+As you review [[Home of the First Web Site|http://info.cern.ch]], we encourage you to explore it via the Line Mode Browser Simulator, to get a real sense of how we first interfaced with the Web. Take a moment and reflect upon the incredible degree to which those interfaces have changed in the last 20 years. 
 
 Weinberger's pieces (a preface to a longer book that examines the Web), is a great introduction to how the Web was different from anything that came before and how it's inherent qualities of openness (and, perhaps, democratization) have ultimately informed what it has become. 
 
@@ -26,7 +26,7 @@ Finally, Udell's short piece is a bit more theoretical -- but it proposes a numb
 
 ===== Other Work =====
  
-In addition, prior to the first meeting, you must register your own domain name and get a hosting account through Domain of One’s Own. You'll also need to install WordPress on your domain. 
+In addition, prior to the first meeting, you must choose your own domain name and get a hosting account through Domain of One’s Own. You'll also need to install WordPress on your domain. 
 
 If you already have a domain, you do not need to sign-up again. Similarly, if you already have WordPress installed, you can use your existing installation for the Faculty Initiative -- Or you can install another copy of WordPress. Ultimately, you will be blogging as part of your participation in the program, and you can decide if you would like to use an existing WordPress or a new one. 
 
