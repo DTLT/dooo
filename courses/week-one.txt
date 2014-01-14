@@ -32,9 +32,9 @@ If you already have a domain, you do not need to sign-up again. Similarly, if yo
 
 The following tutorials will walk you through choosing a domain name, signing up on DoOO, and installing WordPress. 
 
-[[general:choosing-a-domain-name|Choosing a Domain Name]]
+{{page>general:choosing-a-domain-name}}
 
-[[general:signing-up-on-domain-of-one-s-own|Signing up on Domain of One's Own]]
+{{page>general:signing-up-on-domain-of-one-s-own}}
 
-[[wordpress:installing-wordpress|Installing Wordpress]]
+{{page>wordpress:installing-wordpress}}
 
