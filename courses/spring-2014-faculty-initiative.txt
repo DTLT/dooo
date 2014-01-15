@@ -11,5 +11,3 @@
 [[courses:spring-2014-faculty-initiative:week-five|Week Five: Scholarship and Research in a Digital Age (Groom)]]
 
 [[courses:spring-2014-faculty-initiative:week-six|Week Six: Our Digital Future (Owens)]]
-
-{{indexmenu_n>5}}

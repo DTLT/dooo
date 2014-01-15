@@ -1,3 +1,5 @@
+
+
 #HIST 428: Adventures in Digital History
 
 {{page>general:choosing-a-domain-name}}
@@ -13,6 +15,3 @@
 ===== FTP Information =====
 
 {{page>cpanel:setting-up-ftp}}
-
-{{indexmenu_n>4}}
-
