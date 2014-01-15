@@ -1,3 +1,5 @@
+{{indexmenu_n>4}}
+
 # FSEM 100J9: History of Genocides
 
 {{page>general:choosing-a-domain-name}}

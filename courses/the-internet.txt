@@ -1,3 +1,5 @@
+{{indexmenu_n>2}}
+
 ====== CPSC 104: The Internet ======
 
 {{page>general:choosing-a-domain-name}}
