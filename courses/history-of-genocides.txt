@@ -1,4 +1,4 @@
-{{indexmenu_n>4}}
+{{indexmenu_n>7}}
 
 # FSEM 100J9: History of Genocides
 
