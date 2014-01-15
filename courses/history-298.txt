@@ -1,5 +1,7 @@
 ====== HIST 298: History Practicum ======
 
+
+
 ====Signing Up====
 {{page>general:choosing-a-domain-name}}
 {{page>general:signing-up-on-domain-of-one-s-own}}
@@ -22,3 +24,4 @@ After activating it, you will need to save your blog's Permalink settings one ti
 Once the plugin is activated, it will add four questions to the typical **Add New Post** interface. These questions were chosen by UMW history faculty to help guide you through writing a research log entry. In addition, it will add a new type of category called **Source Types**. You may choose one of these for your log entry, or you may add new ones, if you desire. 
 
 Once you've answered even one Research Log Question, the display of your post on the front end will be altered. Instead of showing the typical content in the Post box, the research questions and your answers will be displayed. Keep this in mind when creating research log entries. {{http://farm6.staticflickr.com/5515/11953590636_b4431b2bbc_c.jpg}}
+
