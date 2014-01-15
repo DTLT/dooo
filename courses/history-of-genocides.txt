@@ -1,0 +1,6 @@
+# FSEM 100J9: History of Genocides
+
+{{page>general:choosing-a-domain-name}}
+{{page>general:signing-up-on-domain-of-one-s-own}}
+{{page>domain-management:setting-up-subdomains}}
+{{page>domain-management:map-your-domain-to-umw-blogs}}
