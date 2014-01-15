@@ -1,4 +1,4 @@
-{{indexmenu_n>6}}
+{{indexmenu_n>10}}
 
 ====== HIST 298: History Practicum ======
 

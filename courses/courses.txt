@@ -17,11 +17,11 @@
 
 ==== Geography ====
 
-   * [[courses:Revanchist City Rebel City | GEOG410W: Revanchist City/Rebel City]] (Patterson)
+   * [[courses:Revanchist City Rebel City | GEOG 410W: Revanchist City/Rebel City]] (Patterson)
 
 ==== Geographic Information Systems (GIS ====
 
-  * [[courses: Spatial Analysis with GIS | GEOG351A: Spatial Analysis with GIS]] (Rizzo)
+  * [[courses: Spatial Analysis with GIS | GEOG 351A: Spatial Analysis with GIS]] (Rizzo)
 
 ==== History and American Studies ====
 
