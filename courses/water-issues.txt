@@ -1,0 +1,5 @@
+====== FSEM100B9: Water Resources ======
+
+{{page>general:choosing-a-domain-name}}
+{{page>general:signing-up-on-domain-of-one-s-own}}
+{{page>wordpress:installing-wordpress}}

@@ -1,12 +1,27 @@
 ====== Course Tutorials ======
 
+==== College of Business ====
+
+  * [[courses: Principles of Marketing-Gentry|BUAD 310: Principles of Marketing]] (Gentry)
+  * [[courses: Principles of Marketing-Majid|BUAD 310: Principles of Marketing]] (Majid)
+
 ==== Computer Science ====
 
   * [[courses: The Internet|CPSC 104: The Internet]] (Bond, Groom)
+  * [[courses: Computer Science I | CPSC 220: Computer Science I]] (Anewalt)
 
 ==== Freshman Seminars ====
 
   * [[courses:History of Genocides|FSEM 100J9: History of Genocides]] (Al-Tikriti)
+  * [[courses:Water Issues | FSEM 100B9: Water Resources]] (Gallagher)
+
+==== Geography ====
+
+   * [[courses:Revanchist City Rebel City | GEOG410W: Revanchist City/Rebel City]] (Patterson)
+
+==== Geographic Information Systems (GIS ====
+
+  * [[courses: Spatial Analysis with GIS | GEOG351A: Spatial Analysis with GIS]] (Rizzo)
 
 ==== History and American Studies ====
 
