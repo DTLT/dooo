@@ -4,4 +4,3 @@
 {{page>general:signing-up-on-domain-of-one-s-own}}
 {{page>wordpress:installing-wordpress}}
 
-{{indexmenu_n>1}}
