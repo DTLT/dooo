@@ -6,7 +6,7 @@ To get started, login to your WordPress site.
 
 {{http://farm6.staticflickr.com/5499/11965714693_31ce67fdd6_c.jpg}}
 
-WordPress provides a convenient tool to export all content from your site under the Tools menu. From your admin dashboard navigate to Tools > Export
+WordPress provides a convenient tool to export all content from your site under the Tools menu. From your admin dashboard navigate to **Tools > Export**
 
 {{http://farm8.staticflickr.com/7305/11965538965_0cbab13d29_o.png}}
 
@@ -14,7 +14,7 @@ The tool will give you the option to export **All Content** or just **Pages** an
 
 {{http://farm4.staticflickr.com/3788/11965983484_6f6a24bfd5_c.jpg}}
 
-The export file (an XML file) will be downloaded to your computer. You will use this file during the import process next. Go to [[http://www.wordpress.com|Wordpress.com] and click **Sign Up**
+The export file (an XML file) will be downloaded to your computer. You will use this file during the import process next. Go to [Wordpress.com](http://www.wordpress.com) and click **Sign Up**
 
 {{http://farm4.staticflickr.com/3673/11966525876_c50835f56e_c.jpg}}
 
