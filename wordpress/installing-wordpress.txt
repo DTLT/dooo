@@ -6,7 +6,7 @@ To get started you'll need to login to your control panel by going to the UMW Do
 
 ![image](http://farm4.staticflickr.com/3808/9394644932_42072c3f76_c.jpg)
 
-Here you'll login with the username and password that was provided to you with the Welcome email during the signup process.
+Here you'll login with the username and password that was provided to you with the **New Account Information** email during the signup process.
 
 ![image](http://farm4.staticflickr.com/3834/9394646464_cb1e711493_c.jpg)
 
