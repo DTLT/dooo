@@ -5,12 +5,3 @@
 {{page>general:choosing-a-domain-name}}
 {{page>general:signing-up-on-domain-of-one-s-own}}
 
-<WRAP center round info 60%>
-PLEASE NOTE that when you install WordPress for this class, you should choose the "Professional Portfolio" as a package option during the installation process.
-</WRAP>
- 
-{{page>wordpress:installing-wordpress}}
-
-<WRAP center round info 60%>
-PLEASE NOTE that when you install WordPress for this class, you should choose the "Professional Portfolio" as a package option during the installation process.
-</WRAP>
