@@ -1,0 +1,9 @@
+#SQL Queries
+
+A program like [[http://www.sequelpro.com/|Sequel Pro]] allows you to get information from databases and run queries.
+
+###Combining data from multiple tables
+
+`SELECT tablename.tablecolumn1, tablename.tablecolumn2, tablename2.tablecolumn7 FROM tablename INNER JOIN tablename2 ON tablename.uniquecolumn=tablename2.matchingcolumn;`
+
+So what's happening here is you're selecting all the columns that you want to output (this can be across the tables), choose FROM the first table INNER JOIN the second table and then ON matching the two columns that have the unique matching identifier.
