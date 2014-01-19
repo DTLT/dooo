@@ -4,6 +4,16 @@ A program like [[http://www.sequelpro.com/|Sequel Pro]] allows you to get inform
 
 ###Combining data from multiple tables
 
-`SELECT tablename.tablecolumn1, tablename.tablecolumn2, tablename2.tablecolumn7 FROM tablename INNER JOIN tablename2 ON tablename.uniquecolumn=tablename2.matchingcolumn;`
+SELECT tablename.tablecolumn1, tablename.tablecolumn2, tablename2.tablecolumn7\\
+FROM tablename\\
+INNER JOIN tablename2\\
+ON tablename.uniquecolumn=tablename2.matchingcolumn;
 
 So what's happening here is you're selecting all the columns that you want to output (this can be across the tables), choose FROM the first table INNER JOIN the second table and then ON matching the two columns that have the unique matching identifier.
+
+You can do this across more than 2 tables by inner joining tables in the FROM area. Here is an example combining WHMCS fields from client information, custom field information, and domain information in one query:
+
+Select tblcustomfieldsvalues.value,tblclients.firstname,tblclients.lastname,tblclients.email,tbldomains.registrationdate,tbldomains.domain\\
+FROM (tblclients INNER JOIN tblcustomfieldsvalues ON tblcustomfieldsvalues.relid=tblclients.id)\\
+INNER JOIN tbldomains\\
+ON tblclients.id=tbldomains.userid
