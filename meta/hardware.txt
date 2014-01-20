@@ -1,0 +1,11 @@
+#Hardware
+
+The Domain of One's Own server has the following technical specs:
+
+  * Intel Xeon ES-2440 2.40GHz 15M Cache 7.2GT/s 6-Core CPU
+  * 32GB RAM
+  * RAID 1 with 1.2TB 10K RPM SAS Disk space
+  * 2x10Gb BT network cards (2 Static IP addresses)
+  * CentOS Operating System
+
+The server is hosted with [[http://www.cyberdatainc.com/|CyberData Technologies]], who holds a VITA state contract for hosting with Virginia state agencies.
