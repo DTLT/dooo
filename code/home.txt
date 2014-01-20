@@ -1,0 +1,5 @@
+#Code Snippets
+
+Documentation of various pieces of code and how they work.
+
+{{namespace>code}}
