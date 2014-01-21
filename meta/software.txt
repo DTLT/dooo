@@ -1,0 +1,10 @@
+#Software
+
+###cPanel
+The [[http://cpanel.net/|cPanel control panel software]] is an industry standard for web hosting. We had experience with cPanel from our years of using Bluehost accounts. During our pilot we used the [[http://www.parallels.com/products/plesk/|Plesk panel software]] due to limited availability for other options with our vendor. We were anxious to make the switch to cPanel when we purchased a dedicated server for the Domain of One's Own project. cPanel is licensed yearly and can be bought directly from cPanel or through many resellers (our vendor included the cost and installation of cPanel in our hosting contract).
+
+cPanel is a core component for providing web hosting. It provides a GUI interface to end users to their domain and hosting allowing them to create subdomains, databases, edit DNS records, create FTP accounts, email addresses, install software, and interact with their files through a file manager. cPanel segregates spaces for individual users so that each student only has access to their own files and databases. cPanel is also extensible with [[http://docs.cpanel.net/twiki/bin/view/SoftwareDevelopmentKit/XmlApi|XML and JSON APIs]].
+
+###WHMCS
+
+###Installatron
