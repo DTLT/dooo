@@ -9,3 +9,5 @@ The Domain of One's Own server has the following technical specs:
   * CentOS Operating System
 
 The server is hosted with [[http://www.cyberdatainc.com/|CyberData Technologies]], who holds a VITA state contract for hosting with Virginia state agencies.
+
+In terms of needs a lot depends on the size of the population you plan to host. 8GB of RAM and a Quadcore processor is probably a minimum but everyone's needs are different. You should build in a plan to grow progressively year over year, especially in terms of hard drive space where even with strict quotas the databases and backups can quickly eat into larger drive space. We're currently researching the best options for scaling including cloud-based options.
