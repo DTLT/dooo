@@ -2,6 +2,9 @@
 
 ===== Reading & Review =====
 
+  * //[[http://www.educause.edu/ero/article/personal-cyberinfrastructure|A Personal Cyberinfrasturcture]]//, Gardner Campbell, 2009
+  * //[[http://www.zephoria.org/thoughts/archives/2007/09/07/controlling_you.html | Controlling Your Public Appearance]]//, dana boyd, 2007
+  * //Who Owns the Digital You?//[[http://www.huffingtonpost.com/tim-chambers/who-owns-the-digital-you_b_789348.html | Part One]], [[http://www.huffingtonpost.com/tim-chambers/who-owns-the-digital-you-_b_826662.html | Part Two]], [[http://www.huffingtonpost.com/tim-chambers/part-three-who-owns-the-d_b_846385.html | Part Three]], Tim Chambers, 2011
+
 ===== Other Work =====
 
-{{indexmenu_n>2}}
