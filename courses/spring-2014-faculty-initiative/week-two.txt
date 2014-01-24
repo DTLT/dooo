@@ -2,9 +2,38 @@
 
 ===== Reading & Review =====
 
-  * //[[http://www.educause.edu/ero/article/personal-cyberinfrastructure|A Personal Cyberinfrasturcture]]//, Gardner Campbell, 2009
   * //[[http://www.zephoria.org/thoughts/archives/2007/09/07/controlling_you.html | Controlling Your Public Appearance]]//, dana boyd, 2007
+  * //[[http://www.educause.edu/ero/article/personal-cyberinfrastructure|A Personal Cyberinfrasturcture]]//, Gardner Campbell, 2009
   * //Who Owns the Digital You?//[[http://www.huffingtonpost.com/tim-chambers/who-owns-the-digital-you_b_789348.html | Part One]], [[http://www.huffingtonpost.com/tim-chambers/who-owns-the-digital-you-_b_826662.html | Part Two]], [[http://www.huffingtonpost.com/tim-chambers/part-three-who-owns-the-d_b_846385.html | Part Three]], Tim Chambers, 2011
+  * //[[http://www.tandfonline.com/doi/full/10.1080/08838151.2012.705200#CIT0010 | Socially Mediated Publicness]]//, Nancy Baym & danah boyd, 2012
+
+
+One of the core foundations of Domain of One's Own is developing a deeper understanding of the concept of "digital identity" -- and taking control of the forces that shape that identity. This week, we're reading a number of articles that explore this concept. In her blog post, Controlling Your Public Appearance, danah body succinctly lays out the reasons why we all need to take control of your digital presence by actively building a public, online identity for yourself. In addition to boyd's advice you should peruse the comments left by her readers offering their own insight into this practice. 
+
+In //A Personal Cyberinfrastructure//, Gardner Campbell considers the progress of technology within academia and specifically what it means to build a "personal cyberinfrastructure" for yourself. While Campbell isn't speaking directly about "digital identity," the kind of exploration he encourages is premised upon the idea that we need to take more overt control over our interactions with networked technologies, rather than allowing pre-packaged systems or services to dictate what is possible in online spaces. In many ways, Campbell's article lays out the argument for a project like Domain of One's Own. 
+
+Tim Champers Huffington Post series, while more mainstream and aimed at a general audience, does a nice job of laying out the realities of how our online identities are owned and controlled by the services and systems we use. He prompts us to think more deeply about what we are getting out of these relationships -- and what companies are getting from us. In addition, he links to a range of other articles and resources about this topic. We encourage you to spend some time following these trails. 
+
+Finally, in their article in the //Journal of Broadcasting and Electronic Media//, Baym and boyd survey the current landscape of what it means to navigate "socially mediated publicness." In particular, it's worth considering some of the scenarios and situations that the authors present:
+  * What happens to our digital identity when we die? What does it mean when others can present and contextualize our "self" in a publicly-mediated online space without our consent? 
+  * In spaces that ostensibly allow for more inclusivity and freedom of expression, how is it possible that certain voices and perspectives can become even more marginalized and threatened?
+  * As these spaces become more and more important to our lives and our larger cultures, what does it mean when governments and corporations have the ability to control and/or censor our access to them?
+
+We're reading another piece by boyd this week that is a post from her blog. As you read this piece from an academic journal, it's also worth reflecting upon the different voices used in these two different publications, and how they work together as part of boyd's larger digital, public persona. 
+
+This week, as you begin to start blogging on your new WordPress site, make sure you write at least one post that addresses the readings. We offer a few prompts to perhaps get you started: 
+
+  * Chambers talks several times about becoming acquainted with the Terms of Service (TOS) of the online tools 
+we use. Look up the TOS for one or two services you regularly use [[https://www.facebook.com/legal/terms |Facebook]], [[https://twitter.com/tos | Twitter]], [[http://www.google.com/intl/en/policies/terms/ | Google TOS]], [[http://www.linkedin.com/legal/user-agreement?trk=hb_ft_userag | LinkedIn]]. Could you understand them? Where they what you expected, and, if not, why? What surprised you most about what you read? If you read more than one, how do they compare?
+  * Spend a moment and consider what makes up your current digital identity. Write down what you think people would find out about you if they were to search for you on Google. Then do an actual search and see what you find. How does your perceived presentation of your digital identity compare with your actual one? 
+
+  * Considering the exploration that Campbell exhorts us to undertake to build our own personal cyberinfrastructure, take a moment to lay out some goals for yourself. What do you hope to build or develop on Domain of One's Own? How can what you do become a model for students using this space? 
+
+  * Chambers links to lots of other articles and resources. Pick a few of these and write a post about the story behind them. How do they relate to our conversation about digital identity?
 
 ===== Other Work =====
+This week, spend some time getting to know your WordPress blog better and making it reflect the identity you want to build for yourself: 
 
+  * Does your site have a title? If not, make sure you choose one. 
+  * Edit and/or write your "About" page. Use this as the starting place to diagram who you are for people who come across your new home on the Web. There is no one way to write an "About" page -- what you decide to put here (pictures, professional information, personal details) should be a reflection of the kind of presence you hope to build for yourself online. 
+  * Explore the [[http://wordpress.org/themes/ | WordPress Theme Repository]]. Your theme controls everything about how your site looks, and how your site looks [[http://blog.crazyegg.com/2011/12/19/does-web-design-matter/ does impact how people]] perceive your content. Find a new theme for your site, [[http://docs.umwdomains.com/wordpress/wordpress-themes | install it]], and activate it. 
