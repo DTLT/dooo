@@ -14,7 +14,7 @@ One goal of Domain of One’s Own is to help participants develop a deeper under
 
 You'll notice that the readings & resources for this week cover a fairly large swath of time. Bush's article from 1945 predates the Internet by almost six decades, and Engelbart's demos, by almost 20 decades. They're still worth reviewing and reflecting upon, however, in that they brilliantly foreshadowed the systems that ultimately became the Internet and the Web. 
 
-As you review [http://info.cern.ch], we encourage you to explore it via the Line Mode Browser Simulator, to get a real sense of how we first interfaced with the Web. Take a moment and reflect upon the incredible degree to which those interfaces have changed in the last 20 years. 
+As you review http://info.cern.ch, we encourage you to explore it via the Line Mode Browser Simulator, to get a real sense of how we first interfaced with the Web. Take a moment and reflect upon the incredible degree to which those interfaces have changed in the last 20 years. 
 
 Weinberger's pieces (a preface to a longer book that examines the Web), is a great introduction to how the Web was different from anything that came before and how it's inherent qualities of openness (and, perhaps, democratization) have ultimately informed what it has become. 
 
