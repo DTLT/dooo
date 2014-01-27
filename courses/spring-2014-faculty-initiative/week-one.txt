@@ -12,7 +12,7 @@ One goal of Domain of One’s Own is to help participants develop a deeper under
  * //[[http://www.youtube.com/watch?v=BNHR6IQJGZs | How Search Works]]//, Matt Cutts (2010) (VIDEO)
  * //[[http://blog.jonudell.net/2011/01/24/seven-ways-to-think-like-the-web/ | Seven Way to Think about the Web]]//, Jon Udell (2011)
 
-You'll notice that the readings & resources for this week cover a fairly large swath of time. Bush's article from 1945 predates the Internet by almost six decades, and Engelbart's demos, by almost 20 decades. They're still worth reviewing and reflecting upon, however, in that they brilliantly foreshadowed the systems that ultimately became the Internet and the Web. 
+You'll notice that the readings & resources for this week cover a fairly large swath of time. Bush's article from 1945 predates the Internet by almost six decades, and Engelbart's demos, by almost 20 years. They're still worth reviewing and reflecting upon, however, in that they brilliantly foreshadowed the systems that ultimately became the Internet and the Web. 
 
 As you review http://info.cern.ch, we encourage you to explore it via the Line Mode Browser Simulator, to get a real sense of how we first interfaced with the Web. Take a moment and reflect upon the incredible degree to which those interfaces have changed in the last 20 years. 
 
@@ -36,4 +36,3 @@ The following tutorials will walk you through choosing a domain name, signing up
 
 {{page>wordpress:installing-wordpress}}
 
-{{indexmenu_n>1}}
