@@ -1,8 +1,10 @@
+{{indexmenu_n>2}}
+
 ====== Week 2: Digital Identity ======
 
 ===== Reading & Review =====
 
-  * //[[http://www.zephoria.org/thoughts/archives/2007/09/07/controlling_you.html | Controlling Your Public Appearance]]//, dana boyd, 2007
+  * //[[http://www.zephoria.org/thoughts/archives/2007/09/07/controlling_you.html | Controlling Your Public Appearance]]//, danah boyd, 2007
   * //[[http://www.educause.edu/ero/article/personal-cyberinfrastructure|A Personal Cyberinfrasturcture]]//, Gardner Campbell, 2009
   * //Who Owns the Digital You?//[[http://www.huffingtonpost.com/tim-chambers/who-owns-the-digital-you_b_789348.html | Part One]], [[http://www.huffingtonpost.com/tim-chambers/who-owns-the-digital-you-_b_826662.html | Part Two]], [[http://www.huffingtonpost.com/tim-chambers/part-three-who-owns-the-d_b_846385.html | Part Three]], Tim Chambers, 2011
   * //[[http://www.tandfonline.com/doi/full/10.1080/08838151.2012.705200#CIT0010 | Socially Mediated Publicness]]//, Nancy Baym & danah boyd, 2012
