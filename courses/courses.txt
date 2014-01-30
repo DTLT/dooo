@@ -8,7 +8,7 @@
 ==== Computer Science ====
 
   * [[courses: The Internet|CPSC 104: The Internet]] (Bond, Groom)
-  * [[courses: Computer Science I | CPSC 220: Computer Science I]] (Anewalt)
+  * [[courses: Computer Science I | CPSC 220: Computer Science I]] (Anewalt, Finlayson)
 
 ==== Freshman Seminars ====
 

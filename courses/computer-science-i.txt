@@ -1,3 +1,6 @@
 {{indexmenu_n>5}}
 
 #CPSC 220: Computer Science I
+
+{{page>general:choosing-a-domain-name}}
+{{page>general:signing-up-on-domain-of-one-s-own}}
