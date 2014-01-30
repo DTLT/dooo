@@ -9,5 +9,5 @@
 * [[cpanel:File Structures and the File Manager]]
 * [[cpanel:Creating an Email Address]]
 * [[cpanel:Setting up FTP]]
+* [[domain-management:setting-up-subdomains|Setting Up Subdomains]]
 
-{{indexmenu_n>2}}
