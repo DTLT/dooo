@@ -1,34 +1,54 @@
 #WordPress Themes 
 
-When it comes to WordPress, customization is the name of the game. When you install WordPress, the default (or pre-set) theme is called **Twenty Thirteen** (as of WordPress version 3.7). It is a very customizable theme, though slightly garish to start with. You have the option of using one of your own images for the header of the site, and changing text color in the header. However, you may want a completely different look, and that's where installing new themes comes in.
+When it comes to WordPress, customizing the look of your site is simple and straightforward. When you install WordPress, the default (or pre-set) theme is called **Twenty Fourteen** (as of WordPress version 3.8). It is a very customizable theme.  For example, while the default install doesn't include a header, you have the option of adding one of your own images. You can also easily modify the colors of the different fonts and backgrounds used in the theme. 
 
-As always, we start at the **Dashboard**.
+Twenty Fourteen also provides you with the option of choosing a slider or "grid layout" for your site's homepage and to use a custom tag to determine which posts show up on your homepage.
+
+You can find out more about [[http://codex.wordpress.org/Twenty_Fourteen |customizing the homepage layout here]]. 
+You can find out more [[http://wordpress.org/support/theme/twentyfourteen | general information about Twenty Fourteen here]]. 
+
+In addition to Twenty Fourteen, you'll have other themes available to you. (What themes you have depends upon if you did a default WordPress installation, or if you installed a special package.) If Twenty Fourteen doesn't meet your needs, you can activate another theme on your site or install a completely new one. 
+
+====== Activating Themes ======
+
+1. Start at your site's **Dashboard**.
 
 ![image](http://farm8.staticflickr.com/7380/9422128077_30256097ab_c_d.jpg)
 
-Navigate to **Appearance > Themes**.
+2. Navigate to **Appearance > Themes**.
 
 ![image](http://farm3.staticflickr.com/2873/9424880080_025254c0fc_c_d.jpg)
 
-Your screen may look slightly different than the above example - Our demo site has the previous two WordPress themes installed  - "Twenty Twelve", and "Twenty Eleven". Depending on the WordPres package you installed, you may already have other themes available to you, as well. 
+3. You will see thumbnail images representing each of the themes that you currently have available on your site. Simply mouse over any one of them, and click the **Activate** link. 
 
-Installing new themes is quite simple. You start by going to the **Install Themes** tab.
+![image](http://farm8.staticflickr.com/7437/12290460423_5c016084ee_c.jpg)
+
+That's all you need to do to change the look of your site with a new theme.
+
+====== Installing Themes ======
+
+If none of the themes that were provided when you installed WordPress are what you're looking for, you can always search for and install other themes from the WordPress Theme Repository.
+
+- Navigate to **Appearance > Themes**.
+
+![image](http://farm3.staticflickr.com/2873/9424880080_025254c0fc_c_d.jpg)
+
+- Installing new themes is quite simple. You start by going to the **Install Themes** tab.
 
 ![image](http://farm6.staticflickr.com/5340/9602522836_96bbca7eb3_c_d.jpg)
 
-The initial page is the Search Theme page, and it's not all that helpful (or visual). You can check a few "filter" boxes to see what comes up, but there is a more visual way. Click the **Featured** link at the top and you'll get visual (screenshot) examples of other themes you can install. You can also click "Newest" or "Recently Updated".
+-The initial page is the Search Theme page, and it's not all that helpful (or visual). You can check a few "filter" boxes to see what comes up, but there is a more visual way. Click the **Featured** link at the top and you'll get visual (screenshot) examples of other themes you can install. You can also click "Newest" or "Recently Updated".
 
 ![image](http://farm3.staticflickr.com/2833/9599307819_1ed5c31c86_c_d.jpg)
 
-Under the thumbnail picture of each theme are three choices - **Install Now**, **Preview**, and **Details**. Those choices should be pretty self-explanitory so click **Install Now** to add a new theme to your site. After you install the theme, it is still not active on your site. You will need to **Activate** it to use it.
+-Under the thumbnail picture of each theme are three choices - **Install Now**, **Preview**, and **Details**. Those choices should be pretty self-explanitory so click **Install Now** to add a new theme to your site. After you install the theme, it is still not active on your site. You will need to **Activate** it to use it.
 
 ![image](http://farm8.staticflickr.com/7350/9602712376_8d5a7da5b7_c_d.jpg)
 
-Once activated, your site will be using the new theme.
+- Once activated, your site will be using the new theme.
 
 ![image](http://farm3.staticflickr.com/2858/9602743706_6eb9b26fff_c_d.jpg)
 
-At the top of the page will be a message "New Theme Activated". Click on the **Visit Site** link to view your site with the new look.
+- At the top of the page will be a message "New Theme Activated". Click on the **Visit Site** link to view your site with the new look.
 
 ![image](http://farm6.staticflickr.com/5350/9599507231_8220f73854_c_d.jpg)
-
