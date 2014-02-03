@@ -11,17 +11,9 @@ In addition to Twenty Fourteen, you'll have other themes available to you. (What
 
 ====== Activating Themes ======
 
-1. Start at your site's **Dashboard**.
-
-![image](http://farm8.staticflickr.com/7380/9422128077_30256097ab_c_d.jpg)
-
-2. Navigate to **Appearance > Themes**.
-
-![image](http://farm3.staticflickr.com/2873/9424880080_025254c0fc_c_d.jpg)
-
-3. You will see thumbnail images representing each of the themes that you currently have available on your site. Simply mouse over any one of them, and click the **Activate** link. 
-
-![image](http://farm8.staticflickr.com/7437/12290460423_5c016084ee_c.jpg)
+  - Start at your site's **Dashboard**. ![image](http://farm8.staticflickr.com/7380/9422128077_30256097ab_c_d.jpg)
+  - Navigate to **Appearance > Themes**.![image](http://farm3.staticflickr.com/2873/9424880080_025254c0fc_c_d.jpg)
+  - You will see thumbnail images representing each of the themes that you currently have available on your site. Simply mouse over any one of them, and click the **Activate** link. ![image](http://farm8.staticflickr.com/7437/12290460423_5c016084ee_c.jpg)
 
 That's all you need to do to change the look of your site with a new theme.
 
@@ -29,26 +21,9 @@ That's all you need to do to change the look of your site with a new theme.
 
 If none of the themes that were provided when you installed WordPress are what you're looking for, you can always search for and install other themes from the WordPress Theme Repository.
 
-- Navigate to **Appearance > Themes**.
-
-![image](http://farm3.staticflickr.com/2873/9424880080_025254c0fc_c_d.jpg)
-
-- Installing new themes is quite simple. You start by going to the **Install Themes** tab.
-
-![image](http://farm6.staticflickr.com/5340/9602522836_96bbca7eb3_c_d.jpg)
-
--The initial page is the Search Theme page, and it's not all that helpful (or visual). You can check a few "filter" boxes to see what comes up, but there is a more visual way. Click the **Featured** link at the top and you'll get visual (screenshot) examples of other themes you can install. You can also click "Newest" or "Recently Updated".
-
-![image](http://farm3.staticflickr.com/2833/9599307819_1ed5c31c86_c_d.jpg)
-
--Under the thumbnail picture of each theme are three choices - **Install Now**, **Preview**, and **Details**. Those choices should be pretty self-explanitory so click **Install Now** to add a new theme to your site. After you install the theme, it is still not active on your site. You will need to **Activate** it to use it.
-
-![image](http://farm8.staticflickr.com/7350/9602712376_8d5a7da5b7_c_d.jpg)
-
-- Once activated, your site will be using the new theme.
-
-![image](http://farm3.staticflickr.com/2858/9602743706_6eb9b26fff_c_d.jpg)
-
-- At the top of the page will be a message "New Theme Activated". Click on the **Visit Site** link to view your site with the new look.
-
-![image](http://farm6.staticflickr.com/5350/9599507231_8220f73854_c_d.jpg)
+  - Navigate to **Appearance > Themes**. ![image](http://farm3.staticflickr.com/2873/9424880080_025254c0fc_c_d.jpg)
+  - Installing new themes is quite simple. You start by going to the **Install Themes** tab.![image](http://farm6.staticflickr.com/5340/9602522836_96bbca7eb3_c_d.jpg)
+  - The initial page is the Search Theme page, and it's not all that helpful (or visual). You can check a few "filter" boxes to see what comes up, but there is a more visual way. Click the **Featured** link at the top and you'll get visual (screenshot) examples of other themes you can install. You can also click "Newest" or "Recently Updated".![image](http://farm3.staticflickr.com/2833/9599307819_1ed5c31c86_c_d.jpg)
+  - Under the thumbnail picture of each theme are three choices - **Install Now**, **Preview**, and **Details**. Those choices should be pretty self-explanitory so click **Install Now** to add a new theme to your site. After you install the theme, it is still not active on your site. You will need to **Activate** it to use it.![image](http://farm8.staticflickr.com/7350/9602712376_8d5a7da5b7_c_d.jpg)
+  - Once activated, your site will be using the new theme.![image](http://farm3.staticflickr.com/2858/9602743706_6eb9b26fff_c_d.jpg)
+  - At the top of the page will be a message "New Theme Activated". Click on the **Visit Site** link to view your site with the new look.![image](http://farm6.staticflickr.com/5350/9599507231_8220f73854_c_d.jpg)
