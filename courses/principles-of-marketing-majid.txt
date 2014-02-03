@@ -10,4 +10,6 @@ These tutorials should help students learn more about how to customize WordPress
 
 [[wordpress:publishing-content|Publishing Content]]
 
+[[wordpress:menus|Working with Custom Menus]]
+
 
