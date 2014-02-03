@@ -10,7 +10,9 @@ Navigate to **Appearance > Themes**.
 
 ![image](http://farm3.staticflickr.com/2873/9424880080_025254c0fc_c_d.jpg)
 
-Your screen may look slightly different than the above example - Our demo site has the previous two WordPress themes installed  - "Twenty Twelve", and "Twenty Eleven". Installing new themes is quite simple. You start by going to the **Install Themes** tab.
+Your screen may look slightly different than the above example - Our demo site has the previous two WordPress themes installed  - "Twenty Twelve", and "Twenty Eleven". Depending on the WordPres package you installed, you may already have other themes available to you, as well. 
+
+Installing new themes is quite simple. You start by going to the **Install Themes** tab.
 
 ![image](http://farm6.staticflickr.com/5340/9602522836_96bbca7eb3_c_d.jpg)
 
@@ -30,4 +32,3 @@ At the top of the page will be a message "New Theme Activated". Click on the **V
 
 ![image](http://farm6.staticflickr.com/5350/9599507231_8220f73854_c_d.jpg)
 
-{{indexmenu_n>5}}
