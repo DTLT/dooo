@@ -1,7 +1,11 @@
 ====== Week 6: Our Digital Future ======
 
+
+
 ===== Reading & Review =====
 
-===== Other Work =====
+  * //[[http://dashes.com/anil/2012/12/the-web-we-lost.html | The Web We Lost]]//, Anil Dash, 2012
+  * //[[http://dashes.com/anil/2012/12/rebuilding-the-web-we-lost.html|Rebuilding the Web We Lost]]//, Anil Dash, 2012
+  * //[[http://www.nytimes.com/2013/12/31/science/viewing-where-the-internet-goes.html | Viewing Where the Internet Goes]]//, John Markoff, 2013
 
-{{indexmenu_n>6}}
+===== Other Work =====
