@@ -1,0 +1,30 @@
+====== Working with Custom Menus ======
+
+Out of the box, most WordPress themes will create default navigation for your site based upon the content you create. Posts, for example, will be available through some kind of blog presentation -- displayed in reverse, chronological order. In addition, you may be able to add **Widgets** to your site's sidebar that allow readers to navigate your posts based upon the category they were in or when they were published. 
+
+Pages, by default, are usually used to build a menu somewhere in your theme. Each top-level page becomes another item in that menu. When you create new pages, you can choose to "nest" them underneath other pages by choosing a page **Parent**. This can be cumbersome, however, and, eventually, you may wish to organize your site's content by creating a **Custom Menu**. 
+
+In addition to allowing you to more flexibly organize the pages on your site, Custom Menus now allow you to add posts, categories/tags, and custom links to your menu. With this feature, you can really build an entirely customized navigation tool for your site, and you can be sure that all your content is organized and available to your readers exactly how you want. 
+
+There are two primary components to building a Custom Menu: 
+  - You must designated and organize the links you want to be in your menu.
+  - You must "place" the menu somewhere in your theme. Most themes will have at least one Custom Menu built into their design. Some may have several areas designated for Custom Menus. Older themes may not use Custom Menus at all; for these you will have to rely on the default menus created by the them based on your site's content. 
+
+===== Building Your Custom Menu =====
+
+  - Start at your site's **Dashboard** and choose **Appearance** > **Menus**. {{http://farm6.staticflickr.com/5487/12291319253_7d766248ac_c.jpg}}
+  - In the Custom Menus interface that appears, type a name for your menu. This can be anything you want. It doesn't get displayed anywhere; it's used by WordPress to identify and place your menu. Once you've typed the name, click **Create Menu**. {{http://farm8.staticflickr.com/7305/12291149255_c7d17e8e2d_c.jpg}}
+  - You'll now be presented with a screen that includes a section titled **Menu Settings**. This is where you'll indicate where you want your menu to appear in your theme. The number of locations available depends entirely upon the theme you choose. In the example shown below, there are two areas available; we've chosen to place the menu in the **Top primary menu** area which we know corresponds to the header menu. You may need to experiment a bit in order to find out where your menu will appear in your theme. You can always change this location later by coming back here and clicking the **Manage Locations** tab. {{http://farm6.staticflickr.com/5501/12291149315_589ff17d81_c.jpg}}
+  - Now that you've set up your menu and assigned it to a location, you can begin to add links to it. On the left-hand side of the screen, you'll see what content is available to add. On the right-hand side of the screen, in the *Menu Structure* area, you can arrange and organize your links. 
+  - By default, you may not see **everything** that is available to you to add to your menu. For example, posts can be added to menus, but they're not usually displayed by default. To make more content available, click the **Screen Options** tab at the top of your WordPress screen, and then click off the check boxes that correspond to additional content. {{http://farm8.staticflickr.com/7296/12291706566_892887fba6_c.jpg}}
+  - To add content to your menu, simply check it off on the left, and click the **Add to Menu** button. {{http://farm6.staticflickr.com/5486/12291306703_ef42cc9be9_c.jpg}}
+  - Your new content will appear on the right, and you can drag items in the order you want them to appear. Drag items to the right to indent them under other items. This will usually make them appear as drop-down items in your menu. {{http://farm4.staticflickr.com/3772/12291706636_f7878aeb85_c.jpg}}
+  - You can add custom links to your menu by clicking the **Links** section on the left. In the short form that appears, enter your link's URL, and a text for the link. Click **Add to Menu** to move it to the left. {{http://farm6.staticflickr.com/5477/12291149505_4583d7af95_c.jpg}}
+  - Note that you can change the link text of any item you add to your menu. This can be helpful if you have a page with a long title, and you'd like the link to not take up so much space. You can abbreviate the title in the **Navigation Label** section, and that shorter text will become the actual menu link. {{http://farm4.staticflickr.com/3716/12291306843_41f25714ca_c.jpg}}
+  - When you are done, make sure you click **Save Menu.**
+
+===== Other Notes about Menus =====
+
+  * When you add a **Category** or **Tag** to a menu, the link will take your readers to an archive of all the posts on your site that use that category or tag. This can be a very useful feature for organizing your content when you're using posts to share your work. 
+  * In addition to assigning Custom Menus to theme areas, there is a default Custom Menu widget that you can put in the sidebar of your site. This is useful for creating smaller, customized navigation for your site. 
+  * If you forget to click **Save Menu** after making changes to your menu location or content, you will lose your work! 
