@@ -14,3 +14,5 @@ In addition, you'll also find the last three default WordPress themes in your si
   * [[http://wordpress.org/themes/twentytwelve|Twenty Twelve]]
   * [[http://wordpress.org/themes/twentythirteen|Twenty Thirteen]]
   * [[http://wordpress.org/themes/twentyfourteen|Twenty Fourteen]] (current default theme)
+
+Generally, a good place to start when learning about your theme, is too look at your **Appearance** menu after you activate it. Many themes now make use of WordPress' **Customize** feature to make theme options available to you. Others may include a new menu item titled something like "Theme Options." Here you may find more options and information about using your them. 
