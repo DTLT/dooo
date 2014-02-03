@@ -1,0 +1,37 @@
+====== Using Google Analytics ======
+
+For BUAD310, you will need to setup a Google Analytics account for your site, and then add the tracking information to WordPress. These instructions will walk you through the basic setps: 
+
+===== Part One: Setting up a Google Analytics Account =====
+
+You will need a Google account in order to setup a Google Analytics account. Once you have it set up, you can share it with other Google users. Before you get started determine whose Google account you are going to use and login to Google with it. 
+
+  - Go to [[http://www.google.com/analytics/|Google Analytics]] and click the **Access Google Analytics** button.
+  - Click the **Sign up** button.
+  - In the screen that appears, choose "Website." At the bottom of the page, fill out the form. Please note that you will choose both an "Account Name" and a "Website Name." The former is an over-arching account which can contain multiple Websites. When you're done, click the **Get Tracking ID** button. You'll need to agree to the Terms of Service to continue.
+  - The administration page for your Website analytics will appear, with a large Tracking ID code in the middle of the page. Copy this down. You will need it for the next step. Leave Google Analytics open in another browser window/tab as you precede to Part Two; you'll be coming back here. 
+
+===== Part Two: Adding Your Tracking Code to WordPress =====
+
+  - In your WordPress site from your **Dashboard** click on the **Plugins** menu item. 
+  - In the Plugins interface that appears, locate the **Google Analytics for WordPress** plugin and click **Activate.**
+  - A pop-up window may appear asking you if you'll let this plugin author track the usage of the plugin. You do not need to agree to this. 
+  - Go to **Settings** > **Google Analytics**.
+  - Click the **Click here to authenticate with Google** button. 
+  - A screen will appear asking you to grant access to the plugin. Click the **Allow access** button. 
+  - In the screen that appears, choose the Google Analytics profile that you set up in Part One from the **Profile** drop-down. 
+
+===== Part Three: Verifying the Connection and Seeing your Google Analytics Data=====
+
+  - You'll need to return to the Google Analytics screen you used in Part One at this point. In your Tracking Code section, you should now see a message that your code is working properly. (You may need to refresh the page.)
+  - Click on the **Reporting** tab at the top of the page to see your actual data. Please note that it can take a day or so after activating Google Analytics to see any data. 
+
+General use of Google Analytics is beyond the purview of this tutorial, but we recommend [[https://support.google.com/analytics/?hl=en#topic=3544906|Google's GA Help Section for more information. ]]
+
+
+
+
+
+===== Part Three: Checking Your GA Account =====
+
+Once you've added your tracking code to WordPress, you want to make sure that everything is working properly in Google Analytics. 
