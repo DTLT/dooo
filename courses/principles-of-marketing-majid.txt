@@ -4,12 +4,10 @@
 
 These tutorials should help students learn more about how to customize WordPress to create product Web sites. 
 
-[[wordpress:general-settings-title-and-tagline|Setting Your Site's Title and Tagline]]
-
-[[wordpress:wordpress-themes|WordPress Themes]]
-
-[[wordpress:publishing-content|Publishing Content]]
-
-[[wordpress:menus|Working with Custom Menus]]
+  * [[wordpress:general-settings-title-and-tagline|Setting Your Site's Title and Tagline]]
+  * [[wordpress:wordpress-themes|WordPress Themes]]
+  * [[wordpress:publishing-content|Publishing Content]]
+  * [[wordpress:menus|Working with Custom Menus]]
+  * [[courses:principles-of-marketing-majid:google-analytics|Using Google Analytics]]
 
 
