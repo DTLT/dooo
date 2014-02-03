@@ -1,0 +1,16 @@
+====== Themes for BUAD310 (Majid) ======
+
+For this course, we've pre-populated your group sites with a set of WordPress themes that you may wish to use. As WordPress has become increasingly robust and complex, its themes have as well. These themes may afford you some cool designs and features, but you'll likely need to spend some time learning how they work. Here are the themes we've provided with links to their pages in the WordPress Theme Repository (where you'll find more information about them): 
+
+  * [[http://wordpress.org/themes/awakening|Awakening]]
+  * [[http://wordpress.org/themes/customizr|Customizr]]
+  * [[http://wordpress.org/themes/innovative|Innovative]]
+  * [[http://wordpress.org/themes/openstrap|Openstrap]]
+  * [[http://wordpress.org/themes/zeefocus|zeeFocus]]
+  * [[http://wordpress.org/themes/zeeminty|zeeMinty]]
+
+In addition, you'll also find the last three default WordPress themes in your site: 
+
+  * [[http://wordpress.org/themes/twentytwelve|Twenty Twelve]]
+  * [[http://wordpress.org/themes/twentythirteen|Twenty Thirteen]]
+  * [[http://wordpress.org/themes/twentyfourteen|Twenty Fourteen]] (current default theme)
