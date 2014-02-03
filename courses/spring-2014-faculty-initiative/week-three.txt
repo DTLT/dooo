@@ -10,11 +10,8 @@
 ===== Other Work =====
 This week, spend some time setting up a couple of plugins for your blog as well as getting a Twitter account: 
 
-  *[[WordPress Plugins]]
+  *Install the following WordPress Plugins on your blog (follow the link for an overview for installing [[WordPress Plugins]]):
+   *[[http://jetpack.me/ | Jetpack]]: This is a suite of plugins that enable you to check stats, post via email, enable subscriptiosn, etc. This plugin requires you to get a WordPress.com account for it to work on your self-hosted blog.
+   *[[http://akismet.com | Akismet]]: Akismet filters out your comment and track-back spam for you, so your site doesn;t quickly become a spam farm. You will need to signup for an API Key with Akismet, be sure that you move the slider to $0 for recommended donation to get it for free.
 
-  * Edit and/or write your "About" page. Use this as the starting place to diagram who you are for people who come across your new home on the Web. There is no one way to write an "About" page -- what you decide to put here (pictures, professional information, personal details) should be a reflection of the kind of presence you hope to build for yourself online. 
-
-  * Explore the [[http://wordpress.org/themes/ | WordPress Theme Repository]]. Your theme controls everything about how your site looks, and how your site looks [[http://blog.crazyegg.com/2011/12/19/does-web-design-matter/ | does impact how people]] perceive your content. 
-
-  * Find a new theme for your site, [[http://docs.umwdomains.com/wordpress/wordpress-themes | install it]], and activate it. 
-
+  * Signup for an account on [[http://twitter.com | Twitter]] and send out a tweet using the hashtag [[https://twitter.com/search?q=%23umwdomains&src=hash | #umwdomains]]. Twitter is one environment to buidl a professional network of peers, explore it a bit. 

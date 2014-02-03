@@ -11,9 +11,9 @@ If you were using WordPress to build a business Web site with a lot of informati
 
 **A few other things to know about Pages vs Posts:**
 
-* If you want your content to be accessible to your users via RSS/syndication, you'll need to use Posts. By default, Pages do not appear in a site's RSS feed.
-* Categories and Tags (which are used in WordPress to help you organize your content) are ONLY available on Posts. Page organization is done through customizing your site's menus.
-* Okay this get's a little tricky: WordPress, by default, also creates "Category Pages" and "Tag Pages" that display all the Posts in a category or tag. These are NOT related to the regular Page post type.
+  * If you want your content to be accessible to your users via RSS/syndication, you'll need to use Posts. By default, Pages do not appear in a site's RSS feed.
+  * Categories and Tags (which are used in WordPress to help you organize your content) are ONLY available on Posts. Page organization is done through customizing your site's menus.
+  * Okay this get's a little tricky: WordPress, by default, also creates "Category Pages" and "Tag Pages" that display all the Posts in a category or tag. These are NOT related to the regular Page type.
 
 ##Media
 Upon occasion, you may want to include media (images, audio, video) in your site's posts and pages. There are generally two approaches to handling media in WordPress:

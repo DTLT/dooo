@@ -1,3 +1,13 @@
-{{indexmenu_n>3}}
+
 
 #BUAD 310: Principles of Marketing (Majid)
+
+These tutorials should help students learn more about how to customize WordPress to create product Web sites. 
+
+[[wordpress:general-settings-title-and-tagline|Setting Your Site's Title and Tagline]]
+
+[[wordpress:wordpress-themes|WordPress Themes]]
+
+[[wordpress:publishing-content|Publishing Content]]
+
+
