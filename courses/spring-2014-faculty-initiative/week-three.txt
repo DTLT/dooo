@@ -6,6 +6,14 @@
 
 
 ===== Reading & Review =====
+This week's readings take you through some of the possibilities afforded by the web for teaching and learning. Martin Weller chapter "The Pedagogy of Abundance" from his book The //Digital Scholar// takes us through some of the broader implications and possibilities for radically different pedagogical approaches made possible by networked environments. One of the underlying ideas in this book is that in a wordl where teaching resources are no longer scarce and access is open, how might that change shift the role of the educator?
+
+In Leslie Madsen-Brooks' "Make students curators" post she asks the following question: "What would happen if we made students practice curation—actual curation?" How would instruction change if part of how we approached the process was to expect that students work was part of an on-going, open dialogue wherein students engage and narrate threir process of  "creation, contextualization, argument, and engagement" openly online.
+
+Speaking of open, Bon Stewart interrogates that term as buzzword, much as Leslie does curation, to examine what a platform like Twitter might mena for educators and students alike to share their work within a networked context. More than just what you ate for lunch, Twitter can become an open, particpatory space for collapsing context, time, and some of the institutional infrastructure of disributed education. These are not simply "good or bad" things instructors "must get on board with," rther they bring with them a series of possibilities and limitations which this post explores at length.
+
+Finally, "The Connected Teacher" video is an interview with Alec Couros by Howard Rheingold discussing his approach to his courses that builds open a community of people that feedback, reinforce, and particpate in his courses taught at the University of Regina. Couros provides a compelling example of how  professor can use social media to open up the experience of his students to tens of thousands of educators and thinkers in their field as part and parcel of the undergraduate experience. It takes the idea of networking as part of your education to a whole new level.
+
 
 ===== Other Work =====
 This week, spend some time setting up a couple of plugins for your blog as well as getting a Twitter account: 
