@@ -1,0 +1,10 @@
+#HIST Workshop
+##Preparing for the History Dept Workshop (2/25/14)
+
+Please be sure to register first at [[http://bit.ly/doooworkshop]]. 
+
+Before you arrive to the workshop, make sure you've chosen your domain name and signed up: 
+
+{{page>general:choosing-a-domain-name}}
+
+{{page>general:signing-up-on-domain-of-one-s-own}}
