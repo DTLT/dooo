@@ -1,5 +1,6 @@
+{{indexmenu_n>6}}
+
 ====== Omeka ======
 
-[[omeka:Installing Omeka]]
+  * [[omeka:Installing Omeka]]
 
-{{indexmenu_n>6}}

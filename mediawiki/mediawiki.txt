@@ -1,7 +1,7 @@
+{{indexmenu_n>5}}
+
 ====== Mediawiki ======
 
-[[mediawiki:Installing Mediawiki]]
+  * [[mediawiki:Installing Mediawiki]]
+  * [[mediawiki: Managing Permissions]]
 
-[[mediawiki: Managing Permissions]]
-
-{{indexmenu_n>5}}
