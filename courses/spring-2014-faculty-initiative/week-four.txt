@@ -5,9 +5,11 @@
 ===== Reading & Review =====
 
   * //[[http://net.educause.edu/ir/library/pdf/ELI7049.pdf|7 things you should know about Personal Learning Environments]]//, EDUCAUSE, 2009
-  * //[[https://docs.google.com/document/pub?id=1sCmalF--jskN75vHvv8C_N3kwY4QvrojvpeL4Fizo-c&pli=1|Guidelines for Cultivating a Personal Learning Network]]//
-  * //[[http://mindmappingsoftwareblog.com/personal-learning-network|How to cultivate a personal learning network: Tips from Howard Rheingold]]//, Chuck Frey, 2012
   * //[[http://www.phd2published.com/2014/01/15/hackademic-guide-to-networking-get-a-twitter-account|Hackademic guide to networking: Get a Twitter account]]//, Charlotte Frost, 2014
+  * //[[https://docs.google.com/document/pub?id=1sCmalF--jskN75vHvv8C_N3kwY4QvrojvpeL4Fizo-c&pli=1|Guidelines for Cultivating a Personal Learning Network]]//, Jeffrey Heil, 2011
+  * //[[http://mindmappingsoftwareblog.com/personal-learning-network|How to cultivate a personal learning network: Tips from Howard Rheingold]]//, Chuck Frey, 2012
+  * //[[http://www.edudemic.com/10-simple-ways-to-build-your-personal-learning-network|10 simple ways to build your PLN]]//, Jeff Dunn, 2013
+
 
 
 ===== Other Work =====
