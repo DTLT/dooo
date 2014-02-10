@@ -1,3 +1,5 @@
+{{indexmenu_n>3}}
+
 ====== Week 3: Teaching on the Open Web ======
   *//[[http://www.bloomsburyacademic.com/view/DigitalScholar_9781849666275/chapter-ba-9781849666275-chapter-008.xml | "Chapter 8: A Pedagogy of Abundance," The Digital Scholar, Martin Weller, 2011 (pps. 85-96)]]//
   *//[[http://www.cluttermuseum.com/make-students-curators/ | "Make students curators" Clutter Museum Blog, Leslie Madsen-Brooks, July 17, 2012]]//
