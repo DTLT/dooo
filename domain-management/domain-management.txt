@@ -1,3 +1,5 @@
+{{indexmenu_n>3}}
+
 ====== Domain Management ======
 
   * [[domain-management:What is DNS?]]
@@ -8,5 +10,5 @@
   * [[domain-management:Map Your Domain to Blogger]]
   * [[domain-management:Pointing an Existing Domain to DoOO]]
 
-{{indexmenu_n>3}}
+
 

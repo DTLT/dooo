@@ -1,5 +1,6 @@
-====== cPanel ======
+{{indexmenu_n>2}}
 
+====== cPanel ======
 
   * [[cpanel:Introduction to cPanel]]
   * [[cpanel:Changing Your Password]]

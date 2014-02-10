@@ -1,3 +1,5 @@
+{{indexmenu_n>8}}
+
 ====== Course Tutorials ======
 
 ==== College of Business ====
@@ -35,5 +37,4 @@
 
   * [[courses: Spring 2014 Faculty Initiative]] (Brazell, Burtis, Groom, Owens)
   * [[courses: History Department Workshop]]
-
 
