@@ -1,8 +1,8 @@
 When you're first getting started with a new space on a new Web host, you might think of yourself as owning a small "territory" of the Web. Everything you place in your public folder on the server becomes available for anyone on the Web to see (assuming they know the address of your site and the files you've placed there). 
 
-If you're just putting up a handful of static, HTML pages which you want to make available to colleagues, friends, or family by sending them links, then working with this large, unorganized space may work. But as soon as you get to the point where you want to [[Content_Organizational_Strategies | organize your site]], you're going to need a new strategy.
+If you're just putting up a handful of static, HTML pages which you want to make available to colleagues, friends, or family by sending them links, then working with this large, unorganized space may work. But as soon as you get to the point where you want to organize your site, you're going to need a new strategy.
 
-Consider this scenario: you want to have a personal blog on your new Web space, where you share pictures and short written pieces with family, friends, and colleagues. In addition, you're working on a large research project that requires you to build a Web-based repository of digital images related to your discipline. You want to use one application (say, [[http://wordpress.org WordPress]]) to manage your personal blog. For your research project, you've settled on another open-source application (Say, [[http://omeka.org Omeka]]). Both of these are applications that need to be installed on your Web host, but you can't just put them both at your main domain name -- if you did, both sites would quickly experience conflicts and errors. You need to cordone off separate spaces for your different Web "properties." 
+Consider this scenario: you want to have a personal blog on your new Web space, where you share pictures and short written pieces with family, friends, and colleagues. In addition, you're working on a large research project that requires you to build a Web-based repository of digital images related to your discipline. You want to use one application (say, [[http://wordpress.org|WordPress]]) to manage your personal blog. For your research project, you've settled on another open-source application (Say, [[http://omeka.org|Omeka]]). Both of these are applications that need to be installed on your Web host, but you can't just put them both at your main domain name -- if you did, both sites would quickly experience conflicts and errors. You need to cordone off separate spaces for your different Web "properties." 
 
 There are two primary strategies for parceling up your Web space. You can create **subdomains** or **subfolders**. But before you can understand the difference, you need to first understand what we mean when we talk about your **root** domain. 
 
@@ -38,5 +38,4 @@ There is one particular issue you need to be aware of. Let's say you've installe
   * If you really just need one site, sometimes installing at the root of your domain is the easiest thing to do, at least as you're getting started. You can always add more pieces to your territory later with either subdomains or subfolders.
 
 ==Tutorials==
-  * [[Creating_a_Subdomain | Creating a subdomain]]
-  * [[Subfolders | Working with subfolders]]
+  * [[domain-management:setting-up-subdomains|Setting Up Subdomains]]
