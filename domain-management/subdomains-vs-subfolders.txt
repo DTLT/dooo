@@ -1,3 +1,6 @@
+====== Subdomains versus Subfolders ======
+
+
 When you're first getting started with a new space on a new Web host, you might think of yourself as owning a small "territory" of the Web. Everything you place in your public folder on the server becomes available for anyone on the Web to see (assuming they know the address of your site and the files you've placed there). 
 
 If you're just putting up a handful of static, HTML pages which you want to make available to colleagues, friends, or family by sending them links, then working with this large, unorganized space may work. But as soon as you get to the point where you want to organize your site, you're going to need a new strategy.
