@@ -32,14 +32,11 @@ There is one particular issue you need to be aware of. Let's say you've installe
 
 ==Tips & Review==
 
-* **Subdomains** are generally a cleaner, more elegant solution to organizing your site. You're less likely to get conflicts or errors. However, when using subdomains the process is slightly more complicated: You must create subdomains first, before you can install anything in them. 
-
-* **Subfolders** don't create as pretty URLs as subdomains, but they're easier to set up. They can, however, result in conflicts with existing Web pages. 
-
-* As soon as you create subdomains or subfolders to organize your site, you need to consider how people are going to find them. If you've created a new primary blog at **blog.yourdomain.com**, and someone goes to just **yourdomain.com**, they won't see that new site. It is possible to set up [[Redirecting_a_Site | redirects]] to avoid this issue. You can also always create links from pages on one subdomain of your site to another. 
-
-* If you really just need one site, sometimes installing at the root of your domain is the easiest thing to do, at least as you're getting started. You can always add more pieces to your territory later with either subdomains or subfolders.
+  * **Subdomains** are generally a cleaner, more elegant solution to organizing your site. You're less likely to get conflicts or errors. However, when using subdomains the process is slightly more complicated: You must create subdomains first, before you can install anything in them. 
+  * **Subfolders** don't create as pretty URLs as subdomains, but they're easier to set up. They can, however, result in conflicts with existing Web pages. 
+  * As soon as you create subdomains or subfolders to organize your site, you need to consider how people are going to find them. If you've created a new primary blog at **blog.yourdomain.com**, and someone goes to just **yourdomain.com**, they won't see that new site. It is possible to set up [[Redirecting_a_Site | redirects]] to avoid this issue. You can also always create links from pages on one subdomain of your site to another. 
+  * If you really just need one site, sometimes installing at the root of your domain is the easiest thing to do, at least as you're getting started. You can always add more pieces to your territory later with either subdomains or subfolders.
 
 ==Tutorials==
-* [[Creating_a_Subdomain | Creating a subdomain]]
-* [[Subfolders | Working with subfolders]]
+  * [[Creating_a_Subdomain | Creating a subdomain]]
+  * [[Subfolders | Working with subfolders]]
