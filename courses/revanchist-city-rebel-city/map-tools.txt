@@ -1,37 +1,90 @@
-====== Mapping Tools ======
+====== Tools & Apps ======
+
+For your projects, you will be building a digital representation of your projects, through the creation of Web pages and an online timeline and map. This page summarizes the range of tools and apps available to you as you plan your digital project. 
+
+===== Omeka =====
+Omeka is a Web-based content management system specifically designed to allow you to create online collections. It is used by libraries and museums, in particular, as a tool for building online item repositories and associated online exhibits. 
+
+You will be using Omeka to collect the various resources and items that you'll be using for your project. Within Omeka, you can create individual item records that contain a wealth of information -- you can also associate and display files with items, such as digital images. You should try to use Omeka as your primary repository for the "stuff" you are finding to build your online project. 
+
+  * You can [[https://omeka.org/ | find more information about Omeka here]].
+  * You can [[https://omeka.org/codex/Documentation | find complete documentation for Omeka here]]. Note that Omeka can do many things that are likely beyond the scope of what you'll need to use it for. This documentation is comprehensive, so try not to be overwhelmed by it. 
+
+===== Omeka Simple Pages =====
+As part of your Omeka site, you will also probably want to build Web pages that describe and contextualize your project. From these pages, for example, you can link to your timeline and map. For this, you will be using a plugin for Omeka called "Simple Pages." It is very simple to use. :-) Please note that this plugin has been pre-installed for you; all you need to do is activate it. 
+
+You can [[http://omeka.org/codex/Plugins/SimplePages_2.0 | find more information about using Simple Pages here.]] 
 
 Part of your project for this class may include creating a digital map to tell the story of the project you are researching. There are a number of Mapping Tools/Apps that we recommend you consider when deciding the best way to create your map story. 
 
-===== Omeka Neatline =====
+===== Timelines in Omeka =====
+As part of your project, you will be building a timeline. You have two options for creating a timeline in Omeka: 
+
+
+==== Neatline Time====
+This is a plugin for Omeka that is part of the Neatline suite (which we have installed for you). It allows you to create a "stand-alone" timeline for your project based on items (and their dates) in your collection. It has been installed in your plugins directory, but you will need to activate it to start using it.
+
+If you are going to be using one of the ESRI story maps for your map, the Neatline Time plugin is probably the best choice for building your timeline. 
+
+You can [[http://neatline.org/plugins/neatline-time/ | find more information about Neatline Timeline here.]]
+
+==== Neatline Simile Widget ====
+This is another plugin that works with Neatline, but instead of creating a stand-alone timeine based on your collection items, it creates a timeline that is integrated with your Neatline Map (and the records on that map).  It has been installed in your plugins directory, but you will need to activate it to start using it. 
+
+If you are going to be using Omeka Neatline to build your map, the Simile Widget may be a good choice for you because you can integrate directly in your map. 
+
+You can [[https://github.com/scholarslab/nl-widget-Simile | find more information about Neatline Simile Widget here.]]
+
+===== Mapping Tools =====
+
+
+==== Omeka Neatline ====
 As part of your Omeka install, we've included a plugin called Neatline which allows you to create interactive maps. These maps can include the items that you've already created in your Omeka collection. Neatline allows you to geo-locate those items on a zoomable/pannable map, and it automatically creates annotated "pop-ups" for each item based upon the data you've entered. Users can also click on the pop-up information to browse the full Omeka record for that item. 
 
 You can also create records in your map that aren't linked to items in Omeka. This can be useful for when you need to draw a line or shape on your map to call out a particular region or neighborhood. You may want that shape to exist on your map, but you wouldn't want it to become an actual item in your Omeka collection. 
 
-Neatline is well-documented, and you can find [[http://neatline.org/ | support materials for using it here]]. 
-
 Generally speaking, we recommend that if you use Neatline you start by creating your collection of items, and then move into Neatline to map them. 
 
-===== ESRI Storymaps =====
+Another feature of Neatline worth noting is that you can build an integrated timeline into your map using the Neatline Timeline Widget. 
+
+  * You can [[http://neatline.org | find general information about NeatLine here.]]
+  * You can [[http://docs.neatline.org/ | find documentation for Neatline here.]]
+  * You can [[http://neatline.org/neatline-in-action/ | find examples of Neatline maps here.]]
+ 
+
+==== ESRI Storymaps ====
 ESRI, the company that makes ARCGIS, provide a library of free storymap templates/tools that you can also use to create a map of your project. You can see the [[http://storymaps.arcgis.com/en/app-list/ | entire library of map apps they offer here.]] In particular, we recommend you consider three of their apps: 
 
-==== Map Tour ====
+=== Map Tour ===
 
-This app allows you to create a map-based story by plotting a sequential, place-based tour of an area. You can use it to geo-tag a series of images and captions that are then linked to an interactive map. Map Tour can be installed on your DoOO Web server space, but you can also use the ESRI-hosted [[https://www.arcgis.com/home/signin.html?returnUrl=http%3A%2F%2Fwww.arcgis.com%2Fapps%2FMapTour%2F%3FfromScratch | Map Tour Creator]]. You will need to have a free, public account with ESRI in order to use this tool. You can [[http://storymaps.arcgis.com/en/app-list/map-tour/ | learn more about the Map Tour app here]].
+This app allows you to create a map-based story by plotting a sequential, place-based tour of an area. You can use it to geo-tag a series of images and captions that are then linked to an interactive map. Map Tour can be installed on your DoOO Web server space, but you can also use the ESRI-hosted [[https://www.arcgis.com/home/signin.html?returnUrl=http%3A%2F%2Fwww.arcgis.com%2Fapps%2FMapTour%2F%3FfromScratch | Map Tour Creator]]. You will need to have a free, public account with ESRI in order to use this tool. 
 
-==== Shortlist ====
+  * You can [[http://storymaps.arcgis.com/en/app-list/map-tour/ | learn more about the Map Tour app here]].
+  * You can [[http://storymaps.arcgis.com/en/app-list/map-tour/tutorial/ | find detailed step-by-step instructions here.]]
+  * You can [[http://storymaps.arcgis.com/en/app-list/map-tour/gallery/#s=0&n=30&d=1&md=storymaps-apps:000100000 | find examples of Map Tour stories here]].
+ 
+=== Shortlist ===
 
-This app allows you to create a map-based story by building a curated set of points of interest (POI). You can [[http://storymaps.arcgis.com/en/app-list/shortlist/ | find more information about the Shortlist App here]]. 
+This app allows you to create a map-based story by building a curated set of points of interest (POI).  
 
 In order to create a shortlist map, you will need to work in a few different environments:
   * First you must create/edit a CSV (comma separated value) file on your computer using a program like Excel that contains information about your POIs. Alternatively, you can use ArcMap to generate the CSV file or a shapefile containing information about your points.  
   * You must then use ESRI's ARGIS Online tool (you can access it with a free, public account) to upload your CSV/shape file. If you like, you can also add additional layers in the ARGIS tool for shapes, lines, etc. When you are done, you'll need to make your map public and copy information about its new Webmaps ID. 
   * Finally, you must install the Shortlist app into your DoOO space. We have created an Installatron option for uploading the files. You'll need to edit these files (using [[cpanel:file-structures-and-the-file-manager|the DoOO File Manager]] or [[cpanel:setting-up-ftp| an FTP account]] with information about the public map you created in ARGIS Online. 
 
-==== Playlist ====
+  * You can [[http://storymaps.arcgis.com/en/app-list/shortlist/ | find more information about the Shortlist App here]].
+  * You can [[http://storymaps.arcgis.com/en/app-list/shortlist/tutorial/ | find detailed, step-by-step instructions here.]] 
+  * You can [[http://storymaps.arcgis.com/en/app-list/shortlist/gallery/#s=0&n=30&d=1&md=storymaps-apps:000001000 | find examples of Shortlist map stories here.]]
 
-This app allows you to create a map-based story by building a list of locations for users to explore and previewing these items in a thumbnail display. You can [[http://storymaps.arcgis.com/en/app-list/playlist/|find more information about this app here]]. 
+=== Playlist ===
+
+This app allows you to create a map-based story by building a list of locations for users to explore and previewing these items in a thumbnail display. 
 
 In order to create a playlist map, you will need to work in a few different environments:
   * First you must create/edit a CSV (comma separated value) file on your computer using a program like Excel that contains information about your locations. 
   * You must then use ESRI's ARGIS Online tool (you can access it with a free, public account) to upload your CSV file and do further configuration.
   * Finally, you must install the Playlist app into your DoOO space. We have created an Installatron option for uploading the files. You'll need to edit these files (using [[cpanel:file-structures-and-the-file-manager|the DoOO File Manager]] or [[cpanel:setting-up-ftp| an FTP account]] with information about the public map you created in ARGIS Online. 
+
+  * You can [[http://storymaps.arcgis.com/en/app-list/playlist/|find more information about this app here]].
+  * You can [[http://storymaps.arcgis.com/en/app-list/playlist/ | find detailed, step-by-step instructions here]]. 
+  * You can [[http://storymaps.arcgis.com/en/app-list/playlist/gallery/#s=0&n=30&d=1&md=storymaps-apps:000010000 | find examples of Playlist map stories here.]]
