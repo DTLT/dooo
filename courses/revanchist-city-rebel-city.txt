@@ -6,4 +6,4 @@
 {{page>general:signing-up-on-domain-of-one-s-own}}
 {{page>omeka:installing-omeka}}
 
-[[courses:revanchist-city-rebel-city:map-tools|Tools &amp; Apps]]
+{{page>courses:revanchist-city-rebel-city:map-tools}}
