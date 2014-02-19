@@ -14,11 +14,24 @@ Generally speaking, we recommend that if you use Neatline you start by creating 
 ===== ESRI Storymaps =====
 ESRI, the company that makes ARCGIS, provide a library of free storymap templates/tools that you can also use to create a map of your project. You can see the [[http://storymaps.arcgis.com/en/app-list/ | entire library of map apps they offer here.]] In particular, we recommend you consider three of their apps: 
 
-  * **Map Tour**: This app allows you to create a map-based story by plotting a sequential, place-based tour of an area. You can use it to geo-tag a series of images and captions that are then linked to an interactive map. Map Tour can be installed on your DoOO Web server space, but you can also use the ESRI-hosted [[https://www.arcgis.com/home/signin.html?returnUrl=http%3A%2F%2Fwww.arcgis.com%2Fapps%2FMapTour%2F%3FfromScratch | Map Tour Creator]]. You will need to have a free, public account with ESRI in order to use this tool. You can [[http://storymaps.arcgis.com/en/app-list/map-tour/ | learn more about the Map Tour app here]].
-  * **Shortlist**: This app allows you to create a map-based story by create a curated set of points of interest (POI). You can [[http://storymaps.arcgis.com/en/app-list/shortlist/ | find more information about the Shortlist App here]]. In order to create these maps, you will need to work in a few different environments:
-    * First you must create/edit a CSV (comma separated value) file on your computer using a program like Excel that contains information about your POIs. Alternatively, you can use ArcMap to generate the CSV file or a shapefile containing information about your points.  
+==== Map Tour ====
 
-    * You must then use ESRI's ARGIS Online tool (you can access it with a free, public account) to upload your CSV/shape file. If you like, you can also add additional layers in the ARGIS tool for shapes, lines, etc. When you are done, you'll need to make your map public and copy information about its new Webmaps ID. 
-    * Finally, you must install the Shortlist app into your DoOO space. We have created an Installatron option for uploading the files with sample data. You'll need to edit these files (using [[cpanel:file-structures-and-the-file-manager|the DoOO File Manager]] or [[cpanel:setting-up-ftp| an FTP account]] with information about the public map you created in ARGIS Online. 
+This app allows you to create a map-based story by plotting a sequential, place-based tour of an area. You can use it to geo-tag a series of images and captions that are then linked to an interactive map. Map Tour can be installed on your DoOO Web server space, but you can also use the ESRI-hosted [[https://www.arcgis.com/home/signin.html?returnUrl=http%3A%2F%2Fwww.arcgis.com%2Fapps%2FMapTour%2F%3FfromScratch | Map Tour Creator]]. You will need to have a free, public account with ESRI in order to use this tool. You can [[http://storymaps.arcgis.com/en/app-list/map-tour/ | learn more about the Map Tour app here]].
 
-  * Unordered List Item
+==== Shortlist ====
+
+This app allows you to create a map-based story by building a curated set of points of interest (POI). You can [[http://storymaps.arcgis.com/en/app-list/shortlist/ | find more information about the Shortlist App here]]. 
+
+In order to create a shortlist map, you will need to work in a few different environments:
+  * First you must create/edit a CSV (comma separated value) file on your computer using a program like Excel that contains information about your POIs. Alternatively, you can use ArcMap to generate the CSV file or a shapefile containing information about your points.  
+  * You must then use ESRI's ARGIS Online tool (you can access it with a free, public account) to upload your CSV/shape file. If you like, you can also add additional layers in the ARGIS tool for shapes, lines, etc. When you are done, you'll need to make your map public and copy information about its new Webmaps ID. 
+  * Finally, you must install the Shortlist app into your DoOO space. We have created an Installatron option for uploading the files. You'll need to edit these files (using [[cpanel:file-structures-and-the-file-manager|the DoOO File Manager]] or [[cpanel:setting-up-ftp| an FTP account]] with information about the public map you created in ARGIS Online. 
+
+==== Playlist ====
+
+This app allows you to create a map-based story by building a list of locations for users to explore and previewing these items in a thumbnail display. You can [[http://storymaps.arcgis.com/en/app-list/playlist/|find more information about this app here]]. 
+
+In order to create a playlist map, you will need to work in a few different environments:
+  * First you must create/edit a CSV (comma separated value) file on your computer using a program like Excel that contains information about your locations. 
+  * You must then use ESRI's ARGIS Online tool (you can access it with a free, public account) to upload your CSV file and do further configuration.
+  * Finally, you must install the Playlist app into your DoOO space. We have created an Installatron option for uploading the files. You'll need to edit these files (using [[cpanel:file-structures-and-the-file-manager|the DoOO File Manager]] or [[cpanel:setting-up-ftp| an FTP account]] with information about the public map you created in ARGIS Online. 
