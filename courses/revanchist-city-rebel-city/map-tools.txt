@@ -1,0 +1,18 @@
+====== Mapping Tools ======
+
+Part of your project for this class may include creating a digital map to tell the story of the project you are researching. There are a number of Mapping Tools/Apps that we recommend you consider when deciding the best way to create your map story. 
+
+===== Omeka Neatline =====
+As part of your Omeka install, we've included a plugin called Neatline which allows you to create interactive maps. These maps can include the items that you've already created in your Omeka collection. Neatline allows you to geo-locate those items on a zoomable/pannable map, and it automatically creates annotated "pop-ups" for each item based upon the data you've entered. Users can also click on the pop-up information to browse the full Omeka record for that item. 
+
+You can also create records in your map that aren't linked to items in Omeka. This can be useful for when you need to draw a line or shape on your map to call out a particular region or neighborhood. You may want that shape to exist on your map, but you wouldn't want it to become an actual item in your Omeka collection. 
+
+Neatline is well-documented, and you can find [[http://neatline.org/ | support materials for using it here]]. 
+
+Generally speaking, we recommend that if you use Neatline you start by creating your collection of items, and then move into Neatline to map them. 
+
+===== ESRI Storymaps =====
+ESRI, the company that makes ARCGIS, provide a library of free storymap templates/tools that you can also use to create a map of your project. You can see the [[http://storymaps.arcgis.com/en/app-list/ | entire library of map apps they offer here.]] In particular, we recommend you consider three of their apps: 
+
+  * **Map Tour**: This app allows you create a map-based story by plotting a sequential, place-based tour of an area. You can use it to geo-tag a series of images and captions that are then linked to an interactive map. Map Tour can be installed on your DoOO Web server space, but you can also use the ESRI-hosted [[https://www.arcgis.com/home/signin.html?returnUrl=http%3A%2F%2Fwww.arcgis.com%2Fapps%2FMapTour%2F%3FfromScratch | Map Tour Creator]]. You will need to have a free, public account with ESRI in order to use this tool. You can [[http://storymaps.arcgis.com/en/app-list/map-tour/ | learn more about the Map Tour app here]].
+  * 
