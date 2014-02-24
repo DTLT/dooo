@@ -35,6 +35,19 @@ If you are going to be using Omeka Neatline to build your map, the Simile Widget
 
 You can [[https://github.com/scholarslab/nl-widget-Simile | find more information about Neatline Simile Widget here.]]
 
+===== Timeplot Timeline =====
+
+If your project involves data that you would like to visualize over time, you may wish to consider using Simile Timeplot, a script library that will create a timeline based upon your data. In addition to adding data points to the timeline, you can juxtapose that data against particular events. 
+
+Using plotline will require you to create text files for your data, using commas to separate columns of data. If you want to add events, you'll need to create an XML file out of your event data. Creating these files isn't technically complicated, but you should expect to spend some time getting your data into the proper format. 
+
+In addition, you will have to create/edit HTML and javascript files in your Domain of One's Own Web space to make your Timeplot. While the documentation covers the general setup of Timeplot, you may need to spend sometime closely following the tutorial and examining the code behind some of the examples. 
+
+There is currently no way to easily "embed" Timeplot timelines within Omeka pages or Neatline maps. You should expect your Timeplot to live outside of Omeka (in files/folders that you will need to create), and you will need to link to it from your pages in Omeka. 
+
+  * You can [[http://www.simile-widgets.org/timeplot/ | find general information about and examples of Timeplot here.]]
+  * You can [[http://www.simile-widgets.org/timeplot/docs/ | find documentation for Timeplot here.]]
+
 ===== Mapping Tools =====
 
 
