@@ -3,13 +3,13 @@
 
 Your Web hosting account on Domain of One's Own is managed through a control panel interface called cPanel. Using this tool, you can do all kind of thing with your Web space including the following:
 
-* install Web applications
-* create email accounts
-* view and manage files in your space
-* create subdomains
-* create and configure FTP accounts
-* review access logs for your site
-* manually manage and configure databases
+  * install Web applications
+  * create email accounts
+  * view and manage files in your space
+  * create subdomains
+  * create and configure FTP accounts
+  * review access logs for your site
+  * manually manage and configure databases
 
 Accessing cPanel is easy: You simply need to go to [[http://www.umwdomains.com | www.umwdomains.com]] and click the **Login** link at the top of the page. You'll need to enter the userid/password that was included in the  email you received during the Domain of One's Own signup process (Subject: New Account Information).
 
