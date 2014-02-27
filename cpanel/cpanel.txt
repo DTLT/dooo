@@ -2,13 +2,13 @@
 
 ====== cPanel ======
 
-  * [[cpanel:Introduction to cPanel]]
-  * [[cpanel:Changing Your Password]]
-  * [[cpanel:Installing Applications with Installatron]]
-  * [[cpanel:Applications Available using Installatron]]
-  * [[cpanel:Accessing your Files through the File Manager]]
-  * [[cpanel:File Structures and the File Manager]]
-  * [[cpanel:Creating an Email Address]]
-  * [[cpanel:Setting up FTP]]
+  * [[Introduction to cPanel]]
+  * [[Changing Your Password]]
+  * [[Installing Applications with Installatron]]
+  * [[Applications Available using Installatron]]
+  * [[Accessing your Files through the File Manager]]
+  * [[File Structures and the File Manager]]
+  * [[Creating an Email Address]]
+  * [[Setting up FTP]]
   * [[domain-management:setting-up-subdomains|Setting Up Subdomains]]
 
