@@ -1,7 +1,7 @@
 ====== Introduction to cPanel ======
 
 
-Your Web hosting account on Domain of One's Own is managed through a control panel interface called cPanel. Using this tool, you can do all kind of thing with your Web space including the following:
+Your Web hosting account on Domain of One's Own is managed through a control panel interface called cPanel. cPanel is an industry-standard tool for managing your domain and hosting. Using this tool, you can do all kind of thing with your Web space including the following:
 
   * install Web applications
   * create email accounts
