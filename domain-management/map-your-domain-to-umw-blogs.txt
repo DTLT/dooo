@@ -12,8 +12,8 @@
 
 <li>After that, click OK and you are all done with the DNS settings. Now go back to the UMW Blog you want to map a domain upon, and go to the Tools-->Domain Mapping sub-tab and enter the domain address in the appropriate field. Click Add, and your new domain should be mapped.</li>
 <img src="http://farm4.static.flickr.com/3656/3548634337_ec798ebc3d_o.png" />
-</ol>
 
-If for any reason this didn't work, go back into the back end by clicking the back button and go to Tools--Domain Mapping and delete the mapped domain and contact Jim Groom at jgroom_at_umw.edu
+<li>If for any reason this didn't work, go back into the back end by clicking the back button and go to Tools--Domain Mapping and delete the mapped domain and contact Jim Groom at jgroom_at_umw.edu</li>
+</ol>
 </html>
 
