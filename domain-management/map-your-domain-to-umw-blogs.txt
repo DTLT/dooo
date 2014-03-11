@@ -10,7 +10,7 @@
 <li>Find the domain, or subdomain, you want to map to UMW Blogs in the list of Zone File Records. Under the "Action" column, click&nbsp;<strong>Edit</strong>.</li>
 <li>Leave the Name, Type, and TTL fields set to their defaults. Update the <strong>Address</strong> field to match the UMW Blogs IP address:&nbsp;<strong>216.157.108.172</strong> and click&nbsp;<strong>Edit record</strong> when you are done.</li>
 
-<li>After that, click OK and you are all done with the DNS settings. Now go back to the UMW Blog you want to map a domain upon, and go to the Tools-->Domain Mapping sub-tab and enter the domain address in the appropriate field. Click Add, and your new domain should be mapped.</li>
+<li>After that, click OK and you are all done with the DNS settings. Now go to the UMW Blogs blog you want to map a domain upon, and find the Tools-->Domain Mapping sub-tab and enter the domain address in the appropriate field. Click Add, and your new domain should be mapped.</li>
 <img src="http://farm4.static.flickr.com/3656/3548634337_ec798ebc3d_o.png" />
 
 <li>If for any reason this didn't work, go back into the back end by clicking the back button and go to Tools-->Domain Mapping and delete the mapped domain and contact Jim Groom at jgroom_at_umw.edu</li>
