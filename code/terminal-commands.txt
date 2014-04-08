@@ -11,3 +11,7 @@ This will print a list of folders/files ordered by their size. This is useful fo
 ##View all running processes
 
 `ps -auxf`
+
+##Run ClamAV scan on all users
+
+`clamscan -ir /home/*/public_html/ -l /var/log/clamscan.log`
