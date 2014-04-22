@@ -1,5 +1,6 @@
-====== Migrating Off of Domain of One's Own ======
+{{indexmenu_n>7}}
+
+#Migrating Off of Domain of One's Own
 
 {{namespace>:migrating}}
 
-{{indexmenu_n>7}}
