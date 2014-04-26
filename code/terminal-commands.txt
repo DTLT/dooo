@@ -15,3 +15,7 @@ This will print a list of folders/files ordered by their size. This is useful fo
 ##Run ClamAV scan on all users
 
 `clamscan -ir /home/*/public_html/ -l /var/log/clamscan.log`
+
+##View activity in MySQL
+
+`watch mysqladmin process`
