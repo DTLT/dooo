@@ -19,3 +19,7 @@ This will print a list of folders/files ordered by their size. This is useful fo
 ##View activity in MySQL
 
 `watch mysqladmin process`
+
+##View all cron jobs for each user
+
+`for user in $(cut -f1 -d: /etc/passwd); do echo $user; crontab -u $user -l; done`
