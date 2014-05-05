@@ -1,4 +1,3 @@
-~~FEDERATION~~
 A Domain of One’s Own is a project at the [[http://umwdomains.com|University of Mary Washington]] managed by the [[http://academics.umw.edu/dtlt|Division of Teaching and Learning Technologies]].
 
 {{indexmenu>..#1| navbar nocookie msort nsort}}
