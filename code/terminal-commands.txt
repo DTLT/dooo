@@ -29,3 +29,8 @@ This will print a list of folders/files ordered by their size. This is useful fo
 `find . -printf '%T@ %c %p\n' | sort -k 1n,1 -k 7 | cut -d' ' -f2-`
 
 Basically after running this it will spit out a list from oldest to newest files so it's easier to spot if a site that hadn't been changed in a while was hacked.
+
+##Fix Folder and File permissions
+
+`find . -type d -exec chmod 755 {} \;`
+`find . -type f -exec chmod 644 {} \;`
