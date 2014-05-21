@@ -128,3 +128,5 @@ Then at the bottom there is a tab called plugins, its hard to see, but click it.
 From here you can enable the plugin by clicking it and then click "Enable selected plugins"
 
 {{:tinytinyrss:enabling_plugins.png?600|}}
+
+
