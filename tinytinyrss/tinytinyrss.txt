@@ -103,19 +103,28 @@ Video and Audio: You can subscribe to video sites such as youtube and others, bu
 
 Log in to your Cpanel, Go to the "Files" Section and click on "File Manager".
 
-You should see a file named whatever you named your Tiny Tiny RSS reader directory. Click and enter that file. 
+{{:tinytinyrss:files.png?600|}}
 
-Click upload to video zip file to that folder.
+You should see a file named what you named your Tiny Tiny RSS directory. Click and enter that file. 
 
-With the zip filed selected, click extract from the top bar to unzip the file. It should be called "ttrss-videoframes-master."
+{{:tinytinyrss:rss_folder.png?200|}}
+
+At the top, click upload to video zip file to that folder.
+
+
+With the zip filed selected, click extract from the top bar to unzip the file. It will create a file called "ttrss-videoframes-master."
+
+{{:tinytinyrss:rss_folder_opened.png?200|}}
 
 Then enter the unzipped file. There will be another folder inside of the there called "Video Frames"
 Move that file out of of the "ttress-videoframes-master" into the plugins folder. 
 
-Then head over to your Tiny RSS site.
+Then head over to your Tiny RSS site, login, and from the homepage "Click Actions," and then "Preferences".
 
-Click actions, preferences
+Then at the bottom there is a tab called plugins, its hard to see, but click it. 
 
-Then at the bottom there is a tab called plugins, click it. 
+{{:tinytinyrss:click_plugins.png?200|}}
 
 From here you can enable the plugin by clicking it and then click "Enable selected plugins"
+
+{{:tinytinyrss:enabling_plugins.png?200|}}
