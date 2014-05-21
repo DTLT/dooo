@@ -114,12 +114,10 @@ You should see a file named what you named your Tiny Tiny RSS directory. Click a
 At the top, click upload to video zip file to that folder.
 
 
-With the zip filed selected, click extract from the top bar to unzip the file. It will create a file called "ttrss-videoframes-master."
+With the zip filed selected, click extract from the top bar to unzip the file. It will create a file called "ttrss-videoframes-master." Then enter the unzipped file. There will be another folder inside of the there called "Video Frames", move that file out of of the "ttress-videoframes-master" into the plugins folder. 
 
 {{:tinytinyrss:rss_folder_opened.png?600|}}
 
-Then enter the unzipped file. There will be another folder inside of the there called "Video Frames"
-Move that file out of of the "ttress-videoframes-master" into the plugins folder. 
 
 Then head over to your Tiny RSS site, login, and from the homepage "Click Actions," and then "Preferences".
 
