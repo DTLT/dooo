@@ -130,3 +130,4 @@ From here you can enable the plugin by clicking it and then click "Enable select
 {{:tinytinyrss:enabling_plugins.png?600|}}
 
 
+Now you are ready to view viedos straight from your feed!
