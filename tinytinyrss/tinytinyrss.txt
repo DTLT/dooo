@@ -86,5 +86,11 @@ Then a pop up window will appear. Click "Unsubscribe" in the lower left hand cor
 
 
 
+===== Applications of TTRSS =====
+
+1) News sites
+2) Technology sites
+3) Fashion Sites
+4) Craigslist: Find your city, go into the subsection that you want, type in your search at the top and hit search. Once on the results page, copy the URL at the top, then past in the TTRSS.
 
 
