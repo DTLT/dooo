@@ -29,7 +29,8 @@ The first step is to change your username and enter a password.
 {{:tinytinyrss:edit_admin_info.png?600|}}
 
 Go to your RSS website by entering www.yourwebsite.com/insertdirectoryhere into your web browser and log in using the information you just entered. 
-{{:tinytinyrss:log_in.png?200|}}
+
+{{:tinytinyrss:log_in.png?600|}}
 
 
 From there it is suggested that you make another account to use TTRSS or you can just use your admin account.
@@ -37,13 +38,16 @@ From there it is suggested that you make another account to use TTRSS or you can
 To create another account you will need to log in as your admin account, the one you created above, to create another account to use TT RSS.
 
 In the top left corner click actions, then click preferences.
-{{:tinytinyrss:actions_pref.png?200|}}
+
+{{:tinytinyrss:actions_pref.png?600|}}
 
 At top a bar of options will appear where you can change multiple settings. You will need to click on "Users", then click "Create user".
-{{:tinytinyrss:user_create_user.png?200|}}
+
+{{:tinytinyrss:user_create_user.png?600|}}
 
 A pop up window will appear, enter a username. 
-{{:tinytinyrss:enter_login.png?200|}}
+
+{{:tinytinyrss:enter_login.png?600|}}
 
 Then click on the new user name and another pop up window will appear. Enter a password for the user. Then click exit preferences in the top left corner.
 
