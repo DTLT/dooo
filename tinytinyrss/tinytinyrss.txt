@@ -88,12 +88,34 @@ Then a pop up window will appear. Click "Unsubscribe" in the lower left hand cor
 
 ===== Applications of TTRSS =====
 
-1) News sites
-
-2) Technology sites
-
-3) Fashion Sites
-
-4) Craigslist: Find your city, go into the subsection that you want, type in your search at the top and hit search. Once on the results page, copy the URL at the top, then paste the link into TTRSS.
+  - News sites
+  - Technology Sites
+  - Fashion
+  - Comedy
 
 
+Craigslist: Find your city, go into the subsection that you want (i.e.: Cars+Trucks) , type in your search at the top and hit search. Once on the results page, copy the URL in your browser, then paste the link into TTRSS's subscribe to feed section.
+
+
+Reddit: Follow the last few steps below for Video and Audio and in the preferences tab you will see a plugin labeled, "af_redditimgur" click to select the plugin, and then click, "Enable selected plugins"
+
+Video and Audio: You can subscribe to video sites such as youtube and others, but you may notice that they the videos will not appear in the feed and you have go to another web page to view them. To change this an make it a bit easier you can download a [[https://github.com/tribut/ttrss-videoframes/archive/master.zip|Video Plugin here.]] It currently supports Youtube, Vimeo, Dailymotion, MyVideo, Viddler and SoundCloud. More information can be found here: https://github.com/tribut/ttrss-videoframes.
+
+Log in to your Cpanel, Go to the "Files" Section and click on "File Manager".
+
+You should see a file named whatever you named your Tiny Tiny RSS reader directory. Click and enter that file. 
+
+Click upload to video zip file to that folder.
+
+With the zip filed selected, click extract from the top bar to unzip the file. It should be called "ttrss-videoframes-master."
+
+Then enter the unzipped file. There will be another folder inside of the there called "Video Frames"
+Move that file out of of the "ttress-videoframes-master" into the plugins folder. 
+
+Then head over to your Tiny RSS site.
+
+Click actions, preferences
+
+Then at the bottom there is a tab called plugins, click it. 
+
+From here you can enable the plugin by clicking it and then click "Enable selected plugins"
