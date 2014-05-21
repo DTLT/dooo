@@ -6,22 +6,27 @@
 Log into cpanel.umwdomains.com
 
 In the web applications tab click view more.
-{{:tinytinyrss:view_more.png?200|}}
+
+{{:tinytinyrss:view_more.png?600|}}
 
 Go to the applications browser in the top right hand corner.
-{{:tinytinyrss:applicaiton_browser.png?200|}}
+
+{{:tinytinyrss:applicaiton_browser.png?600|}}
 
 Search for “Tiny Tiny RSS” (TT RSS)
 Click install this application.
-{{:tinytinyrss:install.png?200|}}
+
+{{:tinytinyrss:install.png?600|}}
 
 You will be asked to create a directory for the new application, example: www.yourwebsite.com/insertdirectoryhere 
-{{:tinytinyrss:create_a_directory.png?200|}}
+
+{{:tinytinyrss:create_a_directory.png?600|}}
 
 The application will automatically be installed to your applications in the My applications tab.
 Go to the “My Applications” tab you should see My RSS.
 The first step is to change your username and enter a password.
-{{:tinytinyrss:edit_admin_info.png?200|}}
+
+{{:tinytinyrss:edit_admin_info.png?600|}}
 
 Go to your RSS website by entering www.yourwebsite.com/insertdirectoryhere into your web browser and log in using the information you just entered. 
 {{:tinytinyrss:log_in.png?200|}}
@@ -41,10 +46,12 @@ A pop up window will appear, enter a username.
 {{:tinytinyrss:enter_login.png?200|}}
 
 Then click on the new user name and another pop up window will appear. Enter a password for the user. Then click exit preferences in the top left corner.
-{{:tinytinyrss:edit_user_login.png?200|}}
+
+{{:tinytinyrss:edit_user_login.png?600|}}
 
 Click "actions", click log out, and then log back in with your other username.
-{{:tinytinyrss:actions_log_out.png?200|}}
+
+{{:tinytinyrss:actions_log_out.png?600|}}
 
 And you are all done setting up Tiny Tiny RSS!
 
@@ -54,11 +61,12 @@ And you are all done setting up Tiny Tiny RSS!
 
 ===== Using Tiny Tiny RSS =====
 
-Tiny Tiny RSS is very simple to use. To start adding feeds and getting pages simply click "Actions", and then click "Subscribe to feed".{{:tinytinyrss:unsubscribe_pop_up.png?200|}}
-{{:tinytinyrss:subscribe_to_feed.png?200|}}
+Tiny Tiny RSS is very simple to use. To start adding feeds and getting pages simply click "Actions", and then click "Subscribe to feed".
+
+{{:tinytinyrss:subscribe_to_feed.png?600|}}
 
 There will be a pop up where you can enter the sites URL and then TTRSS will start to pull in articles. 
-{{:tinytinyrss:subscribe_pop_up.png?200|}}
+{{:tinytinyrss:subscribe_pop_up.png?600|}}
 
 
 Repeat until you have all the feeds that you want!
@@ -69,6 +77,8 @@ To edit or unsubscribe from a feed you can simply right click on the title of th
 {{:tinytinyrss:right_side_colum.png?200|}}
 
 Then a pop up window will appear. Click "Unsubscribe" in the lower left hand corner. You can also edit other options in this window as well. 
+
+{{:tinytinyrss:unsubscribe_pop_up.png?600|}}
 
 
 
