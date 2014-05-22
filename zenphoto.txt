@@ -1,0 +1,41 @@
+====== How to Use Zen Photo ======
+
+Log into http://cpanel.umwdomains.com/
+
+Scroll down to the application section.
+Click "view more" under the featured applications tab.
+
+{{:view_mo_apps.png?600|}}
+
+Scroll down the the photo apps section and click on Zenphoto.
+{{:find_photo_zen.png?600|}}
+
+This will take you to a new page then click "install this application" in the top left corner.
+
+Enter a directory for your gallery, and also create a Username and password for your account.
+Click install down at the bottom and Zenphoto will install.
+
+{{:enter_info.png?400|}}
+
+Go to you application dashboard. Then under the "My Gallery" tab or whatever you named your Zenphoto gallery. There will be a second link down, this where you can go to start editing and uploading photos to your gallery.
+{{:admin_link.png?600|}}
+
+
+Log in to your Zen Photo page
+
+Then click on the plugin's tab at the top.
+{{:plugins_tab.png?600|}}
+
+In the pulgins tab click uploader. Then enable at least the jQuery uploader. 
+
+{{:uploader_pulgin.png?400|}}
+
+Then you can refresh the page and then go to the new "Upload" tab at the top. 
+In that page you can choose files to upload to a new album or one that is already created. 
+
+{{:upload.png?300|}}
+
+
+In the albums tab you can edit information about the album and then it will also show you an option for the photos in the album and you can edit information of the individual photos.
+
+{{:edit_info.png?300|}}
