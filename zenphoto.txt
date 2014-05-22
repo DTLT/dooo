@@ -15,7 +15,7 @@ This will take you to a new page then click "install this application" in the to
 Enter a directory for your gallery, and also create a Username and password for your account.
 Click install down at the bottom and Zenphoto will install.
 
-{{:enter_info.png?400|}}
+{{:enter_info.png?600|}}
 
 Go to you application dashboard. Then under the "My Gallery" tab or whatever you named your Zenphoto gallery. There will be a second link down, this where you can go to start editing and uploading photos to your gallery.
 {{:admin_link.png?600|}}
@@ -28,14 +28,14 @@ Then click on the plugin's tab at the top.
 
 In the pulgins tab click uploader. Then enable at least the jQuery uploader. 
 
-{{:uploader_pulgin.png?400|}}
+{{:uploader_pulgin.png?600|}}
 
 Then you can refresh the page and then go to the new "Upload" tab at the top. 
 In that page you can choose files to upload to a new album or one that is already created. 
 
-{{:upload.png?300|}}
+{{:upload.png?600|}}
 
 
 In the albums tab you can edit information about the album and then it will also show you an option for the photos in the album and you can edit information of the individual photos.
 
-{{:edit_info.png?300|}}
+{{:edit_info.png?600|}}
