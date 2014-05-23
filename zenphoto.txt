@@ -41,3 +41,7 @@ In that page you can choose files to upload to a new album or one that is alread
 In the albums tab you can edit information about the album and then it will also show you an option for the photos in the album and you can edit information of the individual photos.
 
 {{:edit_info.png?600|}}
+
+
+Continue to edit add photos until you have a full album!
+You might also decided to make new albums or to create sub-albums for better sorting of your photos. 
