@@ -5,10 +5,10 @@
 <p><a href="http://omeka.org/about/" target="_blank">Omeka</a> is an open-source web application that can be used to create and display online digital collections. Developed by programmers at George Mason University, Omeka was designed to be user-friendly, both during installation and setup and during daily usage. To install Omeka, use these simple steps:</p>
 <br /><ol>
 <li>
-<p>To get started you'll need to login to your control panel by going to the UMW Domains homepage and clicking&nbsp;<strong>Login</strong>.<br /><br /><img src="http://farm4.staticflickr.com/3808/9394644932_42072c3f76_c_d.jpg" alt="UMW Domains home page" width="800" height="409" /><br /><br /></p>
+<p>To get started you'll need to login to your control panel by going to the UMW Domains homepage and clicking&nbsp;<strong>Login</strong>.<br /><br /><a href="https://www.flickr.com/photos/umwdtlt/14269419746" title="umwdomains homepage by umwdtlt, on Flickr"><img src="https://farm3.staticflickr.com/2922/14269419746_8706f3e121_z.jpg" width="640" height="447" alt="umwdomains homepage"></a><br /><br /></p>
 </li>
 <li>
-<p>Here you'll login with the username and password that was provided to you with the Welcome email during the signup process.<br /><br /><img src="http://farm4.staticflickr.com/3834/9394646464_cb1e711493_c.jpg" alt="UMW Domains Login Page" width="800" height="709" /><br /><br /></p>
+<p>Here you'll login with the username and password that was provided to you with the Welcome email during the signup process.<br /><br /><a href="https://www.flickr.com/photos/umwdtlt/14292016984" title="umwdomains.com log in by umwdtlt, on Flickr"><img src="https://farm3.staticflickr.com/2905/14292016984_49a6a27b24_z.jpg" width="640" height="490" alt="umwdomains.com log in"></a><br /><br /></p>
 </li>
 <li>
 <p>Once logged in you'll be at the homepage of your control panel. The easiest way to navigate the panel is using the search feature in the top right panel. Click the <strong>Search box</strong> and type "omeka" (without the quotes).&nbsp;As you type, the cPanel page will begin to narrow down results, and soon the only visible option will be&nbsp;<strong>Omeka</strong>. Click the<strong> Omeka&nbsp;</strong>button to continue.<br /><br /><img src="http://farm8.staticflickr.com/7391/9420842433_10291e0e83_c_d.jpg" alt="Omeka search page" width="800" height="383" /><br /><br /></p>
