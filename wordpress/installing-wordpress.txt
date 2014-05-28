@@ -5,11 +5,11 @@ WordPress is an open-source publishing platform that can be used for setting up 
 To get started you'll need to login to your control panel by going to the UMW Domains homepage and clicking **Login**.
 
 
-{{http://farm4.staticflickr.com/3808/9394644932_42072c3f76_c.jpg}}
+{{https://farm3.staticflickr.com/2922/14269419746_8706f3e121_z.jpg}}
 
 Here you'll login with the username and password that was provided to you with the **New Account Information** email during the signup process.
 
-{{http://farm4.staticflickr.com/3834/9394646464_cb1e711493_c.jpg}}
+{{https://farm3.staticflickr.com/2905/14292016984_49a6a27b24_z.jpg}}
 
 Once logged in you'll be at the homepage of your control panel. The easiest way to navigate the panel is using the search feature in the top right panel. Let's use it now to search for WordPress.
 
