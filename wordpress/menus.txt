@@ -28,3 +28,5 @@ There are two primary components to building a Custom Menu:
   * When you add a **Category** or **Tag** to a menu, the link will take your readers to an archive of all the posts on your site that use that category or tag. This can be a very useful feature for organizing your content when you're using posts to share your work. 
   * In addition to assigning Custom Menus to theme areas, there is a default Custom Menu widget that you can put in the sidebar of your site. This is useful for creating smaller, customized navigation for your site. 
   * If you forget to click **Save Menu** after making changes to your menu location or content, you will lose your work! 
+
+{{indexmenu_n>9}}
