@@ -4,4 +4,4 @@ What you put up in your Domain of One’s Own space rests entirely with you. You
 
 This is NOT an issue if you’re already planning on using your name openly on your site (in your domain name or elsewhere). This option is aimed, specifically, at those who, for whatever reason, feel they want to take every precaution to hide their identity on their site.
 
-{{indexmenu_n>5}}
+{{indexmenu_n>4}}
