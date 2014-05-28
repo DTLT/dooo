@@ -6,8 +6,8 @@ When you signed up for your domain a web hosting account was created. Although y
 
 Let's take a look at the **File Manager** built into your cPanel to get a better understanding of the file structure that makes up your website(s).
 
-  -Go the UMW Domains homepage and click **Login** in the top righthand corner {{http://farm4.staticflickr.com/3808/9394644932_42072c3f76_c.jpg}}
-  -Login to cPanel with your username and password provided to you during the Domain of One's Own signup process.{{http://farm4.staticflickr.com/3834/9394646464_cb1e711493_c.jpg}}
+  -Go the UMW Domains homepage and click **Login** in the top righthand corner {{:cpanel:screen_shot_2014-05-28_at_1.47.19_pm.png?600}}
+  -Login to cPanel with your username and password provided to you during the Domain of One's Own signup process.{{:cpanel:umwdomains_login_page.png?600|}}
   -On the homepage of your control panel you'll have all the various tools listed. You can easily find the File Manager by using the search tool in the upper righthand corner and typing File Manager. When it comes up, go ahead and click on it. {{http://farm3.staticflickr.com/2846/9415525363_21aef3facd_c.jpg}}
   -When you click **File Manager** a popup will ask you where you want to start. For now go ahead and choose **Home Directory** which is probably selected by default, and click **Go**.{{http://farm4.staticflickr.com/3829/9418301380_40473a7ff6_b.jpg}}
   -You are now sent to the File Manager and can navigate the folder structure there.
