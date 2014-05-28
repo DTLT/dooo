@@ -1,6 +1,6 @@
 ====== How to Use Zen Photo ======
 
-Log into http://cpanel.umwdomains.com/
+Log into your account on http://www.umwdomains.com/
 
 Scroll down to the application section.
 Click "view more" under the featured applications tab.
