@@ -4,6 +4,7 @@
   * [[general:What Can You Do with your DoOO Account?]]
   * [[general:Signing up on Domain of One's Own]]
   * [[general:Choosing a Domain Name]]
+  * [[general:Privacy and DoOO]]
   * [[general:understanding-domain-of-one-s-own-accounts-passwords|Understanding Domain of One's Own Accounts & Passwords]]
   * [[general:What Exactly is a Web Application?]]
   * [[general:Static and Dynamic Websites]]
