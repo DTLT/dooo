@@ -40,3 +40,5 @@ Recent versions of WordPress have built out a new "post format" feature which, i
 Those of you familiar with [Tumblr](http://tumblr.com/) may recognize this approach to post formats.
 
 For the most part, post formats are designed as a way to **style** a site (and customize styling depending on the kind of content that is being displayed). They have no special functionality, and their use depends entirely upon the theme you are using. Many older themes, for example, do not recognize post formats.
+
+{{indexmenu_n>5}}
