@@ -27,3 +27,5 @@ If none of the themes that were provided when you installed WordPress are what y
   - Under the thumbnail picture of each theme are three choices - **Install Now**, **Preview**, and **Details**. Those choices should be pretty self-explanitory so click **Install Now** to add a new theme to your site. After you install the theme, it is still not active on your site. You will need to **Activate** it to use it.![image](http://farm8.staticflickr.com/7350/9602712376_8d5a7da5b7_c_d.jpg)
   - Once activated, your site will be using the new theme.![image](http://farm3.staticflickr.com/2858/9602743706_6eb9b26fff_c_d.jpg)
   - At the top of the page will be a message "New Theme Activated". Click on the **Visit Site** link to view your site with the new look.![image](http://farm6.staticflickr.com/5350/9599507231_8220f73854_c_d.jpg)
+
+{{indexmenu_n>11}}
