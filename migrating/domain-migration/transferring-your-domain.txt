@@ -1,7 +1,5 @@
 ====== Transferring Your Domain ======
 
-{{vimeo>83684214?800x450}}
-
 Transferring your domain essentially means that you must take over ownership and payment for the domain name that you use. As a part of Domain of One's Own, your domain was registered to UMW and paid for by the University on an annual basis. You will need to become the owner of record and pay the annual fee. 
 
 There are hundreds of companies known as **Domain Registrars** which you can work with to register and pay for your domain. Each of these companies is authorized by ICANN (the Internet Corporation for Assigned Names and Numbers) to legally register internet domain names. The annual price you pay for your domain depends on the price fixed by the Domain Registrar. Generally speaking, you can expect to pay between $10-$20/year for your domain name. 
