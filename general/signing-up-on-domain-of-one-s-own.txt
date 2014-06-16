@@ -11,16 +11,31 @@ Once you know you have an account, we recommend that you [[http://umwdomains.com
 
 ===== The Sign-Up Process =====
 
-Once you've reviewed the guidelines and background information, you can proceed to the [[http://umwdomains.com/support|sign-up page.]] 
+Once you've reviewed the guidelines and background information, you can proceed to the [[http://umwdomains.com/|sign-up page.]] 
 
-  - Enter your email address under the section "First time here?" Please note that if you are a student, your email address must include full complete "mail.umw.edu" suffix. {{http://farm6.staticflickr.com/5519/11800649273_b7ee6f19a9_c.jpg}} 
-  - You will receive an email with a link to set a password for your client account. Follow that link and set-up your password. When you're done, a link will appear that you can click to proceed to the client area. 
-  - Inside the client system, a box will appear in the middle of the screen with a link to get started. Click on this to proceed with setting up your domain and hosting. {{http://farm3.staticflickr.com/2835/11800649313_6758c71295_c.jpg}}
-  - The first thing you need to do is enter the domain name you wish to register. Our system will check to be sure the domain name you've chosen is available. {{http://farm8.staticflickr.com/7451/11800397655_14b715dc1a_c.jpg}}
-  - When you've found an available domain that you want, click the button labeled **Click to Continue**. {{http://farm3.staticflickr.com/2841/11801151816_409a465b34_c.jpg}}
-  - You'll next seen an "Order Summary" showing the domain you chose as well as the default hosting plan that we'll be giving you. Review your order and click the **Checkout** button.{{http://farm6.staticflickr.com/5494/11800649403_2894f2ba5d_c.jpg}}
-  - On the "Checkout" page that appears next, you'll be asked to review and agree to the Domain of One's Own **Terms of Service**. When you're done click the **Complete Order** button. {{http://farm6.staticflickr.com/5472/11800397755_f77b6c8180_c.jpg}}
-  - It can take 20-30 seconds for your order to complete. When it's done, a confirmation page will appear. 
+Click on the left hand side where it says "Login / Signup" Please note that if you are a student, your email address must include full complete "mail.umw.edu" suffix. 
+
+{{:general:umwdomains_homepage.png?300|}}
+
+You will be redirected to a UMW Page to login for verification.
+{{:general:umwdomains_login_page.png?300|}}
+
+The first thing you need to do is enter the domain name you wish to register. Our system will check to be sure the domain name you've chosen is available. 
+
+{{:general:unavailable_site_name.png?300|}}
+
+When you've found an available domain that you want, click the button labeled **Click to Continue**. 
+{{:general:avaiable_site_name.png?300|}}
+
+
+You'll next seen an "Order Summary" showing the domain you chose as well as the default hosting plan that we'll be giving you. Review your order and click the **Checkout** button.
+{{:general:checkout.png?300|}}
+
+On the "Checkout" page that appears next, you'll be asked to review and agree to the Domain of One's Own **Terms of Service**. When you're done click the **Complete Order** button. 
+
+{{:general:terms_of_service.png?300|}}{{:general:accept.png?300|}}
+
+It can take 20-30 seconds for your order to complete. When it's done, a confirmation page will appear. 
 
 After you complete your order, you will receive an email with the subject "New Account Information." This contains important information about your actual hosting account/password and your new domain. We recommend saving this somewhere where you'll be able to find it again. 
 
