@@ -7,7 +7,7 @@ To get started you'll need to login to your control panel by going to the UMW Do
 
 {{https://farm3.staticflickr.com/2922/14269419746_8706f3e121_z.jpg}}
 
-Here you'll login with the username and password that was provided to you with the **New Account Information** email during the signup process.
+Here you'll login with your UMW NetID/Password. Afterwards, you will be redirected back to the Domain of One's Own control panel (cPanel).
 
 {{https://farm3.staticflickr.com/2905/14292016984_49a6a27b24_z.jpg}}
 
