@@ -14,7 +14,7 @@ Click on the left hand side where it says "Login / Signup" Please note that if y
 
 {{:general:umwdomains_homepage.png?300|}}
 
-You will be redirected to a UMW Page to login for verification.
+You will be redirected to a UMW Page to login for verification. You will use your UMW NetID/password to login. Afterwards, you will be redirected back to the Domain of One's Own signup page. 
 {{:general:umwdomains_login_page.png?300|}}
 
 The first thing you need to do is enter the domain name you wish to register. Our system will check to be sure the domain name you've chosen is available. 
