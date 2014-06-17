@@ -4,11 +4,11 @@ Getting started on Domain of One's Own is a straightforward process.
 
 ===== Reviewing the Guidelines =====
 
-Before you get started, we recommend that you [[http://umwdomains.com/start|review some guidelines and information about the project. ]] In particular, you should review our information about [[general:choosing-a-domain-name|Choosing a Domain Name]].
+Before you get started, we recommend that you review our information about [[general:choosing-a-domain-name|Choosing a Domain Name]].
 
 ===== The Sign-Up Process =====
 
-Once you've reviewed the guidelines and background information, you can proceed to the [[http://umwdomains.com/|sign-up page.]] 
+Once you've reviewed the guidelines, you can proceed to the [[http://umwdomains.com/|sign-up page.]] 
 
 Click on the left hand side where it says "Login / Signup" Please note that if you are a student, your email address must include full complete "mail.umw.edu" suffix. 
 
