@@ -2,12 +2,9 @@
 
 Getting started on Domain of One's Own is a straightforward process. 
 
-===== Getting a Client Account =====
-
-The first step is determining that you have an account in our client system that allows you to then signup for a domain and hosting. If you visit the [[http://umwdomains.com|Domain of One's Own Web Site]] and click **Start Here**. We will walk you through the process of ensuring that you are ready to signup. 
 ===== Reviewing the Guidelines =====
 
-Once you know you have an account, we recommend that you [[http://umwdomains.com/start|review some guidelines and information about the project. ]] In particular, you should review our information about [[general:choosing-a-domain-name|Choosing a Domain Name]].
+Before you get started, we recommend that you [[http://umwdomains.com/start|review some guidelines and information about the project. ]] In particular, you should review our information about [[general:choosing-a-domain-name|Choosing a Domain Name]].
 
 ===== The Sign-Up Process =====
 
