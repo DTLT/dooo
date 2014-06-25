@@ -2,6 +2,10 @@
 
 Getting started on Domain of One's Own is a straightforward process. 
 
+<html>
+<iframe src="http://mediahub.umw.edu/media/how-to-register-a-dooo-account/embed_player?iframe=True" mozallowfullscreen="mozallowfullscreen" webkitallowfullscreen="webkitallowfullscreen" width="400" allowfullscreen="allowfullscreen" height="225" scrolling="no" frameborder="0"></iframe>
+</html>
+
 ===== Reviewing the Guidelines =====
 
 Before you get started, we recommend that you review our information about [[general:choosing-a-domain-name|Choosing a Domain Name]].
