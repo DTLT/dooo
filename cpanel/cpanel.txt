@@ -10,4 +10,5 @@
   * [[Creating an Email Address]]
   * [[Setting up FTP]]
   * [[domain-management:setting-up-subdomains|Setting Up Subdomains]]
+  * [[Finding and changing account and application information and passwords in cpanel.]]
 
