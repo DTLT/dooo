@@ -3,7 +3,6 @@
 ====== cPanel ======
 
   * [[Introduction to cPanel]]
-  * [[Changing Your Password]]
   * [[Installing Applications with Installatron]]
   * [[Applications Available using Installatron]]
   * [[Accessing your Files through the File Manager]]
