@@ -3,6 +3,5 @@
 
   * [[Timeplot:Basic Tutorial]]
   * [[Timeplot:Code for Basic Tutorial]]
-
   * [[Timeplot:Advanced Options]]
   * [[Timeplot:Code for Advanced Options]]
