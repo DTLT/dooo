@@ -1,7 +1,9 @@
 ====== How to Use Timeplot ======
 
 
+  * [[Timeplot:Installation]]
   * [[Timeplot:Basic Tutorial]]
   * [[Timeplot:Advanced Tutorial]]
+  * [[Timeplot:Quick Code Blocks]]
 
 {{indexmenu_n>11}}
