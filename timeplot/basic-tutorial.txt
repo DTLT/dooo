@@ -19,11 +19,5 @@ Inside you should see three types of files; a ".txt", a ".xml", and a ".html". E
 
 {{:timeplot:timeplot_file.png?300|}}
 
-You will need to click on the individual files and then select code editor from the top tool bar of the file manager to edit the files.
 
-{{:timeplot:code_editor.png?400|}}
-
-I am going to walk you through the basic file that will produce a good example and basic understanding of the program works.
-
-So this is is the code you should see when you open the "index.html" file:
 
