@@ -4,4 +4,4 @@
   * [[Timeplot:Basic Tutorial]]
   * [[Timeplot:Advanced Tutorial]]
 
-{{indexmenu_n>12}}
+{{indexmenu_n>11}}
