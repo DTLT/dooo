@@ -1,6 +1,7 @@
 ====== Installation ======
 
 
+
 So in this tutorial we will be using the data that was automatically installed in your directory through Installatron. 
 
 First log into your domain of one's own account at [[http://www.umwdomains.com|umwdomains.com]].
@@ -20,3 +21,4 @@ Inside you should see three types of files; a ".txt", a ".xml", and a ".html". E
 
 {{:timeplot:timeplot_file.png?300|}}
 
+{{indexmenu_n>1}}
