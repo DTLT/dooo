@@ -3,3 +3,5 @@
 
   * [[Timeplot:Basic Tutorial]]
   * [[Timeplot:Advanced Tutorial]]
+
+{{indexmenu_n>12}}
