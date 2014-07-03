@@ -6,3 +6,20 @@ So to get started with editing the code for your individual use, you will need t
 
 So I am going to walk you through the basic code of the program, it has also been labeled for your convenience. Please ignore areas that are not labeled. Any changes to the code that is not intentional or unspecified areas will most likely cause it to not work! Please save your work often, so that you can revert to a version that works for ease of use.
 
+
+===== Explanation of and Designing Data Files =====
+
+One of the most basic and most important parts of this program is to design and use a specific format for the data files. In your .txt or .xlm
+
+
+
+===== How to get data into the program: =====
+
+Close to the bottom in this block of text is where you specify to the program where to get the information from. It can use a variety of file types but for this example were are using .txt data. 
+
+{{:timeplot:date_file_location_code.png?200|}}
+
+As you can see in the photo above can see there is a lot going on in this small block of code. 
+The text underlined in blue **must match exactly** the file type that is in quotes and that is underlined in orange. This is telling the program what the file type is and what the name of the file is called. One thing to note is that the file being named must be in the same folder in the document manager as the program file / index.html file.
+
+The part in yellow is a "Delimiter," this tells the code program where one data entry stops and a new one begins. So what it will do is going into your "data.txt" file and start reading the entries and then once it sees whatever is in that place, right now a comma, it will end that entry and start a new one. 
