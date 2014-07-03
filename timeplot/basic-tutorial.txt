@@ -4,4 +4,5 @@ So to get started with editing the code for your individual use, you will need t
 
 {{:timeplot:code_editor.png?400|}}
 
-{{indexmenu_n>2}}
+So I am going to walk you through the basic code of the program, it has also been labeled for your convenience. Please ignore areas that are not labeled. Any changes to the code that is not intentional or unspecified areas will most likely cause it to not work! Please save your work often, so that you can revert to a version that works for ease of use.
+
