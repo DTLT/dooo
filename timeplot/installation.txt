@@ -1,3 +1,6 @@
+====== Installation ======
+
+
 So in this tutorial we will be using the data that was automatically installed in your directory through Installatron. 
 
 First log into your domain of one's own account at [[http://www.umwdomains.com|umwdomains.com]].
