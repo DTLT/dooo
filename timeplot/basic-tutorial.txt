@@ -1,23 +1,5 @@
 ====== Basic Tutorial ======
 
-So in this tutorial we will be using the data that was automatically installed in your directory through Installatron. 
+So to get started with editing the code for your individual use, you will need to click on the individual files and then select code editor from the top tool bar of the file manager to edit the files.
 
-First log into your domain of one's own account at [[http://www.umwdomains.com|umwdomains.com]].
-
-{{:timeplot:umwdomains_homepage.png?300|}} {{:timeplot:umwdomains_login_page.png?275|}}
-
-In the Dashboard, scroll down and click on the File Manager. Then select "Web Root" from the pop up window and click "Go". You may want to review the tutorial on the file manager [[http://docs.umwdomains.com/cpanel/accessing-your-files-through-the-file-manager|here]].
-
-{{:timeplot:screen_shot_2014-07-02_at_4.37.05_pm.png?300|}}{{:timeplot:filemanager_pop_up.png?280|}}
-
-
-Once inside find the file folder for your timeplot, it should look something like this, double click and open the folder.
-
-{{:timeplot:inside_file_manager.png?300|}}
-
-Inside you should see three types of files; a ".txt", a ".xml", and a ".html". Each on of these files is necessary to the running of the program. The .txt will house your raw data, the .xml holds your event dates and information, and the .html is the program code.
-
-{{:timeplot:timeplot_file.png?300|}}
-
-
-
+{{:timeplot:code_editor.png?400|}}
