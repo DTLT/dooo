@@ -131,4 +131,4 @@ From here you can enable the plugin by clicking it and then click "Enable select
 
 
 Now you are ready to view videos straight from your feed!
-{{indexmenu_n>10}}
+{{indexmenu_n>9}}
