@@ -1,0 +1,26 @@
+====== Advanced Options ======
+
+==== Adding points on the graph ====
+
+
+
+==== Individual event colors ====
+
+So in your XML file one of the additional options is to have different colors for events. This can be particularly helpful so that you can group graphs and event with the colors to better illustrate your point about the data. To change the individual even color simply add ' color="(Hex Code)" ' anywhere on the line of the event, but within <event and />.
+
+For example: 
+
+{{:timeplot:xml_colors.png|}}
+
+
+==== Enter More Information and Links ====
+
+To add a link to your event all you need to do is to add, " link="ht tp:/ /www. enterwebsite .com/stuffandthings" " refer to the Image below
+
+If you would like to enter more information in the square that appears when you click the events, then all you need to do is add a close bracket ">" to the end of your event line. Then add the text you would like to appear followed by a end statement "</event>".
+
+Here is an example of those two options in use:
+
+{{:timeplot:xml_file_advanced_options.png|}}
+
+
