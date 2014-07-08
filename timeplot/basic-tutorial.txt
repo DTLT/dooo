@@ -7,9 +7,11 @@ So to get started with editing the code for your individual use, you will need t
 So I am going to walk you through the basic code of the program, it has also been labeled for your convenience. Please ignore areas that are not labeled. Any changes to the code that is not intentional or unspecified areas will most likely cause it to not work! Please save your work often, so that you can revert to a version that works for ease of use.
 
 
-===== Explanation and Designing Data Files =====
+===== Designing Data Files =====
 
 One of the most basic and most important parts of this program is to design and use a specific format for the data files. Open the .txt or .xlm files preferably with the code editor tool, but you can also use the text editor in the file manager or offline use a text editor like notepad (Windows) or text wrangler (Mac). You need to follow a style like the one shown below or experiment with a new one that meets your projects requirements.
+
+==== Editing the text File ====
 
 For our example we are going to format it similar to what is below.
 
@@ -29,6 +31,18 @@ So imagine it like this:
 
 The first column to the computer is column or point 0, the second column is 1, and so on and so forth. Remember this for editing the code later, each column can and will be its own graph.
 
+==== Editing the XML File ====
+
+So to understand the XML file I have underlined the different parts.
+The Blue underlined, at the beginning and end of the line, is the code to stop and start an entry of the XML file.
+Red is the start time of an event. If only the start time is listed then only one point will be displayed. If you would like it to be a bigger square for an event, then add an end time by putting: "end=" with the date in the same format as the start time.
+Orange is the title of the event point
+Yellow is 
+
+
+{{:timeplot:inside_the_xml_file.png|}}
+
+
 
 
 ===== How to get data into the program =====
@@ -45,9 +59,9 @@ The part in yellow is a "Delimiter," this tells the code program where one data 
 
 ===== How to edit the code =====
 
-==== Adding an additional graph ====
+==== Adding and editing an additional graph ====
 
-To add an Additional Graph you need to insert this block of code below the last block of code that is similar to it.
+To add an Additional Graph you need to insert this block of code below the previous block of graph code and above the code block for the events.
 
 {{:timeplot:graph_code.png?1000|}}
 
@@ -68,6 +82,15 @@ Line Color: In the previous section it was number 3 in the Graph code to specify
 
 Infill Color: This was number 4 in the previous section where you can change to code to get a different color
 
+
 In the advanced tutorial there is also more information on additional color options.
 
 
+==== Editing Events ====
+
+There really isn't that much extra in the HTML index file to edit here, but it needs to be listed last.
+There is also a line were you can specify the color for the events lines.
+
+Here is the code for events:
+
+{{:timeplot:event_code.png?1000|}}
