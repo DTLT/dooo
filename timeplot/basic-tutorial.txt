@@ -53,12 +53,12 @@ To add an Additional Graph you need to insert this block of code below the last 
 
 You will need to edit all of the points.
 
-1) You will need to make a new, unique name for your plot, just make the number of plots you have.
-2) This is where the building of the raw data is going to come back. This tells the code what column you want data to come from to make that graph.
-3) This is where you can specify the color for the line of your graph to be, using HTML Hexadecimal Code
-4) Here you can also specify if you want the graph to have an infill color too.
--See the following section for changing color.
-5) This point is where you can decide if you want your data to be shown when you put your mouse over it. If you want it shown set it to "true," if you do not want it to be shown set it to "false."
+  - You will need to make a new, unique name for your plot, just make the number of plots you have.
+  - This is where the building of the raw data is going to come back. This tells the code what column you want data to come from to make that graph.
+  - This is where you can specify the color for the line of your graph to be, using HTML Hexadecimal Code
+  - Here you can also specify if you want the graph to have an infill color too. See the following section for changing color.
+  - his point is where you can decide if you want your data to be shown when you put your mouse over it. If you want it shown set it to "true," if you do not want it to be shown set it to "false."
+
 
 ==== Editing Colors ====
 Line Color
