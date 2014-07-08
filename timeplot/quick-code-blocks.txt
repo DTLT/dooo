@@ -46,3 +46,9 @@ Or
 
 
 </code>
+
+
+==== Select Hexadecimal Color Values ====
+
+One of the best tools to help you select colors and get their associated Hexadecimal values is here at 
+[[http://www.w3schools.com/tags/ref_colorpicker.asp|w3schools]].
