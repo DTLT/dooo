@@ -61,5 +61,13 @@ You will need to edit all of the points.
 
 
 ==== Editing Colors ====
-Line Color
-Infill Color
+
+The program uses hexadecimal code to specify the color to the program of what you want your colors to be. It is very helpful to use another website to help you visualize the colors and get the codes. For example w3schools has a very helpful HTML color picker. You can find the link [[http://www.w3schools.com/tags/ref_colorpicker.asp|here]] to get different "Hex" values for colors. 
+
+Line Color: In the previous section it was number 3 in the Graph code to specify the color of the line.
+
+Infill Color: This was number 4 in the previous section where you can change to code to get a different color
+
+In the advanced tutorial there is also more information on additional color options.
+
+
