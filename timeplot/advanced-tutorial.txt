@@ -1,5 +1,6 @@
 ====== Advanced Options ======
 
+{{indexmenu_n>3}}
 ==== Adding points on the graph ====
 
 If you would like to dots to your data points to make the data points more pronounced simply add the line 
