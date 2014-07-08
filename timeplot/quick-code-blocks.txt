@@ -31,11 +31,18 @@ Remember to Change numbers; 1 and 2
 
 ==== New XML event ====
 
+Here is an example of an XML event code line with all of the available options in use. You may delete options as needed, but an event start date is required and if you choose not to include text at the end you need to make the first bracket ">" a slash bracket "/>"
+
 <code>
 
 <event start="Jul 20 1969 20:17:40 GMT" end="Jul 21, 1969, 17:54:00 GMT" title="Man on the Moon" color="D0A825">
 Neil Armstrong becomes the first person to walk on the Moon as the commander of the American mission Apollo 11.
 </event>
+
+Or
+
+<event start="Jul 20 1969 20:17:40 GMT" end="Jul 21, 1969, 17:54:00 GMT" title="Man on the Moon" color="D0A825"/>
+
 
 
 </code>
