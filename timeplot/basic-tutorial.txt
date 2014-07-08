@@ -94,3 +94,5 @@ There is also a line were you can specify the color for the events lines.
 Here is the code for events:
 
 {{:timeplot:event_code.png?1000|}}
+
+{{indexmenu_n>2}}
