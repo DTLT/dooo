@@ -65,7 +65,8 @@ To add an Additional Graph you need to insert this block of code below the previ
 
 {{:timeplot:graph_code.png?|}}
 
-You will need to edit all of the points.
+Explanation of Points
+You must change 1 and 2 when adding a new graph.
 
   - You will need to make a new, unique name for your plot, just make the number of plots you have.
   - This is where the building of the raw data is going to come back. This tells the code what column you want data to come from to make that graph.
