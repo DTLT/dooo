@@ -29,10 +29,7 @@ Remember to Change numbers; 1 and 2
 {{:timeplot:graph_code.png|}}
 
 
-==== Select Hexadecimal Color Values ====
 
-One of the best tools to help you select colors and get their associated Hexadecimal values is here at 
-[[http://www.w3schools.com/tags/ref_colorpicker.asp|w3schools]].
 ==== New XML event ====
 
 Here is an example of an XML event code line with all of the available options in use. You may delete options as needed, but an event start date is required and if you choose not to include text at the end you need to make the first bracket ">" a slash bracket "/>"
