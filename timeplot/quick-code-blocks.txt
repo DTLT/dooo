@@ -1,0 +1,41 @@
+====== Quick Code Blocks ======
+
+
+==== Add A Graph ====
+
+<code>
+
+
+      Timeplot.createPlotInfo({
+      id: "plot2",
+      dataSource: new Timeplot.ColumnSource(eventSource,2),
+      timeGeometry: timeGeometry,
+      valueGeometry: valueGeometry,
+      
+      <!--These are the colors of your second graph-->
+      
+      lineColor: "#0000FF",
+      fillColor:"000000"
+      dotColor: "000000",
+      showValues: true
+    }),
+ 
+</code>
+
+Remember to Change numbers; 1 and 2
+
+3, 4, and 5 are optional as well as, dotColor
+
+{{:timeplot:graph_code.png|}}
+
+
+==== New XML event ====
+
+<code>
+
+<event start="Jul 20 1969 20:17:40 GMT" end="Jul 21, 1969, 17:54:00 GMT" title="Man on the Moon" color="D0A825">
+Neil Armstrong becomes the first person to walk on the Moon as the commander of the American mission Apollo 11.
+</event>
+
+
+</code>
