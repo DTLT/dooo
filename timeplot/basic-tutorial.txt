@@ -63,7 +63,7 @@ The part in yellow is a "Delimiter," this tells the code program where one data 
 
 To add an Additional Graph you need to insert this block of code below the previous block of graph code and above the code block for the events.
 
-{{:timeplot:graph_code.png?1000|}}
+{{:timeplot:graph_code.png?|}}
 
 You will need to edit all of the points.
 
