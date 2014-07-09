@@ -113,4 +113,16 @@ Here is the code for events:
 
 {{:timeplot:event_code.png?1000|}}
 
+
+
+
+
+==== Common Errors ====
+
+For those of you that don't have a background in coding this will be a little bit more difficult, but for those that do this will make sense.
+
+One of the most common errors is forgetting commas during coding. You need to put a comma after each point line in the graph seen here. You can remove some lines, but just make sure that the last line doesn't have a comma after it. 
+
+{{:timeplot:graph_code.png|}}
+
 {{indexmenu_n>2}}
