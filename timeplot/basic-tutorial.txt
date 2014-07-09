@@ -121,7 +121,7 @@ Here is the code for events:
 
 For those of you that don't have a background in coding this will be a little bit more difficult, but for those that do this will make sense.
 
-One of the most common errors is forgetting commas during coding. You need to put a comma after each point line in the graph seen here. You can remove some lines, but just make sure that the last line doesn't have a comma after it. 
+One of the most common errors is forgetting commas during coding. You need to put a comma after each point line in the graph seen here in points 2 and 3. You can remove some lines, but just make sure that the last line doesn't have a comma after it. 
 
 {{:timeplot:graph_code.png|}}
 
