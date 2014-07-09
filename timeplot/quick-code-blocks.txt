@@ -19,7 +19,7 @@ One of the best tools to help you select colors and get their associated Hexadec
       <!--These are the colors of your second graph-->
       
       lineColor: "#0000FF",
-      fillColor:"000000"
+      fillColor:"000000",
       dotColor: "000000",
       showValues: true
     }),
