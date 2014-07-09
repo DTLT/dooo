@@ -74,7 +74,25 @@ You must change 1 and 2 when adding a new graph.
   - Here you can also specify if you want the graph to have an infill color too. See the following section for changing color.
   - This point is where you can decide if you want your data to be shown when you put your mouse over it. If you want it shown set it to "true," if you do not want it to be shown set it to "false."
 
+Here is the code incase you need to copy and paste it into the file. You can also find more code blocks under the quick code blocks page.
 
+<code>
+
+
+      Timeplot.createPlotInfo({
+      id: "plot2",
+      dataSource: new Timeplot.ColumnSource(eventSource,2),
+      timeGeometry: timeGeometry,
+      valueGeometry: valueGeometry,
+      
+      <!--These are the colors of your second graph-->
+      
+      lineColor: "#0000FF",
+      fillColor:"000000"
+      showValues: true
+    }),
+ 
+</code>
 ==== Editing Colors ====
 
 The program uses hexadecimal code to specify the color to the program of what you want your colors to be. It is very helpful to use another website to help you visualize the colors and get the codes. For example w3schools has a very helpful HTML color picker. You can find the link [[http://www.w3schools.com/tags/ref_colorpicker.asp|here]] to get different "Hex" values for colors. 
