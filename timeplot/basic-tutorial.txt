@@ -74,7 +74,7 @@ You must change 1 and 2 when adding a new graph.
   - Here you can also specify if you want the graph to have an infill color too. See the following section for changing color.
   - This point is where you can decide if you want your data to be shown when you put your mouse over it. If you want it shown set it to "true," if you do not want it to be shown set it to "false."
 
-Here is the code incase you need to copy and paste it into the file. You can also find more code blocks under the quick code blocks page.
+Here is the code in case you need to copy and paste it into the file. You can also find more code blocks under the quick code blocks page.
 
 <code>
 
@@ -88,7 +88,6 @@ Here is the code incase you need to copy and paste it into the file. You can als
       <!--These are the colors of your second graph-->
       
       lineColor: "#0000FF",
-      fillColor:"000000"
       showValues: true
     }),
  
