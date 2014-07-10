@@ -15,7 +15,7 @@ One of the most basic and most important parts of this program is to design and 
 
 For our example we are going to format it similar to what is below.
 
-{{:timeplot:inside_the_data_file.png?500|}}
+{{:timeplot:inside_the_data_file.png?|}}
 
 So in blue we have the date, Red is the approve, yellow is disapprove, and green is the unsure. You can see that there was also the comment at the top that explains that as well. You should comment your code and data files as much as possible so you and others can understand what is going on. To use a comment use the "#" key to tell the code to ignore everything on that line. This only will work in the data file though when the program is trying to read in the data.
 
@@ -26,7 +26,7 @@ Once your code reads it in, it also sees it as columns, from where the commas ar
 
 So imagine it like this:
 
-{{:timeplot:inside_the_data_file_2.png?600|}}
+{{:timeplot:inside_the_data_file_2.png?|}}
 
 
 The first column to the computer is column or point 0, the second column is 1, and so on and so forth. Remember this for editing the code later, each column can and will be its own graph.
