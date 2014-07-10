@@ -1,10 +1,14 @@
 ====== Basic Tutorial ======
 
+So I am going to walk you through the basic code of the program, it has also been labeled for your convenience. Please ignore areas that are not labeled. Any changes to the code that is not intentional or unspecified areas will most likely cause it to not work! Please save your work often, so that you can revert to a version that works for ease of use.
+
+
 So to get started with editing the code for your individual use, you will need to click on the individual files and then select code editor from the top tool bar of the file manager to edit the files.
 
-{{:timeplot:code_editor.png?400|}}
+{{  :timeplot:code_editor.png?400  |}}
 
-So I am going to walk you through the basic code of the program, it has also been labeled for your convenience. Please ignore areas that are not labeled. Any changes to the code that is not intentional or unspecified areas will most likely cause it to not work! Please save your work often, so that you can revert to a version that works for ease of use.
+
+A pop up window will appear, leave the settings as is and click edit in the bottom left corner. 
 
 
 ===== Designing Data Files =====
