@@ -31,6 +31,9 @@ So imagine it like this:
 
 The first column to the computer is column or point 0, the second column is 1, and so on and so forth. Remember this for editing the code later, each column can and will be its own graph.
 
+Later on you will use that column position (0,1,2,.....X) to specify in your graph code where it will be getting the data to create that graph. 
+
+The Horizontal axis is the data and the Vertical axis is the value in that column that you will specify.
 ==== Editing the XML File ====
 
 So to understand the XML file I have underlined the different parts.
