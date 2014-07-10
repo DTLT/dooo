@@ -10,7 +10,7 @@ So to get started with editing the code for your individual use, you will need t
 
 A pop up window will appear, leave the settings as is and click edit in the bottom left corner. 
 
-
+{{  :timeplot:pop-up_window.png  |}}
 ===== Designing Data Files =====
 
 One of the most basic and most important parts of this program is to design and use a specific format for the data files. Open the .txt or .xlm files preferably with the code editor tool, but you can also use the text editor in the file manager or offline use a text editor like notepad (Windows) or text wrangler (Mac). You need to follow a style like the one shown below or experiment with a new one that meets your projects requirements.
