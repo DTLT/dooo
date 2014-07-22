@@ -1,0 +1,47 @@
+====== Explanation of the Javascript Code File ======
+
+
+This tutorial is a walk through of the basic code of the program in the HTML Javascript file. It has been labeled for your convenience. Please ignore areas that are not labeled. Any changes to the code that is unintentional or in unspecified areas can cause it to not work. Please save your work often, so that you can revert to a version that works for ease of use.
+
+
+To make changes to the code for your timeplot, you will need to click on the individual files and then select **code editor** from the top toolbar of the file manager to edit the files.
+
+{{  :timeplot:code_editor.png?  |}}
+
+
+A pop up window will appear, leave the settings as is and click edit in the bottom left corner. 
+
+{{  :timeplot:pop-up_window.png?500  |}}
+
+===== Graph Code =====
+
+This is the block of code that creates a graph in the Javascript.
+To add an Additional Graph you need to insert this block of code below the previous block of graph code and above the code block for the events.
+
+{{:timeplot:graph_code.png?|}}
+
+Explanation of Points
+
+  - This is the unique name for the graph line,.
+  - This is where the building of the raw data is going to come back. This tells the code what column you want data to come from to make that graph.
+  - This is where you can specify the color for the line of your graph to be, using HTML Hexadecimal Code
+  - Here you can also specify if you want the graph to have an infill color too. See the following section for changing color.
+  - This point is where you can decide if you want your data to be shown when you put your mouse over it. If you want it shown set it to "true," if you do not want it to be shown set it to "false."
+
+
+===== Editing Colors =====
+
+The program uses hexadecimal code to specify the color to the program of what you want your colors to be. It is very helpful to use another website to help you visualize the colors and get the codes. For example w3schools has a very helpful HTML color picker. You can find the link [[http://www.w3schools.com/tags/ref_colorpicker.asp|here]] to get different "Hex" values for colors. 
+
+Line Color: In the previous section it was number 3 in the Graph code to specify the color of the line.
+
+Infill Color: This was number 4 in the previous section where you can change to code to get a different color
+
+===== Adding points on the graph =====
+
+If you would like to dots to your data points to make the data points more pronounced simply add the line 
+" dotColor: "(Hex Value)", " to block of color options in your graph line.
+
+For example: 
+
+{{:timeplot:graph_with_dots.png|}}{{:timeplot:screen_shot_2014-07-08_at_3.11.31_pm.png|}}
