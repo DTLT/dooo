@@ -40,8 +40,18 @@ Infill Color: This was number 4 in the previous section where you can change to 
 ===== Adding points on the graph =====
 
 If you would like to dots to your data points to make the data points more pronounced simply add the line 
-" dotColor: "(Hex Value)", " to block of color options in your graph line.
+" dotColor: "(Hex Value)" , " to block of color options in your graph line.
 
-For example: 
+How it should look if you add this line is shown below. 
 
 {{:timeplot:graph_with_dots.png|}}{{:timeplot:screen_shot_2014-07-08_at_3.11.31_pm.png|}}
+
+===== Common Errors =====
+
+For those of you that don't have a background in coding this will be a little bit more difficult, but for those that do this will make sense.
+
+One of the most common errors is forgetting commas during coding. You need to put a comma after each point line in the graph seen here in points 2 and 3. You can remove some lines, but just make sure that the last line doesn't have a comma after it. 
+
+Also make sure that if you have multiple graphs that there is a comma after each block of code. This comma needs to be placed at the end of the two brackets at the end. 
+
+{{:timeplot:graph_code.png|}}
