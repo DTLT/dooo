@@ -1,17 +1,17 @@
 ====== Explanation of the Text File ======
 
 
-===== Designing Data Files =====
 
-One of the most basic and most important parts of this program is to design and use a specific format for the data files. Open the .txt or .xlm files preferably with the code editor tool, but you can also use the text editor in the file manager or offline use a text editor like notepad (Windows) or text wrangler (Mac). You need to follow a style like the one shown below or experiment with a new one that meets your projects requirements.
+
+One of the most basic and most important parts of this program is to design and use a specific format for the tex file. Open the .txt file preferably with the code editor tool, but you can also use the text editor in the file manager or offline use a text editor like notepad (Windows) or text wrangler (Mac). You need to follow a style like the one shown below. For more advanced options you can experiment with a new one that meets your projects requirements.
 
 ===== Editing the text File =====
 
-For our example we are going to format it similar to what is below.
+In this example we are going to use the format below.
 
 {{:timeplot:inside_the_data_file.png?|}}
 
-So in blue we have the date, Red is the approve, yellow is disapprove, and green is the unsure. You can see that there was also the comment at the top that explains that as well. You should comment your code and data files as much as possible so you and others can understand what is going on. To use a comment use the "#" key to tell the code to ignore everything on that line. This only will work in the data file though when the program is trying to read in the data.
+In blue we have the date, Red is the approve, yellow is disapprove, and green is the unsure. You can see that there was also the comment at the top that explains that as well. You should comment your code and data files as much as possible so you and others can understand what is going on. To use a comment use the "#" key to tell the code to ignore everything on that line. This only will work in the data file though when the program is trying to read in the data.
 
 An important part is the comma between our data. Later we will use that as a Delimiter, this tells the code program where one data entry stops and a new one begins. Now if you are using someone else's data file and they use a different delimiter, you can specify that later in the code as needed, just remember that you can only use one delimiter and it will read that key wherever it appears in your data, there is no way to exclude it. 
 
