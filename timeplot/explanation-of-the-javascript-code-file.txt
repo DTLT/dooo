@@ -39,12 +39,11 @@ Infill Color: This was number 4 in the previous section where you can change to 
 
 ===== Editing Events =====
 
-There really isn't that much extra in the HTML index file to edit here, but it needs to be listed last.
-There is also a line were you can specify the color for the events lines.
+If you would like to change the default color for the events in the timeplot here you can set how you would like to appear. You can later in the XML file change individual ones to create groups of events based on colors.  
 
 Here is the code for events:
 
-{{:timeplot:event_code.png?1000|}}
+{{:timeplot:event_code.png?|}}
 
 
 
