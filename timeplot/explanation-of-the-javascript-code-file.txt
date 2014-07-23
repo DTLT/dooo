@@ -46,6 +46,20 @@ How it should look if you add this line is shown below.
 
 {{:timeplot:graph_with_dots.png|}}{{:timeplot:screen_shot_2014-07-08_at_3.11.31_pm.png|}}
 
+
+===== How to get data into the program =====
+
+Close to the bottom in this block of text is where you specify to the program where to get the information from. It can use a variety of file types but for this example were are using .txt data. 
+
+{{:timeplot:date_file_location_code.png?|}}
+
+As you can see in the photo above can see there is a lot going on in this small block of code. 
+The text underlined in blue **must match exactly** the file type that is in quotes and that is underlined in orange. This is telling the program what the file type is and what the name of the file is called. One thing to note is that the file being named must be in the same folder in the document manager as the program file / index.html file.
+
+The part in yellow is a "Delimiter," this tells the code program where one data entry stops and a new one begins. So what it will do is going into your "data.txt" file and start reading the entries and then once it sees whatever is in that place, right now a comma, it will end that entry and start a new one. 
+
+
+
 ===== Common Errors =====
 
 For those of you that don't have a background in coding this will be a little bit more difficult, but for those that do this will make sense.
