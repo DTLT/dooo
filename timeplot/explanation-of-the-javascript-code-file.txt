@@ -1,7 +1,7 @@
 ====== Explanation of the Javascript Code File ======
 
 
-This tutorial is a walk through of the basic code of the program in the HTML Javascript file. It has been labeled for your convenience. Please ignore areas that are not labeled. Any changes to the code that is unintentional or in unspecified areas can cause it to not work. Please save your work often, so that you can revert to a version that works for ease of use.
+This is a walk through of the code of the program in the HTML Javascript file. It has been labeled for your convenience. Please ignore areas that are not labeled. Any changes to the code that is unintentional or in unspecified areas can cause it to not work. Please save your work often, so that you can revert to a version that works for ease of use.
 
 
 To make changes to the code for your timeplot, you will need to click on the individual files and then select **code editor** from the top toolbar of the file manager to edit the files.
@@ -31,7 +31,7 @@ Explanation of Points
 
 ===== Editing Colors =====
 
-The program uses hexadecimal code to specify the color to the program of what you want your colors to be. It is very helpful to use another website to help you visualize the colors and get the codes. For example w3schools has a very helpful HTML color picker. You can find the link [[http://www.w3schools.com/tags/ref_colorpicker.asp|here]] to get different "Hex" values for colors. 
+The timeplot program uses hexadecimal code to specify the color of certain elements of the graph to the program. It is very helpful to use another a hexadecimal visualizer so that you can see the color you want and then get the code. For example w3schools has a very helpful HTML color picker.  [[http://www.w3schools.com/tags/ref_colorpicker.asp|You can find the link here]] to get different "Hex" values for colors. 
 
 Line Color: In the previous section it was number 3 in the Graph code to specify the color of the line.
 
