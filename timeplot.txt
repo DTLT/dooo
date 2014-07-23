@@ -6,7 +6,6 @@
   * [[Timeplot:Explanation of the XML File]]
   * [[Timeplot:Explanation of the text file]]
   * [[Timeplot:Basic Tutorial]]
-  * [[Timeplot:Advanced Tutorial]]
   * [[Timeplot:Quick Code Blocks]]
 
 {{indexmenu_n>11}}
