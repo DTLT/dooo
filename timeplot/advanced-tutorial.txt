@@ -1,14 +1,7 @@
 ====== Advanced Options ======
 
 {{indexmenu_n>3}}
-==== Adding points on the graph ====
 
-If you would like to dots to your data points to make the data points more pronounced simply add the line 
-" dotColor: "(Hex Value)", " to block of color options in your graph line.
-
-For example: 
-
-{{:timeplot:graph_with_dots.png|}}{{:timeplot:screen_shot_2014-07-08_at_3.11.31_pm.png|}}
 ==== Individual event colors ====
 
 So in your XML file one of the additional options is to have different colors for events. This can be particularly helpful so that you can group graphs and event with the colors to better illustrate your point about the data. To change the individual even color simply add ' color="(Hex Code)" ' anywhere on the line of the event, but within <event and />.
