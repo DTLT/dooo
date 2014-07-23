@@ -1,0 +1,32 @@
+==== Editing the XML File ====
+
+So to understand the XML file I have underlined the different parts.
+The Blue underlined, at the beginning and end of the line, is the code to stop and start an entry of the XML file.
+Red is the start time of an event. If only the start time is listed then only one point will be displayed. If you would like it to be a bigger square for an event, then add an end time by putting: "end=" with the date in the same format as the start time.
+Orange is the title of the event point
+Yellow is 
+
+
+{{:timeplot:inside_the_xml_file.png|}}
+
+
+==== Individual event colors ====
+
+So in your XML file one of the additional options is to have different colors for events. This can be particularly helpful so that you can group graphs and event with the colors to better illustrate your point about the data. To change the individual even color simply add ' color="(Hex Code)" ' anywhere on the line of the event, but within <event and />.
+
+For example: 
+
+{{:timeplot:xml_colors.png|}}
+
+
+
+==== Enter More Information and Links ====
+
+To add a link to your event all you need to do is to add, " link="ht tp:/ /www. enterwebsite .com/stuffandthings" " refer to the Image below
+
+If you would like to enter more information in the square that appears when you click the events, then all you need to do is add a close bracket ">" to the end of your event line. Then add the text you would like to appear followed by a end statement "</event>".
+
+Here is an example of those two options in use:
+
+{{:timeplot:xml_file_advanced_options.png|}}
+
