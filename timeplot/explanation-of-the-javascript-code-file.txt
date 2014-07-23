@@ -28,6 +28,21 @@ Explanation of Points
   - Here you can also specify if you want the graph to have an infill color too. See the following section for changing color.
   - This point is where you can decide if you want your data to be shown when you put your mouse over it. If you want it shown set it to "true," if you do not want it to be shown set it to "false."
 
+===== Editing the Axes ====
+
+To exit the axes examine the code below. 
+
+{{:timeplot:editing_the_axis.png|}}
+
+  - Position of the label
+  - Minumum value of the graph
+  - Maximum value of the graph
+
+The first block will adjust where the dates or the X-axis labels will show up. Use the command words "top" or "bottom" to adjust the where the labels appear. By default the year labels will show up on the bottom of the graph. So you may add or remove that line as needed or just change the command word.
+
+To edit where the Y-axis labels or show up, edit the second block of code. You can use the command word "Left" or "Right" to adjust where they appear. By default the Y-Axis label will appear on the right side, so you can either specify that, or delete that line of code.
+
+In both sections there is also the option to add minimum and maximum values to the graph. By adding these lines the program will fit the data to those specifications. This can help you create a graph that better fits your data.
 
 ===== Editing Colors =====
 
