@@ -1,4 +1,0 @@
-====== Advanced Options ======
-
-{{indexmenu_n>3}}
-
