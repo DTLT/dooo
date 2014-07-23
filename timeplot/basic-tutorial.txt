@@ -38,19 +38,6 @@ The first column to the computer is column or point 0, the second column is 1, a
 Later on you will use that column position (0,1,2,.....X) to specify in your graph code where it will be getting the data to create that graph. 
 
 The Horizontal axis is the data and the Vertical axis is the value in that column that you will specify.
-==== Editing the XML File ====
-
-So to understand the XML file I have underlined the different parts.
-The Blue underlined, at the beginning and end of the line, is the code to stop and start an entry of the XML file.
-Red is the start time of an event. If only the start time is listed then only one point will be displayed. If you would like it to be a bigger square for an event, then add an end time by putting: "end=" with the date in the same format as the start time.
-Orange is the title of the event point
-Yellow is 
-
-
-{{:timeplot:inside_the_xml_file.png|}}
-
-
-
 
 ===== How to get data into the program =====
 
