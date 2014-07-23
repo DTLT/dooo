@@ -1,4 +1,4 @@
-====== Timeplot Overview ======
+====== Overview ======
 
 
 Timeplot is a Javascript application that allows users to take data files in the .txt and .xml format and create a timeline visualization of the data. It also allows the user to overlay events with clickable information bubbles to explain certain events that may have impacted trends in the data. There are many options to improve the readability and create a easy to view data.
@@ -9,3 +9,5 @@ Raw data is read into the program from the text file to fill in the variable dat
 
 
 The XML file is strictly for the events.
+
+{{indexmenu_n>1}}
