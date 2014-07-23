@@ -11,44 +11,6 @@ To make changes to the code for your timeplot, you will need to click on the ind
 A pop up window will appear, leave the settings as is and click edit in the bottom left corner. 
 
 {{  :timeplot:pop-up_window.png?500  |}}
-===== Designing Data Files =====
-
-One of the most basic and most important parts of this program is to design and use a specific format for the data files. Open the .txt or .xlm files preferably with the code editor tool, but you can also use the text editor in the file manager or offline use a text editor like notepad (Windows) or text wrangler (Mac). You need to follow a style like the one shown below or experiment with a new one that meets your projects requirements.
-
-==== Editing the text File ====
-
-For our example we are going to format it similar to what is below.
-
-{{:timeplot:inside_the_data_file.png?|}}
-
-So in blue we have the date, Red is the approve, yellow is disapprove, and green is the unsure. You can see that there was also the comment at the top that explains that as well. You should comment your code and data files as much as possible so you and others can understand what is going on. To use a comment use the "#" key to tell the code to ignore everything on that line. This only will work in the data file though when the program is trying to read in the data.
-
-An important part is the comma between our data. Later we will use that as a Delimiter, this tells the code program where one data entry stops and a new one begins. Now if you are using someone else's data file and they use a different delimiter, you can specify that later in the code as needed, just remember that you can only use one delimiter and it will read that key wherever it appears in your data, there is no way to exclude it. 
-
-In the next step this will be explained more but you also need to design your data in another way.
-Once your code reads it in, it also sees it as columns, from where the commas are,  and rows, from where the line ends (it is not shown but there really is computer code in the blank spot where the enter key was pressed).
-
-So imagine it like this:
-
-{{:timeplot:inside_the_data_file_2.png?|}}
-
-
-The first column to the computer is column or point 0, the second column is 1, and so on and so forth. Remember this for editing the code later, each column can and will be its own graph.
-
-Later on you will use that column position (0,1,2,.....X) to specify in your graph code where it will be getting the data to create that graph. 
-
-The Horizontal axis is the data and the Vertical axis is the value in that column that you will specify.
-
-===== How to get data into the program =====
-
-Close to the bottom in this block of text is where you specify to the program where to get the information from. It can use a variety of file types but for this example were are using .txt data. 
-
-{{:timeplot:date_file_location_code.png?|}}
-
-As you can see in the photo above can see there is a lot going on in this small block of code. 
-The text underlined in blue **must match exactly** the file type that is in quotes and that is underlined in orange. This is telling the program what the file type is and what the name of the file is called. One thing to note is that the file being named must be in the same folder in the document manager as the program file / index.html file.
-
-The part in yellow is a "Delimiter," this tells the code program where one data entry stops and a new one begins. So what it will do is going into your "data.txt" file and start reading the entries and then once it sees whatever is in that place, right now a comma, it will end that entry and start a new one. 
 
 
 ===== How to edit the code =====
