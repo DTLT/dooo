@@ -5,7 +5,6 @@
   * [[Timeplot:Explanation of the Javascript Code file]]
   * [[Timeplot:Explanation of the XML File]]
   * [[Timeplot:Explanation of the text file]]
-  * [[Timeplot:Basic Tutorial]]
   * [[Timeplot:Quick Code Blocks]]
 
 {{indexmenu_n>11}}
