@@ -98,15 +98,6 @@ Infill Color: This was number 4 in the previous section where you can change to 
 In the advanced tutorial there is also more information on additional color options.
 
 
-==== Editing Events ====
-
-There really isn't that much extra in the HTML index file to edit here, but it needs to be listed last.
-There is also a line were you can specify the color for the events lines.
-
-Here is the code for events:
-
-{{:timeplot:event_code.png?1000|}}
-
 
 
 
