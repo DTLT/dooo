@@ -27,15 +27,18 @@ To get started we need to specify to the program where our raw data is and how t
 Later if you decide to use your own data file there are some adjustments you may have to make here. You must make sure that the file is in in the same fold in the file manager and that your file name is spelled exactly as it appears in the file manager folder. You may also have to specify the delimiter, the comma in the parenthesis in the code. 
 
 <code> 
-  timeplot.loadText("data.txt", ",", eventSource);
+  var eventSource = new Timeplot.DefaultEventSource();
 
+  dataSource: new Timeplot.ColumnSource(eventSource,1),
+
+  timeplot.loadText("data.txt", ",", eventSource);
 </code>
 
 Place this line of code as show below.
 
 
-{{:timeplot:txt_file_code_location.png|}}
 
+{{:timeplot:adding_data_lines_of_code.png|}}
 
 
 
