@@ -53,7 +53,7 @@ Close to the bottom of the code in the HTML is where you specify to the program 
 As you can see in the photo above can see there is a lot going on in this small block of code. 
 The text underlined in blue **must match exactly** the file type that is in quotes and that is underlined in orange. This is telling the program what the file type is and what the name of the file is called. One thing to note is that the file being named must be in the same folder in the document manager as the program file / index.html file.
 
-The part in yellow is a "Delimiter," this tells the code program where one data entry stops and a new one begins. So what it will do is going into your "data.txt" file and start reading the entries and then once it sees whatever is in that place, right now a comma, it will end that entry and start a new one. 
+The part in yellow is a "Delimiter," this tells the code program where one data entry stops and a new one begins. So what it will do is going into your "data.txt" file and start reading the entries and then once it sees whatever is in that place, right now a comma, it will end that entry and start a new one. Review the above explanations of this to better understand how it all works together.
 
 
 {{indexmenu_n>4}}
