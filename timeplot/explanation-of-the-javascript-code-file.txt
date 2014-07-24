@@ -96,8 +96,7 @@ The text underlined in blue **must match exactly** the file type that is in quot
 
 The part in yellow is a "Delimiter," this tells the code program where one data entry stops and a new one begins. So what it will do is going into your "data.txt" file and start reading the entries and then once it sees whatever is in that place, right now a comma, it will end that entry and start a new one. 
 
-
-
+See the [[timeplot:explanation-of-the-text-file|Explanation of the Text File]] for more information.
 ===== Common Errors =====
 
 For those of you that don't have a background in coding this will be a little bit more difficult, but for those that do this will make sense.
