@@ -20,4 +20,4 @@ Inside you should see three types of files; a ".txt", a ".xml", and a ".html". R
 
 {{:timeplot:timeplot_file.png?|}}
 
-{{indexmenu_n>1}}
+{{indexmenu_n>2}}
