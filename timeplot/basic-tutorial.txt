@@ -20,6 +20,11 @@ A pop up window will appear, leave the settings as is and click edit in the bott
 
 To view the timeplot as you edit the code you can type "www.mydomain.com/timeplot" and your browser will open that file, run the timeplot code, and display the graph. 
 
+This is what you should see to start with in the basic file. 
+
+{{:timeplot:starting_timeplot.png|}}
+
+
 ===== Step One: Adding Data =====
 
 To get started we need to specify to the program where our raw data is and how to read that raw data so it will be read into the program. To tell the program we need to add this line of code to the program. With your installation package you were given a sample raw data text file and we will use that. 
@@ -41,6 +46,9 @@ Place this line of code as show below.
 {{:timeplot:adding_data_lines_of_code.png|}}
 
 
+This is what your timeplot should look like now that you have added those lines of code.
+
+{{:timeplot:timeplot_w_sample_data.png|}}
 
 
 {{indexmenu_n>6}}
