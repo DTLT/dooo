@@ -34,9 +34,9 @@ To exit the axes examine the code below.
 
 {{:timeplot:editing_the_axis.png|}}
 
+  - Color of the axis labels
   - Position of the label
-  - Minumum value of the graph
-  - Maximum value of the graph
+  - Minimum and Maximum value of the graph
 
 The first block will adjust where the dates or the X-axis labels will show up. Use the command words "top" or "bottom" to adjust the where the labels appear. By default the year labels will show up on the bottom of the graph. So you may add or remove that line as needed or just change the command word.
 
