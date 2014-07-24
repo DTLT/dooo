@@ -33,7 +33,7 @@ Explanation of Points
 
 An important detail that needs to be decided now is whether you are going to be using a single-line or a multi-line graph. This will make some significant difference on how to structure the following code. If you are using a single line graph you have two options that will result in the same outcome. The difference is more important when you are using a Multi-line graph. If your graphs will use the same axis you should create a single variable outside of the graph code to handle the axis. If you have two lines that require different axes, then use the code for two axis. This is covered more in depth in our advanced tutorial.  
 
-==== Editing the Axes ====
+===== Editing the Axes =====
 
 To exit the axes examine the code below. 
 
