@@ -54,4 +54,4 @@ The text underlined in blue **must match exactly** the file type that is in quot
 The part in yellow is a "Delimiter," this tells the code program where one data entry stops and a new one begins. So what it will do is going into your "data.txt" file and start reading the entries and then once it sees whatever is in that place, right now a comma, it will end that entry and start a new one. 
 
 
-{{indexmenu_n>3}}
+{{indexmenu_n>4}}
