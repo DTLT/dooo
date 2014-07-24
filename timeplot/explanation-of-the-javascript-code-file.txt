@@ -28,7 +28,16 @@ Explanation of Points
   - Here you can also specify if you want the graph to have an infill color too. See the following section for changing color.
   - This point is where you can decide if you want your data to be shown when you put your mouse over it. If you want it shown set it to "true," if you do not want it to be shown set it to "false."
 
-===== Editing the Axes ====
+
+===== Single-Line vs. Multi-Line Graph =====
+
+An important detail that needs to be decided now is whether you are going to be using a single-line or a multi-line graph. This will make some significant difference on how to structure the following code. If you are using a single line graph you have two options that will result in the same outcome. The difference is more obvious when you are using a Multi-line graph. If your graphs will use the same axis you should create a single variable outside of the graph code to handle the axis. If you have two lines that require different axes, then 
+
+===== Single-Line Axis =====
+
+
+===== Multi-line Axis =====
+==== Editing the Axes ====
 
 To exit the axes examine the code below. 
 
@@ -70,6 +79,12 @@ If you would like to dots to your data points to make the data points more prono
 How it should look if you add this line is shown below. 
 
 {{:timeplot:graph_with_dots.png|}}{{:timeplot:screen_shot_2014-07-08_at_3.11.31_pm.png|}}
+
+
+
+===== Mouse Over Information =====
+
+
 
 
 ===== How to get data into the program =====
