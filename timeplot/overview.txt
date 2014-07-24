@@ -12,4 +12,6 @@ Raw data is read into the program from the text file to fill in the variable dat
 
 The XML file is where information for the events lines are stored. It is also read in by the Javascript code in the .html file. 
 
+The .html file is what holds the Javascript code that controls the programs functionality and appearance.
+
 {{indexmenu_n>1}}
