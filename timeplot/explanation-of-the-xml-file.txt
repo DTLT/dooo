@@ -46,4 +46,4 @@ Here is an example of those two options in use:
 
 {{:timeplot:xml_file_advanced_options.png|}}
 
-{{indexmenu_n>4}}
+{{indexmenu_n>5}}
