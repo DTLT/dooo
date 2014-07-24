@@ -1,5 +1,20 @@
 ==== Editing the XML File ====
 
+This is a walk through of the code in the XML file. Any changes to the code that is unintentional or in unspecified areas can cause it to not work. Please save your work often, so that you can revert to a version that works for ease of use.
+
+
+To make changes to the XML file for your timeplot, you will need to click on the individual file and then select **Code Editor** or **Text Editor** from the top toolbar of the file manager to edit the files.
+
+{{  :timeplot:code_editor.png?  |}}
+
+
+A pop up window will appear, leave the settings as is and click edit in the bottom left corner. 
+
+{{  :timeplot:pop-up_window.png?500  |}}
+
+
+
+
 The XML file is what contains the code for the event lines and different parts of the event information.
 
 The Blue underlined, at the beginning and end of the line, is the code to stop and start an entry of the XML file.
