@@ -8,7 +8,7 @@ One of the most basic and most important parts of this program is to design and 
 Any changes to the code that is unintentional or in unspecified areas can cause it to not work. Please save your work often, so that you can revert to a version that works for ease of use.You need to follow a style like the one shown below. For more advanced options you can experiment with a new one that meets your projects requirements.
 
 
-To make changes to the text for your timeplot, you will need to click on the individual files and then select **Code Editor** or **Text Editor** from the top toolbar of the file manager to edit the files.
+To make changes to the text file for your timeplot, you will need to click on the individual files and then select **Code Editor** or **Text Editor** from the top toolbar of the file manager to edit the files.
 
 {{  :timeplot:code_editor.png?  |}}
 
