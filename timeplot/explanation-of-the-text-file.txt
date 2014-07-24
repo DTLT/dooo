@@ -44,7 +44,9 @@ The Horizontal axis is the data and the Vertical axis is the value in that colum
 
 ===== How to get data into the program =====
 
-Close to the bottom in this block of text is where you specify to the program where to get the information from. It can use a variety of file types but for this example were are using .txt data. 
+**How does the Text file and the HTML file interact?**
+
+Close to the bottom of the code in the HTML is where you specify to the program where to get the information from. It can use a variety of file types but for this example were are using .txt data. 
 
 {{:timeplot:date_file_location_code.png?|}}
 
