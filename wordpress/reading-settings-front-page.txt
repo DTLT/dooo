@@ -6,7 +6,7 @@ As we have said before, WordPress provides two primary content types for you two
 
 Start at the **Dashboard**.
 
-![image](http://farm8.staticflickr.com/7380/9422128077_30256097ab_c_d.jpg)
+![image](https://farm4.staticflickr.com/3881/14764078696_baa90d9f58_c.jpg)
 
 Navigate to **Settings > Reading**.
 
