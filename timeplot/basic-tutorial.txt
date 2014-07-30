@@ -62,7 +62,7 @@ axisLabelsPlacement: "left",
 
 </code>
 
-To enable to X-Axis label, add this code into the individual graphs code.
+To enable to X-Axis label, add this code into the individual graph's code like this.
 
 <code>
 
@@ -70,6 +70,44 @@ To enable to X-Axis label, add this code into the individual graphs code.
       gridColor: "#000000",
       axisLabelsPlacement: "top"
       })
+
+</code>
+
+If you notice the graph is a little off. The X-Axis as default will be your lowest value. This fundamentally frames the data different and may project a different story from the data. It can make changes look more extreme than they really are. Sometimes it can be helpful to do that, other times misleading.
+
+So to adjust your graphs minimum and maximum values what you need to do is to paste this code into the graph code. 
+
+<code>
+
+        min: 0,
+        max: 100
+
+</code>
+
+By adding this line of code you will manually set the minimum and maximum values of the graph. You add different values later to better fit your graph for different projects.
+
+This will result in your graph looking like this.
+
+
+
+Here are a few basic options that can help the readability of the graph; adding colors and showing the data points when you put the mouse over the graph.
+
+Adding Colors:
+
+In the individual graph code add these lines of code to color the graph. "lineColor" will color the graph's line and "fillColor" will color the area under the graph. These lines of code use hexadecimal color codes, it can be helpful to pick colors with a  
+
+<code>
+
+      lineColor: "#000000",
+      fillColor: "#000000",
+
+</code>
+
+To show the values of your data points when you put your mouse over the graph, add this code below the colors that we just added above.
+
+<code>
+
+showValues: true
 
 </code>
 
