@@ -10,7 +10,7 @@ To get started we need to install a plugin. To do this, we'll start at the **Das
 
 Navigate to **Plugins > Installed Plugins**.
 
-![image](http://farm4.staticflickr.com/3698/9630999566_3789c60afb_c_d.jpg)
+![image](https://farm4.staticflickr.com/3844/14765005986_a91f13ae25_c.jpg)
 
 At or near the top of the list of plugins that are automatically installed in a new WordPress installation, is [Akismet](http://wordpress.org/plugins/akismet/). It is not activated, so part of the process of getting Akismet is **Activating** the plugin. Before you activate it, however, you need to get something that will be somewhat strange for most people. It's called an API key. API stands for Application Programming Interface, and it's a way for programs and services to "talk" to each other. The Akismet plugin requires you to get an **Akismet API Key**, which is simply a "code" that you supply when activating the plugin. The key is free if you use it on a personal WordPress installation, and it's [available on the Akismet website](http://akismet.com/wordpress/). 
 
