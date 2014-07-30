@@ -2,6 +2,16 @@
 
 This is a walk-through of the contents of the HTML file that Timeplot uses. In particular, it walks you through the javascript that Timeplot uses. 
 
+
+
+
+
+
+
+
+
+
+
 ===== Start of File and External Javascript =====
 
 At the top of the file, you will see code to begin the HTML page and call an external javascript file. This file is required for your Timeplot to work. You shouldn't edit or change the code or the URL. 
