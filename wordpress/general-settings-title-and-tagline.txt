@@ -2,7 +2,7 @@
 
 Now that you have your WordPress installed and running, it's time to look at some basic settings for your site. The place that you will access the settings for your site is called the **Dashboard**, and it provides the starting point for accessing all of your sites dials and knobs.
 
-![image](http://farm8.staticflickr.com/7380/9422128077_30256097ab_c_d.jpg)
+![image](https://farm4.staticflickr.com/3881/14764078696_baa90d9f58_c.jpg)
 
 The setting we will look at here is your blog "title" and "tag line". It is located under **Settings > General**.
 
