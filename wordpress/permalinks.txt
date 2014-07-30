@@ -20,10 +20,10 @@ If you want to have the date as part of the address, you can choose **Day and na
 
 Finally, when you write a blog post, you have the option of editing the permalink for an individual post. Just click the **Edit** button (underneath the Title field).
 
-![image](http://farm6.staticflickr.com/5455/9525827238_06c8834680_c_d.jpg)
+![image](https://farm3.staticflickr.com/2938/14785904034_7379b3f99f_c.jpg)
 
 Then type in whatever is appropriate (and hasn't been used yet). Generally you want to make it as simple and short a word, or words, as makes sense. In the example below, we get a little silly with the O's.
 
-![image](http://farm8.staticflickr.com/7423/9525827254_7e8d9c98c3_c_d.jpg)
+![image](https://farm4.staticflickr.com/3916/14601623418_6f3fc01a55_c.jpg)
 
 {{indexmenu_n>9}}
