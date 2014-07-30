@@ -7,9 +7,9 @@ Start at the **Dashboard**.
 
 Navigate to **Settings > Discussion**.
 
-![image](http://farm8.staticflickr.com/7289/9459625000_25edae9680_c_d.jpg)
+![image](https://farm4.staticflickr.com/3869/14764843966_4794208b3b_c.jpg)
 
-The two main forms of discussion on a website are higlighted - "Allow link notifications from other blogs (pingbacks and trackbacks)" and "Allow people to post comments on new articles".
+The two main forms of discussion on a website have red arrows pointing to them - "Allow link notifications from other blogs (pingbacks and trackbacks)" and "Allow people to post comments on new articles".
 
 Comments are self-explanatory. People come to your website, read an article, and as long as you allow comments, people can write whatever is on their mind. Commenters must leave their name and email address (if you leave that setting checked). You can also require users to be registered to your site to comment. They would then need to be logged in to submit any comments. By default you will get an email sent to the admin account of the WordPress site when someone posts a comment, or when a comment is held in moderation. You can uncheck those boxes if you do not wish to receive those emails.
 
