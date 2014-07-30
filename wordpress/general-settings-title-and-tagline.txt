@@ -6,7 +6,7 @@ Now that you have your WordPress installed and running, it's time to look at som
 
 The setting we will look at here is your blog "title" and "tag line". It is located under **Settings > General**.
 
-![image](http://farm3.staticflickr.com/2809/9424880120_567cc4a7d5_o_d.png)
+![image](https://farm4.staticflickr.com/3905/14785370054_199099deea_c.jpg)
 
 Once you're on the General Settings page, you can give your blog any **title** you want. You can also give your blog a **tagline**, which can be a short description of the blog.
 
