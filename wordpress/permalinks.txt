@@ -10,7 +10,7 @@ So [http://umwdomainsdemo.com/?p=1](http://umwdomainsdemo.com/?p=1) may get you 
 
 Next, go to **Settings > Permalinks**.
 
-![image](http://farm8.staticflickr.com/7298/9525733064_51d79ca5b9_c_d.jpg)
+![image](https://farm6.staticflickr.com/5581/14601579668_f4eed0f7f7_c.jpg)
 
 As you can see, there are several choices under **Common Settings**. The Default setting gives us that uninformative "?p=123". A popular choice is to use the **Post name** choice, which is a bit more informative. So our post titled "Hello World" will have an address of [http://umwdomainsdemo.com/hello-world](http://umwdomainsdemo.com/hello-world).
 
