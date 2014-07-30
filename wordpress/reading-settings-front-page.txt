@@ -24,7 +24,7 @@ OK, great. Click the Save Changes button and now you will have the About page as
 First, create a new **Page** and title it Blog (you can title it whatever you want but Blog is common and descriptive). Leave the page blank (don't type any text in the edit box) and Publish it. Now go back to **Settings > Reading**. Under the **static page** area choose Blog from the **Posts page** drop-down.
 
 
-![image](http://farm6.staticflickr.com/5518/9454708656_246598dc57_c_d.jpg)
+![image](https://farm3.staticflickr.com/2906/14787725282_699144a701_c.jpg)
 
 
 Click the **Save Changes** button. Now your "home" page will actually display the About page. You will also have a Blog item in your menu.
