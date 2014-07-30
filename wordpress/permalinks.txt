@@ -6,7 +6,7 @@ Part of the popularity of WordPress is how easily it makes a website functional 
 
 So [http://umwdomainsdemo.com/?p=1](http://umwdomainsdemo.com/?p=1) may get you to that blog post, but it's not a very informative link. With WordPress, you have many options to form the links to posts, and you can change them to make more sense than question marks and numbers. To change the permalink structure, start by going to the **Dashboard**.
 
-![image](http://farm8.staticflickr.com/7380/9422128077_30256097ab_c_d.jpg)
+![image](https://farm4.staticflickr.com/3881/14764078696_baa90d9f58_c.jpg)
 
 Next, go to **Settings > Permalinks**.
 
