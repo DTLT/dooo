@@ -10,13 +10,13 @@ To do this, we'll start at the **Dashboard**.
 
 Navigate to **Settings > Reading**.
 
-![image](http://farm6.staticflickr.com/5344/9465649709_c26c1b8ebf_c_d.jpg)
+![image](https://farm6.staticflickr.com/5588/14785575164_ce8e39ce6c_c.jpg)
 
 Normally the box next to **Search Engine Visibility** is unchecked. If you decide to check the box, it will "Discourage search engines from indexing this site." It will depend on the search engine to honor your "request". Some search engines will simply ignore it. Obviously this is not a sure-fire way of keeping your blog private.
 
 You also have options on individual posts to keep them private, so that only people who are logged in to your site can view a given post. You can also password protect posts with a password you supply. Choose the **Private** radio button to keep a post hidden behind the login, or choose the **Password protected** button and then type in the password you wish to use. Click on **OK** when you are finished. Then be sure you click the **Update** button to save your post with the new settings.
 
-![image](http://farm4.staticflickr.com/3773/9465707997_1bb442b7b8_o_d.jpg)
+![image](https://farm4.staticflickr.com/3885/14807794363_7f5ed38158.jpg)
 
 
 There is a plugin called [More Privacy Options](http://wordpress.org/plugins/more-privacy-options/) that allows you to fine-tune privacy settings on your site (doesn't currently work on WordPress 3.6).
