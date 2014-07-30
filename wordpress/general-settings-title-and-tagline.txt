@@ -14,7 +14,7 @@ Once you're on the General Settings page, you can give your blog any **title** y
 
 When you change the Blog title and tag line, they will show up at the top of your site. Depending on what theme you use, the title and tag lines will show up in various places. In the case of some themes, they might not show up at all depending on whether they allow custom configurations. We won't worry about that for now. If you use the default theme (currently "Twenty Thirteen"), the blog title and tag line are both in the center left of what's called the **header** of the site.
 
-![image](http://farm6.staticflickr.com/5464/9424988496_e4f3778e51_c_d.jpg)
+![image](https://farm6.staticflickr.com/5593/14601139788_4b3c8d06cf_c.jpg)
 
 There are more settings on the General Settings page, such as setting the administrative email account, time zone, date format, etc. Change those to whatever is appropriate for your site and geographical location.
 
