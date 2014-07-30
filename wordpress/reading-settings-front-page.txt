@@ -10,13 +10,13 @@ Start at the **Dashboard**.
 
 Navigate to **Settings > Reading**.
 
-![image](http://farm3.staticflickr.com/2850/9454650522_bf6aff29b8_c_d.jpg)
+![image](https://farm6.staticflickr.com/5594/14765042256_81514a057a_c.jpg)
 
 
 Normally, the front page displays your latest blog posts. What we want to do instead is select a **Page** from the website. Obviously this page has to exist before you can select it. Select the "**A static page**" radio button and choose the **About** page from the Front page drop-down menu (an About page was created for you when you installed WordPress).
 
 
-![image](http://farm8.staticflickr.com/7435/9451928987_c36ed11478_c_d.jpg)
+![image](https://farm3.staticflickr.com/2904/14601337520_165e949893_c.jpg)
 
 
 OK, great. Click the Save Changes button and now you will have the About page as your Front page. Edit it as you see fit and provide a good welcoming page for your visitors. But wait. What will happen to your blog posts? Most people will want them as the "dynamic" part of your site.
