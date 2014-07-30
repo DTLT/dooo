@@ -29,7 +29,7 @@ First, create a new **Page** and title it Blog (you can title it whatever you wa
 
 Click the **Save Changes** button. Now your "home" page will actually display the About page. You will also have a Blog item in your menu.
 
-![image](http://farm4.staticflickr.com/3812/9454823566_0d8484742e_c_d.jpg)
+![image](https://farm6.staticflickr.com/5578/14787726062_e25ddba2f0_c.jpg)
 
 If you click on the Blog menu item, you will then see your blog posts. Notice the **/blog** added to the web address.
 
