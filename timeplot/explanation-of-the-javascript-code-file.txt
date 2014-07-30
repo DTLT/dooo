@@ -1,17 +1,23 @@
 ====== Explanation of the Javascript Code File ======
 
+This is a walk-through of the contents of the HTML file that Timeplot uses. In particular, it walks you through the javascript that Timeplot uses. 
 
-This is a walk through of the code of the program in the HTML Javascript file. It has been labeled for your convenience. Please ignore areas that are not labeled. Any changes to the code that is unintentional or in unspecified areas can cause it to not work. Please save your work often, so that you can revert to a version that works for ease of use.
+===== Start of File and External Javascript =====
 
+At the top of the file, you will see code to begin the HTML page and call an external javascript file. This file is required for your Timeplot to work. You shouldn't edit or change the code or the URL. 
 
-To make changes to the code for your timeplot, you will need to click on the individual files and then select **code editor** from the top toolbar of the file manager to edit the files.
+<code>
+<html>
 
-{{  :timeplot:code_editor.png?  |}}
-
-
-A pop up window will appear, leave the settings as is and click edit in the bottom left corner. 
-
-{{  :timeplot:pop-up_window.png?500  |}}
+	<head>
+	
+	<!-- This is the call to the timeline's API code -->
+	
+	  <script src="http://api.simile-widgets.org/timeplot/1.1/timeplot-api.js" 
+       type="text/javascript"></script>
+       
+       <script>
+</code>
 
 ===== Graph Code =====
 
