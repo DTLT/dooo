@@ -111,5 +111,33 @@ showValues: true
 
 </code>
 
+==== Adding Events ====
+
+To add events to your graph you need to add a few blocks of codes in different places.
+
+To tell the program where to find the XML file with your events in it you need to add this line of code near the bottom of the HTML file.
+
+<code>
+
+  timeplots.loadXML("events.xml", eventSource2);
+
+</code> 
+
+To create the XML events you need to create another instance of the graph code. 
+
+Add this line of code near the bottom, make sure when you set the "id" that it is unique.
+
+<code>
+
+ Timeplot.createPlotInfo({
+      id: "plot3",
+      timeGeometry: timeGeometry,
+      eventSource: eventSource2,
+      
+      })
+
+
+</code>
+
 
 {{indexmenu_n>6}}
