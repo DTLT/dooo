@@ -33,6 +33,6 @@ Click the **Save Changes** button. Now your "home" page will actually display th
 
 If you click on the Blog menu item, you will then see your blog posts. Notice the **/blog** added to the web address.
 
-![image](http://farm6.staticflickr.com/5524/9454823608_af5c0653b1_c_d.jpg)
+![image](https://farm4.staticflickr.com/3866/14785752664_9b68641d4e_c.jpg)
 
 {{indexmenu_n>7}}
