@@ -12,7 +12,7 @@ Next, go to **Settings > Permalinks**.
 
 ![image](https://farm6.staticflickr.com/5581/14601579668_f4eed0f7f7_c.jpg)
 
-As you can see, there are several choices under **Common Settings**. The Default setting gives us that uninformative "?p=123". A popular choice is to use the **Post name** choice, which is a bit more informative. So our post titled "Hello World" will have an address of [http://umwdomainsdemo.com/hello-world](http://umwdomainsdemo.com/hello-world).
+As you can see, there are several choices under **Common Settings**. The Default setting gives us that uninformative "?p=123". A popular choice is to use the **Post name** choice, which is a bit more informative. So our post titled "Hello World" will have an address of [http://www.umwdomains.com/demo/uncategorized/hello-world/](http://www.umwdomains.com/demo/uncategorized/hello-world/).
 
 ![image](http://farm8.staticflickr.com/7324/9522950803_4b6f51d18a_c_d.jpg)
 
