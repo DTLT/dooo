@@ -94,7 +94,7 @@ Here are a few basic options that can help the readability of the graph; adding 
 
 Adding Colors:
 
-In the individual graph code add these lines of code to color the graph. "lineColor" will color the graph's line and "fillColor" will color the area under the graph. These lines of code use hexadecimal color codes, it can be helpful to pick colors with a  
+In the individual graph code add these lines of code to color the graph. "lineColor" will color the graph's line and "fillColor" will color the area under the graph. The timeplot program uses hexadecimal code to specify the color of certain elements of the graph to the program. It is very helpful to use a hexadecimal visualizer so that you can see the color you want and then get the code. For example w3schools has a very helpful HTML color picker.  [[http://www.w3schools.com/tags/ref_colorpicker.asp|You can find the link here]] to get different "Hex" values for colors. 
 
 <code>
 
