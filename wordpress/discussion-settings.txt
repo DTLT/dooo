@@ -19,9 +19,9 @@ You also have some control over comment moderation regarding how many links a co
 
 There are also forms of discussion called link notifications. Spammers like these too. Here's an article on the [What, Why, and How-To’s of Trackbacks and Pingbacks in WordPress](http://www.wpbeginner.com/beginners-guide/what-why-and-how-tos-of-trackbacks-and-pingbacks-in-wordpress/).
 
-Sometimes it's nice to have visual representations of the people who are commenting on your blog. Enter **Avatars**.
+Sometimes it's nice to have visual representations of the people who are commenting on your blog. For this, we have the **Avatars** feature.
 
-![image](http://farm4.staticflickr.com/3738/9456843715_57c9cd7cae_c_d.jpg)
+![image](https://farm6.staticflickr.com/5583/14601222519_75934c2ea9_c.jpg)
 
 Avatars are visual representations, pictures, graphics, etc., of users of the web. A common universal system that is used is called [Gravatars](http://gravatar.com/) (Globally Recognized Avatars). The system requires you to sign up with your email address. You can upload a graphical representation of yourself (again a picture or other graphic). From then on you are identified with your Gravatar on any blog that you use that email address with.
 
