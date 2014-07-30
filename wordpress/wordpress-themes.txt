@@ -23,7 +23,7 @@ If none of the themes that were provided when you installed WordPress are what y
 
   - Navigate to **Appearance > Themes**. ![image](https://farm3.staticflickr.com/2899/14765360436_3f92e98492_c.jpg)
   - Installing new themes is quite simple. You start by clicking **Add New Theme**.![image](https://farm6.staticflickr.com/5553/14601781048_3cdbb00893_c.jpg)
-  - The initial page displays **Featured** theme examples that you can install. You can also click "Popular" or "Latest" for more examples. "Feature Filter" allows you to narrow your search based on properties of themes.[image](https://farm4.staticflickr.com/3850/14788122502_ba5a86cfa6_c.jpg)
+  - The initial page displays **Featured** theme examples that you can install. You can also click "Popular" or "Latest" for more examples. "Feature Filter" allows you to narrow your search based on properties of themes.![image](https://farm4.staticflickr.com/3850/14788122502_ba5a86cfa6_c.jpg)
   - Under the thumbnail picture of each theme are three choices - **Install Now**, **Preview**, and **Details**. Those choices should be pretty self-explanitory so click **Install Now** to add a new theme to your site. After you install the theme, it is still not active on your site. You will need to **Activate** it to use it.![image](http://farm8.staticflickr.com/7350/9602712376_8d5a7da5b7_c_d.jpg)
   - Once activated, your site will be using the new theme.![image](http://farm3.staticflickr.com/2858/9602743706_6eb9b26fff_c_d.jpg)
   - At the top of the page will be a message "New Theme Activated". Click on the **Visit Site** link to view your site with the new look.![image](http://farm6.staticflickr.com/5350/9599507231_8220f73854_c_d.jpg)
