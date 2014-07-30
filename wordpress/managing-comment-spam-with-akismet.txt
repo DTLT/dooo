@@ -6,7 +6,7 @@ So how do you deal with comment spam when it can come in even more often than em
 
 To get started we need to install a plugin. To do this, we'll start at the **Dashboard**.
 
-![image](http://farm8.staticflickr.com/7380/9422128077_30256097ab_c_d.jpg)
+![image](https://farm4.staticflickr.com/3881/14764078696_baa90d9f58_c.jpg)
 
 Navigate to **Plugins > Installed Plugins**.
 
