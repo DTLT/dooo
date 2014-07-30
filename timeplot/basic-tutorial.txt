@@ -51,4 +51,27 @@ This is what your timeplot should look like now that you have added those lines 
 {{:timeplot:timeplot_w_sample_data.png|}}
 
 
+The next step is to enable the axis values so that you can see what the values of the graph are. 
+
+To add the Y-axis labels, place this code into the individual graphs code.
+
+<code>
+
+gridColor: "#000000"
+axisLabelsPlacement: "left",
+
+</code>
+
+To enable to X-Axis label, add this code into the individual graphs code.
+
+<code>
+
+      timeGeometry: new Timeplot.DefaultTimeGeometry({
+      gridColor: "#000000",
+      axisLabelsPlacement: "top"
+      })
+
+</code>
+
+
 {{indexmenu_n>6}}
