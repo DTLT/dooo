@@ -25,7 +25,7 @@ At the top of the file, you will see code to begin the HTML page and call an ext
 
 Below the call to the external javascript, you will see a block of javascript that contains information about the Timeplot to be displayed on the page. The majority of your work will be editing and modifying this block of code. Comments in the code help to explain what each piece does. Subsequent tutorials will further explain this code as well as introduce other code you can add to modify and enhance your Timeplot. 
 
-<code>
+<code html>
 <!-- This tag indicated the start of the javascript block-->
 <script>
    <!-- This declares a variable for your Timeplot. You should not edit it -->
