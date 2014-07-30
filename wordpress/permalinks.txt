@@ -2,7 +2,7 @@
 
 Part of the popularity of WordPress is how easily it makes a website functional and yet attractive. One of the smaller details that you might want to adjust is how the addresses to your blog posts are structured. **Permalink** is the name given to the address of an individual blog post because they are "permanent links". For example, the web address for our sample blog is [http://www.umwdomains.com/demo/](http://www.umwdomains.com/demo/). The link to the first post, titled "Hello World" may be structured in many ways. The screenshot below shows one way.
 
-![image](http://farm3.staticflickr.com/2894/9521967361_cda92d14c0_c_d.jpg)
+![image](https://farm6.staticflickr.com/5583/14785499561_0381e76f3d_c.jpg)
 
 So [http://umwdomainsdemo.com/?p=1](http://umwdomainsdemo.com/?p=1) may get you to that blog post, but it's not a very informative link. With WordPress, you have many options to form the links to posts, and you can change them to make more sense than question marks and numbers. To change the permalink structure, start by going to the **Dashboard**.
 
