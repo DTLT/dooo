@@ -37,7 +37,7 @@ For example:
 
 
 
-==== Enter More Information and Links ====
+===== Enter More Information and Links =====
 
 To add a link to your event all you need to do is to add, " link="ht tp:/ /www. enterwebsite .com/stuffandthings" " refer to the Image below
 
