@@ -152,6 +152,8 @@ var eventSource2 = new Timeplot.DefaultEventSource();
 
 </code>
 
+{{:timeplot:create_variable.png|}}
+
 To create the XML events you need to create another instance of the graph code. 
 
 Add this line of code near the bottom, make sure when you set the "id" that it is unique.
@@ -170,6 +172,8 @@ Timeplot.createPlotInfo({
 
 </code>
 
+{{:timeplot:create_plot.png|}}
+
 Finally you also need to tell the program where to find the XML file with your events in it. Add this line of code near the bottom of the HTML file to specify where the file is. **The file name must match exactly!**
 
 <code>
@@ -178,5 +182,6 @@ Finally you also need to tell the program where to find the XML file with your e
 
 </code> 
 
+{{:timeplot:xml_data.png|}}
 
 {{indexmenu_n>6}}
