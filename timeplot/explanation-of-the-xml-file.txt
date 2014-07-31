@@ -27,7 +27,7 @@ Yellow is a link for a website to be displayed with your event, possibly for mor
 {{:timeplot:inside_the_xml_file.png|}}
 
 
-==== Individual event colors ====
+===== Individual event colors =====
 
 So in your XML file one of the additional options is to have different colors for events. This can be particularly helpful so that you can group graphs and event with the colors to better illustrate your point about the data. To change the individual even color simply add ' color="(Hex Code)" ' anywhere on the line of the event, but within <event and />.
 
