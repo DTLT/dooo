@@ -1,4 +1,4 @@
-==== Editing the XML File ====
+===== Editing the XML File =====
 
 This is a walk through of the code in the XML file. Any changes to the code that is unintentional or in unspecified areas can cause it to not work. Please save your work often, so that you can revert to a version that works for ease of use.
 
