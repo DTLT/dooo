@@ -161,7 +161,7 @@ Add this line of code near the bottom, make sure when you set the "id" that it i
 <code>
 
 Timeplot.createPlotInfo({
-      id: "plot3",
+      id: "events",
       gridColor: "#000000",
       axisLabelsPlacement: "top",
       eventSource: eventSource2,
