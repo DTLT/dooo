@@ -84,7 +84,9 @@ This is what your graph should look like at this step:
 
 {{:timeplot:graph_without_min-max.png|}}
 
-If you notice the graph may seem a little off. The X-Axis as default will be your lowest value. This fundamentally frames the data different and may project a different story from the data. It can make changes look more extreme than they really are. Sometimes it can be helpful to do that, other times misleading.
+If you notice the graph may seem a little off. The X-Axis as default will be your lowest value. This fundamentally frames the data different and may project a different story from the data. It can make changes look more extreme than they really are. Sometimes it can be helpful to do that, other times it can be misleading.
+
+By adding this line of code you will manually set the minimum and maximum values of the graph. You add different values later to better fit your graph for different projects.
 
 So to adjust your graphs minimum and maximum values what you need to do is to paste this code into the graph code. 
 
@@ -95,9 +97,13 @@ So to adjust your graphs minimum and maximum values what you need to do is to pa
 
 </code>
 
-By adding this line of code you will manually set the minimum and maximum values of the graph. You add different values later to better fit your graph for different projects.
+{{:timeplot:where_to_add_the_min-max.png|}}
+
+
 
 This will result in your graph looking like this.
+
+{{:timeplot:graph_with_min-max.png|}}
 
 
 
