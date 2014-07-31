@@ -2,6 +2,13 @@
 
 This tutorial will explain how to add an additional lines to your Timeplot graph and also show the use of some more complex functions.
 
+To create additional lines on the graph simply copy the lines of code from the original line and paste it below the first / previous graph. There is no limit to the amount of graphs you can have on one line, but you are constrained by the data in your text file. You will need to change some parts of the code though. 
 
+{{:timeplot:multipule_graphs.png|}}
+
+  - If you recall from the Basic tutorial this is the unique identifier for the first graph. You will need to make a new unique identifier for the second graph and any subsequent graphs.
+  - This is where you tell the program to get the data from. This will also have to be unique or you will end up displaying the same data. You can refer to the [[timeplot:explanation-of-the-text-file|documentation on the text file]] to get more information on how you can do that.
+
+These are the only changes that you **must** make, but you can change the other settings as you see fit to make the graph more user friendly.
 
 {{indexmenu_n>7}}
