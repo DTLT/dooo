@@ -136,7 +136,7 @@ showValues: true,
 
 This is what your graph will look like after adding color and the mouse over code.
 
-{{:timeplot:color_and_mouse_over_graph.png|}
+{{:timeplot:color_and_mouse_over_graph.png|}}
 
 
 ===== Adding Events =====
