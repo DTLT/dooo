@@ -1,6 +1,6 @@
 ====== Advanced Tutorial =====
 
-This tutorial will explain how to add an additional graph to your Timeplot and also show the use of some more complex functions.
+This tutorial will explain how to add an additional lines to your Timeplot graph and also show the use of some more complex functions.
 
 
 
