@@ -50,6 +50,7 @@ This is what your timeplot should look like now that you have added those lines 
 
 {{:timeplot:timeplot_w_sample_data.png|}}
 
+===== Adjusting The Graph =====
 
 The next step is to enable the axis values so that you can see what the values of the graph are. 
 
@@ -111,7 +112,7 @@ showValues: true
 
 </code>
 
-==== Adding Events ====
+===== Adding Events =====
 
 To add events to your graph you need to add a few blocks of codes in different places.
 
