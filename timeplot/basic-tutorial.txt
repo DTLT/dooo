@@ -108,7 +108,7 @@ This will result in your graph looking like this.
 
 
 
-{{:timeplot:color_and_mouse_over_graph.png|}}===== Adding Colors ======
+}===== Adding Colors ======
 
 Here are a few basic options that can help the readability of the graph; adding colors and showing the data points when you put the mouse over the graph.
 
