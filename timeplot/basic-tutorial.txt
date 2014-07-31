@@ -25,7 +25,7 @@ This is what you should see to start with in the basic file.
 {{:timeplot:starting_timeplot.png|}}
 
 
-===== Step One: Adding Data =====
+===== Adding Data =====
 
 To get started we need to specify to the program where our raw data is and how to read that raw data so it will be read into the program. To tell the program we need to add this line of code to the program. With your installation package you were given a sample raw data text file and we will use that. 
 
