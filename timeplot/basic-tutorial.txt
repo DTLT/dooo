@@ -108,7 +108,7 @@ This will result in your graph looking like this.
 
 
 
-===== Adding Colors ======
+{{:timeplot:color_and_mouse_over_graph.png|}}===== Adding Colors ======
 
 Here are a few basic options that can help the readability of the graph; adding colors and showing the data points when you put the mouse over the graph.
 
@@ -130,6 +130,10 @@ To show the values of your data points when you put your mouse over the graph, a
 showValues: true,
 
 </code>
+
+
+
+This is what your graph will look like after adding color and the mouse over code.
 
 {{:timeplot:where_to_add_mouse_over.png|}}
 ===== Adding Events =====
