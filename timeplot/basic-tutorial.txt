@@ -127,7 +127,7 @@ To show the values of your data points when you put your mouse over the graph, a
 
 <code>
 
-showValues: true
+showValues: true,
 
 </code>
 
