@@ -57,7 +57,8 @@ Below the call to the external javascript, you will see a block of javascript th
   timeplot = Timeplot.create(document.getElementById("plot1"), plotInfo);
   
   <!-- This statement indicates where the file is located for your data. 
-  The location is relative to the file you are working on, and the comma (in quotes) indicates that the data is comma-delimited. -->
+  The location is relative to the file you are working on, and the comma (in quotes) 
+  indicates that the data is comma-delimited. -->
   timeplot.loadText("data.txt", ",", eventSource);;
   
 
