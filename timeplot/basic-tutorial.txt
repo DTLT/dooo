@@ -80,7 +80,11 @@ To enable to X-Axis label, add this code into the individual graph's code like t
 
 {{:timeplot:adding_x-axis_labels.png|}}
 
-If you notice the graph is a little off. The X-Axis as default will be your lowest value. This fundamentally frames the data different and may project a different story from the data. It can make changes look more extreme than they really are. Sometimes it can be helpful to do that, other times misleading.
+This is what your graph should look like at this step:
+
+{{:timeplot:graph_without_min-max.png|}}
+
+If you notice the graph may seem a little off. The X-Axis as default will be your lowest value. This fundamentally frames the data different and may project a different story from the data. It can make changes look more extreme than they really are. Sometimes it can be helpful to do that, other times misleading.
 
 So to adjust your graphs minimum and maximum values what you need to do is to paste this code into the graph code. 
 
