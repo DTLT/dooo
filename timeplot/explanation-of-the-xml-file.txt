@@ -32,7 +32,7 @@ Yellow is a link for a website to be displayed with your event, possibly for mor
 One of the simplest ways to add a new line is to simply copy the one before and then paste it at the bottom of the document. Then change what you need by entering new information or deleting what you don't need. 
 
 
-===== Individual event colors =====
+===== Individual Event Colors =====
 
 So in your XML file one of the additional options is to have different colors for events. This can be particularly helpful so that you can group graphs and event with the colors to better illustrate your point about the data. To change the individual even color simply add ' color="(Hex Code)" ' anywhere on the line of the event, but within <event and />.
 
