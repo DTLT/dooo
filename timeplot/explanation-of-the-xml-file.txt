@@ -47,4 +47,6 @@ Here is an example of those two options in use:
 
 {{:timeplot:xml_file_advanced_options.png|}}
 
+===== Enter a new line =====
+
 {{indexmenu_n>5}}
