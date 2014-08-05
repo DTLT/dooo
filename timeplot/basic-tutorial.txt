@@ -184,4 +184,7 @@ Finally you also need to tell the program where to find the XML file with your e
 
 {{:timeplot:xml_data.png|}}
 
+
+This concludes the basic tutorial. You now have the basic tools to create a timeplot and adjust some of the functions of timeplot. Please see the [[timeplot:advanced-tutorial|advanced tutorial]] for more options for timeplot.
+
 {{indexmenu_n>6}}
