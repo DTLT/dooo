@@ -1,6 +1,6 @@
 ====== Quick Code Blocks ======
 
-{{indexmenu_n>4}}
+{{indexmenu_n>8}}
 ==== Select Hexadecimal Color Values ====
 
 One of the best tools to help you select colors and get their associated Hexadecimal values is here at 
