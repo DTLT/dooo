@@ -11,4 +11,16 @@ To create additional lines on the graph simply copy the lines of code from the o
 
 These are the only changes that you **must** make, but you can change the other settings as you see fit to make the graph more user friendly.
 
+
+
+===== Adding points on the graph =====
+
+If you would like to dots to your data points to make the data points more pronounced simply add the line 
+" dotColor: "(Hex Value)" , " to block of color options in your graph line.
+
+How it should look if you add this line is shown below. 
+
+{{:timeplot:graph_with_dots.png|}}{{:timeplot:screen_shot_2014-07-08_at_3.11.31_pm.png|}}
+
+
 {{indexmenu_n>7}}
