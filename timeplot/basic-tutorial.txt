@@ -27,9 +27,9 @@ This is what you should see to start with in the basic file.
 
 ===== Adding Data =====
 
-To get started we need to specify to the program where our raw data is and how to read that raw data so it will be read into the program. To tell the program we need to add this line of code to the program. With your installation package you were given a sample raw data text file and we will use that. 
+To get started we need to specify to the program where our raw data is and how to read that raw data so it will be read into the program. To tell the program we need to add a few lines of code to the program. With your installation package you were given a sample raw data text file and we will use that. This is where your HTML file and your text file interact. 
 
-Later if you decide to use your own data file there are some adjustments you may have to make here. You must make sure that the file is in in the same fold in the file manager and that your file name is spelled exactly as it appears in the file manager folder. You may also have to specify the delimiter, the comma in the parenthesis in the code. 
+Later if you decide to use your own data file there are some adjustments you may have to make here. You must make sure that the file is in in the same folder in the file manager and that your file name is spelled exactly as it appears in the file manager folder. You may also have to specify the delimiter, the comma in the parenthesis in the code. Please see more information in the [[timeplot:explanation-of-the-text-file|Explanation of the Text File]] to see how the text file is set up and more information on how the two files interact.
 
 <code> 
   var eventSource = new Timeplot.DefaultEventSource();
