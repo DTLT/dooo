@@ -24,12 +24,12 @@ In this example we are going to use the format below.
 
 {{:timeplot:inside_the_data_file.png?|}}
 
-In blue we have the date, Red is the approve, yellow is disapprove, and green is the unsure. You can see that there was also the comment at the top that explains that as well. You should comment your code and data files as much as possible so you and others can understand what is going on. To use a comment use the "#" key to tell the code to ignore everything on that line. This only will work in the data file though when the program is trying to read in the data.
+In blue we have the date, Red is the approval percent, yellow is disapproval percent, and green is the percent unsure. You can see that there was also the comment at the top that explains that as well. You should comment your code and data files as much as possible so you and others can understand what is going on. To use a comment use the "#" key to tell the code to ignore everything on that line. This only will work in the data file though when the program is trying to read in the data.
 
 An important part is the comma between our data. Later we will use that as a Delimiter, this tells the code program where one data entry stops and a new one begins. Now if you are using someone else's data file and they use a different delimiter, you can specify that later in the code as needed, just remember that you can only use one delimiter and it will read that key wherever it appears in your data, there is no way to exclude it. 
 
-In the next step this will be explained more but you also need to design your data in another way.
-Once your code reads it in, it also sees it as columns, from where the commas are,  and rows, from where the line ends (it is not shown but there really is computer code in the blank spot where the enter key was pressed).
+
+Once your code in the HTML reads it in, the program sees the data as columns, from where the commas are,  and rows, from where the line ends.
 
 So imagine it like this:
 
