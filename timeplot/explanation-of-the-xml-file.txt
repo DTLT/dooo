@@ -27,7 +27,7 @@ Yellow is a link for a website to be displayed with your event, possibly for mor
 {{:timeplot:inside_the_xml_file.png|}}
 
 
-===== Add a new line =====
+===== Add A New Line =====
 
 One of the simplest ways to add a new line is to simply copy the one before and then paste it at the bottom of the document. Then change what you need by entering new information or deleting what you don't need. 
 
