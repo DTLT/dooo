@@ -42,9 +42,13 @@ For example:
 
 
 
-===== Enter More Information and Links =====
+===== How to Add a Link =====
 
 To add a link to your event all you need to do is to add, " link="ht tp:/ /www. enterwebsite .com/stuffandthings" " refer to the Image below
+
+===== Enter More Information =====
+
+
 
 If you would like to enter more information in the square that appears when you click the events, then all you need to do is add a close bracket ">" to the end of your event line. Then add the text you would like to appear followed by a end statement "</event>".
 
