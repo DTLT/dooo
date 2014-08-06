@@ -6,7 +6,7 @@ Timeplot is a Javascript application that allows users to take data files in the
 
 There are three components to timeplot that need to be placed into their own folder, in your file manager of your domain. An .html file (linking to and containing some javascript), and two text files (one plain text file, and one XML file).
 
-The plain text file (which uses a .txt extension) is the file that holds the raw data that the Javascript code reads into the program to create the data points. When plotted correctly, the x-axis of the Timeplot will display dates and the y-axis will display the variable data. Below is an example snippet of what the .txt file looks like.
+The text file (which uses a .txt extension) is the file that holds the raw data that the Javascript code reads into the program to create the data points. When plotted correctly, the x-axis of the Timeplot will display dates and the y-axis will display the variable data. Below is an example snippet of what the .txt file looks like.
 
 [example-data.png]
 
