@@ -18,10 +18,10 @@ A pop up window will appear, leave the settings as is and click edit in the bott
 
 The XML file is what contains the code for the event lines and different parts of the event information.
 
-The Blue underlined, at the beginning and end of the line, is the code to stop and start an entry of the XML file.//
-Red is the start time of an event. If only the start time is listed then only one point will be displayed. If you would like it to be a bigger square for an event, then add an end time by putting: "end=" with the date in the same format as the start time.//
-Orange is the title of the event point//
-Yellow is a link for a website to be displayed with your event, possibly for more information or for whatever reason that is fit.//
+The Blue underlined, at the beginning and end of the line, is the code to stop and start an entry of the XML file.\\
+Red is the start time of an event. If only the start time is listed then only one point will be displayed. If you would like it to be a bigger square for an event, then add an end time by putting: "end=" with the date in the same format as the start time.\\
+Orange is the title of the event point\\
+Yellow is a link for a website to be displayed with your event, possibly for more information or for whatever reason that is fit.\\
 
 
 {{:timeplot:inside_the_xml_file.png|}}
