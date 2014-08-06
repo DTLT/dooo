@@ -8,12 +8,12 @@ There are three components to timeplot that need to be placed into their own fol
 
 The text file (which uses a .txt extension) is the file that holds the raw data that the Javascript code reads into the program to create the data points. When plotted correctly, the x-axis of the Timeplot will display dates and the y-axis will display the variable data. Below is an example snippet of what the .txt file looks like.
 
-[example-data.png]
+{{:timeplot:example_of_text_file.png|}}
 
 
 The XML file (which uses the .xml extension) contains information about events that you want to plot against your numerical data. It is also read in by the Javascript code in the .html file. It is specially structured so that the javascript can read it. Below is an example snippet of what the .xml file looks like. 
 
-[example-events.png]
+{{:timeplot:example_of_xml_file.png|}}
 
 The .html file is what holds the Javascript code that controls the programs functionality and appearance.
 
