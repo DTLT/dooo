@@ -48,7 +48,7 @@ The Horizontal axis is the data and the Vertical axis is the value in that colum
 
 Close to the bottom of the code in the HTML is where you specify to the program where to get the information from. It can use a variety of file types but for this example were are using .txt data. 
 
-{{:timeplot:date_file_location_code.png?|}}
+{{:timeplot:data_file_location_code.png?|}}
 
 As you can see in the photo above can see there is a lot going on in this small block of code. 
 The text underlined in blue **must match exactly** the file type that is in quotes and that is underlined in orange. This is telling the program what the file type is and what the name of the file is called. One thing to note is that the file being named must be in the same folder in the document manager as the program file / index.html file.
