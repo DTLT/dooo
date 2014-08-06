@@ -25,7 +25,6 @@ This is what you should see to start with in the basic file.
 {{:timeplot:timeplot_w_sample_data.png|}}
 ===== Adding or Changing the Data =====
 
-So right now the standard timeplot program is set up to pull in raw data from the file called, "data.txt". Rather than specifying a different file to pull in data from we are going to open the data.txt file and then change the data in the file. 
 
 Make sure you save the changes in the code editor, then exit back to the file manager. Click the data.txt file and then follow the same steps that we started with and select code or text editor. 
 
