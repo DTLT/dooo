@@ -27,28 +27,25 @@ This is what you should see to start with in the basic file.
 
 ===== Adding Data =====
 
-To get started we need to specify to the program where our raw data is and how to read that raw data so it will be read into the program. To tell the program we need to add a few lines of code to the program. With your installation package you were given a sample raw data text file and we will use that. This is where your HTML file and your text file interact. 
+So right now the standard timeplot program is set up to pull in raw data from the file called, "data.txt". Rather than specifying a different file to pull in data from we are going to open the data.txt file and then change the data in the file. 
 
-Later if you decide to use your own data file there are some adjustments you may have to make here. You must make sure that the file is in in the same folder in the file manager and that your file name is spelled exactly as it appears in the file manager folder. You may also have to specify the delimiter, the comma in the parenthesis in the code. Please see more information in the [[timeplot:explanation-of-the-text-file|Explanation of the Text File]] to see how the text file is set up and more information on how the two files interact.
+Make sure you save the changes in the code editor, then exit back to the file manager. Click the data.txt file and then follow the same steps that we started with and select code or text editor. 
 
-<code> 
-  var eventSource = new Timeplot.DefaultEventSource();
+You should now be looking at where you are getting the raw data. It looks like a lot of random numbers, but it is actually a structured data file!
 
-  dataSource: new Timeplot.ColumnSource(eventSource,1),
+As it is set up right now, you are using the G. W. Bush approval ratings. As you can see at the top of the text file in a comment, denoted by "#". 
 
-  timeplot.loadText("data.txt", ",", eventSource);
-</code>
+It should look like this picture, the numbers in order represent the date which is underlined in blue, approve rate red , disapprove rate yellow , and then unsure in green.
 
-Place this line of code as show below.
+{{:timeplot:inside_the_data_file.png|}}
 
+Now what you really need to do is imagine them as columns like shown below.
 
+{{:timeplot:inside_the_data_file_2.png|}}
 
-{{:timeplot:adding_data_lines_of_code.png|}}
+This is because in the code as it comes standard is to use the "," as a delimiter, or more plainly put, a symbol to tell the program where one entry stops and another begins.
 
-
-This is what your timeplot should look like now that you have added those lines of code.
-
-{{:timeplot:timeplot_w_sample_data.png|}}
+If you would like to change the data, all you have to do is to follow the same format as it is in the original file
 
 ===== Adjusting The Graph =====
 
