@@ -43,8 +43,13 @@ Now what you really need to do is imagine them as columns like shown below.
 
 This is because in the code as it comes standard is to use the "," as a delimiter, or more plainly put, a symbol to tell the program where one entry stops and another begins.
 
-If you would like to change the data, all you have to do is to follow the same format as it is in the original file.
+If you would like to change the data, all you have to do is to follow the same format as it is in the original file. 
 
+If you would like to use a different column to get data from you can simply change the number here, underlined in orange.
+
+{{:timeplot:data_source.png|}}
+
+The only nuance to this is that to a computer, the first column is set as "0" rather than "1", so just keep that in mind when specifying which column to get data from. 
 ===== Adjusting The Graph =====
 
 The next step is to enable the axis values so that you can get a better sense of the data in the graph and visualize what is going on.
