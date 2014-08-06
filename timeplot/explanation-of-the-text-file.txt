@@ -1,11 +1,12 @@
 ====== Explanation of the Text File ======
 
+The text file (which uses a .txt extension) is the file that holds the raw data that the Javascript code reads into the program to create the data points. When plotted correctly, the x-axis of the Timeplot will display dates and the y-axis will display the variable data.
 
+One of the most basic and most important parts of this program is to design and use a specific format for the text file. Open the .txt file preferably with the code editor tool, but you can also use the text editor in the file manager or offline use a text editor like notepad (Windows) or text wrangler (Mac).
 
-
-One of the most basic and most important parts of this program is to design and use a specific format for the tex file. Open the .txt file preferably with the code editor tool, but you can also use the text editor in the file manager or offline use a text editor like notepad (Windows) or text wrangler (Mac).
 
 Any changes to the code that is unintentional or in unspecified areas can cause it to not work. Please save your work often, so that you can revert to a version that works. It is suggested that you save copies to your computer using the programs above, because while the text/code editor will allow you to use Control/Command "R", once you close the window you will not be able to use it any more. 
+
 
 You need to follow the style like the one shown below. For more advanced options you can experiment with a new one that meets your projects requirements.
 
