@@ -22,7 +22,7 @@ A pop up window will appear, leave the settings as is and click edit in the bott
 
 In this example we are going to use the format below.
 
-{{:timeplot:inside_the_data_file.png?|}}
+{{:timeplot:inside_the_data_file.png|}}
 
 In blue we have the date, Red is the approval percent, yellow is disapproval percent, and green is the percent unsure. You can see that there was also the comment at the top that explains that as well. You should comment your code and data files as much as possible so you and others can understand what is going on. To use a comment use the "#" key to tell the code to ignore everything on that line. This only will work in the data file though when the program is trying to read in the data.
 
