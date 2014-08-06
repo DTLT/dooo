@@ -4,7 +4,7 @@ This tutorial will use the installation package that was covered in the previous
 
 **A few things to note:**
 
-This is a walk through of the code of the program in the HTML Javascript file. It has been labeled for your convenience. Please follow these instructions **exactly** as they are and ignore areas that are not labeled. Any changes to the code that is unintentional or in unspecified areas can cause it to not work. Please save your work often, so that you can revert to a version that works for ease of use.
+This is a walk through of the code of the program in the HTML Javascript file. It has been labeled for your convenience. Please follow these instructions **exactly** as they are and ignore areas that are not labeled. Any changes to the code that is unintentional or in unspecified areas can cause it to not work. It is recommended that you copy and paste your code into a file on your computer to create backups incase you need to revert to a previous version. The code editor will allow you to use control / command Z to undo your changes, but once you close the code editor you can no longer do that. 
 
 
 To make changes to the code for your timeplot, you will need to click on the individual files and then select **code editor** from the top toolbar of the file manager to edit the files.
