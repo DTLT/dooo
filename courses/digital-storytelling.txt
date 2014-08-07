@@ -1,4 +1,4 @@
-====== CPSC 106: Digital Storytelling (ds106) ======
+====== CPSC 106: Digital Storytelling #ds106 ======
 
 {{page>general:choosing-a-domain-name}}
 {{page>general:signing-up-on-domain-of-one-s-own}}
