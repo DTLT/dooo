@@ -56,7 +56,7 @@ The majority of your work will be editing and modifying the block of code that f
        ];
  
   // This statement creates your Timeplot (using the plotInfo variable you created above) 
-  timeplot = Timeplot.create(document.getElementById("plot1"), plotInfo);
+  timeplot = Timeplot.create(document.getElementById("myplot"), plotInfo);
  
   // This statement indicates where the text file is located for your data. 
   // The location is relative to the file you are working on, 
