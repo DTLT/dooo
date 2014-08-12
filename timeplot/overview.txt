@@ -1,7 +1,7 @@
 ====== Overview ======
 
 
-Timeplot is a Javascript application that allows users to take data files (in .txt and .xml formats) and create a timeline visualization of that data. It also allows users to overlay events with clickable information bubbles to explain certain events that may have impacted trends in the data. It contains options to improve the display, readability, and organization of the data.
+Timeplot is a Javascript application that allows users to take data files (in Text and XML formats) and create a timeline visualization of that data. It also allows users to overlay events with clickable information bubbles to explain certain events that may have impacted trends in the data. It contains options to improve the display, readability, and organization of the data.
 
 In order to create a fully functional Timeplot, you must place three files on your Web server. If you want to use Timeplot on Domain of One's Own, we have created an installer in Installatron that will automatically unpack those files into a location you choose. The three files are: 
   * **An HTML file** (.html),
