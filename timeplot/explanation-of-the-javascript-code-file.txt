@@ -79,4 +79,37 @@ The majority of your work will be editing and modifying the block of code that f
 </script>
 </code>
 
+Next, you will see a couple of tags to close the Javascript portion of the page as well as the head section. You should not edit or change these tags. 
+
+<code html>
+</script>
+       
+  </head>
+</code>
+
+=====HTML=====
+
+Below the head section, is the start of the actual body of the page. 
+
+<code html>
+<!-- This next tag starts the beginning of the actual HTML of the page. You will notice it two Javascript events attached to it. These events will trigger the Javascript to actually run when the page loads or when it is resized. You should not edit this portion of the code --> 
+  <body onload="onLoad();" onresize="onResize();">
+</code>
+
+Next, we see a HTML "div" tag which is the container that will actually display your Timeplot. 
+
+<code html>
+<!-- This div tag becomes the container for your Timeplot. The "id" here must match the Javascript statement above that creates the Timeplot. The style information can be modified to change the size and/or border around the Timeplot. -->
+  <div id="myplot" style="height: 150px; border: 1px solid #aaa"></div>
+</code>
+
+Finally, there is a tags to close the entire body of the file and the entire HTML block. 
+
+<code html>
+ </body>
+ 
+</html>
+</code>
+
+
 {{indexmenu_n>3}}
