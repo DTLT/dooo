@@ -16,7 +16,7 @@ At the top of the file, you will see code to begin the HTML page and call an ext
 <html>
 <head>
 
-<!-- This is the call to the timeline's API code -->
+<!-- This is the call to the timeline's API code. You should not edit it. -->
 <script src="http://api.simile-widgets.org/timeplot/1.1/timeplot-api.js" type="text/javascript"></script>
 
 </code>
