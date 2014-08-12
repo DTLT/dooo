@@ -2,6 +2,7 @@
 
   * [[Timeplot:Overview]]
   * [[Timeplot:Installation]]
+  * [[Timeplot:Explanation of the HTML file]]
   * [[Timeplot:Explanation of the Javascript Code file]]
   * [[Timeplot:Explanation of the XML File]]
   * [[Timeplot:Explanation of the text file]]
