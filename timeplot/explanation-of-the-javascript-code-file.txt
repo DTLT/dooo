@@ -50,7 +50,8 @@ The majority of your work will be editing and modifying the block of code that f
            Timeplot.createPlotInfo({
               // The id property identifies a unique name for your plot.
                id: "plot1",
-               // The datasource property identifies where to find your data and what part of the file to use
+               // The datasource property identifies where to find your data and what part of the file to use.
+               // By default in this example, we use thefirst column of data in your text file (denoted by the '1').
                dataSource: new Timeplot.ColumnSource(eventSource,1),
            }),
        ];
