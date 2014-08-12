@@ -112,6 +112,7 @@ Next, we see a HTML "div" tag which is the container that will actually display 
   <div id="myplot" style="height: 150px; border: 1px solid #aaa"></div>
 </code>
 
+=====End of File=====
 Finally, there is a tags to close the entire body of the file and the entire HTML block. 
 
 <code html>
