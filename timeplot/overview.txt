@@ -14,10 +14,14 @@ The **Text file** is the file that holds your raw data. This data will be read b
 
 {{:timeplot:example_of_text_file.png|}}
 
+[[timeplot:explanation-of-the-text-file|You can read more about the structure of the Text file here.]] 
+
 
 The **XML file** contains information about events that you want to plot against your numerical data. It is also read in by the Javascript code in the HTML file. Like the Text file, it is specially structured so that the Javascript can read it. Below is an example snippet of what the XML file looks like. 
 
 {{:timeplot:example_of_xml_file.png|}}
+
+[[timeplot:explanation-of-the-xml-file|You can read more about the structure of the XML file here.]] 
 
 
 
