@@ -8,63 +8,31 @@ In order to successfully create a Timeplot you must use a specific format for th
 
 You will need to use a text editing program on your computer to create your text file. On Windows computers we recommend Notepad (free with the Windows operating system). On Macintosh computers we recommend Text Wrangler ([[http://www.barebones.com/products/textwrangler/|Download for free here.]])
 
-The format of the data file, generally, consists of one data and one data value per line. They should be separated with a comma. You may add additional data values associated with a data, by separating them on the same line with commas. 
+=====To Edit the Sample Text Files=====
+
+OPEN FILE EDITOR
+
+=====Format of the Text File=====
+
+Whether you're creating a text file from scratch or modifying the sample file, the ultimate format will be the same. The format of the data file, generally, consists of a single date and its corresponding data values all on a single line. The date and all values should be separated by commas. 
+
+The example image below shows a text file containing data about President George W. Bush' approval ratings. At the top of the file, you'll see a comment block (each comment line denoted by a "#"), indicating what the data is and where it came from. Right above the data is a comment that indicates what the numerical values below are: dates and approval ratings (in percentages).
 
 {{https://farm4.staticflickr.com/3849/14897414275_2c787b14b7_o.png}}
 
+You can imagine each line of the file as a row in a spreadsheet and the commas as delimiting the placement of columns: 
 
-Any changes to the code that is unintentional or in unspecified areas can cause it to not work. Please save your work often, so that you can revert to a version that works. It is suggested that you save copies to your computer using the programs above, because while the text/code editor will allow you to use Control/Command "R", once you close the window you will not be able to use it any more. 
+{{https://farm4.staticflickr.com/3856/14897592035_86baf95127_o.png}}
 
+Timeplot allows you to plot multiple sets of data against the same selection of dates. You can include all of this data in a single text file. Imagine that each time you add a comma, you are adding another column to your "spreadhseet." 
 
-You need to follow the style like the one shown below. For more advanced options you can experiment with a new one that meets your projects requirements.
+In the images below, you'll see we've added additional ratings for President Bush (corresponding to the same dates) to the text file. The first image shows the regular text file; in the second one, we've added lines to indicate where the "columns" are: 
 
+{{https://farm4.staticflickr.com/3842/14897292392_901238c386_o.png}}
 
-To make changes to the text file for your timeplot, you will need to click on the individual files and then select **Code Editor** or **Text Editor** from the top toolbar of the file manager to edit the files.
+{{https://farm4.staticflickr.com/3861/14874666136_65208a5f57_o.png}}
 
-{{  :timeplot:code_editor.png?  |}}
+=====Using the Text File=====
+If you installed Timeplot using Installatron on Domain of One's Own, you'll have received a set of sample files that include the President Bush approval ratings data in .txt file. The file contains all three ratings. You may replace this data with your own data. 
 
-
-A pop up window will appear, leave the settings as is and click edit in the bottom left corner. 
-
-{{  :timeplot:pop-up_window.png?500  |}}
-
-
-===== Editing the text File =====
-
-In this example we are going to use the format below.
-
-{{:timeplot:inside_the_data_file.png?|}}
-
-In blue we have the date, Red is the approval percent, yellow is disapproval percent, and green is the percent unsure. You can see that there was also the comment at the top that explains that as well. You should comment your code and data files as much as possible so you and others can understand what is going on. To use a comment use the "#" key to tell the code to ignore everything on that line. This only will work in the data file though when the program is trying to read in the data.
-
-An important part is the comma between our data. Later we will use that as a Delimiter, this tells the code program where one data entry stops and a new one begins. Now if you are using someone else's data file and they use a different delimiter, you can specify that later in the code as needed, just remember that you can only use one delimiter and it will read that key wherever it appears in your data, there is no way to exclude it. 
-
-
-Once your code in the HTML reads it in, the program sees the data as columns, from where the commas are,  and rows, from where the line ends.
-
-So imagine it like this:
-
-{{:timeplot:inside_the_data_file_2.png?|}}
-
-
-The first column to the computer is column or point 0, the second column is 1, and so on and so forth. Remember this for editing the code later, each column can and will be its own graph.
-
-Later on you will use that column position (0,1,2,.....X) to specify in your graph code where it will be getting the data to create that graph. 
-
-The Horizontal axis is the data and the Vertical axis is the value in that column that you will specify.
-
-===== How to get data into the program =====
-
-**How does the Text file and the HTML file interact?**
-
-Close to the bottom of the code in the HTML is where you specify to the program where to get the information from. It can use a variety of file types but for this example were are using .txt data. 
-
-{{:timeplot:data_file_location_code.png?|}}
-
-As you can see in the photo above can see there is a lot going on in this small block of code. 
-The text underlined in blue **must match exactly** the file type that is in quotes and that is underlined in orange. This is telling the program what the file type is and what the name of the file is called. One thing to note is that the file being named must be in the same folder in the document manager as the program file / index.html file.
-
-The part in yellow is a "Delimiter," this tells the code program where one data entry stops and a new one begins. So what it will do is going into your "data.txt" file and start reading the entries and then once it sees whatever is in that place, right now a comma, it will end that entry and start a new one. Review the above explanations of this to better understand how it all works together.
-
-
-{{indexmenu_n>4}}
+In the [[timeplot:basic-tutorial|Basic Tutorial]], we will walk you through how to modify the text file so that your data appears in your Timeplot. 
