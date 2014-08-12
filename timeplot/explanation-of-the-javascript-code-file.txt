@@ -33,10 +33,11 @@ Below the call to the external javascript, you will see a block of javascript th
 The majority of your work will be editing and modifying the block of code that follows. Comments in the code help to explain what each piece does. Subsequent tutorials will further explain this code as well as introduce other code you can add to modify and enhance your Timeplot. 
 
 <code javascript>
-   // This declares a variable for your Timeplot. You should not edit it -->
+   // This declares a variable for your Timeplot. You should not edit it
    var timeplot;
  
-     //This begins the primary function that controls your Timeplot. It is referenced in the body tag of the HTML code below
+     //This begins the primary function that controls your Timeplot. 
+     //It is referenced in the body tag of the HTML code below
      function onLoad() {
  
        // This declares a variable for your data source.
@@ -57,14 +58,16 @@ The majority of your work will be editing and modifying the block of code that f
   // This statement creates your Timeplot (using the plotInfo variable you created above) 
   timeplot = Timeplot.create(document.getElementById("plot1"), plotInfo);
  
-  // This statement indicates where the file is located for your data. 
-  // The location is relative to the file you are working on, and the comma (in quotes) indicates that the data is comma-delimited.
+  // This statement indicates where the text file is located for your data. 
+  // The location is relative to the file you are working on, 
+  // and the comma (in quotes) indicates that the data is comma-delimited (separated by commas) in the text file.
   timeplot.loadText("data.txt", ",", eventSource);;
  
  
 }
  
-  //This next variable and function are used to dynamically resize your Timeplot when the browser window is resided. You should not edit it 
+  // This next variable and function are used to dynamically resize your Timeplot 
+  // when the browser window is resided. You should not edit it. 
    var resizeTimerID = null;
       function onResize() {
         if (resizeTimerID == null) {
@@ -92,14 +95,19 @@ Next, you will see a couple of tags to close the Javascript portion of the page 
 Below the head section, is the start of the actual body of the page. 
 
 <code html>
-<!-- This next tag starts the beginning of the actual HTML of the page. You will notice it two Javascript events attached to it. These events will trigger the Javascript to actually run when the page loads or when it is resized. You should not edit this portion of the code --> 
+<!-- This next tag starts the beginning of the actual HTML of the page.-->
+<!-- You will notice it has two Javascript events attached to it. -->
+<!-- These events will trigger the Javascript to actually run when the page loads or when it is resized.-->
+<!-- You should not edit this portion of the code --> 
   <body onload="onLoad();" onresize="onResize();">
 </code>
 
 Next, we see a HTML "div" tag which is the container that will actually display your Timeplot. 
 
 <code html>
-<!-- This div tag becomes the container for your Timeplot. The "id" here must match the Javascript statement above that creates the Timeplot. The style information can be modified to change the size and/or border around the Timeplot. -->
+<!-- This div tag becomes the container for your Timeplot.-->
+<!-- The "id" here must match the Javascript statement above that creates the Timeplot.-->
+<!-- The style information can be modified to change the size and/or border around the Timeplot. -->
   <div id="myplot" style="height: 150px; border: 1px solid #aaa"></div>
 </code>
 
