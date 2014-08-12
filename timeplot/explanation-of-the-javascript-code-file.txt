@@ -1,4 +1,4 @@
-====== Explanation of the Javascript Code File ======
+====== Explanation of the HTML File ======
 
 This is a walk-through of the contents of the HTML file that Timeplot uses. In particular, it walks you through the javascript that Timeplot uses. 
 \\
