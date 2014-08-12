@@ -113,7 +113,7 @@ Next, we see a HTML "div" tag which is the container that will actually display 
 </code>
 
 =====End of File=====
-Finally, there is a tags to close the entire body of the file and the entire HTML block. 
+Finally, there are tags to close the entire body of the file and the entire HTML block. 
 
 <code html>
  </body>
