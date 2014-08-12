@@ -26,46 +26,40 @@ At the top of the file, you will see code to begin the HTML page and call an ext
 Below the call to the external javascript, you will see a block of javascript that contains information about the Timeplot to be displayed on the page. The majority of your work will be editing and modifying this block of code. Comments in the code help to explain what each piece does. Subsequent tutorials will further explain this code as well as introduce other code you can add to modify and enhance your Timeplot. 
 
 <code html>
-<!-- This tag indicated the start of the javascript block-->
+<!-- This tag indicated the start of the javascript block -->
 <script>
-   <!-- This declares a variable for your Timeplot. You should not edit it -->
+   // This declares a variable for your Timeplot. You should not edit it -->
    var timeplot;
-
-     <!-- This begins the primary function that controls your Timeplot. 
-     It is references in the body tag of the HTML code below-->
+ 
+     //This begins the primary function that controls your Timeplot. It is referenced in the body tag of the HTML code below
      function onLoad() {
-
-       <!-- This declares a variable for your data source. -->
+ 
+       // This declares a variable for your data source.
        var eventSource = new Timeplot.DefaultEventSource();
-       
-       <!-- This declares a variable for information about your Timeplot.
-        It has two properties already (id and datasource). 
-        You may modify or add to this variable depending on how you want 
-        your Timeplot to work. -->
+ 
+       // This declares a variable for information about your Timeplot. 
+       // It has two properties already (id and datasource). 
+       // You may modify or add to this variable depending on how you want your Timeplot to work.
        var plotInfo = [
            Timeplot.createPlotInfo({
-               <!-- The id property identifies a unique name for your plot. -->
+              // The id property identifies a unique name for your plot.
                id: "plot1",
-               <!-- The datasource property identifies where to find your data and
-                what part of the file to use-->
+               // The datasource property identifies where to find your data and what part of the file to use
                dataSource: new Timeplot.ColumnSource(eventSource,1),
            }),
        ];
-  
-  <!-- This statement creates your Timeplot (using the plotInfo 
-  variable you created above) -->
+ 
+  // This statement creates your Timeplot (using the plotInfo variable you created above) 
   timeplot = Timeplot.create(document.getElementById("plot1"), plotInfo);
-  
-  <!-- This statement indicates where the file is located for your data. 
-  The location is relative to the file you are working on, and the comma (in quotes) 
-  indicates that the data is comma-delimited. -->
+ 
+  // This statement indicates where the file is located for your data. 
+  // The location is relative to the file you are working on, and the comma (in quotes) indicates that the data is comma-delimited.
   timeplot.loadText("data.txt", ",", eventSource);;
-  
-
+ 
+ 
 }
-
-<!-- This next variable and function are used to dynamically resize your Timeplot 
-when the browser window is resided. You should not edit it -->
+ 
+  //This next variable and function are used to dynamically resize your Timeplot when the browser window is resided. You should not edit it 
    var resizeTimerID = null;
       function onResize() {
         if (resizeTimerID == null) {
@@ -75,8 +69,8 @@ when the browser window is resided. You should not edit it -->
         }, 100);
      }
     }
-
-
+ 
+ 
 </script>
 </code>
 
