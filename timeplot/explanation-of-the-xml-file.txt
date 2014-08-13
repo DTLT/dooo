@@ -57,12 +57,13 @@ YOUR DESCRIPTION GOES HERE
 
 Note that when you use an explicit close tag, you do not need to include the forward slash at the end of the first event tag.
 
-======Event Colors======
+====Event Colors====
 You may wish to color-code your events (to correspond, for example, for different color lines on your Timeplot). 
 If so, you can add a "color" variable to the event tag. 
 
 <code xml>
 <event start="YOUR DATE GOES HERE" title="YOUR TITLE GOES HERE" color="YOUR COLOR CODE GOES HERE" link="YOUR URL GOES HERE" />
+</code>
 
 Please note that your color choice must be represented as a hexadecimal code.  [[http://html-color-codes.info/|You can read more about hex color codes here.]]
 
