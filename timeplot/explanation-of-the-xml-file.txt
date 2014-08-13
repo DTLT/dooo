@@ -55,6 +55,8 @@ YOUR DESCRIPTION GOES HERE
 </event>
 </code>
 
+Note that when you use an explicit close tag, you do not need to include the forward slash at the end of the first event tag.
+
 ======Event Colors======
 You may wish to color-code your events (to correspond, for example, for different color lines on your Timeplot). 
 If so, you can add a "color" variable to the event tag. 
