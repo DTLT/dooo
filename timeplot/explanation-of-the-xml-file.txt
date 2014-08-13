@@ -46,7 +46,7 @@ If you wish to create an event that has a distinct start and end date (which wil
 <event start="YOUR START DATE GOES HERE" end="YOUR END DATE GOES HERE" title="YOUR TITLE GOES HERE" link="YOUR URL GOES HERE" />
 </code>
 
-======Descriptions======
+====Descriptions====
 Instead of including a URL, you may wish to put an actual description of your event, which will be included in the bubble that appears when someone clicks on the event in your Timeplot. You can do this by creating an explicit "open" and "close" event tag, with the description in between: 
 
 <code xml>
