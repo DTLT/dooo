@@ -39,7 +39,7 @@ You may add as many events as you like, using this standard format.
 
 There are a few additional values you can add to your events beyond what's contained in the sample file (and example above).
 
-======End Dates======
+====End Dates====
 If you wish to create an event that has a distinct start and end date (which will appear as a band on the Timeplot instead of just a line), you can add an end date. Simply include an "end" variable in the event tag: 
 
 <code xml>
