@@ -14,7 +14,7 @@ Remember when you save your file to use the .xml extension!
 
 OPEN FILE EDITOR
 
-=====Format of the XML File=====
+=====Basic Format of the XML File=====
 
 Whether you're creating an XML file from scratch or modifying a sample file, the ultimate format will be the same. The format of the file consists, generally, of each event on a single line, with information properly formatted so that it can be read by the Timeplot Javascript. 
 
@@ -35,7 +35,36 @@ Please note that all values must be contained in quotation marks. In addition, y
 
 You may add as many events as you like, using this standard format. 
 
-=====A Note about Date Format=====
+=====Additional Event Data=====
+
+There are a few additional values you can add to your events beyond what's contained in the sample file (and example above).
+
+======End Dates======
+If you wish to create an event that has a distinct start and end date (which will appear as a band on the Timeplot instead of just a line), you can add an end date. Simply include an "end" variable in the event tag: 
+
+<code xml>
+<event start="YOUR START DATE GOES HERE" end="YOUR END DATE GOES HERE" title="YOUR TITLE GOES HERE" link="YOUR URL GOES HERE" />
+</code>
+
+======Descriptions======
+Instead of including a URL, you may wish to put an actual description of your event, which will be included in the bubble that appears when someone clicks on the event in your Timeplot. You can do this by creating an explicit "open" and "close" event tag, with the description in between: 
+
+<code xml>
+<event start="YOUR DATE GOES HERE" title="YOUR TITLE GOES HERE" link="YOUR URL GOES HERE">
+YOUR DESCRIPTION GOES HERE
+</event>
+</code>
+
+======Event Colors======
+You may wish to color-code your events (to correspond, for example, for different color lines on your Timeplot). 
+If so, you can add a "color" variable to the event tag. 
+
+<code xml>
+<event start="YOUR DATE GOES HERE" title="YOUR TITLE GOES HERE" color="YOUR COLOR CODE GOES HERE" link="YOUR URL GOES HERE" />
+
+Please note that your color choice must be represented as a hexadecimal code.  [[http://html-color-codes.info/|You can read more about hex color codes here.]]
+
+=====A Note about Date/Time Formatting=====
 
 We recommend you use the following formats for date/time: 
   * Date Only: **Month DD YYYY** (ex.May 10 1961)
@@ -45,44 +74,5 @@ We recommend you use the following formats for date/time:
 If you installed Timeplot using Installatron on Domain of One's Own, you'll have received a set of sample files that include event data corresponding to President Bush's approval ratings in .xml file. You may replace the event data with your own.
 
 In the Basic Tutorial, we will walk you through how to modify the XML file so that your events appear in your Timeplot.
-===== Add A New Line =====
-
-One of the simplest ways to add a new line is to simply copy the one before and then paste it at the bottom of the document. Then change what you need by entering new information or deleting what you don't need. 
-
-===== How to Create a Start and End Date =====
-
-To display the event you need to create at least a a start date. This will create a single line on your Timeplot for an event. Your start and end times also will need to be in Greenwich mean time and the format as listed below. Having an end time is option and if you choose to add one it will create a filled rectangle from the start time to the end time.
-
-<code>
-
-start="Jan 01 2001 8:00:00 GMT-0600"
-end="Feb 20 2001 12:00:00 GMT-0600"
-
-
-</code>
-===== Individual Event Colors =====
-
-So in your XML file one of the additional options is to have different colors for events. This can be particularly helpful so that you can group graphs and event with the colors to better illustrate your point about the data. To change the individual even color simply add ' color="(Hex Code)" ' anywhere on the line of the event, but within <event and />.
-
-For example: 
-
-{{:timeplot:xml_colors.png|}}
-
-
-
-===== How to Add a Link =====
-
-To add a link to your event all you need to do is to add, " link="ht tp:/ /www. enterwebsite .com/stuffandthings" " refer to the Image below
-
-===== Enter More Information =====
-
-
-
-If you would like to enter more information in the square that appears when you click the events, then all you need to do is add a close bracket ">" to the end of your event line. Then add the text you would like to appear followed by a end statement "</event>".
-
-Here is an example of those two options in use:
-
-{{:timeplot:xml_file_advanced_options.png|}}
-
 
 {{indexmenu_n>5}}
