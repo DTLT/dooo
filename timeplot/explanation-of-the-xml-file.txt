@@ -1,36 +1,50 @@
-====== Editing the XML File ======
+===== Explanation of the XML File =====
 
+The XML file (which uses the .xml extension) contains information about events that you want to plot against your numerical data. It is also read in by the Javascript code in the main HTML file. It is specially structured so that the javascript can read it. 
 
-The XML file (which uses the .xml extension) contains information about events that you want to plot against your numerical data. It is also read in by the Javascript code in the .html file. It is specially structured so that the javascript can read it. 
+In order to successfully create a Timeplot you must use a specific format for the XML file. You may either create your XML file from scratch (using the format described below) or edit the sample XML file that is created when you install Timeplot using Installatron.
 
+=====To Create an XML File from Scratch=====
 
-This is a walk through of the code in the XML file. Any changes to the code that is unintentional or in unspecified areas can cause it to not work. Please save your work often, so that you can revert to a version that works for ease of use.
+An XML file is really just a special "flavor" of a text file, so you will need to use a text editing program on your computer to create your XML file. On Windows computers we recommend Notepad (free with the Windows operating system). On Macintosh computers we recommend Text Wrangler ([[http://www.barebones.com/products/textwrangler/|Download for free here.]])
 
+Remember when you save your file to use the .xml extension!
 
+=====To Edit the Sample Text Files=====
 
-To make changes to the XML file for your timeplot, you will need to click on the individual file and then select **Code Editor** or **Text Editor** from the top toolbar of the file manager to edit the files.
+OPEN FILE EDITOR
 
-{{  :timeplot:code_editor.png?  |}}
+=====Format of the XML File=====
 
+Whether you're creating an XML file from scratch or modifying a sample file, the ultimate format will be the same. The format of the file consists, generally, of each event on a single line, with information properly formatted so that it can be read by the Timeplot Javascript. 
 
-A pop up window will appear, leave the settings as is and click edit in the bottom left corner. 
+The image below shows a snippet of the default event XML file that will be created if you you install Timeplot using Installatron on Domain of One's Own. (It shows events that correspond with the President George W. Bush approval ratings data that is contained in the default text file  created when you use Installatron to install Timeplot.)
 
-{{  :timeplot:pop-up_window.png?500  |}}
+{{https://farm4.staticflickr.com/3892/14720861348_64c10e73d8_b.jpg}}
 
+You can see that each event is contained within an tag titled "event," and they contain three individual values: 
+  * start: The date (and time, if appropriate) of the event. 
+  * title: The title of the event (this will appear in a pop-up bubble on the Timeplot)
+  * link: An (optional) URL that users can click on for more information about the event. 
 
+Please note that all values must be contained in quotation marks. In addition, you must include the closing forward slash before you close the event tag: 
 
+<code xml>
+<event start="YOUR DATE GOES HERE" title="YOUR TITLE GOES HERE" link="YOUR URL GOES HERE" />
+</code>
 
-The XML file is what contains the code for the event lines and different parts of the event information.
+You may add as many events as you like, using this standard format. 
 
-  * The Blue underlined, at the beginning and end of the line, is the code to stop and start an entry of the XML file.
-  * Red is the start time of an event. If only the start time is listed then only one point will be displayed. If you would like it to be a bigger square for an event, then add an end time by putting: "end=" with the date in the same format as the start time.
-  * Orange is the title of the event.
-  * Yellow is a link for a website to be displayed with your event, possibly for more information or for whatever reason that is fit.
+=====A Note about Date Format=====
 
+We recommend you use the following formats for date/time: 
+  * Date Only: **Month DD YYYY** (ex.May 10 1961)
+  * Date & Time: **Month DD YYYY HH:MM:SS GMTOffset** (ex. May 10 1961 00:00:00 GMT-0600)
 
-{{:timeplot:inside_the_xml_file.png|}}
+=====Using the XML File=====
+If you installed Timeplot using Installatron on Domain of One's Own, you'll have received a set of sample files that include event data corresponding to President Bush's approval ratings in .xml file. You may replace the event data with your own.
 
-
+In the Basic Tutorial, we will walk you through how to modify the XML file so that your events appear in your Timeplot.
 ===== Add A New Line =====
 
 One of the simplest ways to add a new line is to simply copy the one before and then paste it at the bottom of the document. Then change what you need by entering new information or deleting what you don't need. 
