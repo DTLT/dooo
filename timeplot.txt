@@ -5,7 +5,7 @@
   * [[Timeplot:Explanation of the HTML file]]
   * [[Timeplot:Explanation of the Javascript Code file]]
   * [[Timeplot:Explanation of the XML File]]
-  * [[Timeplot:Explanation of the text file]]
+  * [[Timeplot:Explanation of the Text file]]
   * [[Timeplot:Quick Code Blocks]]
   * [[Timeplot:Basic Tutorial]]
   * [[Timeplot:Advanced Tutorial]]
