@@ -37,10 +37,16 @@ A page will appear with a number of settings you can choose/change. The image be
 
 {{https://farm4.staticflickr.com/3855/14731302840_1e93e98cea_c.jpg}}
 
-When you're ready, click **Install**.  
+When you're ready, click **Install**. 
+ 
 
 When Timeplot has successfully installed, you will see a summary view that shows you details about your installation, including links to view your new site. 
 
 {{https://farm6.staticflickr.com/5575/14914969001_2b2102e212_b.jpg}}
+
+If you click on the link to your site, you should see a basic Timeplot (as seen below), showing the sample data that is included in the install. You may proceed to the Basic Tutorial to learn how to customize the Timeplot with your own data. 
+
+<html>
+<iframe src="http://www.bagmangoestoumw.com/timeplot/" width="800px" height="300px"></iframe>
 
 {{indexmenu_n>2}}
