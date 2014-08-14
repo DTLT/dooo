@@ -2,7 +2,7 @@
 
 Before starting this tutorial, make sure you have [[timeplot:installation|installed Timeplot]]. 
 
-This tutorial will walk you through modifying the files that are created when you install Timeplot so that you can plot your own data. By the end, you will have a single data set plotted on a timeline, with visible axis markers, and rollover data information. For additional features, including more data sets to your timeline and adding events, [[timeplot:advanced-tutorial|please review the Advanced Tutorial]]. 
+This tutorial will walk you through modifying the files that are created when you install Timeplot so that you can plot your own data. By the end, you will have a single data set plotted on a timeline, with visible axis markers, and rollover data information. For additional features, including adding more data sets to your timeline and adding events, [[timeplot:advanced-tutorial|please review the Advanced Tutorial]]. 
 
 **NOTE**
 
