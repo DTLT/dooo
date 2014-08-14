@@ -1,23 +1,46 @@
 ====== Installation ======
 
 
-This tutorial will be use the data files that were automatically installed in your file manager directory through Installatron. 
+This tutorial walks you through how to install Timeplot using the [[cpanel:installing-applications-with-installatron|Installatron]] tool in Domain of One's Own. 
 
-First log into your domain of one's own account at [[http://www.umwdomains.com|umwdomains.com]].
+To get started you'll need to login to your control panel by going to the UMW Domains homepage and clicking Login.
 
-{{:timeplot:umwdomains_homepage.png?300|}} {{:timeplot:umwdomains_login_page.png?275|}}
+{{https://farm3.staticflickr.com/2922/14269419746_8706f3e121_z.jpg}}
 
-In the Dashboard, scroll down and click on the File Manager. Then select **Web Root** from the pop up window and click **Go**. You may want to review  [[http://docs.umwdomains.com/cpanel/accessing-your-files-through-the-file-manager|the tutorial on the file manager here]].
+Here you'll login with your UMW network id and password.
 
-{{:timeplot:screen_shot_2014-07-02_at_4.37.05_pm.png?300|}}{{:timeplot:filemanager_pop_up.png?280|}}
+{{https://farm3.staticflickr.com/2905/14292016984_49a6a27b24_z.jpg}}
 
+Once logged in you'll see your Dashboard for Domain of One's Own. You will need to scroll down until you see a section of the Control Panel labeled "**Software/Services.** Within this section you will see an icon for Installatron which you should click. 
 
-Once inside find the file folder for your timeplot, it should look like the image below. Double click and open the folder.
+{{http://farm3.staticflickr.com/2808/9510985268_fc4605b4bd_c.jpg}}
 
-{{:timeplot:inside_file_manager.png?|}}
+When Installatron opens, you will see a list of any applications you've already installed. To install something new, click on the Appilcations Browser button (labeled with a large star). 
 
-Inside you should see three types of files; a ".txt", a ".xml", and a ".html". Refer to the image below. Each of these files is necessary to the running of the program. 
+{{http://farm4.staticflickr.com/3779/9508208389_0a55b0d0ca_c.jpg}}
 
-{{:timeplot:timeplot_file.png?|}}
+In the **Miscellaneous** section, you will see an icon for Timeplot which you should click. 
+
+{{https://farm4.staticflickr.com/3913/14894866636_f65bea92c5_b.jpg}}
+
+After clicking the icon, a page will appear with information about Timeplot, links to resources, and a link to install it. 
+
+{{https://farm6.staticflickr.com/5580/14894920646_085ce38107_z.jpg}}
+
+Click **install this application** when you're ready. 
+
+A page will appear with a number of settings you can choose/change. The image below shows these settings; here is a rundown of them: 
+
+  * **Location**: You'll need to choose where to install your new application. You can install it at the root of your domain or in a subdomain (which you need to set up first). In addition, you can place your application in a folder (in either your root domain or a subdomain). There may be a default directory entered in the form. You can delete this and choose your own. 
+  * **Version Information & License Agreement**: You can leave the version setting as it is, and make sure you've accepted the license agreement. 
+  * **Settings**: Make sure you tell us what class this is for and if you're a student/faculty/staff member. 
+
+{{https://farm4.staticflickr.com/3855/14731302840_1e93e98cea_c.jpg}}
+
+When you're ready, click **Install**.  
+
+When Timeplot has successfully installed, you will see a summary view that shows you details about your installation, including links to view your new site. 
+
+{{https://farm6.staticflickr.com/5575/14914969001_2b2102e212_b.jpg}}
 
 {{indexmenu_n>2}}
