@@ -57,7 +57,7 @@ One thing to keep in mind is that the sample data contains 3 data sets (approval
 
 {{https://farm4.staticflickr.com/3890/14732932159_2e789d6513_o.png}}
 
-If you plan on plotting more than one data set, go ahead and include it now. You will need to proceed to the Advanced Tutorial for information about how to plot those additional sets. 
+If you plan on plotting more than one data set, go ahead and include it now. You will need to p[[timeplot:advanced-tutorial|roceed to the Advanced Tutorial]] for information about how to plot those additional sets. 
 
 When you are done exit out of the File Manager. Browse to the location of your TimePlot and you should now see your data plotted on the timeline. 
 
