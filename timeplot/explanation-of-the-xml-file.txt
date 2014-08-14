@@ -12,7 +12,22 @@ Remember when you save your file to use the .xml extension!
 
 =====To Edit the Sample Text Files=====
 
-OPEN FILE EDITOR
+First log into your domain of one's own account at [[http://www.umwdomains.com|umwdomains.com]].
+
+{{:timeplot:umwdomains_homepage.png?300|}} {{:timeplot:umwdomains_login_page.png?275|}}
+
+In the Dashboard, scroll down and click on the File Manager. Then select **Web Root** from the pop up window and click **Go**. You may want to review  [[http://docs.umwdomains.com/cpanel/accessing-your-files-through-the-file-manager|the tutorial on the file manager here]].
+
+{{:timeplot:screen_shot_2014-07-02_at_4.37.05_pm.png?300|}}{{:timeplot:filemanager_pop_up.png?280|}}
+
+
+Once inside find the file folder for your timeplot, it should look like the image below. Double click and open the folder.
+
+{{:timeplot:inside_file_manager.png?|}}
+
+Inside you should see three types of files; a ".txt", a ".xml", and a ".html". Refer to the image below. Each of these files is necessary to the running of the program. 
+
+{{:timeplot:timeplot_file.png?|}}
 
 =====Basic Format of the XML File=====
 
