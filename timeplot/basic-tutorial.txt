@@ -1,191 +1,68 @@
 ====== Basic Tutorial ======
 
-This tutorial will use the installation package that was covered in the previous with the base file.[[timeplot:installation|Installation]] tutorial.
+Before starting this tutorial, make sure you have [[timeplot:installation|installed Timeplot]]. 
 
-**A few things to note:**
+This tutorial will walk you through modifying the files that are created when you install Timeplot so that you can plot your own data. By the end, you will have a single data set plotted on a timeline, with visible axis markers, and rollover data information. For additional features, including more data sets to your timeline and adding events, [[timeplot:advanced-tutorial|please review the Advanced Tutorial]]. 
 
-This is a walk through of the code of the program in the HTML Javascript file. It has been labeled for your convenience. Please follow these instructions **exactly** as they are and ignore areas that are not labeled. Any changes to the code that is unintentional or in unspecified areas can cause it to not work. It is recommended that you copy and paste your code into a file on your computer to create backups incase you need to revert to a previous version. The code editor will allow you to use control / command Z to undo your changes, but once you close the code editor you can no longer do that. 
+**NOTE**
+
+For the purpose of keeping this tutorial simple, we recommend that you edit the Timeplot files in the File Manager that is part of your Domain of One's Own dashboard. This tool works right in your Web browser and allows you to edit files on the Web server directly, so you do not need to edit files locally on your computer and then upload them to the server. One thing to keep in mind is that if you close a file in the File Manager editor, you will lose the ability to "Undo" any changes you've made. You may wish to periodically copy the working code from the editor into a Text editor program on your computer, so that you can easily revert to previous versions if suddenly your Timeplot stops working. 
+
+=====Opening Your Files=====
+
+First log into your Domain of One's Own account at [[http://www.umwdomains.com|umwdomains.com]].
+
+{{:timeplot:umwdomains_homepage.png?300|}} {{:timeplot:umwdomains_login_page.png?275|}}
+
+In the Dashboard, scroll down and click on the File Manager. Then select **Web Root** from the pop up window and click **Go**. You may want to review  [[http://docs.umwdomains.com/cpanel/accessing-your-files-through-the-file-manager|the tutorial on the File Manager here]].
+
+{{:timeplot:screen_shot_2014-07-02_at_4.37.05_pm.png?300|}}{{:timeplot:filemanager_pop_up.png?280|}}
 
 
-To make changes to the code for your timeplot, you will need to click on the individual files and then select **code editor** from the top toolbar of the file manager to edit the files.
+Once inside find the file folder for your Timeplot; it should look like the image below (although the name of the folder will correspond to whatever sudomain/directory you chose for your install of Timeplot). Double-click and open the folder.
+
+{{:timeplot:inside_file_manager.png?|}}
+
+Inside you should see three types files: 
+
+  * index.html
+  * data.txt
+  * events.xml
+
+{{:timeplot:timeplot_file.png?|}}
+
+To make changes to any file, click on it and select **Code Editor** from the toolbar at the top of the page.
 
 {{  :timeplot:code_editor.png?  |}}
 
-
-A pop up window will appear, leave the settings as is and click edit in the bottom left corner. 
+A pop up window will appear. Leave the settings as they are and click **Edit** in the bottom left corner. 
 
 {{  :timeplot:pop-up_window.png?500  |}}
 
+=====Editing your Data (Text) File======
 
+For the most part, the files that were created when you installed Timeplot, are configured to create the basic features of your Timeplot with little intervention. You will, however, have to replace the sample data with your own. 
 
-To view the timeplot as you edit the code you can type "www.mydomain.com/timeplot" and your browser will open that file, run the timeplot code, and display the graph. 
+To start, open the data.txt file following the instructions above about **Opening Your Files**. 
 
-This is what you should see to start with in the basic file. 
+Next, if you haven't already, review the [[timeplot:explanation-of-the-text-file|Explanation of the Text File]]. 
 
-So right now the standard timeplot program is set up to pull in raw data from the file called, "data.txt". Rather than specifying a different file to pull in data from we are going to open the data.txt file and then change the data in the file. 
+It should be clear how to edit/replace the sample data with your own. If you have already collected/formatted your data in a Text file on your computer, you can delete the contents of the sample file and simply copy/paste your data in its place. 
 
-{{:timeplot:timeplot_w_sample_data.png|}}
-===== Adding or Changing the Data =====
+One thing to keep in mind is that the sample data contains 3 data sets (approval, disapproval, and unsure ratings). For our purposes, you will only be putting in a single data set, so you will only need one "column" of data. The Timeplot code is, by default, set to process the first "column" so make sure you enter your data in the appropriate location. 
 
+When you are done exit out of the File Manager. Browse to the location of your TimePlot and you should now see your data plotted on the timeline. 
 
-Make sure you save the changes in the code editor, then exit back to the file manager. Click the data.txt file and then follow the same steps that we started with and select code or text editor. 
-
-You should now be looking at where you are getting the raw data. It looks like a lot of random numbers, but it is actually a structured data file!
-
-As it is set up right now, you are using the G. W. Bush approval ratings. As you can see at the top of the text file in a comment, denoted by "#". 
-
-It should look like this picture, the numbers in order represent the date which is underlined in blue, approve rate red , disapprove rate yellow , and then unsure in green.
-
-{{:timeplot:inside_the_data_file.png|}}
-
-Now what you really need to do is imagine them as columns like shown below.
-
-{{:timeplot:inside_the_data_file_2.png|}}
-
-This is because in the code as it comes standard is to use the "," as a delimiter, or more plainly put, a symbol to tell the program where one entry stops and another begins.
-
-If you would like to change the data, all you have to do is to follow the same format as it is in the original file. 
-
-If you would like to use a different column to get data from you can simply change the number here, underlined in orange.
-
-{{:timeplot:data_source.png|}}
-
-The only nuance to this is that to a computer, the first column is set as "0" rather than "1", so just keep that in mind when specifying which column to get data from. 
 ===== Adjusting The Graph =====
+For the purposes of this basic tutorial, there are a few variables that you can change in order to alter the appearance of your graph: 
 
-The next step is to enable the axis values so that you can get a better sense of the data in the graph and visualize what is going on.
+====Grid Colors====
+By default, the grid of the graph to a hexadecimal color of "#000000" which corresponds to black. You may replace this value with any hexadecimal color you like. [[http://html-color-codes.info/|You can read more about hex color codes here.]]
 
-To add the Y-axis labels, place this code into the individual graphs code. Like this:
+{{https://farm4.staticflickr.com/3875/14732952697_e0557f7cb9_c.jpg}}
 
-<code>
+====Axis Label Placement====
+By default, the x- and y-axis labels are placed at the left and top of the graph. You may change these to "bottom" or "right," if you like. 
 
-gridColor: "#000000"
-axisLabelsPlacement: "left",
+{{https://farm6.staticflickr.com/5577/14732971897_77783672e8_c.jpg}}
 
-</code>
-
-{{:timeplot:adding_y-axis_labels.png|}}
-
-To enable to X-Axis label, add this code into the individual graph's code like this.
-
-
-
-<code>
-
-      timeGeometry: new Timeplot.DefaultTimeGeometry({
-      gridColor: "#000000",
-      axisLabelsPlacement: "top"
-      })
-
-</code>
-
-{{:timeplot:adding_x-axis_labels.png|}}
-
-This is what your graph should look like at this step:
-
-{{:timeplot:graph_without_min-max.png|}}
-
-If you notice the graph may seem a little off. The X-Axis as default will be your lowest value. This fundamentally frames the data different and may project a different story from the data. It can make changes look more extreme than they really are. Sometimes it can be helpful to do that, other times it can be misleading.
-
-By adding this line of code you will manually set the minimum and maximum values of the graph. You add different values later to better fit your graph for different projects.
-
-So to adjust your graphs minimum and maximum values what you need to do is to paste this code into the graph code. 
-
-<code>
-
-        min: 0,
-        max: 100
-
-</code>
-
-{{:timeplot:where_to_add_the_min-max.png|}}
-
-
-
-This will result in your graph looking like this.
-
-{{:timeplot:graph_with_min-max.png|}}
-
-
-
-
-===== Adding Colors ======
-
-Here are a few basic options that can help the readability of the graph; adding colors and showing the data points when you put the mouse over the graph.
-
-In the individual graph code add these lines of code to color the graph. "lineColor" will color the graph's line and "fillColor" will color the area under the graph. The timeplot program uses hexadecimal code to specify the color of certain elements of the graph to the program. It is very helpful to use a hexadecimal visualizer so that you can see the color you want and then get the code. For example w3schools has a very helpful HTML color picker.  [[http://www.w3schools.com/tags/ref_colorpicker.asp|You can find the link here]] to get different "Hex" values for colors. 
-
-<code>
-
-      lineColor: "#000000",
-      fillColor: "#900000",
-
-</code>
-
-{{:timeplot:where_to_add_color_code.png|}}
-
-To show the values of your data points when you put your mouse over the graph, add this code below the colors that we just added above.
-
-<code>
-
-showValues: true,
-
-</code>
-
-{{:timeplot:where_to_add_mouse_over.png|}}
-
-
-This is what your graph will look like after adding color and the mouse over code.
-
-{{:timeplot:color_and_mouse_over_graph.png|}}
-
-
-===== Adding Events =====
-
-To add events to your graph you need to add a few blocks of codes in different places.
-
-
-At the top of the program you will also have to set another variable to create the events graph.
-
-<code>
-
-var eventSource2 = new Timeplot.DefaultEventSource();
-
-</code>
-
-{{:timeplot:create_variable.png|}}
-
-To create the XML events you need to create another instance of the graph code. 
-
-Add this line of code near the bottom, make sure when you set the "id" that it is unique.
-
-<code>
-
-Timeplot.createPlotInfo({
-      id: "events",
-      gridColor: "#000000",
-      axisLabelsPlacement: "top",
-      eventSource: eventSource2,
-      lineColor: "#0000000"
-      
-      })
-
-
-</code>
-
-{{:timeplot:create_plot.png|}}
-
-Finally you also need to tell the program where to find the XML file with your events in it. Add this line of code near the bottom of the HTML file to specify where the file is. **The file name must match exactly!**
-
-<code>
-
-  timeplot.loadXML("events.xml", eventSource2);
-
-</code> 
-
-{{:timeplot:xml_data.png|}}
-
-
-This concludes the basic tutorial. You now have the basic tools to create a timeplot and adjust some of the functions of timeplot. Please see the [[timeplot:advanced-tutorial|advanced tutorial]] for more options for timeplot.
-
-{{indexmenu_n>6}}
