@@ -23,11 +23,11 @@ Once inside find the file folder for your Timeplot; it should look like the imag
 
 {{:timeplot:inside_file_manager.png?|}}
 
-Inside you should see three types files: 
+Inside you should see three files: 
 
-  * index.html
-  * data.txt
-  * events.xml
+  * index.html ([[timeplot:explanation-of-the-javascript-code-file|Details about the HTML file can be found here.]])
+  * data.txt ([[timeplot:explanation-of-the-text-file|Details about the Text file can be found here.]])
+  * events.xml ([[timeplot:explanation-of-the-xml-file|Details about the XML file can be found here.]])
 
 {{:timeplot:timeplot_file.png?|}}
 
