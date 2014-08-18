@@ -40,7 +40,7 @@ Next, you must paste the block you copied directly below the first one. (In orde
 
 Now, you must edit the second block of data. The image below shows were you should (or can) make edits to the code you just pasted: 
 
-{{https://farm6.staticflickr.com/5576/14775214009_31168d196a_c.jpg}}
+{{https://farm4.staticflickr.com/3893/14961960945_5ba3d8d5ea_c.jpg}}
 
   - You MUST provide a new id for new the new line you are plotting. Later, you'll include this id is another block of code to ensure the line shows up. 
   - You MUST indicate what "column" contains your data in your Text file. (See above) In this case, we'll be pulling in the second column for the second line of data. 
