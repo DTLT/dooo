@@ -49,14 +49,65 @@ Now, you must edit the second block of data. The image below shows were you shou
   - You can change the grid color for the y-axis (timeGeometry).
   - You can change the grid placement for the y-axis (timeGeometry).
 
-===== Adding points on the graph =====
+You may add additional data/lines as you need by repeating these steps.
 
-If you would like to dots to your data points to make the data points more pronounced simply add the line 
-" dotColor: "(Hex Value)" , " to block of color options in your graph line.
+=====Adding Events to the Timeplot=====
 
-How it should look if you add this line is shown below. 
+====Adding the Event Data====
+The first step in adding events to your Timeplot is ensuring that you have your event data ready. As discussed in the [[timeplot:explanation-of-the-xml-file|tutorial on the XML File]], we recommend simply editing the sample file that is created when you install Timeplot using Installatron. Be sure to review that tutorial to be sure that your event data is ready. 
 
-{{:timeplot:graph_with_dots.png|}}{{:timeplot:screen_shot_2014-07-08_at_3.11.31_pm.png|}}
+====Adding the Event Display====
+To actually add the events to your Timeplot, so that they are displayed on the graph, you will need to add a few blocks of codes in different places.
 
+First, at the top of the program you have to set a new variable that will hold your event data. Place this directly below the line that declares the variable for holding your numerical data. 
+
+var eventSource2 = new Timeplot.DefaultEventSource();
+
+The image below shows the placement of the new line of code: 
+{{https://farm6.staticflickr.com/5591/14792703798_84751a9d6d_z.jpg}}
+
+The next step is to create a new instance of the graph code, this time specifically for the events. You can place this block of code below any blocks that you're previously created for displaying your line data. If you have two lines on your graph, for example, you will have two blocks where you are setting the properties for those lines. The event block of code should go below these. You can copy and paste the code shown below, and you can place it as shown in the image below
+
+Code Block: 
+<code javascript>
+Timeplot.createPlotInfo({
+      id: "events",
+      gridColor: "#000000",
+      axisLabelsPlacement: "top",
+      eventSource: eventSource2,
+      lineColor: "#0000000"
+      
+      })
+</code>
+
+Image showing placement: 
+{{https://farm4.staticflickr.com/3879/14792841909_58a44cb39d_z.jpg}}
+
+Finally, you also need to tell the program where to find the XML file with your events in it. You'll need to add this line of code towards the bottom of the Javascript in your HTML file: 
+<code javascript>
+  timeplot.loadXML("events.xml", eventSource2);
+</code>
+
+Note that we're pointing to the default XML file that was created when you installed Timeplot (events.xml). If you've uploaded another file or renamed the original, you'll need to change that file name here. In addition, make sure the name of the variable name (eventSource2) matches what you added above. 
+
+We recommend placing this line of code directly below the line of code that shows where your numerical data is located. The image below illustrates the placement. 
+
+{{https://farm6.staticflickr.com/5596/14976511901_73426cea25_b.jpg}
+
+===== Adding Points on the Timeplot=====
+
+You may wish to show explicit points (or dots) on your lines, making it visually clearer where each individual data point is plotted.  Doing this requires you to add the following line of code for each set of plot information: 
+
+<code javascript>
+dotColor: "#FF0000",
+</code>
+
+Note that you must declare a color for the dots, and it must be in a hexadecimal format. 
+
+We recommend placing the code directly above the line of code that indicates you want to show data values: 
+
+{{https://farm4.staticflickr.com/3883/14978901072_b37d46f78b_b.jpg}}
+
+The picture above illustrates the placement of this code, in this case for both sets of data that we've plotted. 
 
 {{indexmenu_n>7}}
