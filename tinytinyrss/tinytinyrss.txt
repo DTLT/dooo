@@ -1,7 +1,7 @@
 ====== How to Use Tiny Tiny RSS ======
 
 
-===== Installing Tinny Tiny RSS =====
+===== Installing Tiny Tiny RSS =====
 
 Log into cpanel.umwdomains.com
 
