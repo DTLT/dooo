@@ -11,7 +11,7 @@
 <br /><br /></li>
 <li>Once logged in you'll be at the homepage of your control panel. The easiest way to navigate the panel is using the search feature in the top right panel. Click the <strong>Search box</strong> and type "DNS" (without the quotes). As you type, the cPanel page will begin to narrow down results. Find and click on&nbsp;<strong>Advanced DNS Zone Editor</strong> to continue.</li>
 <li>Find the domain, or subdomain, you want to map to UMW Blogs in the list of Zone File Records. Under the "Action" column, click&nbsp;<strong>Edit</strong>.</li>
-<li>Leave the Name, Type, and TTL fields set to their defaults. Update the <strong>Address</strong> field to match the UMW Blogs IP address:&nbsp;<strong>216.157.108.172</strong> and click&nbsp;<strong>Edit record</strong> when you are done.</li>
+<li>Leave the Name, Type, and TTL fields set to their defaults. Update the <strong>Address</strong> field to match the UMW Blogs IP address:&nbsp;<strong>54.84.216.123</strong> and click&nbsp;<strong>Edit record</strong> when you are done.</li>
 
 <li>After that, click OK and you are all done with the DNS settings. Now go to the UMW Blogs blog you want to map a domain upon, and find the Tools-->Domain Mapping sub-tab and enter the domain address in the appropriate field. Click Add, and your new domain should be mapped.</li>
 <img src="http://farm4.staticflickr.com/3811/13083351053_a497e317b2_z.jpg" />
