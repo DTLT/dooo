@@ -9,8 +9,8 @@
 
 ==== Computer Science ====
 
-  * [[courses: Digital Storytelling|CPSC 106: Digital Storytelling (ds106)]] (Bond,Groom)
   * [[courses: The Internet|CPSC 104: The Internet]] (Bond, Groom)
+  * [[courses: Digital Storytelling|CPSC 106: Digital Storytelling (ds106)]] (Bond,Groom)
   * [[courses: Computer Science I | CPSC 220: Computer Science I]] (Anewalt, Finlayson)
 
 ==== Freshman Seminars ====
@@ -30,19 +30,11 @@
 ==== History and American Studies ====
 
   * [[courses:Sophomore American Studies Seminar|AMST 202: Sophomore American Studies Seminar]] (Rigelhaupt)
-  * [[courses:Adventures in Digital History|HIST 428: Adventures in Digital History]] (McClurken)
-  * [[courses:History 298|HIST 298: History Practicum]] (Blakemore, Mackintosh, Poska)
   * [[courses:History Colloquium-Fernsebner|HIST 297: History Colloquium]] (Fernsebner)
+  * [[courses:History 298|HIST 298: History Practicum]] (Blakemore, Mackintosh, Poska)
+  * [[courses:Adventures in Digital History|HIST 428: Adventures in Digital History]] (McClurken)
 
 ==== Other Projects ====
 
   * [[courses: Spring 2014 Faculty Initiative]] (Brazell, Burtis, Groom, Owens)
   * [[courses: History Department Workshop]]
-
-==== Current Semester ====
-  * [[Fall 2014]]
-
-==== Previous Semesters ====
-
-  * [[Fall 2013]]
-  * [[Spring 2014]]
