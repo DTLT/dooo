@@ -29,6 +29,7 @@
 
 ==== History and American Studies ====
 
+  * [[courses:Intro to American Studies|AMST 201: Intro to American Studies]] (Rigelhaupt)
   * [[courses:Sophomore American Studies Seminar|AMST 202: Sophomore American Studies Seminar]] (Rigelhaupt)
   * [[courses:History Colloquium-Fernsebner|HIST 297: History Colloquium]] (Fernsebner)
   * [[courses:History 298|HIST 298: History Practicum]] (Blakemore, Mackintosh, Poska)
