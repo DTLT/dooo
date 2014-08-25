@@ -42,12 +42,12 @@ Now, you must edit the second block of data. The image below shows were you shou
 
 {{https://farm4.staticflickr.com/3893/14961960945_5ba3d8d5ea_c.jpg}}
 
-  - You MUST provide a new id for new the new line you are plotting. 
-  - You MUST indicate what "column" contains your data in your Text file. 
-  - You can change the grid color for the y-axis (valueGeometry).
-  - You can change the grid placement for the y-axis (valueGeometry).
-  - You can change the grid color for the y-axis (timeGeometry).
-  - You can change the grid placement for the y-axis (timeGeometry).
+1. You MUST provide a new id for new the new line you are plotting. 
+2. You MUST indicate what "column" contains your data in your Text file. (See above) In this case, we'll be pulling in the second column for the second line of data. 
+3. You can change the grid color for the y-axis (valueGeometry).
+4. You can change the grid placement for the y-axis (valueGeometry).
+5. You can change the grid color for the y-axis (timeGeometry).
+6. You can change the grid placement for the y-axis (timeGeometry).
 
 You may add additional data/lines as you need by repeating these steps.
 =====Adding Events to the Timeplot=====
