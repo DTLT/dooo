@@ -1,4 +1,3 @@
 #FSEM 100C6: Toys as History (Fernsebner)
 
 {{page>general:choosing-a-domain-name}}
-{{page>general:signing-up-on-domain-of-one-s-own}}
