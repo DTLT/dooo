@@ -2,6 +2,41 @@
 
 #Course Tutorials
 
+==== College of Business ====
+
+  * [[courses: Principles of Marketing-Gentry|BUAD 310: Principles of Marketing]] (Gentry)
+  * [[courses: Principles of Marketing-Majid|BUAD 310: Principles of Marketing]] (Majid)
+
+==== Computer Science ====
+
+  * [[courses: Digital Storytelling|CPSC 106: Digital Storytelling (ds106)]] (Bond,Groom) 
+  * [[courses: The Internet|CPSC 104: The Internet]] (Bond, Groom)
+  * [[courses: Computer Science I | CPSC 220: Computer Science I]] (Anewalt, Finlayson)
+
+==== Freshman Seminars ====
+
+  * [[courses:History of Genocides|FSEM 100J9: History of Genocides]] (Al-Tikriti)
+  * [[courses:Water Issues | FSEM 100B9: Water Resources]] (Gallagher)
+
+==== Geography ====
+
+   * [[courses:Revanchist City Rebel City | GEOG 410W: Revanchist City/Rebel City]] (Patterson)
+
+==== Geographic Information Systems (GIS ====
+
+  * [[courses: Spatial Analysis with GIS | GEOG 351A: Spatial Analysis with GIS]] (Rizzo)
+
+==== History and American Studies ====
+
+  * [[courses:Sophomore American Studies Seminar|AMST 202: Sophomore American Studies Seminar]] (Rigelhaupt)
+  * [[courses:Adventures in Digital History|HIST 428: Adventures in Digital History]] (McClurken)
+  * [[courses:History 298|HIST 298: History Practicum]] (Blakemore, Mackintosh, Poska)
+
+==== Other Projects ====
+
+  * [[courses: Spring 2014 Faculty Initiative]] (Brazell, Burtis, Groom, Owens)
+  * [[courses: History Department Workshop]]
+
 ==== Current Semester ====
   * [[Fall 2014]]
 
