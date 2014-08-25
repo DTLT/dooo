@@ -44,13 +44,6 @@ Now, you must edit the second block of data. The image below shows were you shou
 
 You MUST provide a new id for new the new line you are plotting. 
 
-# One
-# Two
-# Three
-# Four
-# Five
-# Six
-
   - You MUST indicate what "column" contains your data in your Text file. (See above) In this case, we'll be pulling in the second column for the second line of data. 
   - You can change the grid color for the y-axis (valueGeometry).
   - You can change the grid placement for the y-axis (valueGeometry).
