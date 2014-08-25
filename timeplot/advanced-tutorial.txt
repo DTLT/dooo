@@ -49,7 +49,6 @@ Now, you must edit the second block of data. The image below shows were you shou
   - You can change the grid color for the y-axis (timeGeometry).
   - You can change the grid placement for the y-axis (timeGeometry).
 
-You may add additional data/lines as you need by repeating these steps.
 
 =====Adding Events to the Timeplot=====
 
