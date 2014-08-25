@@ -33,6 +33,7 @@
   * [[courses:History Colloquium-Fernsebner|HIST 297: History Colloquium]] (Fernsebner)
   * [[courses:History 298|HIST 298: History Practicum]] (Blakemore, Mackintosh, Poska)
   * [[courses:Adventures in Digital History|HIST 428: Adventures in Digital History]] (McClurken)
+  * [[courses:Oral History|HIST 441: Oral History]] (Rigelhaupt)
 
 ==== Other Projects ====
 
