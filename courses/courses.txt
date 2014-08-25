@@ -15,8 +15,9 @@
 
 ==== Freshman Seminars ====
 
-  * [[courses:History of Genocides|FSEM 100J9: History of Genocides]] (Al-Tikriti)
   * [[courses:Water Issues | FSEM 100B9: Water Resources]] (Gallagher)
+  * [[courses:Toys as History-Fernsebner|FSEM 100C6: Toys as History]] (Fernsebner)
+  * [[courses:History of Genocides|FSEM 100J9: History of Genocides]] (Al-Tikriti)
 
 ==== Geography ====
 
@@ -31,6 +32,7 @@
   * [[courses:Sophomore American Studies Seminar|AMST 202: Sophomore American Studies Seminar]] (Rigelhaupt)
   * [[courses:Adventures in Digital History|HIST 428: Adventures in Digital History]] (McClurken)
   * [[courses:History 298|HIST 298: History Practicum]] (Blakemore, Mackintosh, Poska)
+  * [[courses:History Colloquium-Fernsebner|HIST 297: History Colloquium]] (Fernsebner)
 
 ==== Other Projects ====
 
@@ -44,4 +46,3 @@
 
   * [[Fall 2013]]
   * [[Spring 2014]]
-
