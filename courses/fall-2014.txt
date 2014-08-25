@@ -1,7 +1,7 @@
 #Fall 2014 Course Tutorials
 
 ==== Freshman Seminars ====
-  * [[FSEM 100C6: Toys as History]] (Fernsebner)
+  * [[Toys as History-Fernsebner|FSEM 100C6: Toys as History]] (Fernsebner)
 
 ==== History and American Studies ====
-  * [[HIST 297: History Colloquium]] (Fernsebner)
+  * [[History Colloquium-Fernsebner|HIST 297: History Colloquium]] (Fernsebner)
