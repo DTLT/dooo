@@ -36,5 +36,5 @@
 
 ==== Other Projects ====
 
-  * [[courses: Spring 2014 Faculty Initiative]] (Brazell, Burtis, Groom, Owens)
   * [[courses: History Department Workshop]]
+  * [[courses: Spring 2014 Faculty Initiative]] (Brazell, Burtis, Groom, Owens)
