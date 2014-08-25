@@ -1,6 +1,14 @@
 {{indexmenu_n>8}}
 
-====== Course Tutorials ======
+#Course Tutorials
+
+==== Current Semester ====
+  * [[Fall 2014]]
+
+==== Previous Semesters ====
+
+  * [[Fall 2013]]
+  * [[Spring 2014]]
 
 ==== College of Business ====
 
