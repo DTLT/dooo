@@ -9,7 +9,7 @@
 
 ==== Computer Science ====
 
-  * [[courses: Digital Storytelling|CPSC 106: Digital Storytelling (ds106)]] (Bond,Groom) 
+  * [[courses: Digital Storytelling|CPSC 106: Digital Storytelling (ds106)]] (Bond,Groom)
   * [[courses: The Internet|CPSC 104: The Internet]] (Bond, Groom)
   * [[courses: Computer Science I | CPSC 220: Computer Science I]] (Anewalt, Finlayson)
 
