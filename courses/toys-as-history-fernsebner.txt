@@ -1,0 +1,3 @@
+{{page>general:what-can-you-do-with-your-dooo-account}}
+{{page>general:choosing-a-domain-name}}
+{{page>general:signing-up-on-domain-of-one-s-own}}
