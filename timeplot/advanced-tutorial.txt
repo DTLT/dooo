@@ -107,6 +107,20 @@ We recommend placing the code directly above the line of code that indicates you
 
 {{https://farm4.staticflickr.com/3883/14978901072_b37d46f78b_b.jpg}}
 
-The picture above illustrates the placement of this code, in this case for both sets of data that we've plotted. 
+The picture above illustrates the placement of this code, in this case for both sets of data that we've plotted.
+
+=====Adding Line & Fill Colors to Line Plots=====
+Timeplot allows you to change the color of the lines on your graph as well as fill in a color below each line. 
+
+You will need to add a new property for each set of plot information. The lines you need to add are: 
+
+<code javascript>
+lineColor: "#FF0000",
+fillColor: "#FF0000",
+</code>
+
+You can choose whatever hexadecimal color code you like for these properties. We recommend placing the code directly above the line of code that indicates you want to show data values (you may also have a line for showing dots on your lines): 
+
+{{https://farm6.staticflickr.com/5573/15021148966_9572e72cf1_o.png}} 
 
 {{indexmenu_n>7}}
