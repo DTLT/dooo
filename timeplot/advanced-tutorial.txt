@@ -123,4 +123,25 @@ You can choose whatever hexadecimal color code you like for these properties. We
 
 {{https://farm6.staticflickr.com/5573/15021148966_9572e72cf1_o.png}} 
 
+=====Changing the Color of Events=====
+You may also change the color of the lines/bands created by your event data. Making this change requires editing your event XML file (instead of the HTML file). If you used the default XML file that was installed, the file name will be "events.xml" You may refer to the [[timeplot:explanation-of-the-xml-file|explanation of the XML File]] for a reminder about how to access and edit that file. 
+
+Once you have the file open, you can simply add a "color" property to each event. You can use different colors, for example, to group events that have a similar theme. 
+
+A sample event code BEFORE you add the color would look like this: 
+
+<code xml>
+<event start="Jan 20 2009 08:00:00 GMT-0600" title="Conclusion of second term" link=""/>
+</code>
+
+A sample event code AFTER you add the color would look like this: 
+
+<code xml>
+<event start="Jan 20 2009 08:00:00 GMT-0600" title="Conclusion of second term" color= "#FF0000" link=""/>
+</code>
+
+Note that the color is, once again, defined as a hexadecimal code. In addition, the value must be placed in quotes. 
+
+Make sure you save your XML file when you're done editing it. 
+
 {{indexmenu_n>7}}
