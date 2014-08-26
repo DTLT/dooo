@@ -36,3 +36,5 @@ In the images below, you'll see we've added additional ratings for President Bus
 If you installed Timeplot using Installatron on Domain of One's Own, you'll have received a set of sample files that include the President Bush approval ratings data in .txt file. The file contains all three ratings. You may replace this data with your own data. 
 
 In the [[timeplot:basic-tutorial|Basic Tutorial]], we will walk you through how to modify the text file so that your data appears in your Timeplot. 
+
+{{indexmenu_n>4}}
