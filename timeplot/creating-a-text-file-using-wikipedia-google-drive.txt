@@ -42,7 +42,7 @@ Click on a column number to select the entire column and right-click. From the m
 
 The dates that you will copy and paste from Wikipedia will be in the form of only a year number. You will need to expand these to a standard date format (YYYY-MM-DD) in order for them to work properly in Timeplot. However, before you begin to edit these, you should change the format of the cell to **Plain Text**. This will prevent Google Spreadsheets from trying to automatically detect and format a date when you enter it. 
 
-Select the column containing the years, go to **Format** > **Number** > **Plain Text**.
+Select the column containing the years, go to **Format** -> **Number** -> **Plain Text**.
 
 {{https://farm4.staticflickr.com/3926/15106775595_57a8e4816b_b.jpg}}
 
@@ -54,7 +54,7 @@ Now, edit each date column so that it also contains a month and day. We recommen
 
 Your population data will probably have commas in the numbers to indicate thousands. You need to remove these since we will be exporting the data as a "comma separated value" file and the commas in the number will conflict with the commas used to delimit the data. You can remove them manually by editing your numbers, or you can reformat the cells. 
 
-To reformat the cells, select the column containing the data, go to **Format** > **Number** > **More Formats** > **Custom number format**. 
+To reformat the cells, select the column containing the data, go to **Format** -> **Number** -> **More Formats** -> **Custom number format**. 
 
 {{https://farm4.staticflickr.com/3841/15106522922_bd33308d4e_c.jpg}}
 
