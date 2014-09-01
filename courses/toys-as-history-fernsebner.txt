@@ -1,3 +1,22 @@
 #FSEM 100C6: Toys as History (Fernsebner)
 
+If you have questions or need help, please feel free to contact Ryan Brazell, one of the DTLT staff members. His contact information is as follows:
+
+**Email:** rbrazell@umw.edu
+
+**Phone:** 540-654-1370 (x1370)
+
+**In person:** ITCC 410
+
 {{page>general:choosing-a-domain-name}}
+{{page>general:signing-up-on-domain-of-one-s-own}}
+
+<WRAP center round info 60%>
+PLEASE NOTE that when you install WordPress for this class, you should choose "Toys as History (Fernsebner) -- Fall 2014" as a package option during the installation process.
+</WRAP>
+ 
+{{page>wordpress:installing-wordpress}}
+
+<WRAP center round info 60%>
+PLEASE NOTE that when you install WordPress for this class, you should choose "Toys as History (Fernsebner) -- Fall 2014" a package option during the installation process.
+</WRAP>
