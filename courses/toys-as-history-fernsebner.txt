@@ -11,6 +11,7 @@ If you have questions or need help, please feel free to contact Ryan Brazell, on
 {{page>general:choosing-a-domain-name}}
 {{page>general:signing-up-on-domain-of-one-s-own}}
 
+# Creating a Site for This Course
 <WRAP center round info 60%>
 **For this class, you will need to set up a subdomain in which you'll install WordPress. You can call the subdomain anything you'd like; if you're not sure what to pick, consider using either "toys" or "toysashistory" (without the quotes, of course).**
 </WRAP>
