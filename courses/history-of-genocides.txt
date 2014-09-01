@@ -2,4 +2,29 @@
 
 # FSEM 100J9: History of Genocides
 
+If you have questions or need help, please feel free to contact Ryan Brazell, one of the DTLT staff members. His contact information is as follows:
+
+**Email:** rbrazell@umw.edu
+
+**Phone:** 540-654-1370 (x1370)
+
+**In person:** ITCC 410
+
 {{page>general:choosing-a-domain-name}}
+{{page>general:signing-up-on-domain-of-one-s-own}}
+
+# Creating a Site for This Course
+
+For this class, you will need to set up a subdomain in which you'll install WordPress. You can call the subdomain anything you'd like; if you're not sure what to pick, consider using "historyfsem," "historyofgenocides," or something else similarly course-related (without the quotes, of course).
+
+{{page>domain-management:setting-up-subdomains}}
+
+<WRAP center round info 60%>
+**PLEASE NOTE that when you install WordPress for this class, you should choose "FSEM 100J9: History of Genocides (Al-Tikriti)" as a package option during the installation process.**
+</WRAP>
+ 
+{{page>wordpress:installing-wordpress}}
+
+<WRAP center round info 60%>
+**PLEASE NOTE that when you install WordPress for this class, you should choose "FSEM 100J9: History of Genocides (Al-Tikriti)" as a package option during the installation process.**
+</WRAP>
