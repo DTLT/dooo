@@ -64,7 +64,7 @@ In the dialog that appears, choose the first formatted listed (without commas) a
 
 You should now see the commas removed from your numbers. 
 
-==== Exporting Your Data ====
+===== Exporting Your Data =====
 
 The final step is exporting your spreadsheet as a Comma Separated Value (.csv) file. From the **File** menu, choose **Download as** -> **Comma-separated values** 
 
