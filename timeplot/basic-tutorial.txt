@@ -74,4 +74,4 @@ By default, the x- and y-axis labels are placed at the left and top of the graph
 
 {{https://farm6.staticflickr.com/5577/14732971897_77783672e8_c.jpg}}
 
-{{indexmenu_n>6}}
+{{indexmenu_n>7}}
