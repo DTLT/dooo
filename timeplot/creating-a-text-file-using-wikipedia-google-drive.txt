@@ -58,7 +58,7 @@ To reformat the cells, select the column containing the data, go to **Format** -
 
 {{https://farm4.staticflickr.com/3841/15106522922_bd33308d4e_c.jpg}}
 
-In the dialog that appears, choose the first formatted listed (without commas) and click **Apply**. 
+In the dialog that appears, choose the format that has no commas and click **Apply**. 
 
 {{https://farm6.staticflickr.com/5568/14920220629_09db972caf_z.jpg}}
 
@@ -76,6 +76,8 @@ In the images below, we've pasted data from another city (Chicago). The first im
 Next, remove the columns that you don't need (including duplicate date columns). If you added additional rows, make sure each one has a data. 
 
 {{https://farm6.staticflickr.com/5560/15108438212_1cb3dc7043_b.jpg}}
+
+Make sure you apply the same number formatting to your new columns! (In order to remove commas.)
 ===== Exporting Your Data =====
 
 The final step is exporting your spreadsheet as a Comma Separated Value (.csv) file. From the **File** menu, choose **Download as** -> **Comma-separated values** 
