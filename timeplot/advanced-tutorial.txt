@@ -144,4 +144,4 @@ Note that the color is, once again, defined as a hexadecimal code. In addition, 
 
 Make sure you save your XML file when you're done editing it. 
 
-{{indexmenu_n>7}}
+{{indexmenu_n>8}}
