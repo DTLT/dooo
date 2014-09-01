@@ -64,6 +64,18 @@ In the dialog that appears, choose the first formatted listed (without commas) a
 
 You should now see the commas removed from your numbers. 
 
+====Adding Additional Data====
+
+If you want to plot more than one line of data, you can do this by adding additional columns to your spreadsheet. Follow the same steps to copy data from Wikipedia. Paste the data into the spreadsheet (being sure to line up dates appropriately) and then delete the columns/rows you do not need. 
+
+In the images below, we've pasted data from another city (Chicago). The first image shows how we've pasted the entire data set. Note that we had to add additional lines to the spreadsheet since this data set starts earlier than our first one. 
+
+{{https://farm4.staticflickr.com/3914/15108775775_76783b4dd8_b.jpg}}
+
+
+Next, remove the columns that you don't need (including duplicate date columns). If you added additional rows, make sure each one has a data. 
+
+{{https://farm6.staticflickr.com/5560/15108438212_1cb3dc7043_b.jpg}}
 ===== Exporting Your Data =====
 
 The final step is exporting your spreadsheet as a Comma Separated Value (.csv) file. From the **File** menu, choose **Download as** -> **Comma-separated values** 
