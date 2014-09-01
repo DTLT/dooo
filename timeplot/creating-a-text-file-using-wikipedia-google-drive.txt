@@ -68,9 +68,24 @@ You should now see the commas removed from your numbers.
 
 The final step is exporting your spreadsheet as a Comma Separated Value (.csv) file. From the **File** menu, choose **Download as** > **Comma-separated values** 
 
-This will save the file to your computer. Hopefully, you will be prompted to choose a name for the file and a location to save it in. However, on some computers after the .csv file is downloaded it is automatically opened in a program like Excel. Since we want to keep it in a comma-sep
+This will save the file to your computer. Choose a name and location for the file when prompted. 
+
+==== Viewing Your Data ====
+To check that your .csv file is properly formatted, we recommend opening the file you just opened in a text editor. On the Mac, we recommend TextEdit which should be part of the standard Mac operating system install. On the PC, we recommend Notepad which should be part of the standard PC operating system install. 
+
+Do not open the file in Excel (or other spreadsheet editing software). If you do, you may find the program reformats the data in ways that won't work with Timeplot. 
+
+==== Sharing Your Data ====
+In order to share your data with the rest of the class, you'll need to create a file in the shared Google folder that your professor created for you. Unfortunately, if you upload the .csv file, Google will automatically convert it into a spreadsheet (requiring you to again export it as .csv file in order to use it with Timeplot). Instead, we recommend creating a blank word processing document and then pasting the text from your .csv file that you opened in a text editor on your computer. 
+
+To create a word processing document, login to Google Drive, click **Create**, and choose **Document**. 
+
+{{https://farm6.staticflickr.com/5561/15108102585_db77a6a3df_c.jpg}}
+
+Once in the document, simply paste the contents of the .csv file on your computer into the document. 
+
+
 
 
 
  
-
