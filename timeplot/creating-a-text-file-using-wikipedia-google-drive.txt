@@ -24,7 +24,7 @@ Place your cursor in the top-left cell of the spreadsheet, and paste the data th
 
 ==== Removing Extra Rows & Columns ====
 
-You may end up with extra empty rows or columns of data that you do not need. Remove everything but the year column and the population data column next to it
+You may end up with extra empty rows or columns of data that you do not need. Remove everything but the year column and the population data column next to it.
 
 **To delete rows:** 
 
