@@ -13,6 +13,11 @@
   * [[courses: Digital Storytelling|CPSC 106: Digital Storytelling (ds106)]] (Bond,Groom)
   * [[courses: Computer Science I | CPSC 220: Computer Science I]] (Anewalt, Finlayson)
 
+
+==== English, Linguistics, and Communication ====
+
+  * [[courses:Fantasy Writing | ENGL 313E: Fantasy Writing]] (Rochelle)
+
 ==== Freshman Seminars ====
 
   * [[courses:Water Issues | FSEM 100B9: Water Resources]] (Gallagher)
