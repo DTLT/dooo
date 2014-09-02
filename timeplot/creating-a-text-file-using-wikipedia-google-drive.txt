@@ -82,6 +82,8 @@ Make sure you apply the same number formatting to your new columns! (In order to
 
 The final step is exporting your spreadsheet as a Comma Separated Value (.csv) file. From the **File** menu, choose **Download as** -> **Comma-separated values** 
 
+{{https://farm6.staticflickr.com/5582/15119053482_6669ed1e67_z.jpg}}
+
 This will save the file to your computer. Choose a name and location for the file when prompted. 
 
 ===== Viewing Your Data =====
