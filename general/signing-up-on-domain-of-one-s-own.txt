@@ -16,25 +16,29 @@ Once you've reviewed the guidelines, you can proceed to the [[http://umwdomains.
 
 Click on the left hand side where it says "Login / Signup" Please note that if you are a student, your email address must include full complete "mail.umw.edu" suffix. 
 
-{{:general:umwdomains_homepage.png?300|}}
+{{https://farm6.staticflickr.com/5563/14931158988_0b921a6f25_z_d.jpg}}
 
 You will be redirected to a UMW Page to login for verification. You will use your UMW NetID/password to login. Afterwards, you will be redirected back to the Domain of One's Own signup page. 
-{{:general:umwdomains_login_page.png?300|}}
+
+{{https://farm4.staticflickr.com/3860/15117723275_17a8f7441d_z_d.jpg}}
 
 The first thing you need to do is enter the domain name you wish to register. Our system will check to be sure the domain name you've chosen is available. 
 
-{{:general:unavailable_site_name.png?300|}}
+{{https://farm4.staticflickr.com/3863/15114722711_6ce732c075_z_d.jpg}}
 
 When you've found an available domain that you want, click the button labeled **Click to Continue**. 
-{{:general:avaiable_site_name.png?300|}}
 
+{{https://farm4.staticflickr.com/3923/14931034289_92b8d4e7c4_z_d.jpg}}
 
 You'll next seen an "Order Summary" showing the domain you chose as well as the default hosting plan that we'll be giving you. Review your order and click the **Checkout** button.
-{{:general:checkout.png?300|}}
+
+{{https://farm6.staticflickr.com/5552/14931079570_ccb27cbae2_z_d.jpg}}
 
 On the "Checkout" page that appears next, you'll be asked to review and agree to the Domain of One's Own **Terms of Service**. When you're done click the **Complete Order** button. 
 
-{{:general:terms_of_service.png?300|}}{{:general:accept.png?300|}}
+{{https://farm4.staticflickr.com/3884/14931034209_bb74ab88ed_z_d.jpg}}
+
+{{https://farm6.staticflickr.com/5573/15117723375_2613bd2676_z_d.jpg}}
 
 It can take 20-30 seconds for your order to complete. When it's done, a confirmation page will appear. 
 
