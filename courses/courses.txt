@@ -37,6 +37,7 @@
   * [[courses:Intro to American Studies|AMST 201: Intro to American Studies]] (Rigelhaupt)
   * [[courses:Sophomore American Studies Seminar|AMST 202: Sophomore American Studies Seminar]] (Rigelhaupt)
   * [[courses:History Colloquium-Fernsebner|HIST 297: History Colloquium]] (Fernsebner)
+  * [[courses:History Colloquium-Sellers|HIST 297: History Colloquium]] (Sellers)
   * [[courses:History 298|HIST 298: History Practicum]] (Blakemore, Mackintosh, Poska)
   * [[courses:History 298-Ferrell|HIST 298: History Practicum]] (Ferrell)
   * [[courses:Adventures in Digital History|HIST 428: Adventures in Digital History]] (McClurken)
