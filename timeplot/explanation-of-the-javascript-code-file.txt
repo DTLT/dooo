@@ -26,14 +26,14 @@ At the top of the file, you will see code to begin the HTML page and call an ext
 Below the call to the external javascript, you will see a block of javascript that contains information about the Timeplot to be displayed on the page. It begins with a tag to start the script: 
 
 <code html>
-<!-- This tag indicated the start of the javascript block -->
+<!-- This tag indicates the start of the javascript block -->
 <script>
 </code>
 
 The majority of your work will be editing and modifying the block of code that follows. Comments in the code help to explain what each piece does. Subsequent tutorials will further explain this code as well as introduce other code you can add to modify and enhance your Timeplot. 
 
 <code javascript>
-   // This declares a variable for your Timeplot. You should not edit it
+// This declares a variable for your Timeplot. You should not edit it
    var timeplot;
  
      //This begins the primary function that controls your Timeplot. 
@@ -42,18 +42,50 @@ The majority of your work will be editing and modifying the block of code that f
  
        // This declares a variable for your data source.
        var eventSource = new Timeplot.DefaultEventSource();
+       var eventSource2 = new Timeplot.DefaultEventSource();
+       
+       // This variable contains information about how the x-axis (dates) is displayed
+        var timeGeometry = new Timeplot.DefaultTimeGeometry({
+                gridColor: "#000000",
+                axisLabelsPlacement: "bottom"
+        });
+
+		// This variable contains information about hwo the y-axis (values) is displayed
+        var valueGeometry = new Timeplot.DefaultValueGeometry({
+                gridColor: "#000000",
+                axisLabelsPlacement: "left",
+                min: 0, 
+                max: 300000
+        });
  
-       // This declares a variable for information about your Timeplot. 
-       // It has two properties already (id and datasource). 
-       // You may modify or add to this variable depending on how you want your Timeplot to work.
+       // The next three blocks of code declare variables for each line (data set) and your events
+       // For each line there are several properties already declared.
+       // You may modify or add to these variables and their properties depending on how you want your Timeplot to work.
        var plotInfo = [
            Timeplot.createPlotInfo({
-              // The id property identifies a unique name for your plot.
-               id: "plot1",
-               // The datasource property identifies where to find your data and what part of the file to use.
-               // By default in this example, we use thefirst column of data in your text file (denoted by the '1').
+               id: "City1",
                dataSource: new Timeplot.ColumnSource(eventSource,1),
+               valueGeometry: valueGeometry,
+               timeGeometry: timeGeometry, 
+               lineColor: "#ff0000",
+               showValues: true
            }),
+           
+            Timeplot.createPlotInfo({
+               id: "City2",
+               dataSource: new Timeplot.ColumnSource(eventSource,2),
+               valueGeometry: valueGeometry,
+               timeGeometry: timeGeometry,
+               lineColor: "#0000ff",
+               showValues: true
+           }), 
+           
+		   Timeplot.createPlotInfo({
+			   id: "Events",
+			   eventSource: eventSource2,
+			   timeGeometry: timeGeometry, 
+			   lineColor: "#000000"
+			   })
        ];
  
   // This statement creates your Timeplot (using the plotInfo variable you created above) 
@@ -62,7 +94,8 @@ The majority of your work will be editing and modifying the block of code that f
   // This statement indicates where the text file is located for your data. 
   // The location is relative to the file you are working on, 
   // and the comma (in quotes) indicates that the data is comma-delimited (separated by commas) in the text file.
-  timeplot.loadText("data.txt", ",", eventSource);;
+  timeplot.loadText("data.txt", ",", eventSource);
+  timeplot.loadXML("events.xml", eventSource2);
  
  
 }
@@ -78,7 +111,6 @@ The majority of your work will be editing and modifying the block of code that f
         }, 100);
      }
     }
- 
  
 </script>
 </code>
