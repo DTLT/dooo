@@ -53,7 +53,7 @@ At the top of the file, you will see a comment block (denoted by the "#" tags) t
 
 Below that, you will see the actual numerical data. Replace it with your own data. Make sure to use commas between dates and data and only put one date per line. 
 
-{{https://farm4.staticflickr.com/3890/14732932159_2e789d6513_o.png}}
+{{https://farm4.staticflickr.com/3852/15139878712_181495c222_z.jpg}}
 
 The sample data for Timeplot includes two sets of data. The plot will display two lines, one for each of these sets. You should plan on replacing the data with your own two sets of data in the text file. Later, if you wish, you can add additional data sets, being sure to use commas to separate the values for each date/row. You will need to [[timeplot:advanced-tutorial|proceed to the Advanced Tutorial]] for information about how to plot those additional sets. 
 
