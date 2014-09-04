@@ -59,17 +59,36 @@ The sample data for Timeplot includes two sets of data. The plot will display tw
 
 When you are done exit out of the File Manager. Browse to the location of your TimePlot and you should now see your data plotted on the timeline. 
 
-===== Adjusting The Graph =====
+===== Editing the Event File =====
+
+Just like you opened the data.txt file, you can also open and edit the events.xml file. If you haven't already, we recommend you review the [[timeplot:explanation-of-the-xml-file|explanation of the XML File]]. 
+
+In this file, we've placed three sample events. The first is a basic event with a start date. The second is an event with a start and end date. The third has a start and end date as well as a description. You can use this format to add your own events to the Timeplot. 
+
+{{https://farm4.staticflickr.com/3911/15137318411_ff2ec032da_z.jpg}}
+
+If you're not ready to add events, you can simply remove the <event /> code from the events.xml file. You can come back later to add your own events. 
+
+===== Editing the HTML file and Adjusting the Graph =====
+The final file you may edit is the index.html file which contains the script and code to actually build your Timeplot. You may open and edit it just as you opened the Text and XML files. 
+
 For the purposes of this basic tutorial, there are a few variables that you can change in order to alter the appearance of your graph: 
 
 ====Grid Colors====
-By default, the grid of the graph to a hexadecimal color of "#000000" which corresponds to black. You may replace this value with any hexadecimal color you like. [[http://html-color-codes.info/|You can read more about hex color codes here.]]
 
-{{https://farm4.staticflickr.com/3875/14732952697_e0557f7cb9_c.jpg}}
+You may change the color of the grid associated with both the data and the events. You must replace the existing values with another hexadecimal color code. [[http://html-color-codes.info/|You can read more about hex color codes here.]]
+
+{{https://farm4.staticflickr.com/3843/15140395115_8959362fe5_c.jpg}}
 
 ====Axis Label Placement====
-By default, the x- and y-axis labels are placed at the left and top of the graph. You may change these to "bottom" or "right," if you like. 
+By default, the x- and y-axis labels are placed at the left and bottom of the graph. You may change these to "top" or "right," if you like. 
 
-{{https://farm6.staticflickr.com/5577/14732971897_77783672e8_c.jpg}}
+{{https://farm6.staticflickr.com/5583/14953860567_9b04e67253_b.jpg}}
+
+==== Data Range ====
+Depending on the lowest/highest values in your data set(s), you may wish to adjust the data range for your Timeplot. 
+
+{{https://farm4.staticflickr.com/3867/15117448196_67dda60385_c.jpg}}
+
 
 {{indexmenu_n>7}}
