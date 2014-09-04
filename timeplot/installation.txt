@@ -44,7 +44,7 @@ When Timeplot has successfully installed, you will see a summary view that shows
 
 {{https://farm6.staticflickr.com/5575/14914969001_2b2102e212_b.jpg}}
 
-If you click on the link to your site, you should see a basic Timeplot (as seen below), showing the sample data that is included in the install. You may proceed to the Basic Tutorial to learn how to customize the Timeplot with your own data. 
+If you click on the link to your site, you should see a basic Timeplot (as seen below), showing the sample data that is included in the install. You may proceed to the [[timeplot:basic-tutorial|Basic Tutorial]] to learn how to customize the Timeplot with your own data. 
 <html>
 <iframe src="http://www.umwdomains.com/timeplot3/" width="800px" height="300px"></iframe>
 </html>
