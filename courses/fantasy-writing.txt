@@ -9,3 +9,16 @@ If you have questions or need help, please feel free to contact Ryan Brazell, on
 **In person:** ITCC 410
 
 {{page>general:choosing-a-domain-name}}
+{{page>general:signing-up-on-domain-of-one-s-own}}
+
+# Creating a Site for This Course
+
+For this class, you will need to set up a subdomain in which you'll install WordPress. You should give the subdomain a name related to / reflective of the story you will be writing.
+
+{{page>domain-management:setting-up-subdomains}}
+
+<WRAP center round info 60%>
+**PLEASE NOTE that when you install WordPress for this class, you should choose "ENGL 313E: Fantasy Writing (Rochelle)" as a package option during the installation process.**
+</WRAP>
+ 
+{{page>wordpress:installing-wordpress}}
