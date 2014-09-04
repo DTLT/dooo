@@ -47,17 +47,15 @@ To start, open the data.txt file following the instructions above about **Openin
 
 Next, if you haven't already, review the [[timeplot:explanation-of-the-text-file|Explanation of the Text File]]. 
 
-It should be clear how to edit/replace the sample data with your own. If you have already collected/formatted your data in a Text file on your computer, you can delete the contents of the sample file and simply copy/paste your data in its place. 
+It should be clear how to edit/replace the sample data with your own. If you have already collected/formatted your data in a Text file on your computer (and/or shared it in Google Drive for your class), you can delete the contents of the sample file and simply copy/paste your data in its place. 
 
 At the top of the file, you will see a comment block (denoted by the "#" tags) that you can replace with information about your own data. 
 
 Below that, you will see the actual numerical data. Replace it with your own data. Make sure to use commas between dates and data and only put one date per line. 
 
-One thing to keep in mind is that the sample data contains 3 data sets (approval, disapproval, and unsure ratings). For our purposes, you will only be putting in a single data set, so you will only need one "column" of data . The Timeplot code is, by default, set to process the first "column" so make sure you enter your data in the appropriate location. 
-
 {{https://farm4.staticflickr.com/3890/14732932159_2e789d6513_o.png}}
 
-If you plan on plotting more than one data set, go ahead and include it now. You will need to [[timeplot:advanced-tutorial|proceed to the Advanced Tutorial]] for information about how to plot those additional sets. 
+The sample data for Timeplot includes two sets of data. The plot will display two lines, one for each of these sets. You should plan on replacing the data with your own two sets of data in the text file. Later, if you wish, you can add additional data sets, being sure to use commas to separate the values for each date/row. You will need to [[timeplot:advanced-tutorial|proceed to the Advanced Tutorial]] for information about how to plot those additional sets. 
 
 When you are done exit out of the File Manager. Browse to the location of your TimePlot and you should now see your data plotted on the timeline. 
 
