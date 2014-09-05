@@ -10,7 +10,7 @@ An XML file is really just a special "flavor" of a text file, so you will need t
 
 Remember when you save your file to use the .xml extension!
 
-=====To Edit the Sample Text Files=====
+=====To Edit the Sample XML File=====
 
 First log into your Domain of One's Own account at [[http://www.umwdomains.com|umwdomains.com]].
 
