@@ -1,9 +1,11 @@
 ====== Advanced Tutorial =====
 
-Once you've created a basic Timeplot, with a single line of data plotted, you may decide that you want to place additional data on your graph. This tutorial will cover adding two different kinds of data: 
+Once you've created a basic Timeplot, with a single line of data plotted, you may decide that you want to place additional data on your graph. This tutorial will cover
 
-  * additional numerical data, which will result in a new "line" on your graph and 
-  * event information, which will result in a line or band for each event you wish to plot. 
+  * adding additional data (and lines) to your Timeplot,
+  * adding points to lines,
+  * adding fill colors to lines, and
+  * adding colors to events.
 
 This tutorial will walk you through adding this additional data. 
 
@@ -12,11 +14,11 @@ This tutorial will walk you through adding this additional data.
 ====Adding the Data====
 In order to add an additional plotted data line to your Timeplot, you will need to have a source for the data. The easiest way to do this is to edit your data.txt file and add a "column" to the comma-delimited file. 
 
-The two images below demonstrate how to add data to your existing file. The first shows a data file with one "column" of text (President Bush's approval ratings). In the second picture, two additional data sets have been added (disapproval and unsure ratings). You should see how adding an additional data set simply involves appending the numerical data to each data, separating it from the original data with a comma. 
+The two images below demonstrate how to add data to your existing file. The first shows a data file with the two "columns" of sample data for Wichita and Kansas City populations.  In the second picture, we've added an additional data set for the population of St. Louis. You should see how adding an additional data set simply involves appending the numerical data to each data, separating it from the original data with a comma. 
 
-{{https://farm4.staticflickr.com/3924/14773692529_4d5137fb3d_c.jpg}}
+{{https://farm6.staticflickr.com/5596/15144284651_fc2d40f5ee_z.jpg}}
 
-{{https://farm6.staticflickr.com/5571/14937430456_4f1a99d254_c.jpg}}
+{{https://farm4.staticflickr.com/3845/15146876782_9855dceeff_z.jpg}}
 
 ====Adding the Line====
 
@@ -47,48 +49,6 @@ Now, you must edit the block of code you just added. The image below shows were 
 4. You may change whether values appear when you rollover the line. 
 
 You may add additional data/lines as you need by repeating these steps.
-=====Adding Events to the Timeplot=====
-
-====Adding the Event Data====
-The first step in adding events to your Timeplot is ensuring that you have your event data ready. As discussed in the [[timeplot:explanation-of-the-xml-file|tutorial on the XML File]], we recommend simply editing the sample file that is created when you install Timeplot using Installatron. Be sure to review that tutorial to be sure that your event data is ready. 
-
-====Adding the Event Display====
-To actually add the events to your Timeplot, so that they are displayed on the graph, you will need to add a few blocks of codes in different places.
-
-First, at the top of the program you have to set a new variable that will hold your event data. Place this directly below the line that declares the variable for holding your numerical data. 
-
-var eventSource2 = new Timeplot.DefaultEventSource();
-
-The image below shows the placement of the new line of code: 
-{{https://farm6.staticflickr.com/5591/14792703798_84751a9d6d_z.jpg}}
-
-The next step is to create a new instance of the graph code, this time specifically for the events. You can place this block of code below any blocks that you're previously created for displaying your line data. If you have two lines on your graph, for example, you will have two blocks where you are setting the properties for those lines. The event block of code should go below these. You can copy and paste the code shown below, and you can place it as shown in the image below
-
-Code Block: 
-<code javascript>
-Timeplot.createPlotInfo({
-      id: "events",
-      gridColor: "#000000",
-      axisLabelsPlacement: "top",
-      eventSource: eventSource2,
-      lineColor: "#0000000"
-      
-      })
-</code>
-
-Image showing placement: 
-{{https://farm4.staticflickr.com/3879/14792841909_58a44cb39d_z.jpg}}
-
-Finally, you also need to tell the program where to find the XML file with your events in it. You'll need to add this line of code towards the bottom of the Javascript in your HTML file: 
-<code javascript>
-  timeplot.loadXML("events.xml", eventSource2);
-</code>
-
-Note that we're pointing to the default XML file that was created when you installed Timeplot (events.xml). If you've uploaded another file or renamed the original, you'll need to change that file name here. In addition, make sure the name of the variable name (eventSource2) matches what you added above. 
-
-We recommend placing this line of code directly below the line of code that shows where your numerical data is located. The image below illustrates the placement. 
-
-{{https://farm6.staticflickr.com/5596/14976511901_73426cea25_b.jpg}
 
 ===== Adding Points on the Timeplot=====
 
@@ -102,23 +62,20 @@ Note that you must declare a color for the dots, and it must be in a hexadecimal
 
 We recommend placing the code directly above the line of code that indicates you want to show data values: 
 
-{{https://farm4.staticflickr.com/3883/14978901072_b37d46f78b_b.jpg}}
+{{https://farm4.staticflickr.com/3904/14960415499_2cfd2e69cc_c.jpg}}
 
-The picture above illustrates the placement of this code, in this case for both sets of data that we've plotted.
+The picture above illustrates the placement of this code, in this case for three sets of data that we've plotted.
 
-=====Adding Line & Fill Colors to Line Plots=====
-Timeplot allows you to change the color of the lines on your graph as well as fill in a color below each line. 
-
-You will need to add a new property for each set of plot information. The lines you need to add are: 
+=====Adding Fill Colors to Line Plots=====
+Timeplot allows you to add color to fill in the space below each line. You will need to add a new property for each set of plot information. The line you need to add are: 
 
 <code javascript>
-lineColor: "#FF0000",
 fillColor: "#FF0000",
 </code>
 
-You can choose whatever hexadecimal color code you like for these properties. We recommend placing the code directly above the line of code that indicates you want to show data values (you may also have a line for showing dots on your lines): 
+You can choose whatever hexadecimal color code you like for these properties. We recommend placing the code directly below the line of code that indicates the line color: 
 
-{{https://farm6.staticflickr.com/5573/15021148966_9572e72cf1_o.png}} 
+{{https://farm4.staticflickr.com/3912/14960516749_1f5f329973_c.jpg}} 
 
 =====Changing the Color of Events=====
 You may also change the color of the lines/bands created by your event data. Making this change requires editing your event XML file (instead of the HTML file). If you used the default XML file that was installed, the file name will be "events.xml" You may refer to the [[timeplot:explanation-of-the-xml-file|explanation of the XML File]] for a reminder about how to access and edit that file. 
@@ -137,8 +94,14 @@ A sample event code AFTER you add the color would look like this:
 <event start="Jan 20 2009 08:00:00 GMT-0600" title="Conclusion of second term" color= "#FF0000" link=""/>
 </code>
 
+The image below depicts what the sample code would look like after we add colors to the events: 
+
+{{https://farm4.staticflickr.com/3920/15144197931_a577dd7ffc_c.jpg}}
+
 Note that the color is, once again, defined as a hexadecimal code. In addition, the value must be placed in quotes. 
 
 Make sure you save your XML file when you're done editing it. 
+
+**NOTE: You may find after editing your XML file that you must browse to and refresh that file in order for the changes to become evident in your Timeplot (Alternatively, you can empty your browse cache).**
 
 {{indexmenu_n>8}}
