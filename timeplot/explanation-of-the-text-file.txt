@@ -8,9 +8,29 @@ In order to successfully create a Timeplot you must use a specific format for th
 
 You will need to use a text editing program on your computer to create your text file. On Windows computers we recommend Notepad (free with the Windows operating system). On Macintosh computers we recommend Text Wrangler ([[http://www.barebones.com/products/textwrangler/|Download for free here.]])
 
-=====To Edit the Sample Text Files=====
+=====To Edit the Sample Text File=====
 
-OPEN FILE EDITOR
+First log into your Domain of One's Own account at [[http://www.umwdomains.com|umwdomains.com]].
+
+{{:timeplot:umwdomains_homepage.png?300|}} {{:timeplot:umwdomains_login_page.png?275|}}
+
+In the Dashboard, scroll down and click on the File Manager. Then select **Web Root** from the pop up window and click **Go**. You may want to review  [[http://docs.umwdomains.com/cpanel/accessing-your-files-through-the-file-manager|the tutorial on the File Manager here]].
+
+{{:timeplot:screen_shot_2014-07-02_at_4.37.05_pm.png?300|}}{{:timeplot:filemanager_pop_up.png?280|}}
+
+Once inside find the file folder for your Timeplot; it should look like the image below (although the name of the folder will correspond to whatever sudomain/directory you chose for your install of Timeplot). Double-click and open the folder.
+
+{{:timeplot:inside_file_manager.png?|}}
+
+Inside you should see data.txt. This is the sample Text file that we recommend you edit. 
+
+To make changes to the file, click on it and select **Code Editor** from the toolbar at the top of the page.
+
+{{  :timeplot:code_editor.png?  |}}
+
+A pop up window will appear. Leave the settings as they are and click **Edit** in the bottom left corner. 
+
+{{  :timeplot:pop-up_window.png?500  |}}
 
 =====Format of the Text File=====
 
