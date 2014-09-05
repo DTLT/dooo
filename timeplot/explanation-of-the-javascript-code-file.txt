@@ -80,12 +80,12 @@ The majority of your work will be editing and modifying the block of code that f
                showValues: true
            }), 
            
-		   Timeplot.createPlotInfo({
-			   id: "Events",
-			   eventSource: eventSource2,
-			   timeGeometry: timeGeometry, 
-			   lineColor: "#000000"
-			   })
+	    Timeplot.createPlotInfo({
+	        id: "Events",
+		eventSource: eventSource2,
+		timeGeometry: timeGeometry, 
+		lineColor: "#000000"
+	   })
        ];
  
   // This statement creates your Timeplot (using the plotInfo variable you created above) 
