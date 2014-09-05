@@ -12,17 +12,15 @@ The **HTML file** links to an external Javascript and contains additional Javasc
 
 The **Text file** is the file that holds your raw data. This data will be read by the Javascript code to create the data points on your Timeplot. When plotted correctly, the x-axis of the Timeplot will display dates, and the y-axis will display the data values. Below is an example snippet of what the Text file looks like.
 
-{{:timeplot:example_of_text_file.png|}}
+{{https://farm6.staticflickr.com/5566/15144377311_87226edc62_b.jpg}}
 
 [[timeplot:explanation-of-the-text-file|You can read more about the structure of the Text file here.]] 
 
 
 The **XML file** contains information about events that you want to plot against your numerical data. It is also read in by the Javascript code in the HTML file. Like the Text file, it is specially structured so that the Javascript can read it. Below is an example snippet of what the XML file looks like. 
 
-{{:timeplot:example_of_xml_file.png|}}
+{{https://farm6.staticflickr.com/5575/15147022302_5c06401e68_c.jpg}}
 
 [[timeplot:explanation-of-the-xml-file|You can read more about the structure of the XML file here.]] 
-
-
 
 {{indexmenu_n>1}}
