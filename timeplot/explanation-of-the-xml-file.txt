@@ -24,15 +24,9 @@ Once inside find the file folder for your Timeplot; it should look like the imag
 
 {{:timeplot:inside_file_manager.png?|}}
 
-Inside you should see three types files: 
+Inside you should see events.xml. This is the sample XML file that we recommend you edit. 
 
-  * index.html
-  * data.txt
-  * events.xml
-
-{{:timeplot:timeplot_file.png?|}}
-
-To make changes to any file, click on it and select **Code Editor** from the toolbar at the top of the page.
+To make changes to the file, click on it and select **Code Editor** from the toolbar at the top of the page.
 
 {{  :timeplot:code_editor.png?  |}}
 
