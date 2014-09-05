@@ -8,6 +8,33 @@ This is a walk-through of the contents of the HTML file that Timeplot uses. In p
 \\
 \\
 \\
+
+====== To Edit the Sample HTML File ======
+
+
+First log into your Domain of One's Own account at [[http://www.umwdomains.com|umwdomains.com]].
+
+{{:timeplot:umwdomains_homepage.png?300|}} {{:timeplot:umwdomains_login_page.png?275|}}
+
+In the Dashboard, scroll down and click on the File Manager. Then select **Web Root** from the pop up window and click **Go**. You may want to review  [[http://docs.umwdomains.com/cpanel/accessing-your-files-through-the-file-manager|the tutorial on the File Manager here]].
+
+{{:timeplot:screen_shot_2014-07-02_at_4.37.05_pm.png?300|}}{{:timeplot:filemanager_pop_up.png?280|}}
+
+Once inside find the file folder for your Timeplot; it should look like the image below (although the name of the folder will correspond to whatever sudomain/directory you chose for your install of Timeplot). Double-click and open the folder.
+
+{{:timeplot:inside_file_manager.png?|}}
+
+Inside you should see index.html This is the sample HTML file that we recommend you edit. 
+
+To make changes to the file, click on it and select **Code Editor** from the toolbar at the top of the page.
+
+{{  :timeplot:code_editor.png?  |}}
+
+A pop up window will appear. Leave the settings as they are and click **Edit** in the bottom left corner. 
+
+{{  :timeplot:pop-up_window.png?500  |}}
+
+
 ===== Start of File and External Javascript =====
 
 At the top of the file, you will see code to begin the HTML page and call an external Javascript file. This code is required for your Timeplot to work. You shouldn't edit or change the code or the URL. 
