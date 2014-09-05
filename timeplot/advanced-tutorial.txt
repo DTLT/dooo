@@ -20,7 +20,9 @@ The two images below demonstrate how to add data to your existing file. The firs
 
 ====Adding the Line====
 
-To create additional lines on the graph you will need to add a few lines of code to your HTML file. 
+Once you've added the data to your Text file, you will need to modify the code in your HTML file to show the new line of data. This will require you to add some code to the HTML file. 
+
+Remember that the basic install of Timeplot using Installatron provides you with two lines of data to work with. The code you're going to duplicate is one of the blocks of code for one line. 
 
 First, locate the block of code that starts with the line
 
@@ -28,26 +30,21 @@ First, locate the block of code that starts with the line
 var plotInfo = [
 </code>
 
-You  will need to copy the block of text directly below this line: 
+Below this, you will see three blocks, each with a different "id": City1, City2, and Events. 
 
-{{https://farm4.staticflickr.com/3883/14960169422_6d332f12a9_c.jpg}}
+Copy the block of code for City1 and paste it below the block of code for City2: 
 
-Note that in the image above, the red box clearly identify where you should start/end the block you need to copy and paste. 
+{{https://farm6.staticflickr.com/5569/14960464288_863d5746dc_c.jpg}}
 
-Next, you must paste the block you copied directly below the first one. (In order to fit both blocks in the image below, we've removed the inline comments): 
 
-{{https://farm4.staticflickr.com/3871/14774081027_9b304bd711_b.jpg}}
+Now, you must edit the block of code you just added. The image below shows were you should (or can) make edits to the code you just pasted: 
 
-Now, you must edit the second block of data. The image below shows were you should (or can) make edits to the code you just pasted: 
-
-{{https://farm4.staticflickr.com/3893/14961960945_5ba3d8d5ea_c.jpg}}
+{{https://farm6.staticflickr.com/5555/15146655362_c4d95cc591_b.jpg}}
 
 1. You MUST provide a new id for new the new line you are plotting. 
-2. You MUST indicate what "column" contains your data in your Text file. (See above) In this case, we'll be pulling in the second column for the second line of data. 
-3. You can change the grid color for the y-axis (valueGeometry).
-4. You can change the grid placement for the y-axis (valueGeometry).
-5. You can change the grid color for the y-axis (timeGeometry).
-6. You can change the grid placement for the y-axis (timeGeometry).
+2. You MUST indicate what "column" contains your data in your Text file. (See above about editing your Text file.) In this case, we'll be pulling in the third column for a third line of data. 
+3. You can change the line color for the new data line. 
+4. You may change whether values appear when you rollover the line. 
 
 You may add additional data/lines as you need by repeating these steps.
 =====Adding Events to the Timeplot=====
