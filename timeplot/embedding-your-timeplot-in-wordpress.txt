@@ -1,0 +1,36 @@
+====== Embedding Your Timeplot in WordPress ======
+
+Once you've completed you Timeplot, you may wish to embed it into your analysis in a WordPress post. This approach allows you to have the Timeplot functional within the text of your analysis, where you can further explain the data visualization. 
+
+The first step is to login to your WordPress site by going to the address of your blog and adding "/admin" the end. This will display a WordPress login screen, into which you can input your credentials. If you've forgotten your password, simply click "Lost your Password?" and WordPress will email you a password reset message. 
+
+{{https://farm4.staticflickr.com/3836/15023568930_8b9c1a334e_z.jpg}}
+
+Next, you will want to activate the iFrame plugin that was included with the package of themes/plugins you installed with WordPress. Go to **Plugins** and locate the plugin titled **iframe**. Click the **Activate** link below the plugin title. 
+
+{{https://farm4.staticflickr.com/3861/15207282591_a8861898e1_c.jpg}}
+
+Now, go ahead and create the post with the text of your analysis by going to **Post** --> **Add New**. If you've already written the post, go ahead and edit it by going to **Post** --> **All Posts** and locating the post you wish to edit. [[wordpress:publishing-content|You can learn more about creating/editing content on WordPress generally here]]. 
+
+Once you have the post editor open, locate the part of your text where you wish to insert the Timeplot. On a new line, type the following code: 
+
+[iframe src="http://ADDRESSOFYOURTIMEPLOT" width="800px" height="400px"]
+
+The image below shows how this code would look in a WordPress post: 
+
+{{https://farm6.staticflickr.com/5572/15023672708_3a45061a10_c.jpg}}
+
+When you're done, save your post, and view it. 
+
+{{https://farm4.staticflickr.com/3838/15187221776_1a04e9cbb7_z.jpg}}
+
+Keep in mind that how your post and Timeplot looks will depend to some extent on the theme you have active on your WordPress site. You may need to adjust the width and height of the Timeplot in the "[iframe]" code in order to get it to fit properly on your page. 
+
+
+
+
+
+
+
+
+{{indexmenu_n>9}}
