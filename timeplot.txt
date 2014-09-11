@@ -8,5 +8,6 @@
   * [[Timeplot:Creating a Text File Using Wikipedia & Google Drive]]
   * [[Timeplot:Basic Tutorial]]
   * [[Timeplot:Advanced Tutorial]]
+  * [[Timeplot:Embedding Your Timeplot in WordPress]]
 
 {{indexmenu_n>11}}
