@@ -1,0 +1,22 @@
+{{indexmenu_n>4}}
+
+====== Map Your Domain to UMW Blogs ======
+
+
+<html>
+<p>Mapping your domain is an important part of Domain of One's Own; it reinforces the idea that you don't necessary need to host all your own applications. You should, however, be mindful of making your web presences part of a domain you control. If you would like to map a subdomain and have not yet created it, use&nbsp;<a href="http://umwdomains.com/support/knowledgebase/10/Setting-up-subdomains.html" target="_blank">this tutorial on creating subdomains</a>&nbsp;before proceeding.&nbsp;To map your domain, or a subdomain, to UMW Blogs, use these steps:<br /><br /></p>
+<ol>
+<li>To get started you'll need to login to your control panel by going to the UMW Domains homepage and clicking <strong>Login</strong>.<br /><br /><a href="https://www.flickr.com/photos/umwdtlt/14269419746" title="umwdomains homepage by umwdtlt, on Flickr"><img src="https://farm3.staticflickr.com/2922/14269419746_8706f3e121_z.jpg" width="640" height="447" alt="umwdomains homepage"></a><br /><br /></li>
+<li>Here you'll login with the username and password that was provided to you with the Welcome email during the signup process.<br /><br /><a href="https://www.flickr.com/photos/umwdtlt/14292016984" title="umwdomains.com log in by umwdtlt, on Flickr"><img src="https://farm3.staticflickr.com/2905/14292016984_49a6a27b24_z.jpg" width="640" height="490" alt="umwdomains.com log in"></a>
+<br /><br /></li>
+<li>Once logged in you'll be at the homepage of your control panel. The easiest way to navigate the panel is using the search feature in the top right panel. Click the <strong>Search box</strong> and type "DNS" (without the quotes). As you type, the cPanel page will begin to narrow down results. Find and click on&nbsp;<strong>Advanced DNS Zone Editor</strong> to continue.</li>
+<li>Find the domain, or subdomain, you want to map to UMW Blogs in the list of Zone File Records. Under the "Action" column, click&nbsp;<strong>Edit</strong>.</li>
+<li>Leave the Name, Type, and TTL fields set to their defaults. Update the <strong>Address</strong> field to match the UMW Blogs IP address:&nbsp;<strong>54.84.216.123</strong> and click&nbsp;<strong>Edit record</strong> when you are done.</li>
+
+<li>After that, click OK and you are all done with the DNS settings. Now go to the UMW Blogs blog you want to map a domain upon, and find the Tools-->Domain Mapping sub-tab and enter the domain address in the appropriate field. Click Add, and your new domain should be mapped.</li>
+<img src="http://farm4.staticflickr.com/3811/13083351053_a497e317b2_z.jpg" />
+
+<li>If for any reason this didn't work, go back into the back end by clicking the back button and go to Tools-->Domain Mapping and delete the mapped domain and contact Jim Groom at jgroom_at_umw.edu</li>
+</ol>
+</html>
+
