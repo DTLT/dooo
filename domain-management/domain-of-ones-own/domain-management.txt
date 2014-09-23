@@ -5,7 +5,7 @@
   * [[domain-management:What is DNS?]]
   * [[domain-management:setting-up-subdomains|Setting Up Subdomains]]
   * [[domain-management:What is Domain Mapping?]]
-  * [[domain-management:map-your-domain-to-umw-blogs]]
+  * [[map-your-domain-to-umw-blogs]]
   * [[map-your-domain-to-tumblr]]
   * [[map-your-domain-to-blogger]]
   * [[domain-management:pointing-an-existing-domain-to-dooo]]
