@@ -9,7 +9,7 @@
   * [[map-your-domain-to-tumblr]]
   * [[map-your-domain-to-blogger]]
   * [[domain-management:pointing-an-existing-domain-to-dooo]]
-  * [[subdomains-vs-subfolders]]
+  * [[domain-management:subdomains-vs-subfolders]]
 
 
 
