@@ -1,2 +1,2 @@
 ====== Canvas Documentation ======
-[[canvas:help-tutorials|Help Tutorials]]
+{{namespace>canvas}}
