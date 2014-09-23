@@ -7,7 +7,7 @@
   * [[domain-management:What is Domain Mapping?]]
   * [[domain-management:map-your-domain-to-umw-blogs]]
   * [[domain-management:map-your-domain-to-tumblr]]
-  * [[domain-management:map-your-domain-to-blogger]]
+  * [[map-your-domain-to-blogger]]
   * [[domain-management:pointing-an-existing-domain-to-dooo]]
   * [[domain-management:subdomains-vs-subfolders]]
 
