@@ -41,4 +41,4 @@ There is one particular issue you need to be aware of. Let's say you've installe
   * If you really just need one site, sometimes installing at the root of your domain is the easiest thing to do, at least as you're getting started. You can always add more pieces to your territory later with either subdomains or subfolders.
 
 ==Tutorials==
-  * [[domain-management:setting-up-subdomains|Setting Up Subdomains]]
+  * [[.:domain-of-ones-own:setting-up-subdomains|Setting Up Subdomains]]
