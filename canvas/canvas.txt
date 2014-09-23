@@ -1,4 +1,2 @@
-
 ====== Canvas Documentation ======
-
-Lisa was here 
+[[canvas:help-tutorials|Help Tutorials]]
