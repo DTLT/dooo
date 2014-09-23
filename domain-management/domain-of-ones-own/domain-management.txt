@@ -3,7 +3,7 @@
 ====== Domain Management ======
 
   * [[domain-management:What is DNS?]]
-  * [[domain-management:setting-up-subdomains|Setting Up Subdomains]]
+  * [[setting-up-subdomains|Setting Up Subdomains]]
   * [[domain-management:What is Domain Mapping?]]
   * [[map-your-domain-to-umw-blogs]]
   * [[map-your-domain-to-tumblr]]
