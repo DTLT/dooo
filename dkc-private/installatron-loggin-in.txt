@@ -1,1 +1,14 @@
-====== Logging into Applications through Installitron ======
+====== Logging into Applications through Installatron ======
+
+Once logged into the appropriate Domain of One's Own account you can now access and log into the various application associated with that user.
+
+1. Scroll down to "**Web Applications**"
+2. Click on the desired Web Application
+3. Click on the second link after the direct URL to access the Admin Login screen
+4. You will need the user's **Username** and **Password** to access the application
+
+If you do not have the Username and Password for the application you can create new one's temporarily to access the application.
+
+5. From step "2" above, scroll down to where you see "**Administrator Username**" and "**Administrator Password**"
+6. Create a New Username and Password.
+7. Scroll down and press "**Save All**"
