@@ -1,0 +1,13 @@
+====== Switching Users ======
+
+Switching users from //admin// to the //student's account// is the best way to see the student's problem first hand. Here's how you switch users once you are logged into umw.domains as the admin. 
+
+  - On the WordPress Dashboard, (where you see cPanel and the Wordpress admin bar) hover over **Admin** in the menu to see the drop down menu item **Users**. Click on **Users**. 
+  -  This will take you to the all of the Domain of One's Own users.
+  - In the search bar on the right hand side of the screen, type in the **student's UMW net ID** (this is the student's username) and click on **Search Users**. 
+  - The student's account should now up as the search result. 
+  - Next, hover over the student's information in order to see Edit, Delete, and Switch To. Click on **Switch To**. 
+  - After you click on switch to, the page will reload into the **student's UMW Domains cPanel Dashboard**. 
+  - From then on, //you are in the student's UMW Domains account// and will see what the student sees when they are in their UMW Domains account. 
+  - To **switch back** to the //admin// account, simply hover over the student's account name in the upper right hand corner of the screen until you see their name, Edit My Profile, Log Out and Switch back to Division of Teaching and Learning Technology (dtlt). Click on **Switch back to Division of Teaching and Learning Technology (dtlt)**
+  - This will take you back to the //admin// Wordpress Dashboard with the admin cPanel. 
