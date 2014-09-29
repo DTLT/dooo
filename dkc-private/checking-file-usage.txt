@@ -2,6 +2,5 @@
 
 Once you have logged into Domain of One's Own you now have access to check the disk usage of that user's account.
 
-  - Ordered List Item
   - Scroll down to '**File**'
   - Click on '**Disk Space Usage**'
