@@ -3,5 +3,12 @@
 The tutorials on this page are restricted to the staff of DTLT and the DKC. 
 
 [[dkc-private:logging-into-dooo|Logging into umw.domains]]
+[[dkc-private:switching-users|Switching Users]]
+[[dkc-private:checking-file-usage|Checking File Usage]]
+[[dkc-private:installatron-loggin-in|Logging into applications through Installatron]]
+[[dkc-private:installatron-passwords|Changing application passwords in Installatron]]
+[[dkc-private:installatron-backups|Checking backups in Installatron]]
+[[dkc-private:installatron-email-settings|Checking email settings in Installatron]]
+[[dkc-private:resending-verification|Resending verification emails]]
 
 {{indexmenu_n>15}}
