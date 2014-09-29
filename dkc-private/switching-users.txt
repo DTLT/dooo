@@ -1,11 +1,11 @@
 ====== Switching Users ======
 
-  - On the WordPress Dashboard, (where you see cPanel and the Wordpress admin bar) hover over **Admin** in the menu to see the drop down menu item **Users**. Click on **Users**. {{https://farm4.staticflickr.com/3908/15372289086_88288757c4_z.jpg}}
+  - On the WordPress Dashboard, (where you see cPanel and the Wordpress admin bar) hover over **Admin** in the menu to see the drop down menu item **Users**. Click on **Users**.        {{https://farm4.staticflickr.com/3908/15372289086_88288757c4_z.jpg}}
   - This will take you to the all of the Domain of One's Own users.
   - In the search bar on the right hand side of the screen, type in the **student's UMW net ID** (this is the student's username) and click on **Search Users**. {{https://farm4.staticflickr.com/3856/15395352255_084b5f8670_c.jpg}}
   - The student's account should now up as the search result. 
   - Next, hover over the student's information in order to see Edit, Delete, and Switch To. Click on **Switch To**. {{https://farm3.staticflickr.com/2944/15372336156_d03edbc3ed.jpg}}
   - After you click on switch to, the page will reload into the **student's UMW Domains cPanel Dashboard**. 
   - From then on, //you are in the student's UMW Domains account// and will see what the student sees when they are in their UMW Domains account. 
-  - To **switch back** to the //admin// account, simply hover over the student's account name in the upper right hand corner of the screen until you see their name, Edit My Profile, Log Out and Switch back to Division of Teaching and Learning Technology (dtlt). Click on **Switch back to Division of Teaching and Learning Technology (dtlt)**
+  - To **switch back** to the //admin// account, simply hover over the student's account name in the upper right hand corner of the screen until you see their name, Edit My Profile, Log Out and Switch back to Division of Teaching and Learning Technology (dtlt). Click on **Switch back to Division of Teaching and Learning Technology (dtlt)** {{https://farm4.staticflickr.com/3901/15208795748_221e72fa7c_z.jpg}}
   - This will take you back to the //admin// cPanel along with the WordPress Admin bar. 
