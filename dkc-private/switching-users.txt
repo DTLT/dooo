@@ -1,6 +1,6 @@
 ====== Switching Users ======
 
-  - Ordered List ItemOrdered List ItemOn the WordPress Dashboard, (where you see cPanel and the Wordpress admin bar) hover over **Admin** in the menu to see the drop down menu item **Users**. Click on **Users**. 
+  - On the WordPress Dashboard, (where you see cPanel and the Wordpress admin bar) hover over **Admin** in the menu to see the drop down menu item **Users**. Click on **Users**. 
   - This will take you to the all of the Domain of One's Own users.
   - In the search bar on the right hand side of the screen, type in the **student's UMW net ID** (this is the student's username) and click on **Search Users**. 
   - The student's account should now up as the search result. 
