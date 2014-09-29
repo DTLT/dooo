@@ -5,6 +5,6 @@ Once you have logged into Domain of One's Own you now have access to check the d
 1. Scroll down to '**File**'
 {{https://farm4.staticflickr.com/3896/15207456798_393d8a81d3_b.jpg}}
 2. Click on '**Disk Space Usage**'  
-{{https://farm4.staticflickr.com/3866/15390873831_fd23bca212_b.jpg}}
+{{https://farm4.staticflickr.com/3893/15207493828_b927561aeb_b.jpg}}
 
 Disk Usage Viewer provides an overview of the disk space that your account is using. It shows disk usage totals for your account’s directories and all of its databases rather than for individual files or databases. Use the File Manager to see disk usage data for individual files, and the MySQL main page to see data for individual databases.
