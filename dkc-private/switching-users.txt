@@ -10,4 +10,4 @@ Switching users from //admin// to the //student's account// is the best way to s
   - After you click on switch to, the page will reload into the **student's UMW Domains cPanel Dashboard**. 
   - From then on, //you are in the student's UMW Domains account// and will see what the student sees when they are in their UMW Domains account. 
   - To **switch back** to the //admin// account, simply hover over the student's account name in the upper right hand corner of the screen until you see their name, Edit My Profile, Log Out and Switch back to Division of Teaching and Learning Technology (dtlt). Click on **Switch back to Division of Teaching and Learning Technology (dtlt)**
-  - This will take you back to the //admin// Wordpress Dashboard with the admin cPanel. 
+  - This will take you back to the //admin// cPanel along with the WordPress Admin bar. 
