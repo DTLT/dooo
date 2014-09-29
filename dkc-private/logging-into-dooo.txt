@@ -1,3 +1,9 @@
 ====== Logging into umw.domains ======
 
-[[dkc-private:logging-into-dooo|Logging into umw.domains]]
+  - **Login** to **LastPass**, which is the Google Chrome extension in the upper right hand corner of the browser, next to three bars Chrome menu. To login, the username is info@dkc.umwdtlt.org and the password is ___.
+  - Once logged into **LastPass**, the asterisk square will turn from grey to red. 
+  - Next **login** to **umw.domains** as an //admin// by going to **umw.domains/login**. 
+  - Once there, you will see a the standard WordPress login page. 
+  - To login to the WordPress for umw.domains, click on the small asterisk on the right hand sign of the username bar. You will a drop down menu from different usernames to choose from. Pick **dtlt**.
+  - The password will be generated automatically through LastPass, and then you can click **Log In**. 
+
