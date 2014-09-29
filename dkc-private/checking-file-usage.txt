@@ -1,3 +1,7 @@
 ====== Checking File Usage ======
 
-{{https://farm3.staticflickr.com/2950/15390154681_3e53cfde2a_o.png}}
+Once you have logged into Domain of One's Own you now have access to check the disk usage of that user's account.
+
+  - Ordered List Item
+  - Scroll down to '**File**'
+  - Click on '**Disk Space Usage**'
