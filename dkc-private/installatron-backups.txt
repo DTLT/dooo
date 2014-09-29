@@ -1,0 +1,11 @@
+====== Checking Backups in Installatron ======
+
+Once logged into the appropriate user account for Domain of One's Own you can now check backups for all applications using installatron.
+
+1. Scroll down to "**Web Applications**"
+{{https://farm4.staticflickr.com/3900/15394291165_1656a545a2_b.jpg}}
+2. Click on the desired application
+3. Click on "**My Backups**" 
+{{https://farm4.staticflickr.com/3888/15207768630_df31f73a19_b.jpg}}
+4. You can now see all the backups for that user's account
+{{https://farm4.staticflickr.com/3920/15394118622_525820a5f1_b.jpg}}
