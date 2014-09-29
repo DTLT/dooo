@@ -46,4 +46,4 @@ In the albums tab you can edit information about the album and then it will also
 Continue to edit add photos until you have a full album!
 You might also decided to make new albums or to create sub-albums for better sorting of your photos. 
 
-{{indexmenu_n>10}}
+{{indexmenu_n>13}}
