@@ -3,7 +3,7 @@
   - To login, the //username// is **info@dkc.umwdtlt.org** and the //password// is **kh15sSO4uRQJ**. (The username and password will most likely already be there. If so, click login.) 
   - Once logged into LastPass, the asterisk square will turn from grey to red. {https://www.flickr.com/photos/umwdtlt/15206818797/in/photostream/}
   - Next, **login** to **umw.domains** as an //admin// by going to **umw.domains/login**. {https://www.flickr.com/photos/umwdtlt/15390154681/in/photostream/}
-  - Once there, you will see a the standard WordPress login page. 
+  - Once there, you will see the standard WordPress login page. 
   - To login to **WordPress** for umw.domains, click on the small asterisk on the right hand sign of the username bar. {https://www.flickr.com/photos/umwdtlt/15206746638/in/photostream/}
   - You will a drop down menu from different usernames to choose from. Pick **dtlt**. {https://www.flickr.com/photos/umwdtlt/15393001332/in/photostream/}
   - The password will be generated automatically through LastPass, and then you can click **Log In**. 
