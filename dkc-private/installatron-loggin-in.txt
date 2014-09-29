@@ -12,3 +12,4 @@ If you do not have the Username and Password for the application you can create 
 5. From step "2" above, scroll down to where you see "**Administrator Username**" and "**Administrator Password**"
 6. Create a New Username and Password.
 7. Scroll down and press "**Save All**"
+8. Repeat steps 1-4 using the new Username and Password
