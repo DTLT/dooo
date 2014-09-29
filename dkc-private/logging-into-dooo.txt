@@ -4,7 +4,7 @@
   - Once logged into LastPass, the asterisk square will turn from grey to red. {{https://farm4.staticflickr.com/3859/15206818797_e9e498154d_c.jpg}}
   - Next, **login** to **umw.domains** as an //admin// by going to **umw.domains/login**. {{https://farm3.staticflickr.com/2950/15390154681_04a5ece9bb.jpg}}
   - Once there, you will see the standard WordPress login page. 
-  - To login to **WordPress** for umw.domains, click on the small asterisk on the right hand side of the username bar. {{https://farm3.staticflickr.com/2946/15206746638_e44579f432.jpg}}
+  - To login to **WordPress** for umw.domains, click the small asterisk on the right side of the username bar. {{https://farm3.staticflickr.com/2946/15206746638_e44579f432.jpg}}
   - You will see a drop down menu from different usernames to choose from. Pick **dtlt**. {{https://farm4.staticflickr.com/3873/15393001332_1fcab5ff49.jpg}}
   - The password will be generated automatically through LastPass, and then you can click **Log In**. 
   - Now you are logged in! You should see cPanel along with the WordPress Admin bar at the very top of the screen. {{https://farm3.staticflickr.com/2945/15206578099_87eacd878f_c.jpg}}
