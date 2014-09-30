@@ -6,4 +6,4 @@ If the student doesn't know their username, but can tell you what class blog the
   - Click on **Dashboard**. {{https://farm4.staticflickr.com/3917/15216246007_f614a781f0_o.png}}
   - Hover over the **sites** menu.{{https://farm3.staticflickr.com/2949/15379900136_b1ab123079_o.png}}
   - Click on **All Sites** {{https://farm4.staticflickr.com/3874/15216408847_b1ab123079_o.png}}
-  - **Search** for their respective site name. {{https://farm4.staticflickr.com/3909/15216265150_8098e900d0_c.jpg}}
+  - **Search** for their respective site name and find their username under the **Users** column. {{https://farm4.staticflickr.com/3909/15216265150_8098e900d0_c.jpg}}
