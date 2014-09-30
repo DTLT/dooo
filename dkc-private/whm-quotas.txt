@@ -1,9 +1,10 @@
 ======Increasing Quotas======
-  - **Login** to **UMW Domains** using **LastPass**.{{https://farm3.staticflickr.com/2947/15379387506_159b5af3bb_o.png}}{{https://farm4.staticflickr.com/3907/15215755500_334c533930_o.png}}
-  - In the search bar on the left side of the screen, search **users**.{{https://farm3.staticflickr.com/2941/15215819568_4aa90bcd23_o.png}}
+If a student has reached their quota for disk space, you can investigate what is affecting their usage as well as give them more disk space.
+  - **Login** to **UMW Domains** using **LastPass**. Select the username "**root**."{{https://farm3.staticflickr.com/2947/15379387506_159b5af3bb_o.png}}{{https://farm4.staticflickr.com/3907/15215755500_334c533930_o.png}}
+  - In the search bar on the left side of the screen search **users**.{{https://farm3.staticflickr.com/2941/15215819568_4aa90bcd23_o.png}}
   - Click on **List Accounts**. {{https://farm4.staticflickr.com/3925/15215662259_e7a71b6fdc_o.png}}
-  - Search for the user by using their username in the search bar in the middle of the screen.{{https://farm4.staticflickr.com/3848/15402415195_aed8dcc7e3_o.png}}{{https://farm3.staticflickr.com/2949/15402415175_6e7f91ecd1_c.jpg}}
-  - After you have found that user, do some background research to find out why they are over their quota. 
+  - Search for the user by inputting their username in the search bar in the middle of the screen.{{https://farm4.staticflickr.com/3848/15402415195_aed8dcc7e3_o.png}}{{https://farm3.staticflickr.com/2949/15402415175_6e7f91ecd1_c.jpg}}
+  - After you have found the user, do some background research to find out why they are over their quota. 
     - To do this click on **cPanel**. {{https://farm4.staticflickr.com/3875/15399232621_3e560d9ff7_c.jpg}}
   - Find the username and click the **Plus** button to open a menu.{{https://farm3.staticflickr.com/2946/15379387426_bf3f145e3c_c.jpg}}
   - Click on **Change Quota**. {{https://farm4.staticflickr.com/3890/15215902777_16edecd254_c.jpg}}
