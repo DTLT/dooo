@@ -2,6 +2,6 @@
   - Login to **umwblogs.org** using LastPass. The username is the second **umwdtlt** option. {{https://farm3.staticflickr.com/2950/15399151321_101f03ca87_o.png}} 
   - Once you are logged, run your cursor over "**My Sites**," which is on the left-hand side of the WordPress Admin bar. {{https://farm4.staticflickr.com/3928/15215675050_d58f7d8738_b.jpg}}
   - Select "**Network Admin**." {{https://farm3.staticflickr.com/2941/15379306536_98651d2742_o.png}}
-  - Run your cursor over "**Themes**," which can be found in the left-hand column.         {{https://farm3.staticflickr.com/2949/15399370841_ff5e7d5aef_o.png}}
+  - Run your cursor over "**Themes**," which can be found in the left-hand column.       {{https://farm3.staticflickr.com/2949/15399370841_ff5e7d5aef_o.png}}
   - Select "**Installed Themes**" from the "**Themes**" menu options. {{https://farm4.staticflickr.com/3849/15402227312_71b7291bb1_o.png}}
   - Here you can see what themes are available for use. The ones available for use with have the option to "**Network Disable**" while the ones that are not available will have the option to "**Network Enable**." The ones that are available are preferred because they are more modern and not known to be problematic. {{https://farm3.staticflickr.com/2944/15399370761_574920a0d1.jpg}}
