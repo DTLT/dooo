@@ -1,2 +1,5 @@
 ======Finding Sites======
-  - Once you have found the user, click on the *Sites* listed under that user's name. {{https://farm3.staticflickr.com/2949/15216253998_d9ef549a73_c.jpg}}
+  - If the student doesn't know their username you can find them through the class sites.
+  - Hover over the **sites** menu.{{https://farm3.staticflickr.com/2949/15379900136_b1ab123079_o.png}}
+  - Click on **All Sites** {{https://farm4.staticflickr.com/3874/15216408847_b1ab123079_o.png}}
+  - **Search** for their respective site name. {{https://farm4.staticflickr.com/3909/15216265150_8098e900d0_c.jpg}}
