@@ -5,7 +5,7 @@ Once logged into Domain of One's Own follow the instructions for "**Switching Us
 1. Once switched the user who needs the verification email, a colorized pop-up will appear at the top of the screen.
 {{https://farm4.staticflickr.com/3840/15208043908_f03f517e03_b.jpg}}
 
-2. Click on "**Resend Verification Email**"
+2. Click on "**Resend Verification Email**."
 
 3. A new email has been sent to the user. Be sure to notify that the email maybe sent to the user's "**junk folder**" in their school email account. 
  
