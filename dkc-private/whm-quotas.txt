@@ -6,6 +6,7 @@ If a student has reached their quota for disk space, you can investigate what is
   - Search for the user by inputting their username in the search bar in the middle of the screen.{{https://farm4.staticflickr.com/3848/15402415195_aed8dcc7e3_o.png}}{{https://farm3.staticflickr.com/2949/15402415175_6e7f91ecd1_c.jpg}}
   - After you have found the user, do some background research to find out why they are over their quota. 
     - To do this, click on **cPanel**. {{https://farm4.staticflickr.com/3875/15399232621_3e560d9ff7_c.jpg}}
+    - They may be over their quota because they are in a class such as DS106, which has them uploading a lot of content. If they are over their quota because they are uploading pictures with unnecessarily large file sizes, suggest they either resize their photos before uploading, or use an image sharing site such as Imgur or Flickr and embed the pictures into the post from the site.
   - Find the username and click the **Plus** button to open a menu.{{https://farm3.staticflickr.com/2946/15379387426_bf3f145e3c_c.jpg}}
   - Click on **Change Quota**. {{https://farm4.staticflickr.com/3890/15215902777_16edecd254_c.jpg}}
   -Add Quotas in **250 MB** increments. {{https://farm4.staticflickr.com/3873/15379387396_7b7f9f5e1a_o.png}}
