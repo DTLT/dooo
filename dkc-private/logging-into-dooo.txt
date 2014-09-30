@@ -1,7 +1,7 @@
 ====== Logging into umw.domains ======
-  - **Login** to **LastPass**, which is the Google Chrome extension in the upper right hand corner of the browser, next to the three bars Chrome menu. {{https://farm4.staticflickr.com/3867/15206746628_e9e498154d_c.jpg}}
+  - **Login** to **LastPass**, which is the Google Chrome extension in the upper right hand corner of the browser, next to the three bars signifying the Google Chrome menu. {{https://farm4.staticflickr.com/3867/15206746628_e9e498154d_c.jpg}}
   - To login, the //username// is **info@dkc.umwdtlt.org** and the //password// is **kh15sSO4uRQJ**. (The username and password will most likely already be there. If so, click login.) 
-  - Once logged into LastPass, the asterisk square will turn from grey to red. {{https://farm4.staticflickr.com/3859/15206818797_e9e498154d_c.jpg}}
+  - Once logged into LastPass, LastPass's icon (an asterisk inside a square) will turn from grey to red. {{https://farm4.staticflickr.com/3859/15206818797_e9e498154d_c.jpg}}
   - Next, **login** to **umw.domains** as an //admin// by going to **umw.domains/login**. {{https://farm3.staticflickr.com/2950/15390154681_04a5ece9bb.jpg}}
   - Once there, you will see the standard WordPress login page. 
   - To login to **WordPress** for umw.domains, click the small asterisk on the right side of the username bar. {{https://farm3.staticflickr.com/2946/15206746638_e44579f432.jpg}}
