@@ -1,19 +1,19 @@
 ====== Logging into Applications through Installatron ======
 
-Once logged into the appropriate Domain of One's Own account you can now access and log into the various application associated with that user.
+Once logged into the appropriate Domain of One's Own account you can now access and log into the various applications associated with that user.
 
-1. Scroll down to "**Web Applications**"
+1. Scroll down to "**Web Applications**."
 {{https://farm4.staticflickr.com/3900/15394291165_1656a545a2_b.jpg}}
-2. Click on the desired Web Application
-3. Click on the second link after the direct URL to access the Admin Login screen
+2. Click on the desired Web Application.
+3. Click on the second link after the direct URL to access the Admin Login screen.
 {{https://farm4.staticflickr.com/3873/15391122211_3224f47315_b.jpg}}
-4. You will need the user's **Username** and **Password** to access the application
+4. You will need the user's **Username** and **Password** to access the application.
 {{https://farm3.staticflickr.com/2942/15391122161_01e6a7cf78_o.png}}
 
-If you do not have the Username and Password for the application you can create new one's temporarily to access the application.
+If you do not have the username and password for the application, you can temporarily create new ones to access the application.
 
-5. From step "2" above, scroll down to where you see "**Administrator Username**" and "**Administrator Password**"
+5. From step "2" above, scroll down to where you see "**Administrator Username**" and "**Administrator Password**."
 {{https://farm4.staticflickr.com/3924/15207619860_9e0e9110cc_b.jpg}}
 6. Create a New Username and Password.
-7. Scroll down and press "**Save All**"
-8. Repeat steps 1-4 using the new Username and Password
+7. Scroll down and press "**Save All**."
+8. Repeat steps 1-4 using the new username and password.
