@@ -1,6 +1,6 @@
 ======Increasing Quotas======
   - **Login** to **UMW Domains** using **LastPass**. {{https://farm3.staticflickr.com/2947/15379387506_159b5af3bb_o.png}}
-  - In the search bar on the left side of the screen, search **users**. {{Photo of the search bar}}
+  - In the search bar on the left side of the screen, search **users**. {{https://farm4.staticflickr.com/3907/15215755500_334c533930_o.png}
   - Click on **List all users**. {{Photo pointing to list all users}}
   - Search for the user by using their username in the search bar in the middle of the screen. {{photo of the search bar in the middle of the screen w/username in it}}
   - After you have found that user, do some background research to find out why they are over their quota. 
