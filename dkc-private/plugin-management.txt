@@ -1,4 +1,4 @@
-====Plug-in Management====
+======Plug-in Management======
 
   - Login to **umwblogs.org** using LastPass. The username is the second **umwdtlt** option. {{https://farm3.staticflickr.com/2950/15399151321_101f03ca87_o.png}} 
   - Once you are logged, run your cursor over "**My Sites**," which is on the left-hand side of the WordPress Admin bar. 
