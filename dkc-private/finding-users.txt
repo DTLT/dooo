@@ -1,0 +1,9 @@
+======Finding Users======
+  - **Login** to UMW Blogs. {{picture of the login url and the password}}
+  - Hover over the **My Sites** menu.{{picture of my sites}}
+  - Hover over the **Network Admin**. {{picture of network admin}}
+  - Click on **Dashboard** {{picture of dashboard}}
+  - Hover over **Users**. {{Picutre of users}}
+  - Click on **All Users**. {{Picture of all users}}
+  - Search for your user by their **full email** **@umw.edu or @mail.umw.edu** or their **username**. {{picture of search results}}
+  - 
