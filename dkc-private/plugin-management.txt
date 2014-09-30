@@ -1,1 +1,4 @@
 ====Plug-in Management====
+  - 1. Log-in to **umwblogs.org** using LastPass. The username is the second **umwdtlt**.
+  - {{picture of log-in}} 
+  - 2. 
