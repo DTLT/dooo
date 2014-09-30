@@ -1,9 +1,8 @@
 ======Finding Users======
-  - **Login** to UMW Blogs. {{picture of the login url and the password}}
-  - Hover over the **My Sites** menu.{{picture of my sites}}
-  - Hover over the **Network Admin**. {{picture of network admin}}
-  - Click on **Dashboard** {{picture of dashboard}}
-  - Hover over **Users**. {{Picutre of users}}
-  - Click on **All Users**. {{Picture of all users}}
-  - Search for your user by their **full email** **@umw.edu or @mail.umw.edu** or their **username**. {{picture of search results}}
-  - 
+  - **Login** to UMW Blogs. {{https://farm4.staticflickr.com/3849/15216164628_6d0e785410_o.png}} {{https://farm3.staticflickr.com/2944/15399580271_f52393113b_o.png}}
+  - Hover over the **My Sites** menu.{{https://farm4.staticflickr.com/3905/15379734066_82a7113c8f_o.png}}
+  - Hover over the **Network Admin**. {{https://farm3.staticflickr.com/2949/15379734086_54355eb8fa_o.png}}
+  - Click on **Dashboard** {{https://farm4.staticflickr.com/3917/15216246007_f614a781f0_o.png}}
+  - Hover over **Users**. {{https://farm4.staticflickr.com/3858/15402434922_8eb6bbaa63_o.png}}
+  - Click on **All Users**. {{https://farm4.staticflickr.com/3930/15399580251_3fb2fd45f3_o.png}}
+  - Search for your user by their **full email** **@umw.edu or @mail.umw.edu** or their **username**. {{https://farm3.staticflickr.com/2950/15216164448_eb17a49a11_c.jpg}}
