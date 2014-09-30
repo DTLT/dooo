@@ -2,9 +2,9 @@
 
 Once you have logged into Domain of One's Own you now have access to check the disk usage of that user's account.
 
-1. Scroll down to '**File**'
+1. Scroll down to '**Files**.'
 {{https://farm4.staticflickr.com/3896/15207456798_393d8a81d3_b.jpg}}
-2. Click on '**Disk Space Usage**'  
+2. Click on '**Disk Space Usage**.'  
 {{https://farm4.staticflickr.com/3893/15207493828_b927561aeb_b.jpg}}
 
-Disk Usage Viewer provides an overview of the disk space that account. It shows disk usage totals for your account’s directories and all of its databases rather than for individual files or databases. Use the File Manager to see disk usage data for individual files. 
+Disk Usage Viewer provides an overview of the disk space for that account. It shows disk usage totals for your account’s directories and all of its databases rather than for individual files or databases. Use the File Manager to see disk usage data for individual files. 
