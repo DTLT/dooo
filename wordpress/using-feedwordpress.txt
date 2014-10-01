@@ -28,6 +28,7 @@ More than likely the first option highlighted will be the option you will want t
 
 ==== Feeds & Updates ====
 
+Under the Feeds & Updates page you have the option to adjust the settings either for all or just a single feed. 
 ==== Post & Links ====
 
 ==== Authors ====
