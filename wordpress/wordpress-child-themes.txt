@@ -98,6 +98,13 @@ Type into the text area under **Stylesheet (style.css)**, and then **Save** your
 
 
 ==== Child Theme Examples ====
-Below is the an example of a Child Theme in use. The Parent Theme is on the right, and the Child Theme is on the left. As you can see, the Child Theme has a 
+Below is the an example of a Child Theme in use. The Parent Theme is on the top, and the Child Theme is below. 
+
+=== Parent Theme ===
+
+{{https://farm3.staticflickr.com/2943/15227887899_f9578879a8_c.jpg}}
+=== Child Theme ===
+
+{{https://farm4.staticflickr.com/3929/15227887969_cc2a4abbd5_c.jpg}}
 
 For more information, please visit WordPress's support page for [[http://codex.wordpress.org/Child_Themes|Child Themes]]. 
