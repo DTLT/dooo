@@ -1,6 +1,6 @@
 ====== WordPress Tutorial Training ======
 
-DKC tutorials on WordPress cover both the use of UMW Blogs (which runs a particular variety WordPress known as WordPress Multisite) and individual installs of WordPress that a student might have on their Domain of One Own's Account. It's important for tutors to understand the difference between working with WordPress in UMW Blogs vs. in Domain of One's Own. 
+DKC tutorials on WordPress cover both the use of UMW Blogs (which runs a particular variety of WordPress known as WordPress Multisite) and individual installs of WordPress that a student might have on their Domain of One Own's Account. It's important for tutors to understand the difference between working with WordPress in UMW Blogs versus in Domain of One's Own. 
 
 ===== UMW Blogs WordPress =====
 
@@ -25,9 +25,9 @@ Another important nuance to running WordPress Multisite is that the super admini
 
 ===== Domain of One's Own WordPress =====
 
-On Domain of One's Own, it is possible for any user to install WordPress on their domain using the Installatron script installer. When a user runs WordPress on Domain of One's Own, he/she becomes the overall administrator for the entire site. Users can add any plugins/themes they want to their DoOO WordPress install, and they can add any users to the site they create. They are also responsible for ensuring that the site is regularly updated, including all plugins and themes.
+On Domain of One's Own, it is possible for any user to install WordPress on their domain using the Installatron script installer. When a user runs WordPress on Domain of One's Own, he/she becomes the overall administrator for the entire site. Users can add any plugins/themes they want to their Domain of One's Own WordPress install, and they can add any users to the site they create. They are also responsible for ensuring that the site is regularly updated, including all plugins and themes.
 
-Beyond the administrative differences, using WordPress on UMW Blogs and DoOO is really identical -- the core WordPress code used is the same, so the steps to add content, change settings, etc. are the same. 
+Beyond the administrative differences, using WordPress on UMW Blogs and Domain of One's Own is really identical -- the core WordPress code used is the same, so the steps to add content, change settings, etc. are the same. 
 
 ==== Further Reading ====
 
@@ -41,9 +41,9 @@ Many faculty at UMW make use of WordPress to run course Web sites. Students freq
 
 In this case, there is a single WordPress site for a course where every student has an account. Each author posts locally on that site. 
 
-Typically in this case, students have been told to add themselves to a course site by using the "Add User" widget which should appear in the site's sidebar. If a student is at the DKC for a tutorial, you can also have them add themselves using the technique. [[http://support.umwblogs.org/getting-started/adding-yourself-to-a-course-blog | Tutorial on Adding Yourself to a Course Site]]
+Typically in this case, students have been told to add themselves to a course site by using the "Add User" widget which should appear in the site's sidebar. If a student is at the DKC for a tutorial, you can also have them add themselves using this technique. [[http://support.umwblogs.org/getting-started/adding-yourself-to-a-course-blog | Tutorial on Adding Yourself to a Course Site]]
 
-If you are assisting a student from afar (they've put a Question on the DKC site or emailed the Center), you can log into the course site on UMW Blogs and add them by going to Users->Add Users. As a super administrator, you can add them without sending a confirmation email, too. 
+If you are assisting a student from afar (they've put a Question on the DKC site or emailed the Center), you can login to the course site on UMW Blogs and add them by going to Users->Add Users. As a super administrator, you can add them without sending a confirmation email, too. 
 
 If the student is supposed to be added to a faculty member's course site on Domain of One's Own, you should recommend they contact the faculty member to do this or ask a DTLT staff member for assistance. (For now, DKC tutors should refrain from logging into faculty Web sites on Domain of One's Own.)
 
@@ -59,15 +59,15 @@ There are two primary kinds of syndication we use: link syndication and tag synd
  
 On UMW Blogs, we typically use a model of syndication that relies on using tags. On their own site, the students make sure they are using a designated tag for all the posts that should be syndicated to the course site. Then, on the course site, we regularly check for new posts around UMW Blogs using this tag and pull them in. 
 
-Students must enter the tag **exactly** as it was told to them, paying attention to spaces, uppercase/lowercase letters, etc. In addition, for this kind of syndication to work, students cannot have their blog set to private (see [[http://support.umwblogs.org/general-administration/setting-privacy-options | this tutorial on setting privacy options]])
+Students must enter the tag **exactly** as it was told to them, paying attention to spaces, uppercase/lowercase letters, etc. In addition, for this kind of syndication to work, students cannot have their blog set to private (see [[http://support.umwblogs.org/general-administration/setting-privacy-options | this tutorial on setting privacy options]]).
 
-In addition, students need to know that it can take up to a few hours for their post to show up on the course site, and if they are in a large class and everyone is submitting an assignment around the same time, their post may not show up on the front page of the course site (they may have to scroll a few pages  back to find it).
+In addition, students need to know that it can take up to a few hours for their post to show up on the course site, and if they are in a large class and everyone is submitting an assignment around the same time, their post may not show up on the front page of the course site (they may have to scroll a few pages back to find it).
 
 **This model of syndication is only used on UMW Blogs (not on Domain of One's Own). ** 
 
 === Link Syndication ===
 
-The other model of syndication we use is to individually syndicate each students' blog to the course site using FeedWordPress. This is a more complicated model, and if a student runs into problems with it, you may need to login to the course site to look at the FeedWordPress settings. 
+The other model of syndication we use is to individually syndicate each student's blog to the course site using FeedWordPress. This is a more complicated model, and if a student runs into problems with it, you may need to login to the course site to look at the FeedWordPress settings. 
 
 [[wordpress:using-feedwordpress|Using FeedWordPress]]
 
@@ -81,7 +81,7 @@ The other model of syndication we use is to individually syndicate each students
 ===== WordPress Tutorial Video =====
 Through a subscription to WPMUDev, we have access to a series of WP tutorial videos. Please note that you must login to see these videos; the userid/pw is saved in our LastPass account.
 
-Below is a list of the videos available. Please review those that are on topics with wich you are unfamiliar or that are not covered by our documentation. [[http://premium.wpmudev.org/projects/category/videos/| All the Videos can be found here.]]
+Below is a list of the videos available. Please review those that are on topics with which you are unfamiliar or that are not covered by our documentation. [[http://premium.wpmudev.org/projects/category/videos/| All the Videos can be found here.]]
 
   * [[https://premium.wpmudev.org/project/media-library/|The Media Library]]
   * [[https://premium.wpmudev.org/project/install-and-configure-a-plugin/|Install and Configure a Plugin]]
