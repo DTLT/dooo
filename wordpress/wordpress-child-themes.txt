@@ -1,1 +1,17 @@
 #Child Themes
+
+==== What is a Child Theme? ====
+
+A Child Theme is essentially a copy of a theme that is completely customizable. 
+
+==== Why Should I Use Child Themes? ====
+
+When you modify a WordPress theme, there is no guarantee that your modifications will be saved when the theme updates. A way to make sure that your edits to the theme last after updates is through creating a Child Theme. 
+
+==== How Do I Make a Child Theme? ====
+Making a Child Theme is very simple, but will require you to go into your Domain Of Own's Own File Manager. 
+
+==== Child Theme Examples ====
+Below is the an example of a Child Theme in use. The Parent Theme is on the right, and the Child Theme is on the left. As you can see, the Child Theme has a 
+
+For more information, please visit WordPress's support page for [[http://codex.wordpress.org/Child_Themes|Child Themes]]. 
