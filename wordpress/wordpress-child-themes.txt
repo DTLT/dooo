@@ -81,10 +81,9 @@ Your child theme is now installed! Now you need to activate it.
 ==== Editing a Child Theme ====
 As you can see, your newly activated Child Theme looks exactly like your Parent Theme. This is because the Child Theme pulls all of the design and structural elements from the Parent Theme. In order to make customizations, you need to edit your Child Theme. There are two ways you can go about editing your Child Theme. 
 
-=== Option 1 ===
+  * Option 1: You can go back into your **File Manager** and make your edits there in the **style.css file** underneath 
+  * Option 2: 
 
-
-=== Option 2 ===
 
 
 ==== Child Theme Examples ====
