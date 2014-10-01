@@ -1,0 +1,21 @@
+====== WordPress Tutorial Training ======
+
+DKC tutorials on WordPress cover both the use of UMW Blogs (which runs a particular variety WordPress known as WordPress Multisite) and individual installs of WordPress that a student might have on their Domain of One Own's Account. It's important for tutors to understand the difference between working with WordPress in UMW Blogs vs. in Domain of One's Own. 
+
+===== UMW Blogs WordPress =====
+
+When using WordPress on UMW Blogs, students have access to individual WordPress sites that are provisioned through WordPress Multisite (WPMS). DTLT maintains the core WPMS files that are used by every provisioned site in the system, including the available plugins and themes. 
+
+From a permissions standpoint, there are two kinds of administrators in UMW Blogs. Every site can have users with **(site) administrator** permissions. These users can manage all of the site's settings, activate plugins & themes, add new users, etc. In addition, at a system level, there is a **super administrator** account. This account can add plugins/themes and change system-wide settings. 
+
+While site administrators can activate the plugins and themes that are available to them through the system, only super administrators can add new plugins and themes to the system as a whole.
+
+Only UMW community members can obtain an account in UMW Blogs. This is managed by requiring them to use a "umw.edu" or "mail.umw.edu" email address to register an account. Once a user has an account in the system, they can create as many sites as they want, and they can be added to any existing site (by either that site's administrator or the super administrator). 
+
+In addition, it's possible for someone to create a user account on UMW Blogs but NOT create an associated site. Having just a user account allows them to be added to a site that someone else has created or administers. We have several courses at UMW that use this approach to create a group blog/site; students in the class create a user account on UMW Blogs (but no actual blog), and are then added to the course site by either the instructor or a staff member in DTLT. 
+
+We do not actively delete users or sites on UMW Blogs. Occasionally, we will remove sites that were created but have never been updated or changed (for many months or even years). Beyond that, the only times we remove sites/users is if a user asks us to. 
+
+**Further Reading**
+  * [[http://mashable.com/2012/07/26/beginner-guide-wordpress-multisite/|The Beginner's Guide to WordPress Multisite (Mashable)]]
+  * Review all of the WordPress documentation at the [[http://support.umwblogs.org|UMW Blogs Support site]], including the [[http://support.umwblogs.org/getting-started/getting-started|Getting Started section]], the [[http://support.umwblogs.org/creating-content/creating-content|Creating Content section]], the [[http://support.umwblogs.org/appearance-and-plugins/appearance-and-plugins|Appearance & Plugins section]], and the [[http://support.umwblogs.org/general-administration/general-administration|General Administration section]].
