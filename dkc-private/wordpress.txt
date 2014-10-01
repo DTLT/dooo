@@ -124,10 +124,10 @@ Below is a list of the videos available. Please review those that are on topics 
   * [[https://premium.wpmudev.org/project/tags/ | Using Tags]]
   * [[https://premium.wpmudev.org/project/image-editor/ | The Image Editor]]
   * [[https://premium.wpmudev.org/project/dashboard/ | The Dashboard]]
-  * Using Paragraphs
-  * Add Image from URLs
-  * Uploading Images
-  * Heading Styles
+  * [[https://premium.wpmudev.org/project/add-paragraph/ | Using Paragraphs]]
+  * [[https://premium.wpmudev.org/project/add-image-from-url/ | Add Image from URLs]]
+  * [[https://premium.wpmudev.org/project/add-an-image-from-your-computer/ | Uploading Images]]
+  * [[https://premium.wpmudev.org/project/add-heading/ | Heading Styles]]
 ===== Common Issues =====
    * Frequently students struggle with understanding the difference between pages and posts, particularly when it comes to syndication. It's important to understand that pages are NOT syndicated, so any syndicated course content needs to be in a post. 
    * When a student's post doesn't syndicate to the course site, the most common reasons are: 
