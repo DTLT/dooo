@@ -73,6 +73,8 @@ Steps:
 </strong></html>
 
   - After you have changed the Child Theme input names to your Parent theme's names, you can click on **Save Changes** in the upper right hand corner. 
+
+{{https://farm4.staticflickr.com/3929/15227866248_46c2e60313_b.jpg}}
 ==== Activating a Child Theme ====
 Your child theme is now installed! Now you need to activate it. 
   - **Login** to your WordPress site. 
