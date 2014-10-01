@@ -24,7 +24,36 @@ Steps:
   - When naming the new file, this time you NEED to name it **style.css**. 
   - After that new file is made, open it up by selecting it and clicking on **Edit** at the top of the screen.  Click on Edit when the Text Editor box appears. 
   - Once inside your file, you need to add this code to the file. Copy the code in bold below and paste it into your file. 
+<html>
+/*
+ Theme Name:   Twenty Fourteen Child
+<br />
+ Theme URI:    http://example.com/twenty-fourteen-child/
+<br />
+ Description:  Twenty Fourteen Child Theme
+<br />
+ Author:       John Doe
+<br />
+ Author URI:   http://example.com
+<br />
+ Template:     twentyfourteen
+<br />
+ Version:      1.0.0
+<br />
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+<br />
+ Text Domain:  twenty-fourteen-child
+*/
+<br />
+<br />
+@import url("../twentyfourteen/style.css");
+<br />
+<br />
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+</html>
 
+  - 
 ==== Child Theme Examples ====
 Below is the an example of a Child Theme in use. The Parent Theme is on the right, and the Child Theme is on the left. As you can see, the Child Theme has a 
 
