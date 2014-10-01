@@ -78,6 +78,57 @@ The other model of syndication we use is to individually syndicate each students
   * [[wordpress:wordpress-child-themes|WordPress Child Themes]]
   * [[wordpress:wordpress-stats|WordPress Statistics]]
 
+===== WordPress Tutorial Video =====
+Through a subscription to WPMUDev, we have access to a series of WP tutorial videos. Please note that you must login to see these videos; the userid/pw is saved in our LastPass account.
+
+Below is a list of the videos available. Please review those that are on topics you are unfamiliar or that are not covered by our documentation. All [[http://premium.wpmudev.org/projects/category/videos/|the Videos can be found here.]]
+
+  * The Media Library
+  * Install and Configure a Plugin
+  * Install a Theme
+  * The Customizer
+  * Revisions
+  * Pages vs. Posts
+  * Tools
+  * Settings
+  * Creating Playlists
+  * Running Updates
+  * Image Galleries
+  * Create and Edit Users
+  * Editing Posts and Pages
+  * Introduction to Menus
+  * Introduction to Widgets
+  * Tutorial Video Embed Codes
+  * Set Featured Image
+  * Using the Visual Editor
+  * Working with Quick Draft
+  * Adding Media Library Images
+  * Deleting Images
+  * Change Theme
+  * The Admin Bar
+  * The Post Excerpt
+  * Restoring Posts
+  * Restoring Pages
+  * Embedding Media
+  * Change Passwords
+  * Managing Comments
+  * Add New Page
+  * Using Trash
+  * Add New Post
+  * Creating Hyperlinks
+  * Working with Categories
+  * Editing Images
+  * Upload Media
+  * Using Lists
+  * Replace Images
+  * Using Tags
+  * The Image Editor
+  * The Dashboard
+  * Using Paragraphs
+  * Add Image from URLs
+  * Uploading Images
+  * Heading Styles
+
 ===== Common Issues =====
    * Frequently students struggle with understanding the difference between pages and posts, particularly when it comes to syndication. It's important to understand that pages are NOT syndicated, so any syndicated course content needs to be in a post. 
    * When a student's post doesn't syndicate to the course site, the most common reasons are: 
