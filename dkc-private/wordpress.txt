@@ -59,7 +59,7 @@ There are two primary kinds of syndication we use: link syndication and tag synd
  
 On UMW Blogs, we typically use a model of syndication that relies on using tags. On their own site, the students make sure they are using a designated tag for all the posts that should be syndicated to the course site. Then, on the course site, we regularly check for new posts around UMW Blogs using this tag and pull them in. 
 
-Students must enter the tag **exactly** as it was told to them, paying attention to spaces, uppercase/lowercase letters, etc. In addition, for this kind of syndication to work, students cannot have their blog set to private (see [[http://support.umwblogs.org/general-administration/setting-privacy-options | this tutorial on setting privacy options])
+Students must enter the tag **exactly** as it was told to them, paying attention to spaces, uppercase/lowercase letters, etc. In addition, for this kind of syndication to work, students cannot have their blog set to private (see [[http://support.umwblogs.org/general-administration/setting-privacy-options | this tutorial on setting privacy options]])
 
 In addition, students need to know that it can take up to a few hours for their post to show up on the course site, and if they are in a large class and everyone is submitting an assignment around the same time, their post may not show up on the front page of the course site (they may have to scroll a few pages  back to find it).
 
