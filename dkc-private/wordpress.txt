@@ -97,38 +97,37 @@ Below is a list of the videos available. Please review those that are on topics 
   * [[https://premium.wpmudev.org/project/create-and-edit-users/ | Create and Edit Users]]
   * [[https://premium.wpmudev.org/project/editing-posts-or-pages/Editing | Posts and Pages]]
   * [[https://premium.wpmudev.org/project/introduction-to-menus/ | Introduction to Menus]]
-  * [[Introduction to Widgets
-  * Tutorial Video Embed Codes
-  * Set Featured Image
-  * Using the Visual Editor
-  * Working with Quick Draft
-  * Adding Media Library Images
-  * Deleting Images
-  * Change Theme
-  * The Admin Bar
-  * The Post Excerpt
-  * Restoring Posts
-  * Restoring Pages
-  * Embedding Media
-  * Change Passwords
-  * Managing Comments
-  * Add New Page
-  * Using Trash
-  * Add New Post
-  * Creating Hyperlinks
-  * Working with Categories
-  * Editing Images
-  * Upload Media
-  * Using Lists
-  * Replace Images
-  * Using Tags
-  * The Image Editor
-  * The Dashboard
+  * [[https://premium.wpmudev.org/project/introduction-to-widgets/ | Introduction to Widgets]]
+  * [[https://premium.wpmudev.org/project/quality-unbranded-support-videos-for-wordpress/ | Tutorial Video Embed Codes]]
+  * [[https://premium.wpmudev.org/project/featured-image/ | Set Featured Image]]
+  * [[https://premium.wpmudev.org/project/the-toolbar/ | Using the Visual Editor]]
+  * [[https://premium.wpmudev.org/project/quick-press/ | Working with Quick Draft]]
+  * [[https://premium.wpmudev.org/project/add-an-image-from-media-library/ | Adding Media Library Images]]
+  * [[https://premium.wpmudev.org/project/delete-image/ | Deleting Images]]
+  * [[https://premium.wpmudev.org/project/change-theme/ | Change Theme]]
+  * [[https://premium.wpmudev.org/project/admin-bar/ | The Admin Bar]]
+  * [[https://premium.wpmudev.org/project/excerpt/ | The Post Excerpt]]
+  * [[https://premium.wpmudev.org/project/restore-post/ | Restoring Posts]]
+  * [[https://premium.wpmudev.org/project/restore-page/ | Restoring Pages]]
+  * [[https://premium.wpmudev.org/project/oembed/ | Embedding Media]]
+  * [[https://premium.wpmudev.org/project/change-password/ | Change Passwords]]
+  * [[https://premium.wpmudev.org/project/approving-and-editing-comments/ | Managing Comments]]
+  * [[https://premium.wpmudev.org/project/add-new-page/ | Add New Page]]
+  * [[https://premium.wpmudev.org/project/trash-a-page-or-post/ | Using Trash]]
+  * [[https://premium.wpmudev.org/project/add-new-post/ | Add New Post]]
+  * [[https://premium.wpmudev.org/project/hyperlinks/ | Creating Hyperlinks]]
+  * [[https://premium.wpmudev.org/project/categories/ | Working with Categories]]
+  * [[https://premium.wpmudev.org/project/edit-image/ | Editing Images]]
+  * [[https://premium.wpmudev.org/project/add-media/ | Upload Media]]
+  * [[https://premium.wpmudev.org/project/lists/ | Using Lists]]
+  * [[https://premium.wpmudev.org/project/replace-image/ | Replace Images]]
+  * [[https://premium.wpmudev.org/project/tags/ | Using Tags]]
+  * [[https://premium.wpmudev.org/project/image-editor/ | The Image Editor]]
+  * [[https://premium.wpmudev.org/project/dashboard/ | The Dashboard]]
   * Using Paragraphs
   * Add Image from URLs
   * Uploading Images
   * Heading Styles
-
 ===== Common Issues =====
    * Frequently students struggle with understanding the difference between pages and posts, particularly when it comes to syndication. It's important to understand that pages are NOT syndicated, so any syndicated course content needs to be in a post. 
    * When a student's post doesn't syndicate to the course site, the most common reasons are: 
