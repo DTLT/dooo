@@ -21,7 +21,7 @@ These are tutorials for system access at umw.domains, the main project Web site 
 ==== Domain of One's Own (WHM) ====
 
 
-WHM is the web hosting management system. You would rarely need to access it -- except for increasing users' quotas
+WHM is the web hosting management system. You would rarely need to access it -- except for increasing users' quotas.
 
   * [[dkc-private:whm-quotas|Increasing quotas in WHM for users]]
 
