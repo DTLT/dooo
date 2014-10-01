@@ -16,6 +16,20 @@ In addition, it's possible for someone to create a user account on UMW Blogs but
 
 We do not actively delete users or sites on UMW Blogs. Occasionally, we will remove sites that were created but have never been updated or changed (for many months or even years). Beyond that, the only times we remove sites/users is if a user asks us to. 
 
+Another important nuance to running WordPress Multisite is that the super administrator becomes responsible for all updates to the system: WordPress updates, plugin updates, and theme updates. Since every site makes use of the same base code installation, those updates only need to occur in one place in order to impact every site in the system. In DTLT, we try to reserve major updates for semester/winter/summer holidays. Some updates can cause sites to break, and we try to limit this disruption during the semester. 
+
 **Further Reading**
   * [[http://mashable.com/2012/07/26/beginner-guide-wordpress-multisite/|The Beginner's Guide to WordPress Multisite (Mashable)]]
   * Review all of the WordPress documentation at the [[http://support.umwblogs.org|UMW Blogs Support site]], including the [[http://support.umwblogs.org/getting-started/getting-started|Getting Started section]], the [[http://support.umwblogs.org/creating-content/creating-content|Creating Content section]], the [[http://support.umwblogs.org/appearance-and-plugins/appearance-and-plugins|Appearance & Plugins section]], and the [[http://support.umwblogs.org/general-administration/general-administration|General Administration section]].
+
+===== Domain of One's Own WordPress =====
+
+On Domain of One's Own, it is possible for any user to install WordPress on their domain using the Installatron script installer. When a user runs WordPress on Domain of One's Own, he/she becomes the overall administrator for the entire site. Users can add any plugins/themes they want to their DoOO WordPress install, and they can add any users to the site they create. They are also responsible for ensuring that the site is regularly updated, including all plugins and themes.
+
+Beyond the administrative differences, using WordPress on UMW Blogs and DoOO is really identical -- the core WordPress code used is the same, so the steps to add content, change settings, etc. are the same. 
+
+**Further Reading**
+Review all of the [[http://docs.umwdomains.com/wordpress/wordpress|WordPress documentation]] at the [[http://docs.umwdomains.com|UMW Domains Support site]]. There will be overlap between this documentation and the UMW Blogs documentation, but please review it all as there are some differences (how to install plugins/themes, for example). Eventually, we will be consolidating all of this WordPress documentation in one place, and if you are familiar with both sets, you'll be better able to assist in this project. 
+
+===== Common WordPress Issues =====
+ 
