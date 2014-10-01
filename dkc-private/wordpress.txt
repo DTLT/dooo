@@ -83,21 +83,21 @@ Through a subscription to WPMUDev, we have access to a series of WP tutorial vid
 
 Below is a list of the videos available. Please review those that are on topics with wich you are unfamiliar or that are not covered by our documentation. [[http://premium.wpmudev.org/projects/category/videos/| All the Videos can be found here.]]
 
-  * The Media Library
-  * Install and Configure a Plugin
-  * Install a Theme
-  * The Customizer
-  * Revisions
-  * Pages vs. Posts
-  * Tools
-  * Settings
-  * Creating Playlists
-  * Running Updates
-  * Image Galleries
-  * Create and Edit Users
-  * Editing Posts and Pages
-  * Introduction to Menus
-  * Introduction to Widgets
+  * [[https://premium.wpmudev.org/project/media-library/|The Media Library]]
+  * [[https://premium.wpmudev.org/project/install-and-configure-a-plugin/|Install and Configure a Plugin]]
+  * [[https://premium.wpmudev.org/project/install-a-theme/| Install a Theme]]
+  * [[https://premium.wpmudev.org/project/the-customizer/ | The Customizer]]
+  * [[https://premium.wpmudev.org/project/revisions/ | Revisions]]
+  * [[https://premium.wpmudev.org/project/page-vs-posts/ | Pages vs. Posts]]
+  * [[https://premium.wpmudev.org/project/tools/ | Tools]]
+  * [[https://premium.wpmudev.org/project/settings/ |Settings]]
+  * [[http://premium.wpmudev.org/projects/category/videos/ | Creating Playlists]]
+  * [[https://premium.wpmudev.org/project/running-updates/ | Running Updates]]
+  * [[https://premium.wpmudev.org/project/image-galleries/ | Image Galleries]]
+  * [[https://premium.wpmudev.org/project/create-and-edit-users/ | Create and Edit Users]]
+  * [[https://premium.wpmudev.org/project/editing-posts-or-pages/Editing | Posts and Pages]]
+  * [[https://premium.wpmudev.org/project/introduction-to-menus/ | Introduction to Menus]]
+  * [[Introduction to Widgets
   * Tutorial Video Embed Codes
   * Set Featured Image
   * Using the Visual Editor
