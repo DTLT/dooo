@@ -81,7 +81,7 @@ The other model of syndication we use is to individually syndicate each students
 ===== WordPress Tutorial Video =====
 Through a subscription to WPMUDev, we have access to a series of WP tutorial videos. Please note that you must login to see these videos; the userid/pw is saved in our LastPass account.
 
-Below is a list of the videos available. Please review those that are on topics you are unfamiliar or that are not covered by our documentation. All [[http://premium.wpmudev.org/projects/category/videos/|the Videos can be found here.]]
+Below is a list of the videos available. Please review those that are on topics with wich you are unfamiliar or that are not covered by our documentation. All [[http://premium.wpmudev.org/projects/category/videos/|the Videos can be found here.]]
 
   * The Media Library
   * Install and Configure a Plugin
