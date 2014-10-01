@@ -33,5 +33,44 @@ Beyond the administrative differences, using WordPress on UMW Blogs and DoOO is 
 
 Review all of the [[http://docs.umwdomains.com/wordpress/wordpress|WordPress documentation]] at the [[http://docs.umwdomains.com|UMW Domains Support site]]. There will be overlap between this documentation and the UMW Blogs documentation, but please review it all as there are some differences (how to install plugins/themes, for example). Eventually, we will be consolidating all of this WordPress documentation in one place, and if you are familiar with both sets, you'll be better able to assist in this project. 
 
-===== Common WordPress Issues =====
+===== WordPress Course Web Sites =====
+
+Many faculty at UMW make use of WordPress to run course Web sites. Students frequently need help getting themselves "connected" to these sites. How they connect depends on how the course site is designed, and the design is determined by the needs/wishes of the faculty member. There are generally three models of course sites you may need to help students with: 
+
+==== Group Blogs ====
+
+In this case, there is a single WordPress site for a course where every student has an account. They each author posts locally on that site. 
+
+Typically in this case, students have been told to add themselves to a course site by using the "Add User" widget which should appear in the site's sidebar. If a student is at the DKC for a tutorial, you can also have them add themselves using the technique. [[http://support.umwblogs.org/getting-started/adding-yourself-to-a-course-blog | Tutorial on Adding Yourself to a Course Site]]
+
+If you are assisting a student from afar (they've put a Question on the DKC site or emailed the Center), they you can log into the course site on UMW Blogs and add them by going to Users->Add Users. As a super administrator, you can add them without sending a confirmation email, too. 
+
+If the student is supposed to be added to a faculty member's course site on Domain of One's Own, you should recommend they contact the faculty member to do this or ask a DTLT staff member for assistance. (For now, DKC tutors should refrain from logging into faculty Web sites on Domain of One's Own.)
+
+===== Syndication =====
+
+When a course isn't using a group course site, they are going to be making use of some kind of syndication. In a syndication model, the students have their own sites where they author their own posts. As they write those posts, they are syndicated to a course site where they are republished (but still link back to the original student's site).
+
+There are two primary kinds of syndication we use: link syndication and tag syndication. Both methods make use of a plugin called FeedWordPress. Please spend sometime familiarizing yourself with FeedWordpress:
+  * [[http://feedwordpress.radgeek.com/|FeedWordPress plugin site]]
+  * [[https://wordpress.org/plugins/feedwordpress/|FeedWordPress plugin page in the Plugin Repository]]
+
+==== Tag Syndication ====
+ 
+On UMW Blogs, we typically use a model of syndication that relies on using tags. On their own site, the students make sure they are using a designated tag for all the posts that should be syndicated to the course site. Then, on the course site, we regularly check for new posts around UMW Blogs using this tag and pull them in. 
+
+Students must enter the tag **exactly** as it was told to them, paying attention to spaces, uppercase/lowercase letters, etc. In addition, for this kind of syndication to work, students cannot have their blog set to private (see [[http://support.umwblogs.org/general-administration/setting-privacy-options | this tutorial on setting privacy options])
+
+In addition, students need to know that it can take up to a few hours for their post to show up on the course site, and if they are in a large class and everyone is submitting an assignment around the same time, their post may not show up on the front page of the course site (they may have to scroll a few pages  back to find it).
+
+**This model of syndication is only used on UMW Blogs (not on Domain of One's Own). ** 
+
+==== Link Syndication ====
+
+The other model of syndication we use is to individually syndicate each students' blog to the course site using FeedWordPress. This is a more complicated model, and if a student runs into problems with it, you may need to login to the course site to look at the FeedWordPress settings. 
+
+[[wordpress:using-feedwordpress|Using FeedWordPress]]
+
+
+===== Common Issues =====
  
