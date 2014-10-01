@@ -27,3 +27,13 @@ You will need either the complete URL of the website or the feed URL of a specif
 More than likely the first option highlighted will be the option you will want to feed into your site. If so select "**Use this feed**" Your site will now automatically pull in post from the site you have just entered and it will be added to your "**Syndicated Sites**". 
 
 ==== Feeds & Updates ====
+
+==== Post & Links ====
+
+==== Authors ====
+
+==== Categories & Tags ====
+
+==== Performance ====
+
+==== Diagnostics ====
