@@ -43,7 +43,7 @@ In this case, there is a single WordPress site for a course where every student 
 
 Typically in this case, students have been told to add themselves to a course site by using the "Add User" widget which should appear in the site's sidebar. If a student is at the DKC for a tutorial, you can also have them add themselves using the technique. [[http://support.umwblogs.org/getting-started/adding-yourself-to-a-course-blog | Tutorial on Adding Yourself to a Course Site]]
 
-If you are assisting a student from afar (they've put a Question on the DKC site or emailed the Center), they you can log into the course site on UMW Blogs and add them by going to Users->Add Users. As a super administrator, you can add them without sending a confirmation email, too. 
+If you are assisting a student from afar (they've put a Question on the DKC site or emailed the Center), you can log into the course site on UMW Blogs and add them by going to Users->Add Users. As a super administrator, you can add them without sending a confirmation email, too. 
 
 If the student is supposed to be added to a faculty member's course site on Domain of One's Own, you should recommend they contact the faculty member to do this or ask a DTLT staff member for assistance. (For now, DKC tutors should refrain from logging into faculty Web sites on Domain of One's Own.)
 
