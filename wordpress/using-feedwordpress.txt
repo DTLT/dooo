@@ -19,5 +19,6 @@ Once you have installed the plugin you will notice a new option on your sidebar 
 
 To add a new site navigate to the "**Syndicated Sites**" option located in your sidebar menu. On this page locate the "**New Source**" option on the righthand side of the page. 
 {{https://farm4.staticflickr.com/3928/15413133162_dc1958957f_b.jpg}}
+You will need either the complete URL of the website or the feed URL of a specific page. 
 
 
