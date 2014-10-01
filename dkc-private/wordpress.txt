@@ -71,6 +71,19 @@ The other model of syndication we use is to individually syndicate each students
 
 [[wordpress:using-feedwordpress|Using FeedWordPress]]
 
+==== Advanced WordPress Topics ====
+
+  * [[wordpress:wordpress-themes|General WordPress Theme Techniques]]
+  * [[wordpress:wordpress-custom-content|WordPress Custom Content]]
+  * [[wordpress:wordpress-child-themes|WordPress Child Themes]]
+  * [[wordpress:wordpress-stats|WordPress Statistics]]
 
 ===== Common Issues =====
- 
+   * Frequently students struggle with understanding the difference between pages and posts, particularly when it comes to syndication. It's important to understand that pages are NOT syndicated, so any syndicated course content needs to be in a post. 
+   * When a student's post doesn't syndicate to the course site, the most common reasons are: 
+     * not using the proper tag
+     * setting their blog to be private
+     * not waiting long enough for syndication to happen
+     * not looking far enough back in the post archives (particularly when there are a lot of students in a class)
+   * On UMW Blogs, students will sometimes create two different accounts, one using "umw.edu" for their email and the other using "mail.umw.edu" You may need to find their user accounts to determine which one they should be using for which site.
+   * 
