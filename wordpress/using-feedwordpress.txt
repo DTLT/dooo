@@ -11,8 +11,7 @@ When installing Feedwordpress you will want to install the plugin on the site yo
   -  In the search bar type in "**Feedwordpress**"
   -  Install the plugin
 
-==== Using Feedwordpress ====
-
+===== Using Feedwordpress =====
 
 Once you have installed the plugin you will notice a new option on your sidebar menu titled "**Syndication**"
 
