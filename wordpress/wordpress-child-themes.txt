@@ -11,6 +11,12 @@ When you modify a WordPress theme, there is no guarantee that your modifications
 ==== How Do I Make a Child Theme? ====
 Making a Child Theme is very simple, but will require you to go into your Domain Of Own's Own File Manager. 
 
+Steps:
+  - **Login** to your [[http://umw.domains|Domain of Own's Account]].
+  - When you login, you will see your Domain of One's Own Dashboard. Scroll down until you see **File Manager** located under //Files// and click on it. 
+  - A //File Manager Directory Selection// will appear. In it, make sure the the **Document Root for:** bubble is clicked. You need to also **select the domain** or subdomain you wish to create a Child Theme for. You can leave "show hidden files" checked. Then, click the **Go** button. This will take you to your //cPanel File Manager//.
+  - 
+
 ==== Child Theme Examples ====
 Below is the an example of a Child Theme in use. The Parent Theme is on the right, and the Child Theme is on the left. As you can see, the Child Theme has a 
 
