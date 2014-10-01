@@ -13,8 +13,8 @@ Making a Child Theme is very simple, but will require you to go into your Domain
 
 Steps:
   - **Login** to your [[http://umw.domains|Domain of Own's Account]].
-  - When you login, you will see your Domain of One's Own Dashboard. Scroll down until you see **File Manager** located under //Files// and click on it. 
-  - A //File Manager Directory Selection// will appear. In it, make sure the the **Document Root for:** bubble is clicked. You need to also **select the domain or subdomain** you wish to create a Child Theme for. You can leave "show hidden files" checked. Then, click the **Go** button. This will take you to your //cPanel File Manager//.
+  - When you login, you will see your Domain of One's Own Dashboard. Scroll down until you see **File Manager** located under //Files// and click on it. {{https://farm4.staticflickr.com/3930/15227866138_7b5ceb850e.jpg}}
+  - A //File Manager Directory Selection// will appear. In it, make sure the the **Document Root for:** bubble is clicked. You need to also **select the domain or subdomain** you wish to create a Child Theme for. You can leave "show hidden files" checked. Then, click the **Go** button. This will take you to your //cPanel File Manager//. {{https://farm3.staticflickr.com/2950/15227866128_103fa7d39f.jpg}}
   - Next, you will see several folders both in the center and on the left hand side of the screen. Find the blue folder called **wp-content** and double click on it. If you are creating a Child Theme for a **directory**, double click on the blue folder with your directory name and then double click on the blue folder called **wp-content**.
   - Once in the //wp-content folder// you will see more blue folders. Click on the folder called **themes**. This folder holds all of your installed WordPress themes. 
   - In the //themes// folder you will see folders with the titles of your installed themes. What you want to do in order to create a Child Theme is click on **New Folder**, located at the top of the page. 
@@ -71,7 +71,6 @@ Steps:
 </strong></html>
 
   - After you have changed the Child Theme input names to your Parent theme's names, you can click on **Save Changes** in the upper right hand corner. 
-
 ==== Activating a Child Theme ====
 Your child theme is now installed! Now you need to activate it. 
   - **Login** to your WordPress site. 
