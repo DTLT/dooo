@@ -9,21 +9,21 @@ The tutorials on this page are restricted to the staff of DTLT and the DKC.
 These are tutorials for system access at umw.domains, the main project Web site for Domain of One's Own. It runs in WordPress, but is integrated with our hosting system and client management system, allowing you to manage certain aspects of users' accounts
 
 
-  * [[dkc-private:logging-into-dooo|Logging into umw.domains]]
+  * [[dkc-private:logging-into-dooo|Logging into umw.domains as an adminstrator]]
   * [[dkc-private:switching-users|Switching Users]]
-  * [[dkc-private:checking-file-usage|Checking File Usage]]
-  * [[dkc-private:installatron-loggin-in|Logging into applications through Installatron]]
-  * [[dkc-private:installatron-passwords|Changing application passwords in Installatron]]
-  * [[dkc-private:installatron-backups|Checking backups in Installatron]]
-  * [[dkc-private:installatron-email-settings|Checking email settings in Installatron]]
-  * [[dkc-private:resending-verification|Resending verification emails]]
+  * [[dkc-private:checking-file-usage|Checking a iser's File Usage]]
+  * [[dkc-private:installatron-loggin-in|Logging into a user's applications through Installatron]]
+  * [[dkc-private:installatron-passwords|Changing a user's application passwords in Installatron]]
+  * [[dkc-private:installatron-backups|Checking a user's backups in Installatron]]
+  * [[dkc-private:installatron-email-settings|Checking a user's email settings in Installatron]]
+  * [[dkc-private:resending-verification|Resending verification emails to a user]]
 
 ==== Domain of One's Own (WHM) ====
 
 
 WHM is the web hosting management system. You would rarely need to access it -- except for increasing users' quotas
 
-  * [[dkc-private:whm-quotas|Increasing quotas in WHM]]
+  * [[dkc-private:whm-quotas|Increasing quotas in WHM for users]]
 
 ==== UMW Blogs (WordPress) ====
 
@@ -34,7 +34,17 @@ WHM is the web hosting management system. You would rarely need to access it -- 
   *  [[dkc-private:plugin-management|Plugin Management]]
   *  [[dkc-private:theme-management|Theme Management]]
 
-===== Wordpress (including UMW Blogs) =====
+===== Tutorial Types =====
+  * [[dkc-private:wordpress|Wordpress (including UMW Blogs)]]
+  * [[dkc-private:domains|Domain of One's Own]]
+  * [[dkc-private:knightlabs|Timeline JS or StoryMap]]
+  * [[dkc-private:video-production|Video Production]]
+  * [[dkc-private:video-editing-basic|Video Editing Basic]]
+  * [[dkc-private:video-editing-advanced|Video Editing Advanced]]
+  * [[dkc-private:image-editing|Image Editing]]
+  * [[dkc-private:audio-editing|Audio Editing]]
+  * [[dkc-private:other|Other]]
+
  
 
 {{indexmenu_n>15}}
