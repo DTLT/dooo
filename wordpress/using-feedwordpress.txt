@@ -6,8 +6,8 @@ The greatest way to syndicate Wordpress websites, either for your individual blo
 
 When installing Feedwordpress you will want to install the plugin on the site you wish syndicate all your other blogs (i.e. your main site or course site).   
 
-  - 1. When logged into your Wordpress site navigate down to "**Plugins**"
-  - 2. Select "**Add New**"
-  - 3. In the search bar type in "**Feedwordpress**"
-  - 4. Install the plugin
+  -  When logged into your Wordpress site navigate down to "**Plugins**"
+  -  Select "**Add New**"
+  -  In the search bar type in "**Feedwordpress**"
+  -  Install the plugin
 
