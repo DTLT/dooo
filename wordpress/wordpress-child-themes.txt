@@ -15,14 +15,14 @@ Steps:
   - **Login** to your [[http://umw.domains|Domain of Own's Account]].
   - When you login, you will see your Domain of One's Own Dashboard. Scroll down until you see **File Manager** located under //Files// and click on it. {{https://farm4.staticflickr.com/3930/15227866138_7b5ceb850e.jpg}}
   - A //File Manager Directory Selection// will appear. In it, make sure the the **Document Root for:** bubble is clicked. You need to also **select the domain or subdomain** you wish to create a Child Theme for. You can leave "show hidden files" checked. Then, click the **Go** button. This will take you to your //cPanel File Manager//. {{https://farm3.staticflickr.com/2950/15227866128_103fa7d39f.jpg}}
-  - Next, you will see several folders both in the center and on the left hand side of the screen. Find the blue folder called **wp-content** and double click on it. If you are creating a Child Theme for a **directory**, double click on the blue folder with your directory name and then double click on the blue folder called **wp-content**.
-  - Once in the //wp-content folder// you will see more blue folders. Click on the folder called **themes**. This folder holds all of your installed WordPress themes. 
-  - In the //themes// folder you will see folders with the titles of your installed themes. What you want to do in order to create a Child Theme is click on **New Folder**, located at the top of the page. 
-  - In the text area for **New Folder Name** name it something that will let you know that it is a Child Theme. For example, if you want to make a Child Theme for Twenty Thirteen, then name your your child theme folder "twentythirteen-child." Then click **Create New Folder**. 
-  - Next, double click your new Child Theme folder to go inside of it. 
-  - Now add a **New File** by clicking on the new file icon at the top of the screen.  
-  - When naming the new file, this time you NEED to name it **style.css**. 
-  - After that new file is made, open it up by selecting it and clicking on **Edit** at the top of the screen.  Click on Edit when the Text Editor box appears. 
+  - Next, you will see several folders both in the center and on the left hand side of the screen. Find the blue folder called **wp-content** and double click on it. If you are creating a Child Theme for a **directory**, double click on the blue folder with your directory name and then double click on the blue folder called **wp-content**.{{https://farm3.staticflickr.com/2948/15227925177_1223738bf6_c.jpg}}
+  - Once in the //wp-content folder// you will see more blue folders. Click on the folder called **themes**. This folder holds all of your installed WordPress themes. {{https://farm3.staticflickr.com/2942/15414125402_61b5cdc993_o.png}}
+  - In the //themes// folder you will see folders with the titles of your installed themes. What you want to do in order to create a Child Theme is click on **New Folder**, located at the top of the page. {{https://farm4.staticflickr.com/3928/15227716909_dcfc9c5310_c.jpg}}
+  - In the text area for **New Folder Name** name it something that will let you know that it is a Child Theme. For example, if you want to make a Child Theme for Twenty Thirteen, then name your your child theme folder "twentythirteen-child." Then click **Create New Folder**. {{https://farm3.staticflickr.com/2946/15227866208_695da25779_o.png}}
+  - Next, double click your new Child Theme folder to go inside of it. {{https://farm3.staticflickr.com/2943/15411288061_301f13e306_o.png}}
+  - Now add a **New File** by clicking on the new file icon at the top of the screen. {{https://farm4.staticflickr.com/3928/15411288081_40970b6a83_o.png}} 
+  - When naming the new file, this time you MUST name it **style.css**. {{https://farm4.staticflickr.com/3927/15227925197_44f311fe57_o.png}}
+  - After that new file is made, open it up by selecting it and clicking on **Edit** at the top of the screen.  Click on **Edit** when the Text Editor box appears. 
   - Once inside your file, you need to add this code to the file. Copy the code in bold below and paste it into your file. 
 <html><strong>
 /*
@@ -53,7 +53,9 @@ Steps:
 -------------------------------------------------------------- */
 </strong></html>
 
-  - Once you have the code pasted into your file, you NEED to change at the very minimum the **Theme Name**, the **Template**, and the **@import url**.
+{{https://farm4.staticflickr.com/3927/15227866228_79cc35f551_b.jpg}}
+
+  - Once you have the code pasted into your file, you MUST change at the //very minimum// the **Theme Name**, the **Template**, and the **@import url**.
   - Tailor your **Theme Name**, the **Template**, and the **@import url** to what your Parent Theme's name is. For example, if I wanted to make a Child Theme of the theme Twenty Thirteen, I would change the text to look like so:
 
 <html><strong>
