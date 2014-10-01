@@ -39,7 +39,7 @@ Many faculty at UMW make use of WordPress to run course Web sites. Students freq
 
 ==== Group Blogs ====
 
-In this case, there is a single WordPress site for a course where every student has an account. They each author posts locally on that site. 
+In this case, there is a single WordPress site for a course where every student has an account. Each author posts locally on that site. 
 
 Typically in this case, students have been told to add themselves to a course site by using the "Add User" widget which should appear in the site's sidebar. If a student is at the DKC for a tutorial, you can also have them add themselves using the technique. [[http://support.umwblogs.org/getting-started/adding-yourself-to-a-course-blog | Tutorial on Adding Yourself to a Course Site]]
 
