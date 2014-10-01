@@ -10,8 +10,8 @@ These are tutorials for system access at umw.domains, the main project Web site 
 
 
   * [[dkc-private:logging-into-dooo|Logging into umw.domains as an adminstrator]]
-  * [[dkc-private:switching-users|Switching Users]]
-  * [[dkc-private:checking-file-usage|Checking a User's File Usage]]
+  * [[dkc-private:switching-users|Switching users]]
+  * [[dkc-private:checking-file-usage|Checking a user's file usage]]
   * [[dkc-private:installatron-loggin-in|Logging into a user's applications through Installatron]]
   * [[dkc-private:installatron-passwords|Changing a user's application passwords in Installatron]]
   * [[dkc-private:installatron-backups|Checking a user's backups in Installatron]]
