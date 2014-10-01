@@ -35,6 +35,8 @@ WHM is the web hosting management system. You would rarely need to access it -- 
   *  [[dkc-private:theme-management|Theme Management]]
 
 ===== Tutorial Types =====
+These are the current tutorial types offered by the Digital Knowledge Center. Each tutorial type page contains resources and training materials for DKC tutors to review as they prepare to offer that tutorial type. 
+
   * [[dkc-private:wordpress|Wordpress (including UMW Blogs)]]
   * [[dkc-private:domains|Domain of One's Own]]
   * [[dkc-private:knightlabs|Timeline JS or StoryMap]]
