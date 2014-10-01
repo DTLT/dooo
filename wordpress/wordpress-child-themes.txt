@@ -18,7 +18,7 @@ Steps:
   - Next, you will see several folders both in the center and on the left hand side of the screen. Find the blue folder called **wp-content** and double click on it. If you are creating a Child Theme for a **directory**, double click on the blue folder with your directory name and then double click on the blue folder called **wp-content**.
   - Once in the //wp-content folder// you will see more blue folders. Click on the folder called **themes**. This folder holds all of your installed WordPress themes. 
   - In the //themes// folder you will see folders with the titles of your installed themes. What you want to do in order to create a Child Theme is click on **New Folder**, located at the top of the page. 
-  - In the text area for **New Folder Name** name it something that will let you know that it is a Child Theme. For example, if you want to make a Child Theme for Twenty Fourteen, then name your your child theme folder "twentyfourteen-child." Then click **Create New Folder**. 
+  - In the text area for **New Folder Name** name it something that will let you know that it is a Child Theme. For example, if you want to make a Child Theme for Twenty Thirteen, then name your your child theme folder "twentythirteen-child." Then click **Create New Folder**. 
   - Next, double click your new Child Theme folder to go inside of it. 
   - Now add a **New File** by clicking on the new file icon at the top of the screen.  
   - When naming the new file, this time you NEED to name it **style.css**. 
