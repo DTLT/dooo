@@ -1,0 +1,6 @@
+====== Feedwordpress ======
+
+The greatest way to syndicate sites either for your individual blogs or for a course website is to use the plugin called Feedwordpress. This plugin will allow you pull post from other blogs and put them into one centralized location. First things first you need to install the plugin:
+
+===== Install Feedwordpress =====
+
