@@ -18,7 +18,8 @@ We do not actively delete users or sites on UMW Blogs. Occasionally, we will rem
 
 Another important nuance to running WordPress Multisite is that the super administrator becomes responsible for all updates to the system: WordPress updates, plugin updates, and theme updates. Since every site makes use of the same base code installation, those updates only need to occur in one place in order to impact every site in the system. In DTLT, we try to reserve major updates for semester/winter/summer holidays. Some updates can cause sites to break, and we try to limit this disruption during the semester. 
 
-**Further Reading**
+==== Further Reading ====
+
   * [[http://mashable.com/2012/07/26/beginner-guide-wordpress-multisite/|The Beginner's Guide to WordPress Multisite (Mashable)]]
   * Review all of the WordPress documentation at the [[http://support.umwblogs.org|UMW Blogs Support site]], including the [[http://support.umwblogs.org/getting-started/getting-started|Getting Started section]], the [[http://support.umwblogs.org/creating-content/creating-content|Creating Content section]], the [[http://support.umwblogs.org/appearance-and-plugins/appearance-and-plugins|Appearance & Plugins section]], and the [[http://support.umwblogs.org/general-administration/general-administration|General Administration section]].
 
