@@ -28,7 +28,7 @@ More than likely the first option highlighted will be the option you will want t
 
 ==== Feeds & Updates ====
 
-Under the Feeds & Updates page you have the option to adjust the settings either for all or just a single feed. 
+Under the Feeds & Updates page you have the option to adjust the settings either for all or just a single feed. BE CAREFUL! Adjusting the settings without selecting an individual feed will affect all of your other syndicated sites.  
 ==== Post & Links ====
 
 ==== Authors ====
