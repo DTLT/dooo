@@ -23,4 +23,4 @@ To add a new site navigate to the "**Syndicated Sites**" option located in your 
 You will need either the complete URL of the website or the feed URL of a specific page. Enter in the the website and select "**Add**". More than likely you will be given several options on the website you have selected. Feedwordpress will also provide a sample item to confirm the content that will be fed into your website. 
 
 {{https://farm4.staticflickr.com/3930/15226939568_0bfccf6577_b.jpg}}
-More than likely the first option highlighted will be the option you will want to feed into your site. If so select "**Use this feed**" Your site will now automatically pull in post from the site you have just entered. 
+More than likely the first option highlighted will be the option you will want to feed into your site. If so select "**Use this feed**" Your site will now automatically pull in post from the site you have just entered and it will be added to your "**Syndicated Sites**". 
