@@ -13,10 +13,11 @@ When installing Feedwordpress you will want to install the plugin on the site yo
 
 ===== Using Feedwordpress =====
 
-Once you have installed the plugin you will notice a new option on your sidebar menu titled "**Syndication**". This is where you will have the option to add sites you want syndicated to your main website. 
+Once you have installed the plugin you will notice a new option on your sidebar menu titled "**Syndication**". This is where you will have the option to add sites you want syndicated to your main website. Additionally, you will have the option of changing specific settings to the plugin. 
 
 ==== Syndicating Sites ====
 
-
+To add a new site navigate to the "**Syndicated Sites**" option located in your sidebar menu. On this page locate the "**New Source**" option on the righthand side of the page. 
+{{https://farm4.staticflickr.com/3928/15413133162_dc1958957f_b.jpg}}
 
 
