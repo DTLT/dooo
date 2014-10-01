@@ -4,31 +4,31 @@ The greatest way to syndicate Wordpress websites, either for your individual blo
 
 ===== Installing Feedwordpress =====
 
-When installing Feedwordpress you will want to install the plugin on the site you wish syndicate all your other blogs (i.e. your main site or course site).   
+When installing Feedwordpress, you will want to install the plugin on the site you wish to syndicate all your other blogs (i.e. your main site or course site).   
 
-  -  When logged into your Wordpress site navigate down to "**Plugins**"
-  -  Select "**Add New**"
-  -  In the search bar type in "**Feedwordpress**"
-  -  Install the plugin
+  -  When logged into your Wordpress site, navigate down to "**Plugins**."
+  -  Select "**Add New**."
+  -  In the search bar, type in "**Feedwordpress**."
+  -  Install the plugin.
 
 ===== Using Feedwordpress =====
 
-Once you have installed the plugin you will notice a new option on your sidebar menu titled "**Syndication**". This is where you will have the option to add sites you want syndicated to your main website. Additionally, you will have the option of changing specific settings to the plugin. 
+Once you have installed the plugin, you will notice a new option on your sidebar menu titled "**Syndication**". This is where you will have the option to add sites you want syndicated to your main website. Additionally, you will have the option of changing specific settings to the plugin. 
 
 ==== Syndicating Sites ====
 
-To add a new site navigate to the "**Syndicated Sites**" option located in your sidebar menu. On this page locate the "**New Source**" option on the righthand side of the page. 
+To add a new site, navigate to the "**Syndicated Sites**" option located in your sidebar menu. On this page, locate the "**New Source**" option on the righthand side of the page. 
 {{https://farm4.staticflickr.com/3928/15413133162_dc1958957f_b.jpg}}
 
-You will need either the complete URL of the website or the feed URL of a specific page. Enter in the the website and select "**Add**". More than likely you will be given several options on the website you have selected. Feedwordpress will also provide a sample item to confirm the content that will be fed into your website. 
+You will need either the complete URL of the website or the feed URL of a specific page. Enter in the the website and select "**Add**." More than likely, you will be given several options on the website you have selected. Feedwordpress will also provide a sample item to confirm the content that will be fed into your website. 
 
 {{https://farm4.staticflickr.com/3930/15226939568_0bfccf6577_b.jpg}}
 
-More than likely the first option highlighted will be the option you will want to feed into your site. If so, select "**Use this feed**." Your site will now automatically pull in posts from the site you have just entered and it will be added to your "**Syndicated Sites**." 
+More than likely, the first option highlighted will be the option you will want to feed into your site. If so, select "**Use this feed**." Your site will now automatically pull in posts from the site you have just entered and it will be added to your "**Syndicated Sites**." 
 
 ==== Feeds & Updates ====
 
-Under the Feeds & Updates page you have the option to adjust the settings either for all or just a single feed. BE CAREFUL! Adjusting the settings without selecting an individual feed will affect all of your other syndicated sites.  
+Under the Feeds & Updates page, you have the option to adjust the settings either for all or just a single feed. BE CAREFUL! Adjusting the settings without selecting an individual feed will affect all of your other syndicated sites.  
 ==== Post & Links ====
 
 ==== Authors ====
