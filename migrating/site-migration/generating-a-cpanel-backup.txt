@@ -1,4 +1,4 @@
-#Generating a cPanel Backup
+====== Generating a cPanel Backup ======
 
 Whether you plan to migrate your website to another service or you just want to have a local backup of your data, we've made it easy for you to generate and download backups of your content. The backup interface is located on the [[https://umwdomains.com/dashboard/migration | Migration page]]. To generate a backup just click the **Add Backup** button.
 {{https://farm3.staticflickr.com/2929/14066279580_c6cebb4eab_c.jpg}}
