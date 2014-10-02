@@ -4,7 +4,7 @@ After installing and activating the theme, your website will look very much like
   - Under **Appearance** in the left-hand column, you will select **Customize**. {{https://farm4.staticflickr.com/3930/15234910378_fe833c55f0_o.png}}
   - You will see your theme with a bunch of filler information in it. {{https://farm3.staticflickr.com/2945/15398454836_c386b8fc92.jpg}}
   - From the left-hand column, select **Site Title & Tagline**. This is where you can change the **Title** and **Site Tagline**. {{https://farm4.staticflickr.com/3929/15398454626_3de9812435_o.png}}
-  -  - Once you have typed in what you want for the title and site tagline, be sure to press the blue **Save & Publish** button at the top of the left-hand column. {{https://farm3.staticflickr.com/2942/15234953017_e20f98df1c_o.png}}
+  - - Once you have typed in what you want for the title and site tagline, be sure to press the blue **Save & Publish** button at the top of the left-hand column. {{https://farm3.staticflickr.com/2942/15234953017_e20f98df1c_o.png}}
   -  - Now you should notice some changes. {{https://farm3.staticflickr.com/2947/15234751539_5713d87354.jpg}}
   - Next, go to the next section in the left-hand column, **Colors**. {{https://farm4.staticflickr.com/3927/15234910208_ee3573e221_o.png}}
   -  - Select the color that you would like to be the background and press **Save & Publish**. {{https://farm3.staticflickr.com/2946/15421504165_6335cdbe93.jpg}}
