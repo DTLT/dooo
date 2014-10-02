@@ -1,4 +1,4 @@
-#Reading Settings - Front Page
+====== Reading Settings - Front Page ======
 
 WordPress is a very flexible platform for creating full-blown websites, not just blogging sites. This page will show you how to change the "front page" of your website.
 
@@ -6,17 +6,17 @@ As we have said before, WordPress provides two primary content types for you two
 
 Start at the **Dashboard**.
 
-![image](https://farm4.staticflickr.com/3881/14764078696_baa90d9f58_c.jpg)
+{{https://farm4.staticflickr.com/3881/14764078696_baa90d9f58_c.jpg}}
 
 Navigate to **Settings > Reading**.
 
-![image](https://farm6.staticflickr.com/5594/14765042256_81514a057a_c.jpg)
+{{https://farm6.staticflickr.com/5594/14765042256_81514a057a_c.jpg}}
 
 
 Normally, the front page displays your latest blog posts. What we want to do instead is select a **Page** from the website. Obviously this page has to exist before you can select it. Select the "**A static page**" radio button and choose the **About** page from the Front page drop-down menu (an About page was created for you when you installed WordPress).
 
 
-![image](https://farm3.staticflickr.com/2904/14601337520_165e949893_c.jpg)
+{{https://farm3.staticflickr.com/2904/14601337520_165e949893_c.jpg}}
 
 
 OK, great. Click the Save Changes button and now you will have the About page as your Front page. Edit it as you see fit and provide a good welcoming page for your visitors. But wait. What will happen to your blog posts? Most people will want them as the "dynamic" part of your site.
@@ -24,15 +24,15 @@ OK, great. Click the Save Changes button and now you will have the About page as
 First, create a new **Page** and title it Blog (you can title it whatever you want but Blog is common and descriptive). Leave the page blank (don't type any text in the edit box) and Publish it. Now go back to **Settings > Reading**. Under the **static page** area choose Blog from the **Posts page** drop-down.
 
 
-![image](https://farm3.staticflickr.com/2906/14787725282_699144a701_c.jpg)
+{{https://farm3.staticflickr.com/2906/14787725282_699144a701_c.jpg}}
 
 
 Click the **Save Changes** button. Now your "home" page will actually display the About page. You will also have a Blog item in your menu.
 
-![image](https://farm6.staticflickr.com/5578/14787726062_e25ddba2f0_c.jpg)
+{{https://farm6.staticflickr.com/5578/14787726062_e25ddba2f0_c.jpg}}
 
 If you click on the Blog menu item, you will then see your blog posts. Notice the **/blog** added to the web address.
 
-![image](https://farm4.staticflickr.com/3866/14785752664_9b68641d4e_c.jpg)
+{{https://farm4.staticflickr.com/3866/14785752664_9b68641d4e_c.jpg}}
 
 {{indexmenu_n>7}}
