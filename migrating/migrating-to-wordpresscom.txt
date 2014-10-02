@@ -14,7 +14,7 @@ The tool will give you the option to export **All Content** or just **Pages** an
 
 {{http://farm4.staticflickr.com/3788/11965983484_6f6a24bfd5_c.jpg}}
 
-The export file (an XML file) will be downloaded to your computer. You will use this file during the import process next. Go to [[Wordpress.com|http://www.wordpress.com]] and click **Sign Up**
+The export file (an XML file) will be downloaded to your computer. You will use this file during the import process next. Go to [[http://www.wordpress.com|Wordpress.com]] and click **Sign Up**
 
 {{http://farm4.staticflickr.com/3673/11966525876_c50835f56e_c.jpg}}
 
