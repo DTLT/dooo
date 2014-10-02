@@ -1,6 +1,7 @@
 {{indexmenu_n>2}}
 
-# BUAD 310: Principles of Marketing (Gentry)
+====== BUAD 310: Principles of Marketing (Gentry) ======
+
 
 {{page>general:choosing-a-domain-name}}
 {{page>general:signing-up-on-domain-of-one-s-own}}
