@@ -11,9 +11,9 @@ Your Web hosting account on Domain of One's Own is managed through a control pan
   * review access logs for your site
   * manually manage and configure databases
 
-Accessing cPanel has become even easier now! All you need to do is login at the top right of the page at www.umwdomains.com and your website's cPanel will automatically be displayed upon login. You'll need to enter the user ID/password that was included in the email you received during the Domain of One's Own signup process (Subject: New Account Information).
+Accessing cPanel has become even easier now! All you need to do is login at the top right of the page at www.umwdomains.com and your website's cPanel will automatically be displayed upon login. You'll need to your UMW network id/password. 
 
-Once you're logged in, you'll see the cPanel interface. It is divided into sections, making it easy to locate the different tools and services available to you. 
+Once you're logged in, you'll see the cPanel interface (labeled as your Dashboard). It is divided into sections, making it easy to locate the different tools and services available to you. 
 
 Many of the tutorials on this site walk you through particular tasks in cPanel, but we encourage you to explore on your own, as well.
 
