@@ -1,4 +1,5 @@
-#General Information
+====== General Information ======
+
 {{namespace>general}}
 
 {{indexmenu_n>1}}
