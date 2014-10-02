@@ -1,6 +1,5 @@
+====== BUAD 310: Principles of Marketing (Majid) ======
 
-
-#BUAD 310: Principles of Marketing (Majid)
 
 These tutorials should help students learn more about how to customize WordPress to create product Web sites. 
 
