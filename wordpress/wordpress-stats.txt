@@ -1,2 +1,8 @@
 ======Wordpress Statistics======
 Wordpress Statistics are great if the user is looking to view the traffic that comes to their website. There are many plugins that will help with that. [[https://premium.wpmudev.org/project/install-and-configure-a-plugin/ | You can watch how to install and configure a plugin over here.]]
+
+**Jetpack** is an easy way to add your statistics straight to your dashboard menu. 
+  - After logging in and you are on your dashboard:
+  - Hover over the **plugins** menu 
+    - Click on **Add New**
+  - **Install** the plugin **Jetpack**
