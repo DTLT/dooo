@@ -1,4 +1,4 @@
-#Restoring a cPanel Backup
+====== Restoring a cPanel Backup ======
 
 If you've [[migrating:site-migration:generating-a-cpanel-backup|generated a cPanel backup]] of your Home Folder, MySQL Databases, and/or Email Forwarders and Filters you can restore that backup to your existing account or any other webhost that supports the cPanel control panel. This makes it very easy to get your data moved to a new host when you migrate your account away from Domain of One's Own. Here is the process for restoring a backup in cPanel.
 
