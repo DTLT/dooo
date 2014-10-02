@@ -1,7 +1,8 @@
 {{indexmenu_n>12}}
 
-#HIST Workshop
-##Preparing for the History Dept Workshop (2/25/14)
+====== HIST Workshop ======
+
+===== Preparing for the History Dept Workshop (2/25/14) =====
 
 Please be sure to register first at [[http://bit.ly/doooworkshop]]. 
 
