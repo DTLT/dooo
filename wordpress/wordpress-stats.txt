@@ -10,5 +10,5 @@ Wordpress Statistics are great if the user is looking to view the traffic that c
   - Click on **Activate**. {{https://farm3.staticflickr.com/2946/15420360575_e0b66052ec_c.jpg}}
   - Click on **Settings**. {{https://farm4.staticflickr.com/3928/15233685050_dcdfed2ceb_o.png}}
   - Click on **Connect to Get Started**. {{https://farm4.staticflickr.com/3931/15420360475_ece3a7634b_c.jpg}}
-  - Connect your **Wordpress Account**. Its the **email** you used to sign up for the domain.
+  - Connect your **Wordpress Account**. Its the **email** you used to sign up for the domain. {{https://farm3.staticflickr.com/2946/15420021782_2b3ac6ce09_b.jpg}}
   -  You're all set! {{https://farm3.staticflickr.com/2942/15233611249_b35299c686_c.jpg}}
