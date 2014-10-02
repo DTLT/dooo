@@ -1,4 +1,4 @@
-# Managing Comment Spam with Akismet
+====== Managing Comment Spam with Akismet ======
 
 SPAM! Everyone hates it in their email. If you're new to WordPress and blogging platforms, spam exists in the form of comment spam - people (or vermin) leave comments promoting their services or schemes, on a post or page.
 
@@ -6,32 +6,32 @@ So how do you deal with comment spam when it can come in even more often than em
 
 To get started we need to install a plugin. To do this, we'll start at the **Dashboard**.
 
-![image](https://farm4.staticflickr.com/3881/14764078696_baa90d9f58_c.jpg)
+{{https://farm4.staticflickr.com/3881/14764078696_baa90d9f58_c.jpg}}
 
 Navigate to **Plugins > Installed Plugins**.
 
-![image](https://farm4.staticflickr.com/3844/14765005986_a91f13ae25_c.jpg)
+{{https://farm4.staticflickr.com/3844/14765005986_a91f13ae25_c.jpg}}
 
 At or near the top of the list of plugins that are automatically installed in a new WordPress installation, is [Akismet](http://wordpress.org/plugins/akismet/). It is not activated, so part of the process of getting Akismet is **Activating** the plugin. Before you activate it, however, you need to get something that will be somewhat strange for most people. It's called an API key. API stands for Application Programming Interface, and it's a way for programs and services to "talk" to each other. The Akismet plugin requires you to get an **Akismet API Key**, which is simply a "code" that you supply when activating the plugin. The key is free if you use it on a personal WordPress installation, and it's [available on the Akismet website](http://akismet.com/wordpress/). 
 
-![image](http://farm4.staticflickr.com/3762/9630985474_e8d624979d_c_d.jpg)
+{{http://farm4.staticflickr.com/3762/9630985474_e8d624979d_c_d.jpg}}
 
 Once you arrive on the Akismet for WordPress site, click the **Get an Akismet API key** button.
 
-![image](http://farm4.staticflickr.com/3812/9629484727_ce8acef3a9_o_d.jpg)
+{{http://farm4.staticflickr.com/3812/9629484727_ce8acef3a9_o_d.jpg}}
 
 If you have an account at [WordPress.com](http://wordpress.com/) you can sign in with that login and get your key. Otherwise, fill in an email address, a username, and a password to use for a new account. Click the **Sign up** button to proceed.
 
-![image](http://farm4.staticflickr.com/3687/9632762432_df63c892c9_o_d.jpg)
+{{http://farm4.staticflickr.com/3687/9632762432_df63c892c9_o_d.jpg}}
 
 Type in the URL of the site you'll use Akismet on and click on the **Sign Up** button under the Personal plan (that is if you want it to be the free version). When you get to the next page, the recommended contribution is $36. You can adjust the slider down to $0. The smiley face will begin to frown, but at least your key will be free.
 
-![image](http://farm6.staticflickr.com/5550/9629549443_3b43cba82e_o_d.jpg)
+{{http://farm6.staticflickr.com/5550/9629549443_3b43cba82e_o_d.jpg}}
 
 
 Also fill in your name and click **Continue**.
 
-![image](http://farm4.staticflickr.com/3823/9632820968_2d66b73034_o_d.jpg)
+{{http://farm4.staticflickr.com/3823/9632820968_2d66b73034_o_d.jpg}}
 
 You're finished with the sign up process for your key, and it will be displayed on the page for you (we've blurred ours out). Now follow the steps that they show you for using your new key. You will enter the key in either the Akismet area under Plugins or JetPack (if you have that installed).
 
