@@ -1,4 +1,5 @@
-#Nameservers
+====== Nameservers ======
+
 
 {{ :general:rolodex.jpg?nolink&300|}}Remember back before everyone had computers that fit in their pocket, how companies would ship a book full of phone numbers to your doorstep? We might have known who we were looking for, but we needed to look up phone numbers unless they were your crazy relatives that you learned to memorize. When you get your own domain name, by default it's nothing more than a shortcut, an address, or (to fit this very imperfect analogy) a phone number. When you type a domain name into the address bar of your browser, someone has to identify it and tell it what to display. That's where a name server comes in. 
 
