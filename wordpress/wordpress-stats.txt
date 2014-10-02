@@ -3,6 +3,12 @@ Wordpress Statistics are great if the user is looking to view the traffic that c
 
 **Jetpack** is an easy way to add your statistics straight to your dashboard menu. 
   - After logging in and you are on your dashboard:
-  - Hover over the **plugins** menu 
-    - Click on **Add New**
-  - **Install** the plugin **Jetpack**
+  - Hover over the **plugins** menu. 
+    - Click on **Add New**. {{https://farm4.staticflickr.com/3931/15233685320_cba57efee0_o.png}}
+  - **Install** the plugin **Jetpack** (Should be one of the featured plugins) {{https://farm3.staticflickr.com/2945/15233829327_d753939d19_o.png}}
+  - Confirm the installation. {{https://farm4.staticflickr.com/3929/15233814117_e04288ffc8_o.png}}
+  - Click on **Activate**. {{https://farm3.staticflickr.com/2946/15420360575_e0b66052ec_c.jpg}}
+  - Click on **Settings**. {{https://farm4.staticflickr.com/3928/15233685050_dcdfed2ceb_o.png}}
+  - Click on **Connect to Get Started**. {{https://farm4.staticflickr.com/3931/15420360475_ece3a7634b_c.jpg}}
+  - Connect your **Wordpress Account**. Its the **email** you used to sign up for the domain.
+  -  You're all set! {{https://farm3.staticflickr.com/2942/15233611249_b35299c686_c.jpg}}
