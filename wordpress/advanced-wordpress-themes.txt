@@ -4,7 +4,7 @@ After installing and activating the theme, your website will look very much like
 ====== Tips & Tricks ======
 I don't think there's any right way to customize a theme. This is all to your tastes. Most of configuring the theme involves playing around with the different options and seeing what changes what and if you like it. **WARNING: This can be a time-consuming process!**
 
-My strategy is to work down the column on the left-hand side of the dashboard under *Appearance* following the category *Themes*, which is where you chose the theme that you are now about to customize, and work through all the columns and sections within each category. This ensures that you know what you've played around with and what you still have yet to explore.
+My strategy is to work down the column on the left-hand side of the dashboard under **Appearance** following the category **Themes**, which is where you chose the theme that you are now about to customize, and work through all the columns and sections within each category. This ensures that you know what you've played around with and what you still have yet to explore.
 
 The **Customize** category gives you an overview of all the basic aesthetic changes that you can make. The categories below it (**Widgets**, **Menus**, **Theme Options**, and **Backgrounds**) all provide more in-depth ways to manage the theme's appearance. **Editor** allows you to directly change the css.
 
