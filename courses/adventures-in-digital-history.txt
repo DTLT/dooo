@@ -1,6 +1,7 @@
 {{indexmenu_n>11}}
 
-#HIST 428: Adventures in Digital History
+====== HIST 428: Adventures in Digital History ======
+
 
 {{page>general:choosing-a-domain-name}}
 {{page>general:signing-up-on-domain-of-one-s-own}}
