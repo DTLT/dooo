@@ -1,7 +1,7 @@
-#Lamp Environments
+====== Lamp Environments ======
 When you sign up for Domain of One's Own, you get space on a Web host that is associated with the project. There are a few things you need to know about the Web host that will make it easier to understand what you can do with your new space. 
 
-##The Web Server
+===== The Web Server =====
 
 The Web server is the main computer that is associated with the DooO hosting account. It's literally a computer, but it's a computer that has special software on it that allows it to be accessible via the Web. The files that run your applications, images or video you upload, or any other files you upload into your Web space are stored on this server. 
 
@@ -9,19 +9,21 @@ The Web server is the main computer that is associated with the DooO hosting acc
 
 In order to run, a Web server has an operating system installed '''and''' some kind of Web server software. The DooO server runs the '''LINUX''' operating system and an '''APACHE''' Web server. 
 
-##The Database Server
+==== The Database Server ====
 
 In addition to the Web server, there is also an associated database server. This is another computer, but it is configured with software that allows it to host databases. It is also connected to your Web server so that your applications (hosted on the Web server) can retrieve data (from databases hosted on the database server). 
 
 Databases come in LOTS of varieties. The kind of database you can use for a Web application depends on the kind of software that's installed on the database server. The DooO server can run '''MYSQL''' databases.
 
-##The Programming Language
+=== The Programming Language ===
+
 
 When you install open-source software on your Web account, it's going to be written in some programming language. Your Web server has software installed on it that allows it to understand different languages. If you install software that's written in a language that your Web server doesn't read, it won't work. 
 
 The DooO server has software installed on it that allows it to understand '''PHP''', '''PERL''', and '''PYTHON'''.
 
-##Add it Together: LAMP
+== Add it Together: LAMP ==
+
 
 If you take a look at all the descriptions above, you can determine that we are running what is know as a LAMP server for Domain of One's Own: 
 
@@ -34,7 +36,8 @@ Applications that are written for LAMP environments will, presumably, run on the
 
 What makes LAMP environments special is that all of the component parts are open-source. Linux, Apache, MySQL, PHP, PERL, and PYTHON are all open-source programs or systems. Anyone can download them (for free) and install them. Anyone can also modify them and redistribute them. As a result, there are lots of online resources for using these systems that have been built by their communities of users. But, also as a result, since you're not paying for these systems, you can't just call up a company and ask them to fix a problem.
 
-##Video Resource
+== Video Resource ==
+
 
 You may find this video, which explains how the LAMP technology stack works, useful in further understanding LAMP Web environments. 
 
