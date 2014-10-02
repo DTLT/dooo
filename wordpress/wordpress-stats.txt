@@ -12,3 +12,18 @@ Wordpress Statistics are great if the user is looking to view the traffic that c
   - Click on **Connect to Get Started**. {{https://farm4.staticflickr.com/3931/15420360475_ece3a7634b_c.jpg}}
   - Connect your **Wordpress Account**. Its the **email** you used to sign up for the domain. {{https://farm3.staticflickr.com/2946/15420021782_2b3ac6ce09_b.jpg}}
   -  You're all set! {{https://farm3.staticflickr.com/2942/15233611249_b35299c686_c.jpg}}
+
+There is a way that you can integrate your **Google Analytics** account into your blog.
+  - Follow steps 1 and 2.
+  - Search for **Google Analytics**. {{https://farm3.staticflickr.com/2941/15234220937_e7d4f8d5dd_o.png}}
+  - Install the plugin. {{https://farm3.staticflickr.com/2948/15234220237_e457776442_o.png}}
+  - Click on **Activate**. {{https://farm4.staticflickr.com/3930/15234172498_89efa5b74b_c.jpg}}
+  - Click on **Settings**. {{https://farm4.staticflickr.com/3929/15234014619_f5fd85be96_o.png}}
+  - Click on **Authorize Plugin**. {{https://farm4.staticflickr.com/3928/15397724936_01aed80a05_b.jpg}}
+  - Click on **Get Accesss Code**. {{https://farm4.staticflickr.com/3930/15397722926_18b60d597a_b.jpg}}
+  - Click **Accept** {{https://farm3.staticflickr.com/2941/15420761385_f679b71f9f_o.png}}
+  - Either sign in with your **Google** account or make a new one. {{https://farm4.staticflickr.com/3928/15234221747_bfd64efe45_o.png}}
+  - After signing in/creating account you will see the **code** to copy and paste (This one is blurred out). {{https://farm4.staticflickr.com/3931/15420783735_bc9d74b9a9_o.png}}
+  - **Paste** the code into the window. 
+  - Click **Save Access Code**. {{https://farm4.staticflickr.com/3929/15234107240_97ce93fd7f_b.jpg}}
+  - Your Statistics should now be your **Dashboard**! {{https://farm4.staticflickr.com/3927/15420430252_cd04f6447b_o.png}}
