@@ -1,4 +1,5 @@
-#Site Migration
+====== Site Migration ======
+
 {{namespace>:migrating:site-migration}}
 
 {{indexmenu_n>3}}
