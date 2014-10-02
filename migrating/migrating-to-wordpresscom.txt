@@ -1,6 +1,6 @@
-#Migrating a Site to WordPress.com
+====== Migrating a Site to WordPress.com ======
 
-{{ http://farm3.staticflickr.com/2861/11966198766_8e4f2c57a9_m.jpg}}Many students choose to install Wordpress on their website. The version of WordPress you run is known as the **self-hosted** version which allows you to install plugins and themes on your own. The benefit of this is that you can make these customizations to your site,  however the self-hosted version of WordPress requires a web hosting account. [WordPress.com](http://www.wordpress.com) is a **hosted** version of WordPress that you can run a site from free of charge. The limitation of this is that it is ad-supported and you are not able to install your own plugins and themes, however the system does come with several themes and plugins that they make available to users. While a Wordpress.com site is free, if you want to run it on a custom domain such as the one you have with UMW Domains, that is an additional charge. You can find more information about using a custom domain at [http://en.support.wordpress.com/domains/](http://en.support.wordpress.com/domains/). Here is the process of exporting the contents of your site and moving it to [WordPress.com](http://www.wordpress.com).
+{{ http://farm3.staticflickr.com/2861/11966198766_8e4f2c57a9_m.jpg}}Many students choose to install Wordpress on their website. The version of WordPress you run is known as the **self-hosted** version which allows you to install plugins and themes on your own. The benefit of this is that you can make these customizations to your site,  however the self-hosted version of WordPress requires a web hosting account. [[http://www.wordpress.com|WordPress.com]] is a **hosted** version of WordPress that you can run a site from free of charge. The limitation of this is that it is ad-supported and you are not able to install your own plugins and themes, however the system does come with several themes and plugins that they make available to users. While a Wordpress.com site is free, if you want to run it on a custom domain such as the one you have with UMW Domains, that is an additional charge. You can find more information about using a custom domain at [[http://en.support.wordpress.com/domains/|http://en.support.wordpress.com/domains/]]. Here is the process of exporting the contents of your site and moving it to [[http://www.wordpress.com|WordPress.com]].
 
 To get started, login to your WordPress site.
 
@@ -14,7 +14,7 @@ The tool will give you the option to export **All Content** or just **Pages** an
 
 {{http://farm4.staticflickr.com/3788/11965983484_6f6a24bfd5_c.jpg}}
 
-The export file (an XML file) will be downloaded to your computer. You will use this file during the import process next. Go to [Wordpress.com](http://www.wordpress.com) and click **Sign Up**
+The export file (an XML file) will be downloaded to your computer. You will use this file during the import process next. Go to [[Wordpress.com|http://www.wordpress.com]] and click **Sign Up**
 
 {{http://farm4.staticflickr.com/3673/11966525876_c50835f56e_c.jpg}}
 
