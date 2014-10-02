@@ -1,16 +1,16 @@
-#What are Subdomains?
+====== What are Subdomains? ======
 
 A subdomain is one way of organizing and separating content on your site. You're already familiar with the concept of subdomains, even if you don't know it. Consider UMW's public web site at [http://www.umw.edu](http://www.umw.edu). 
 
-![image](http://farm4.staticflickr.com/3735/9404070678_4568820da5_c_d.jpg)
+{{http://farm4.staticflickr.com/3735/9404070678_4568820da5_c_d.jpg}}
 
 As you browse parts of that site, you'll notice that the domain changes. When you're looking at your department web site, say the site for the English department at [http://cas.umw.edu/elc](http://cas.umw.edu/elc), the URL is no longer www.umw.edu. Now the root of the url is cas.umw.edu, indicating that you're on the part of the site that is dedicated to the College of Arts & Sciences.
 
-![image](http://farm4.staticflickr.com/3813/9404070630_4c88cdcb2d_c_d.jpg)
+{{http://farm4.staticflickr.com/3813/9404070630_4c88cdcb2d_c_d.jpg}}
 
 If you browse to the help pages maintained by the technology department at [http://technology.umw.edu](http://technology.umw.edu), you'll notice that the domain changes again, this time indicating that you're in the Technology section of the site.
 
-![image](http://farm6.staticflickr.com/5445/9401397309_fee6776be1_c_d.jpg)
+{{http://farm6.staticflickr.com/5445/9401397309_fee6776be1_c_d.jpg}}
 
 As you can see the domains serve two purposes: they help to organize the site from a technical perspective, but they also serve as indications to the users that they are in a new/different space. As you work on your site, you're welcome to create as many subdomains as you like, and in each subdomain you can actually create a distinct, individual web site. 
 
