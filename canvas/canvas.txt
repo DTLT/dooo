@@ -1,2 +1,2 @@
-====== Canvas Documentation ======
+====== Canvas  ======
 {{namespace>canvas}}
