@@ -1,6 +1,17 @@
 ====== Advanced Wordpress Themes ======
 After installing and activating the theme, your website will look very much like the template. Thus you will need to customize the theme to suit your desires. For this tutorial, I will be customizing the theme *Enigma*. If you decide to use a different theme, your options or experiences may differ.
 
+====== Tips & Tricks ======
+I don't think there's any right way to customize a theme. This is all to your tastes. Most of configuring the theme involves playing around with the different options and seeing what changes what and if you like it. **WARNING: This can be a time-consuming process!**
+
+My strategy is to work down the column on the left-hand side of the dashboard under *Appearance* following the category *Themes*, which is where you chose the theme that you are now about to customize, and work through all the columns and sections within each category. This ensures that you know what you've played around with and what you still have yet to explore.
+
+The **Customize** category gives you an overview of all the basic aesthetic changes that you can make. The categories below it (**Widgets**, **Menus**, **Theme Options**, and **Backgrounds**) all provide more in-depth ways to manage the theme's appearance. **Editor** allows you to directly change the css.
+
+
+====== Exploring the Appearance Categories and Subcategories ======
+
+
   - Under **Appearance** in the left-hand column, you will select **Customize**. {{https://farm4.staticflickr.com/3930/15234910378_fe833c55f0_o.png}}
   - You will see your theme with a bunch of filler information in it. {{https://farm3.staticflickr.com/2945/15398454836_c386b8fc92.jpg}}
   - From the left-hand column, select **Site Title & Tagline**. This is where you can change the **Title** and **Site Tagline**. {{https://farm4.staticflickr.com/3929/15398454626_3de9812435_o.png}} Once you have typed in what you want for the title and site tagline, be sure to press the blue **Save & Publish** button at the top of the left-hand column. {{https://farm3.staticflickr.com/2942/15234953017_e20f98df1c_o.png}} Now you should notice some changes. {{https://farm3.staticflickr.com/2947/15234751539_5713d87354.jpg}}
