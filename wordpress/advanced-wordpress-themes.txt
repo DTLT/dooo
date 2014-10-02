@@ -9,11 +9,11 @@ My strategy is to work down the column on the left-hand side of the dashboard un
 The **Customize** category gives you an overview of all the basic aesthetic changes that you can make. The categories below it (**Widgets**, **Menus**, **Theme Options**, and **Backgrounds**) all provide more in-depth ways to manage the theme's appearance. **Editor** allows you to directly change the css.
 
 ====== Terminology ======
-**Site Title**: This appears on the tab of your internet browser. It's like a name tag for the site, so that if you have multiple tabs open, you can easily see which one is which. {{image}}
-**Tagline**: This appears both on the tab of your internet browser as well as on the home page of your theme. {{image}}
-**Colors** or **Background Color**: These are the colors that will be in the background of your website or blog. When choosing them, consider how contrast and visibility factor into the appearance; you don't want something that makes it hard to read what's there. {{image}}
-**Background Image**: If you don't want to have color as your background, you can upload an image to serve as your background. However, if your image is too busy, it might reduce how easily people can read or navigate your site. {{image}}
-**Widgets**: These are independent sections of content that you can arrange and customize that appear on the sidebar of your blog or website. {{image}}
+  * **Site Title**: This appears on the tab of your internet browser. It's like a name tag for the site, so that if you have multiple tabs open, you can easily see which one is which. {{image}}
+  * **Tagline**: This appears both on the tab of your internet browser as well as on the home page of your theme. {{image}}
+  * **Colors** or **Background Color**: These are the colors that will be in the background of your website or blog. When choosing them, consider how contrast and visibility factor into the appearance; you don't want something that makes it hard to read what's there. {{image}}
+  * **Background Image**: If you don't want to have color as your background, you can upload an image to serve as your background. However, if your image is too busy, it might reduce how easily people can read or navigate your site. {{image}}
+  * **Widgets**: These are independent sections of content that you can arrange and customize that appear on the sidebar of your blog or website. {{image}}
 
 
 ====== Exploring the Appearance Categories and Subcategories ======
