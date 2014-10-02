@@ -1,5 +1,5 @@
 ====== Advanced Wordpress Themes ======
-After installing and activating the theme, your website will look very much like the template. Thus you will need to customize the theme to suit your desires. For this tutorial, I will be customizing the theme *Enigma*. If you decide to use a different theme, your options or experiences may differ.
+After installing and activating the theme, your website will look very much like the template. Thus you will need to customize the theme to suit your desires. For this tutorial, I will be customizing the theme **Enigma**. If you are using a different theme, your options or experiences may differ (most themes have the same basic components, they just display them differently). However, these tips, tricks, and guides should give you a rough idea of the many possibilities there are for customizing your theme!
 
 ====== Tips & Tricks ======
 I don't think there's any right way to customize a theme. This is all to your tastes. Most of configuring the theme involves playing around with the different options and seeing what changes what and if you like it. **WARNING: This can be a time-consuming process!**
