@@ -1,4 +1,4 @@
-#Child Themes
+====== Child Themes ======
 
 ==== What is a Child Theme? ====
 
