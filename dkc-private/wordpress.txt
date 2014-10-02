@@ -73,7 +73,7 @@ The other model of syndication we use is to individually syndicate each student'
 
 ===== Advanced WordPress Topics =====
 
-  * [[wordpress:wordpress-themes|General WordPress Theme Techniques]]
+  * [[wordpress:advanced-wordpress-themes|Advanced WordPress Theme Techniques]]
   * [[wordpress:wordpress-custom-content|WordPress Custom Content]]
   * [[wordpress:wordpress-child-themes|WordPress Child Themes]]
   * [[wordpress:wordpress-stats|WordPress Statistics]]
