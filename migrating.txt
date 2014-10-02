@@ -3,5 +3,3 @@
 ====== Migrating Off of Domain of One's Own ======
 
 
-{{namespace>:migrating}}
-
