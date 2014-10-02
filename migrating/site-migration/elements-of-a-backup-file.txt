@@ -1,29 +1,30 @@
-#Elements of a Backup File
+====== Elements of a Backup File ======
 
 If you have already gone through the process of [[migrating:site-migration:generating-a-cpanel-backup|generating a full backup]] of your account, you may be wondering what all those folders and files mean. This document will give you a breakdown of what all those folders and files are and how to use them.
 
 {{http://farm3.staticflickr.com/2815/11805603595_42600120ee_c.jpg}}
 
-##bandwidth
+====== bandwidth ======
+
 
 The **bandwidth folder** contains xml files with bandwidth information for all domains and subdomains in your account.
 
-##cron
+====== cron ======
 
 The **cron folder** will have a backup of any cron jobs you might have setup in your control panel.
 
-##dnszones
+===== dnszones =====
 
 The **dnszones folder** contains a **.db** file which can be opened in a text editor or imported to another DNS tool. This zone database contains all of the DNS records for your domain.
 
-##homedir
+==== homedir ====
 
 The **homedir directory** is the contents of your home directory, the folders and files you would see when you FTP to your account. All the files and folders for your various software installations like Wordpress live here (typically in the public_html folder).
 
-##logs
+=== logs ===
 
 The **logs folder** contains log files for access and error information on your site.
 
-##mysql
+== mysql ==
 
 The **mysql folder** contains a backup of all databases in your account. Each **.sql** file can be imported to another web host typically using a tool like PHPmyAdmin.
