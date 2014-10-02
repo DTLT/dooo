@@ -1,6 +1,6 @@
 {{indexmenu_n>1}}
 
-# AMST 202: Sophomore American Studies Seminar
+====== AMST 202: Sophomore American Studies Seminar ======
 
 {{page>general:choosing-a-domain-name}}
 {{page>general:signing-up-on-domain-of-one-s-own}}
