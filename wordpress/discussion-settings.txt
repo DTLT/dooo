@@ -1,13 +1,14 @@
-#Discussion Settings
+====== Discussion Settings ======
+
 What makes WordPress a powerful platform is that not only can you create a dynamic website, but you can also allow dynamic discussions about the content with your visitors. Having said that, the Discussion part of the site needs to be managed. Comments, the bread and butter of the discussion, can add to the overhead of your website management. You have to keep up with responses to your commenters or they will think your aren't paying attention. Comments also can come, unfortunately, in the form of Spam. We will give you some additional information about dealing with Spam in another section. For now, let's have an overview of the Discussion Settings for a WordPress site.
 
 Start at the **Dashboard**.
 
-![image](https://farm4.staticflickr.com/3881/14764078696_baa90d9f58_c.jpg)
+{{https://farm4.staticflickr.com/3881/14764078696_baa90d9f58_c.jpg}}
 
 Navigate to **Settings > Discussion**.
 
-![image](https://farm4.staticflickr.com/3869/14764843966_4794208b3b_c.jpg)
+{{https://farm4.staticflickr.com/3869/14764843966_4794208b3b_c.jpg}}
 
 The two main forms of discussion on a website have red arrows pointing to them - "Allow link notifications from other blogs (pingbacks and trackbacks)" and "Allow people to post comments on new articles".
 
@@ -21,7 +22,7 @@ There are also forms of discussion called link notifications. Spammers like thes
 
 Sometimes it's nice to have visual representations of the people who are commenting on your blog. For this, we have the **Avatars** feature.
 
-![image](https://farm6.staticflickr.com/5583/14601222519_75934c2ea9_c.jpg)
+{{https://farm6.staticflickr.com/5583/14601222519_75934c2ea9_c.jpg}}
 
 Avatars are visual representations, pictures, graphics, etc., of users of the web. A common universal system that is used is called [Gravatars](http://gravatar.com/) (Globally Recognized Avatars). The system requires you to sign up with your email address. You can upload a graphical representation of yourself (again a picture or other graphic). From then on you are identified with your Gravatar on any blog that you use that email address with.
 
