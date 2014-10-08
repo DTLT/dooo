@@ -38,3 +38,4 @@ Below are links to tutorials for setting up both FileZilla and CyberDuck to conn
   * [[https://trac.cyberduck.io/wiki/help/en/howto/ftp|CyberDuck Configuration Instructions]]
 
 {{indexmenu_n>9}}
+{{tag>[cpanel dooo]}}
