@@ -43,3 +43,4 @@ Congratulations, you've now installed WordPress! Now start customizing WordPress
 {{https://farm6.staticflickr.com/5593/14601139788_4b3c8d06cf_c.jpg}}
 
 {{indexmenu_n>0}}
+{{tag>[dooo]}}
