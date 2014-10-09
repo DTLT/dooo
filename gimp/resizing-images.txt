@@ -1,14 +1,23 @@
 ====== Resizing an Image ======
-  * In GIMP you choose the initial size of your image in the **Create a New Image** dialog box (**File** > **New**, or **Ctrl + N**). You can choose from a selection of size templates, or enter your own width and height. {{https://farm3.staticflickr.com/2947/15302619980_f37ec25df8.jpg}}
+  * In GIMP you choose the initial size of your image in the **Create a New Image** dialog box (**File** > **New**, or **Ctrl + N**). You can choose from a selection of size templates, or enter your own width and height. 
+
+{{https://farm3.staticflickr.com/2947/15302619980_f37ec25df8.jpg}}
+
   * This only determines the size of your initial workplace; you’re likely to want to resize it or other images as you work. There are several different ways to do this.
   * If you would like to resize your workspace after you’ve created it, or resize an image you opened or copied into GIMP, go to **Image** > **Scale Image** from the menubar. This will bring up the **Scale Image** dialog box. Input you desired width and height measurements and click **Scale**. {{https://farm6.staticflickr.com/5602/15302432569_afcef3053d.jpg}}
   * Using Scale Image will resize the entire image, including all of your layers. However, you can also just resize your workspace (what GIMP calls “Canvas”) and individual layers separately.
 
 ====== Resizing your Canvas ======
-  * To resize just your canvas, go to **Image** > **Canvas Size** from the menubar. This will bring up a dialog box similar to the one used to resize images. {{https://farm6.staticflickr.com/5597/15466209536_c4f41d52b1.jpg}}
+  * To resize just your canvas, go to **Image** > **Canvas Size** from the menubar. This will bring up a dialog box similar to the one used to resize images. 
+ 
+{{https://farm6.staticflickr.com/5597/15466209536_c4f41d52b1.jpg}}
+
   * Changing the width and height here will change the size of the canvas, but not the layers of your image. Think of it as cropping your image. As such, you may also want to ensure your image is positioned correctly on the canvas. You can also do this later with the “Move Tool,” but for now change the X and Y values under “Offset” so that the preview image is within your desired range. Clicking “Center” will center your layers in the canvas for you. 
   * When your satisfied, click “Resize.”
 
 ====== Resizing Layers ======
-  * If you just want to resize an individual layer, make sure the layer is selected in the **Layers** dialog box (this is typically to the right of your screen) and go to **Layer** > **Scale Layer** from the menubar. {{https://farm4.staticflickr.com/3954/15486187481_b15b503fc2_b.jpg}}
+  * If you just want to resize an individual layer, make sure the layer is selected in the **Layers** dialog box (this is typically to the right of your screen) and go to **Layer** > **Scale Layer** from the menubar. 
+
+{{https://farm4.staticflickr.com/3954/15486187481_b15b503fc2_b.jpg}}
+
   * This will bring up the **Scale Layer** dialog box. Enter your desired measurements for height and width, and click *Scale**. Now the selected layer should be whatever size you entered.
