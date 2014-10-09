@@ -6,7 +6,7 @@
   * This only determines the size of your initial workplace; you’re likely to want to resize it or other images as you work. There are several different ways to do this.
   * If you would like to resize your workspace after you’ve created it, or resize an image you opened or copied into GIMP, go to **Image** > **Scale Image** from the menubar. This will bring up the **Scale Image** dialog box. Input you desired width and height measurements and click **Scale**. 
 
-  * {{https://farm6.staticflickr.com/5602/15302432569_afcef3053d.jpg}}
+{{https://farm6.staticflickr.com/5602/15302432569_afcef3053d.jpg}}
 
   * Using Scale Image will resize the entire image, including all of your layers. However, you can also just resize your workspace (what GIMP calls “Canvas”) and individual layers separately.
 
