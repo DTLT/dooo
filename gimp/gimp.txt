@@ -1,0 +1,3 @@
+====== Gimp Tutorials ======
+
+  * [[gimp:resizing-image|Resizing Image]]
