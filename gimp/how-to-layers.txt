@@ -8,5 +8,5 @@
   * You can also merge and group layers together to make them easier to work with.
   * To merge layers, simply right click the layer above the one you want to merge it with and click merge down. You can go to Layer > Merge Down in the menubar.
 
-{{http://i.imgur.com/6nxEszC.gifv}}
+{{http://i.imgur.com/jWKBvdV.gif}}
   * To group layers without merging them—this is usually done for organization purposes as well as the ability to hide and change the order of several layers at once—click on the folder on the Layers dialog box, you can also go to Layer > New Layer Group… This will create a folder in the Layers dialog box. You can then drag and drop other layers into the folder.
