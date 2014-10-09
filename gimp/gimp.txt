@@ -1,3 +1,6 @@
 ====== Gimp Tutorials ======
 
   * [[gimp:resizing-image|Resizing Image]]
+  * [[gimp:how-to-layers|Layers]]
+  * [[gimp:how-to-paths|Paths]]
+  * [[gimp:removing-image-backgrounds|Removing Image Backgrounds]]
