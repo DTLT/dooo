@@ -5,7 +5,10 @@
   * Using Scale Image will resize the entire image, including all of your layers. However, you can also just resize your workspace (what GIMP calls “Canvas”) and individual layers separately.
 
 ====== Resizing your Canvas ======
-  * To resize just your canvas, go to Image > Canvas Size from the menubar. This will bring up a dialog box similar to the one used to resize images. Changing the width and height here will change the size of the canvas, but not the layers of your image. Think of it as cropping your image. As such, you may also want to ensure your image is positioned correctly on the canvas. You can also do this later with the “Move Tool,” but for now change the X and Y values under “Offset” so that the preview image is within your desired range. Clicking “Center” will center your layers in the canvas for you. When your satisfied, click “Resize.”
+  * To resize just your canvas, go to Image > Canvas Size from the menubar. This will bring up a dialog box similar to the one used to resize images. {{https://farm6.staticflickr.com/5597/15466209536_c4f41d52b1.jpg}}
+  * Changing the width and height here will change the size of the canvas, but not the layers of your image. Think of it as cropping your image. As such, you may also want to ensure your image is positioned correctly on the canvas. You can also do this later with the “Move Tool,” but for now change the X and Y values under “Offset” so that the preview image is within your desired range. Clicking “Center” will center your layers in the canvas for you. 
+  * When your satisfied, click “Resize.”
 
 ====== Resizing Layers ======
-  * If you just want to resize an individual layer, make sure the layer is selected in the Layers dialog box (this is typically to the right of your screen) and go to Layer > Scale Layer from the menubar. This will bring up the Scale Layer dialog box. Enter your desired measurements for height and width, and click Scale. No the selected layer should be whatever size you entered.
+  * If you just want to resize an individual layer, make sure the layer is selected in the Layers dialog box (this is typically to the right of your screen) and go to Layer > Scale Layer from the menubar. {{https://farm4.staticflickr.com/3954/15486187481_b15b503fc2_b.jpg}}
+  * This will bring up the Scale Layer dialog box. Enter your desired measurements for height and width, and click Scale. No the selected layer should be whatever size you entered.
