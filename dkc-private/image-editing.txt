@@ -4,6 +4,6 @@ There are several different types of image editing software that range from easy
 Photoshop
 ===== GIMP =====
 1. Go to http://www.gimp.org/ and download the software either for PC or Mac. 
-
+ [[https://farm3.staticflickr.com/2950/15497485522_c19d6b8e1d_b.jpg]]
 =====Pixlr=====
 1. Go to https://pixlr.com/
