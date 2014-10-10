@@ -1,5 +1,5 @@
 ====== Image Editing ======
 
-====== Photoshop ======
+===== Photoshop =====
 
-====== Gimp ======
+===== Gimp =====
