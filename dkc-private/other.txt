@@ -1,0 +1,21 @@
+====== 3D Printing: The Basics ======
+
+==== To Make Your Own Object ====
+1. Go to [[http://www.tinkercad.com]] and create a free account. {{https://farm4.staticflickr.com/3928/15494237711_a1b0676be7_c.jpg}}
+2. **Create New Design**, and have fun!
+
+==== To Get a Pre-made Design ====
+1. Go to [[http://www.thingiverse.com/]] {{https://farm3.staticflickr.com/2947/15494237311_d235fe9368_b.jpg}}
+2. Find an object you like and click **Download This Thing!** Make sure that you are downloading a **STL file**. 
+3. Once it is downloaded, go to [[https://www.makerbot.com/desktop]] and **download MakerBot Desktop.** This is the application that will allow you to format the object file into a file that the 3D printer can read. {{https://farm3.staticflickr.com/2946/15494237641_5b8574061d_b.jpg}}
+4. **Install** MakerBot. {{https://farm3.staticflickr.com/2950/15494237601_6b05360337_z.jpg}}
+5. **Select your 3D Printer** (in this case it is the MakerBot Replicator 5th Generation) {{https://farm3.staticflickr.com/2945/15310804257_6feba0eccc_o.png}}
+6. Now you will be able to see the scaling of your 3D printer. {{https://farm4.staticflickr.com/3953/15310725268_7062e76634_c.jpg}}
+7. **Add the file** of your 3D object. {{https://farm4.staticflickr.com/3955/15310472469_7536e440b6_c.jpg}}
+8. You can **turn it** and **scale it** as necessary. {{https://farm4.staticflickr.com/3941/15494237501_291baeb4cd_c.jpg}}
+9. When you have it just right, **Export Print File** and check **raft**. This will make your object more stable when printing. You can check **Standard** resolution as well. Click **Save Settings**. 
+  * If you have overhanging elements to your object, you can also check **Support.**
+  * **High** resolution is if you have have very grainual details that you absolutely need to appear on the object. 
+  * **Low** resolution is for objects that are very basic in shape/design, or for first prototypes that don't need as much detail. 
+10. If you didn't save the 3D printer friendly object file (.makerbot) to a flash drive, then move your .makerbot file to a **flash drive**. 
+11. Turn on the 3D printer, change the filament if necessary, insert your flash drive, **copy the object file to the internal storage on printer** (so you can take your flash drive out) and then print your object! 
