@@ -4,9 +4,7 @@ There are several different types of image editing software that range from easy
 Photoshop
 ===== GIMP =====
 As stated above GIMP is essentially the free version of Photoshop. Many of the same tools featured in PS are found in GIMP. However, you may not get the same level of image manipulation as you would with PS. 
-  - Go to http://www.gimp.org/ and download the software either for PC or Mac. 
-  {{https://farm3.staticflickr.com/2950/15497485522_c19d6b8e1d_b.jpg}}
-  - Open GIMP
-  - {{https://farm4.staticflickr.com/3950/15311226590_9f00cc4075_z.jpg}}
+  - Go to http://www.gimp.org/ and download the software either for PC or Mac {{https://farm3.staticflickr.com/2950/15497485522_c19d6b8e1d_b.jpg}}
+  - Open GIMP {{https://farm4.staticflickr.com/3950/15311226590_9f00cc4075_z.jpg}}
 =====Pixlr=====
 1. Go to https://pixlr.com/
