@@ -1,7 +1,7 @@
 ====== Image Editing ======
 There are several different types of image editing software that range from easy to advanced and free to expensive. To get the most out of your image editing you would want to use Photoshop because it has the most advanced tools to edit the image you want to change or create. However, most of us do not have access or can afford the cost of Photoshop, which is why some amazing person came along and created the open source software known as GIMP. 
 ===== Photoshop =====
-
+Photoshop
 ===== GIMP =====
 1. Go to http://www.gimp.org/ and download the software either for PC or Mac. 
 
