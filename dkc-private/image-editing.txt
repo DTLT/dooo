@@ -1,5 +1,7 @@
 ====== Image Editing ======
-
+There are several different types of image editing software that range from easy to advanced and free to expensive. 
 ===== Photoshop =====
 
 ===== Gimp =====
+
+=====Pixlr=====
