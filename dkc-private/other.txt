@@ -1,10 +1,10 @@
 ====== 3D Printing: The Basics ======
 
-==== To Make Your Own Object ====
+===== To Make Your Own Object: =====
 1. Go to [[http://www.tinkercad.com]] and create a free account. {{https://farm4.staticflickr.com/3928/15494237711_a1b0676be7_c.jpg}}
 2. **Create New Design**, and have fun!
 
-==== To Get a Pre-made Design ====
+===== To Get a Pre-made Design: =====
 1. Go to [[http://www.thingiverse.com/]] {{https://farm3.staticflickr.com/2947/15494237311_d235fe9368_b.jpg}}
 2. Find an object you like and click **Download This Thing!** Make sure that you are downloading a **STL file**. 
 3. Once it is downloaded, go to [[https://www.makerbot.com/desktop]] and **download MakerBot Desktop.** This is the application that will allow you to format the object file into a file that the 3D printer can read. {{https://farm3.staticflickr.com/2946/15494237641_5b8574061d_b.jpg}}
