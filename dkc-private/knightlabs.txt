@@ -1,5 +1,7 @@
 ====== TimelineJS or StoryMapJS ======
 
+===== TimelineJS =====
+
 TimelineJS is an open source tool for creating interactive timelines. You use a Google spreadsheet to manage the data for the timeline. Knight Lab (the organization that built/provides the TimelineJS script) provides a template for the spreadsheet, but we recommend using a custom template that DTLT has built. 
 
 **Preparing for this tutorial:**
@@ -8,4 +10,13 @@ TimelineJS is an open source tool for creating interactive timelines. You use a 
   - Review the [[http://timeline.knightlab.com/#help|FAQ at the TimelineJS Web site]].
   - Build your own own timeline (it can be of events surrounding a period of history or events from your own life) and blog it (tag: dkctutortimeline).
 
+===== StoryMap JS =====
 
+StoryMap JS is an open source tool that allows you to create stories using maps as the narrative tool. StoryMaps are built using a [[http://storymap.knightlab.com/select.html|Web-based authoring tool]]. In addition, StoryMap has two related features:
+  * Gigapixel: StoryMaps can be created using pixel-dense images as the base "map." You can use actual [[http://en.wikipedia.org/wiki/Gigapixel_image|Gigapixel photos]], but that is not required. Alternatively, you can use any high-resolution image as the base layer. 
+  * SnapMap: These are a special "flavor" of StoryMap that use your last 20 geo-coded instagram photos to create a narrative map. Once created, you can use StoryMap's editing tool to embellish/modify the story. 
+
+**Preparing for this tutorial**
+  - Review [[dkc-private:checking-file-usage|Checking File Usage]]
+  - Review the [[http://storymap.knightlab.com/index.html#help | FAQ at the StoryMap Web site]].
+  - Build your own storymap and blog it (tag: dkctutorstorymap)
