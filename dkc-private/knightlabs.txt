@@ -5,7 +5,7 @@ TimelineJS is an open source tool for creating interactive timelines. You use a 
 **Preparing for this tutorial:**
 
   - Review [[http://support.umwblogs.org/other-tools/spreadsheet-timeline/using-the-umw-spreadsheet-timeline | the tutorial for using TimelineJS]].
-  - Review the [[http://timeline.knightlab.com/#make|FAQ at the TimelineJS Web site]].
+  - Review the [[http://timeline.knightlab.com/#help|FAQ at the TimelineJS Web site]].
   - Build your own own timeline (it can be of events surrounding a period of history or events from your own life) and blog it (tag: dkctutortimeline).
 
 
