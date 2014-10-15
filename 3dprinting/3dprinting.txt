@@ -1,3 +1,4 @@
-3D Printing
+====== 3D Printing
+ ======
 
 [[3dprinting:basics|3D Printing: The Basics]]
