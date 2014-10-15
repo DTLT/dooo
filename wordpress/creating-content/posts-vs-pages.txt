@@ -1,0 +1,11 @@
+{{indexmenu_n>1}}
+
+#Posts vs Pages
+
+In WordPress, you add content to your site primarily by creating posts and pages. Both posts and pages can contain text, images, and other kinds of embedded media. Although the two look similar, they are different in several ways:
+
+**Posts** are marked with a timestamp, and are displayed in reverse-chronological order on your blog. They can be easily grouped and displayed based on author, category, or tag. Posts also appear in your blog's RSS feed, which you can use to automatically publish your writing on multiple sites. RSS can also be used by visitors to automatically subscribe to your blog, so they can read your posts without having to directly visit your site.
+
+**Pages** are marked with a timestamp, but are not displayed based on chronology, and cannot be grouped by author, category, or tag. Pages do not appear in your blog's RSS feed, so cannot be published automatically to other sites, and visitors must come directly to your blog to read pages.
+
+If you are using UMW Blogs as part of a course, you will most likely be asked to write **posts** for the majority of your work, although some courses do also use pages for certain assignments. When in doubt, check the syllabus, or ask your classmates or professor for clarification.

@@ -1,0 +1,80 @@
+{{indexmenu_n>6}}
+
+#Uploading and Displaying Files
+
+Whether you are uploading a file directly to WordPress, or embedding a file located on the web, the Media Library is responsible for organizing and managing images, documents, audio, video, and other kinds of files. 
+
+==== Accessing the Media Library ====
+
+[{{ :creating-content:visual-editor.png?nolink |}}]
+
+//While editing a post:// Click **Add Media** to use existing files or to upload a new file. This is the primary method for accessing the Media Library, as it allows you to both upload a file and place it in a post/page at the same time.
+
+[{{ :creating-content:media-library.png?nolink |}}]
+
+//From the dashboard:// Go to **Media -> Library** to view files you've already uploaded, or **Media -> Add New** to upload new files. This method is useful for uploading files you want to use later.
+
+==== Uploading Files to the Library ====
+
+**Using a File from the Web**
+
+[{{ :creating-content:insert-from-url.png?nolink&600 |}}]
+
+From the post/page editor, click **Add Media**, then **Insert from URL**. Enter the direct URL to the file you want to add to the Library (the URL will normally end in jpg or png for images, docx or pdf for text documents, etc), enter a title, and click **Insert into Post**. Note that files added this way are not stored in your Media Library; if the files are removed from the original storage location by the owner, they will no longer appear on your blog. Think carefully before choosing this method! Consider only using this method with files you control, e.g. images stored in your own Flickr account.
+
+**Using a File from Your Computer**
+
+[{{ :creating-content:insert-media.png?nolink&600 |}}]
+
+Click **Add Media** from the post/page editor to go to the Upload Files tab of the Media Library. When uploading files, you may either drag and drop them into marked section of the browser window, or click **Select Files** to find the ones you want to upload from your computer. Pay attention to the current maximum upload file size limit, and make sure each file you upload is below the designated limit.
+
+**Using a Previously-Uploaded File**
+
+[{{ :creating-content:insert-media-from-library.png?nolink&600 |}}]
+
+If you would like to re-use a file you have previously uploaded to your WordPress Media Library, simply click **Media Library**, find the file you want to use, and click to select it. 
+
+==== Setting File Display Options ====
+
+After uploading or selecting your file from the Media Library, you will have the opportunity to enter additional details and to set display settings. 
+
+=== Images === 
+
+[{{ :creating-content:insert-media-eagle.png?nolink&600 |}}]
+
+1)  For images, the most important of the text-based details are the:
+  * //Caption//, which should contain copyright / licensing information about the image, and the
+  * //Alt Text//, which will be displayed if a person's browser cannot display images, or if a person is using a screen reader to access your blog. If you do not enter Alt Text for your images, screen readers could potentially get stuck and be unable to load the rest of your blog.
+
+You may also wish to enter text into the Description field, and whether or not this is displayed will depend on what theme you are using. Each of these text fields accepts basic HTML (e.g. anchor tags to create links). 
+
+2)  Under Attachment Display Settings, there are three drop-downs that provide you with options about how the image is displayed:
+  * //Alignment//: whether the image is justified to the left, right, or center
+  * //Link to//: where a visitor is taken when they click on the image. This can be useful if you are embedding a very large image that cannot be displayed at full size within the post/page you are creating; if you set this option to **Media File**, visitors can click on the embedded image to see a full-size version. If you are not embedding an image that needs to be viewed at full size, you can prevent the image from being clickable by setting this option to **None**.
+  * //Size//: whenever you upload an image, the WordPress Media Library automatically generates copies of the image at standardized sizes. Pick which version should be embedded into your post/page; the optimal size depends on your theme, but usually 600px is a good place to start.
+
+3)  When you are finished, click **Insert Into Post/Page** to continue editing your post/page.
+
+=== Text Documents ===
+
+[{{ :creating-content:insert-eagle-facts.png?nolink&600 |}}]
+
+1)  For text documents, the most important of the text-based details is the title, which will be used as the text for the clickable link to this file. You will also have the ability to enter a caption and a description for your file. Whether or not these additional items are displayed will depend on what theme you are using. Each of these text fields accepts basic HTML (e.g. anchor tags to create links). 
+
+2)  Under Attachment Display Settings, there is a Link To drop-down menu that lets you pick whether the link will go directly to the file you have uploaded, or to a WordPress attachment page that displays the file. The **Media File** option is the default, and is best for most circumstances.
+ 
+3)  When you are finished, click **Insert Into Post/Page** to continue editing your post/page.
+
+==== Changing Display Options ====
+
+=== Images ===
+
+[{{ :creating-content:image-edit.png?nolink |}}]
+
+You can make changes to an embedded image by clicking on it in the post/page editor. Two new icons will appear in the top left-hand corner of the image. To make changes, click **Edit Image**, and to remove the image, click **Delete Image**. This will delete the image from your post, but it will remain in your Media Library for later use.
+
+=== Text Documents ===
+
+[{{ :creating-content:edit-text-link.png?nolink |}}]
+
+Once you have inserted the link to a file, you can change the text of the link by simply clicking on the link and making your desired edits. To change which file the link points to, or to update the caption or description, delete the link and recreate it.

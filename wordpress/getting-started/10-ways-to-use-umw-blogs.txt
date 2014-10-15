@@ -1,0 +1,153 @@
+{{indexmenu_n>1}}
+
+#10 Ways to Use UMW Blogs
+
+==== Traditional Blogging ====
+Figured we would get this one out of the way first. UMW Blogs can be used as a good, old-fashioned blog.  
+
+=== Personal Blog ===
+{{http://farm9.staticflickr.com/8287/7741992858_6520fdf7ab_n.jpg}}
+
+You can easily share your opinions, generate discourse, and interact with others using the best blogging software out there. Below are a couple of examples of personal blogs on UMW Blogs.
+
+**Examples:**
+  * Steve Greenlaw's [[http://pedablogy.stevegreenlaw.org/ | Pedablogy]]
+  * Cathy Derecki's [[http://cderecki.umwblogs.org | The Transparent University]]
+
+=== Travel Blog ===
+{{http://farm9.staticflickr.com/8428/7747714832_4d75a620b3_n.jpg}}
+
+In the same vein as the personal blog, but with an international perspective. Many UMW students blog their experiences overseas during semesters or years abroad. Some, like Jennifer Davis, even blog about experiences abroad after graduation, such as the Peace Corps.
+
+**Examples:**
+  * [[http://eminasia.umwblogs.org/ | Em in Asia]] is a blog started by Fullbright grant-winning UMW student Emily Potosky who has been regularly blogging about her adventures teaching in South Korea for mroe than two years. 
+  * Andy Livi Smith's  [[http://hisp470.umwblogs.org/ | Preservation Abroad]] featuring posts from the Historic Preservation Summer study in Paris, France.
+  * Jennifer Davis' [[http://www.triflesandtreasures.blogspot.com/ | Trifles and Treasures]] is a blog kept by a UMW Alum who has been living in Africa since her graduation 5 years ago.
+  * [[http://studyabroad.umwblogs.org/ | UMW Abroad]] aggregates posts from a wide range of study abroad students.
+
+=== Review Blog ===
+{{http://farm7.static.flickr.com/6018/5961441897_1a40819cb2.jpg}}
+
+If your interests lie in music, art, literature, or film, you might decide that what you really want is a space to share your reviews and observations.
+
+**Examples:**
+  * [[http://stuffforstarvingstudents.umwblogs.org | Stuff for Starving Students]] (technology)
+  * [[http://imnore.blogspot.com/ | Anglo-Audiophile: The Reviews]] (music)
+  * [[http://unclelumpy.umwblogs.org/ | Uncle Lumpy's Down-Home Art Blog and Pancake Emporium Uncle Lumpy's Downhome Art Blog and Pancake Emporium]] (art)
+
+==== Courses ====
+
+There is more than one way to skin a course with UMW Blogs. Below are two examples:
+
+=== A Group Blog ===
+
+{{http://farm9.staticflickr.com/8301/7747936104_97d3e86a68_n.jpg}}
+
+This blog is for the professor who wants to have the class blogging together as a group on one blog. This is probably the easiest to implement, given the Add Users widget, which allows students who already have a blog or username to simply sign up for the blog with their e-mail address. See a tutorial for accomplishing this [[faq#how-do-i-add-users-as-authors-to-my-blog | here]].
+
+**Examples:**
+  * Prof. Mara Scanlon's [[http://mopos12.umwblogs.org/ | Modern Poetry group blog]]
+  * Prof. Krystyn Moon's [[http://consumerism.umwblogs.org/ | American Consumerism]]
+  * Prof. Steve Gallik's  [[http://histologyolm.umwblogs.org/ | Histology Lab Blog]]
+
+=== An Aggregated Course Blog ===
+
+{{http://farm9.staticflickr.com/8167/7747969320_c44cb2634d_n.jpg}}
+
+If many distributed posts are relevant to a certain subject or topic, they can be aggregated into one course blog (or "Mother Blog") for a running stream of the latest work from various students within the class. This option allows students to own the work they do for a variety of classes in their own "digital notebook."
+
+**Examples:**
+  * Prof. Melanie Szulczewski's [[http://envproblems2012.umwblogs.org/ | Examining Global Environmental Problems]]
+  * Prof. Rosemary Jesionowski's [[http://digiarts.umwblogs.org/ | Art in the Age of Technological Reproduction]]
+
+==== E-Portfolios ====
+{{http://farm9.staticflickr.com/8423/7748008610_8d86da7667.jpg}}
+
+UMW Blogs is an ideal way for students to create a portfolio of class projects, or even a personal portfolio. Such a portfolio could conveniently go on a resumè or C.V.  Find out more about UMW Blogs as a portfolio [[http://portfolios.umwblogs.org/ | here]]. Also, keep in mind we can also give you the ability to [[faq#how-do-i-map-my-own-domain-to-my-umw-blog | map your own domain on UMW Blogs]].
+
+**Examples:**
+  * [[http://caitlinpringlemurphy.com/ | Caitlin Murphy]]
+  * [[http://hirehassan.com | Hire Hassan]]
+  * [[http://serenae.com | Serena Epstein's freelance creativity]]
+
+==== Websites ====
+The flexibility of Wordpress can be used to create powerful static websites as well, without using external applications like Dreamweaver. Below are a few examples of the types of sites you can create with UMW Blogs.
+
+=== Research Sites ===
+{{http://farm9.staticflickr.com/8447/7748080206_3db2d952b1.jpg}}
+
+UMW Blogs can be used for class projects or individual research. A couple of recent examples from Jeff McClurken's [[http://dh2012.umwblogs.org/ | Digital History course]] are the [[http://jamesfarmerlectures.umwblogs.org/ | The James Farmer Lectures]] and the [[http://buildings.umwblogs.org/ | UMW Buildings site]]. 
+
+**Examples:**
+  * [[http://jamesfarmerlectures.umwblogs.org/ | The James Farmer Lectures]]
+  * [[http://buildings.umwblogs.org/ | UMW Buildings Site]]
+
+=== Professional Sites ===
+{{http://farm8.staticflickr.com/7112/7748125302_2febaa4471.jpg}}
+
+Faculty have even started to use it as a quick and easy way to create their own homepage to publish information about their scholarship, teaching, publications, etc. Professors [[http://mcclurken.umwblogs.org | Jeffrey McClurken]] and [[http://warrenrochelle.com | Warren Rochelle]] offer a couple of compelling examples.
+
+**Examples:**
+  * [[http://warrenrochelle.com | Warren Rochelle's professional homepage]]
+  * [[http://mcclurken.org | Jeffrey McClurken's professional homepage]]
+
+=== Student Organizations ===
+{{http://farm9.staticflickr.com/8306/7748218192_964832291d.jpg}}
+
+Blogs are a great way for student groups to stay connected and share information with themselves and the community. Student organizations use their blogs to display important club information, news, student resources, and multimedia.
+
+**Examples:**
+  * [[http://studentgov.umwblogs.org/ | Student Government Association (SGA)]]
+  * UMW's radio station [[http://wmwc.umwblogs.org/ | WMWC]]
+  * [[http://umwpac.umwblogs.org/ | UMW Performing Arts Club]]
+
+==== News ====
+{{http://umwblogs.org/files/2012/08/Screen-Shot-2012-08-09-at-3.36.43-PM-e1344541121205.png}}
+
+Blogging is a popular way of sharing information with others. Using a blog to keep your community up-to-date has becoming increasingly more popular over the last decade, and several people within the UMW Blogs community have been using it just for that. 
+
+Take for example UMW's student-run newspaper [[http://umwbullet.com/ | The Bullet]] or the [[http://eagleeye.umw.edu | UMW Faculty and Staff Newsletter Eagle Eye]].
+
+**Examples:**
+  * [[http://eagleeye.umw.edu | Eagle Eye]]
+  * [[http://umwbullet.com/ | The Bullet]]
+
+==== Collaboration ====
+UMW Blogs offers an excellent platform for creating virtual meeting spaces for completing group projects, and makes collaboration easier.  There are many examples of using blogs as such a space, where multiple users can quickly share with one another. 
+
+==== Publications ====
+UMW Blogs reduces some of the technical and monetary challenges of creating high-quality online journals, magazines, zines, and numerous other publications. The work of Mike McCarthy's and Claudia Emerson's students have been doing in the Literary Journals class provide an excellent example of this possibility, which has really only just begun to be explored.
+
+**Examples:**
+  * UMW's Bi-annual Literary Magazine [[http://aubade.umwblogs.org/ | Aubade]]
+  * [[http://literaryjournals.umwblogs.org | Over 30 examples of Literary Journals created by UMW students over the past 5 years]]
+
+==== Multimedia ====
+
+People can share their personal multimedia, such as audio and video.
+
+**Examples:**
+  * [[http://growingupgivingback.umwblogs.org | Historic Preservation Exhibit]]
+  * [[http://jamesfarmerlectures.umwblogs.org | The James Farmer Lectures]]
+  * [[http://umw.edu/greatlives | Great Lives site]] (now on UMW.EDU!)
+  * [[http://ilmashup.umwblogs.org | Italian 202 Mashups]]
+
+==== Creating New Web Applications ====
+Wordpress is flexible enough that advanced users can utilize themes and hacks to create their own social networking tools.  Fragment is one example already discussed under the collaboration section. Fragment allows users to give short "shout-outs" in an expressive space, using the Prologue theme that is a [[http://twitter.com | Twitter]] knock-off.
+
+Additionally, Professor Marie McAllister is using a UMW Blog to create an audio sharing site focused on [[http://ecaudio.umwblogs.org | Eighteenth-Century Poetry]].  The site leaves very few traces of a blog; in fact, it is using RSS to aggregate poems by specific authors on a page. Each of these links leads the visitor to a post that has the audio.  Moreover, the audio comes from a combination of sources, such as the public domain audio files at [[http://librivox.org | Librivox]], as well as poems recorded by professors and students more locally. So far the site has over 175 audio poems, and it is less than a year old.  
+
+**Examples:**
+  * [[http://ecaudio.umwblogs.org | Eighteenth-Century Poetry audio sharing site]]
+  * [[http://fragment.umwblogs.org | Fragment: A Twitter like interface for WordPress]]
+  * Prof. Jessie Fillerup's [[http://ammusic.umwblogs.org/ | Fredericksburg Musicians' Marketplace]]
+
+==== Presentations ====
+Given how attractive a blog on UMW Blogs can be- and all the features it affords you- why not use it to create a presentation for a conference that can serve at the same time as a resource for references, ideas, and concepts long after the presentation is over? It has been done pretty effectively already. Follow the links below to see a few examples.
+
+**Examples:**
+  * [[http://duke.umwblogs.org/ | Jim Groom's Duke CIT presentation]]
+  * [[http://notablog.umwblogs.org | Don't Call it a Blog presentation at ACCS 2008]]
+  * [[http://atlss.umwblogs.org | Steve Greenlaw's Augmenting Teaching and Learning with Social Software]]
+  * [[http://tools.umwblogs.org | Joe McMahon and Jim Groom's presentation for incoming Freshmen, Fall 2007]]
+  * [[http://boringtoblogging.umwblogs.org | Jami Bryan's "Boring to Blogging" presentation at Faculty Academy 2008]]

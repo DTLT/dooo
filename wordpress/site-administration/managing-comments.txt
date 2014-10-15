@@ -1,0 +1,11 @@
+{{indexmenu_n>2}}
+
+#Managing Comments
+
+Click on the comments tab on the left hand side to open the comments management area.
+
+{{:general-administration:comments_side_bar.png?150|}}
+
+Then you will be directed to a screen similar to this, from here you have many different options available to manage your comments. It is highly recommended that you download the Akismet plugin and sign up for a free account because that will greatly reduce the number of spam comments.
+
+{{:general-administration:comments_screen.png?600|}}

@@ -1,0 +1,22 @@
+{{indexmenu_n>3}}
+
+#Adding and Changing Widgets
+
+
+WordPress Widgets add content and features to your Sidebars. Examples are the default widgets that come with WordPress; for post categories, tag clouds, navigation, search, etc. Plugins will often add their own widgets.
+
+Widgets were originally designed to provide a simple and easy-to-use way of giving design and structure control of the WordPress Theme to the user, which is available in some WordPress Themes to include the header, footer, and elsewhere in the WordPress design and structure. Widgets require no code experience or expertise. They can be added, removed, and rearranged on the WordPress dashboard Appearance > Widgets panel. The order and placement is set by the WordPress Theme.
+
+Some WordPress Widgets offer customization and options such as forms to fill out, includes or excludes of data and information, optional images, and other customization features.
+
+There are two ways to change your widgets. Both are accessed by clicking on "Appearance," on the left sidebar.
+
+{{  :appearance-and-plugins:appearance_widgets.png?150  |}}
+
+The first way is to click, "Widgets," in the submenu that appears after clicking appearance. You will be taken to another page where you can adjust the widgets as you need.
+
+{{  :appearance-and-plugins:widgets_acess_1.png?500  |}}
+
+The second is to click, "Customize," in the submenu that appears after clicking appearance. This will take you to a new page where you can toggle the page Widgets and see how they appear on your site. 
+
+{{  :appearance-and-plugins:widgets_acess_2.png?600  |}}

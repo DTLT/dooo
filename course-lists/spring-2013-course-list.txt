@@ -1,0 +1,81 @@
+{{indexmenu_n>12}}
+
+#Spring 2013
+
+====Art & Art History====
+  * Joe DiBella's [[http://arts342.umwblogs.org/|Painting II]] 
+  * Rosemary Jesionwoski's [[http://digiarts.umwblogs.org/|Digital Approaches to Art]] 
+
+====Biology====
+  * Theresa Grana's [[http://bioinformatics2013.umwblogs.org/|Biology 471V: Bioinformatics]] 
+
+====Chemistry====
+  * Leanna Giancarlo's [[http://physchem.umwblogs.org|CHEM388: Physical Chemistry]] 
+
+====Classics, Religion, and Philosophy====
+  * David Ambuel and Angela Pitts'[[http://meditation.umwblogs.org|PHIL 231: Contemplative Practice]] 
+  * Mary Beth Matthew and Krystyn Moon's [[http://religionandsex.umwblogs.org/|RELG 331/AMST 303: Religion and Sex in America]] 
+
+====Computer Science====
+  * Karen Anewalt's [[http://cpsc110online.umwblogs.org/|Computer Science 110: Introduction to Computer Science ]]
+  * Alan Levine's [[http://ds106.us|Computer Science 106: Digital Storytelling]]  
+
+====Earth & Environmental Science====
+  * Melanie Szulczewski's [[http://envproblems2013.umwblogs.org/|EESC 230: Global Environmental Problems]] 
+
+====English, Linguistics, and Communication====
+  * Claudia Emerson's [[http://ethershop.umwblogs.org|Ethershop]]
+  * Chris Foss' [[http://brl13.umwblogs.org/|English 335B: British Romantic Literature]] 
+  * Chris Foss' [[http://bvl13.umwblogs.org/|English 336: British Victorian Literature]] 
+  * Gary Richard's [[http://modernamericanfiction2013.umwblogs.org/|Modern American Fiction]]
+  * Warren Rochelle's [[http://tolkien.umwblogs.org/|English 461: Tolkien Seminar]] 
+  * Warren Rochelle's [[http://302prose.umwblogs.org/|ENGL 302: Introduction to Creative Writing]] (sections 1 & 2)
+  * Amanda Rutstein's [[http://302poetry.umwblogs.org/|ENGL 302: Introduction to Creative Writing]] (sections 3 & 4) 
+  * Mara Scanlon's [[http://copos13.umwblogs.org/|Contemporary Poetry]] 
+  * Mara Scanlon's [[http://longpoems13.umwblogs.org/|Seminar on American Long Poems]] 
+  * Zach Whalen's [[http://gamecult.umwblogs.org/|ENLG 251AA: Games & Culture]] 
+  * Zach Whalen's [[http://graphicnovel.umwblogs.org/|ENGL 386: The Graphic Novel]] (sections 1 & 2)
+
+====Freshman Seminars====
+  * Debra Hydorn's [[http://infographics2013.umwblogs.org/|FSEM 105G Sections 1 & 2: Infographics]] 
+
+====Geography====
+  * Jackie Gallagher's [[http://hazards.umwblogs.org/|Geography 240: Natural Hazards]] 
+
+====Historic Preservation====
+  * Gary Stanton's [[http://hisp102.umwblogs.org/|HISP 102: Preserving Historic America]] 
+  * Gary Stanton's [[http://hisp305.umwblogs.org/|HISP 305: American Building]] 
+
+====History and American Studies====
+  * Sue Fernsebner's [[http://chinesefilm2013.umwblogs.org/|Chinese History through Film]] 
+  * Sue Fernsebner's [[http://history466.umwblogs.org/|HIST 466: A Cultural History of Late 20th c. China]]
+  * Steven Harris' [[http://stalinism.umwblogs.org/|HIST 471C5: Stalin and Stalinism]] 
+  * Jeff McClurken's [[http://civilwarmemory2013.umwblogs.org/|Remembering the Civil War]] 
+  * Jeff McClurken's [[http://2013hist325.umwblogs.org/|History of American Technology & Culture]] 
+  * Mary Beth Matthew and Krystyn Moon's [[http://religionandsex.umwblogs.org/|AMST 303/RELG 331: Religion and Sex in America]] 
+  * Allyson Poska's [[http://hist362s10.umwblogs.org/|HIST 362: History of Latin America II]] 
+  * Jess Rigelhaupt's [[http://amst201s13.umwblogs.org/|AMST 201: Introduction to American Studies]] 
+  * Jess Rigelhaupt's [[http://amst202s13.umwblogs.org/|AMST 202: Sophomore American Studies Seminar]] 
+  * Jess Rigelhaupt's [[http://amst350m.umwblogs.org/|AMST 350M: Healthcare Oral History]] 
+
+====Honors====
+  * Leanna Giancarlo's [[http://lgiancar.umwblogs.org|HONR 100B: Mad, Bad, & Evil Scientists]] 
+  * Mary Kayler's [[http://partplay.org/|HONR 100E: Participatory Play]] 
+
+====Modern Foreign Languages====
+  * Jeremy LaRochelle's [[http://jlarochelle31713.umwblogs.org/|Español 317: Escribir para aprender]] 
+
+====Music====
+  * Mark Snyder's [[http://midi.umwblogs.org|Introduction to MIDI Composition: MUTH 170]] 
+  * Mark Snyder's [[http://composition.umwblogs.org|Introduction to Music Composition: MUTH 483]] 
+
+====Psychology====
+  * Mindy Erchull's [[http://methodsspring13.umwblogs.org/|Research Methodology]] 
+  * Denis Nissim-Sabat's [[http://clinical.umwblogs.org|Clinical Psychology]] 
+
+====Sociology====
+  * Tracy Citeroni's [[http://body2013.umwblogs.org/|SOCG 400: Sociology of the Body]] 
+  * Tracy Citeroni's [[http://qrm2013.umwblogs.org/|Qualitative Research Methods Hub]] 
+
+====Theatre====
+  * Chris Wingert's [[http://musicaltheatre.umwblogs.org/|Theatre 435: Musical Theatre]] 

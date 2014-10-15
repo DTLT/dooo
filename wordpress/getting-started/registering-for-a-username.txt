@@ -1,0 +1,17 @@
+{{indexmenu_n>2}}
+
+#Registering for a Username (Only)
+
+1)  To register your username, go to the [[http://umwblogs.org | UMW Blogs homepage]], and click the "Create a New Account" link.
+
+{{:getting-started:umwblogs-create-account.png?nolink&300|}}
+
+2)  On the registration form, enter a username and your @mail.umw.edu e-mail address, the read the terms and click the "I Agree" box. Make sure the "Just a username, please" radio button is selected.
+
+{{:getting-started:create-username.png?nolink&500|}}
+
+3)  Click the Next button, and you will receive an email with a confirmation link. 
+
+4)  Log into your UMW email address and click the confirmation link. Once you've clicked this link to confirm your email address, you will be provided with your initial UMW Blogs password, and can log in immediately.
+
+5)  Keep in mind that, when you sign up for a username only, your ability to do anything will be very limited until you have either created a blog for yourself or added yourself to an existing blog.

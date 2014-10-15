@@ -1,0 +1,10 @@
+{{indexmenu_n>1}}
+
+#Spreadsheet Mapper
+
+====Documentation====
+  * [[Using the UMW Spreadsheet Mapper]]
+  * [[Sample Map]]
+
+====Course Mapper Templates====
+  * [[https://drive.google.com/previewtemplate?id=0ArGF135eKnjDdGEweUU4a2Uwell2TzB1OW5OM2RNU2c&mode=public|General UMW Spreadsheet Mapper]]

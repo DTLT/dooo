@@ -1,0 +1,8 @@
+{{indexmenu_n>4}}
+
+#Finding Your RSS Feed
+
+This will pull a page that will not really be useful to you, but you can grab the URL at the top and plug it into a RSS reader such as tiny tiny RSS and it will display it in a readable format that will give you the latest updates.
+
+From your homepage or where ever your posts appear, simply add "/rss" or "/feed" to your URL, "http://sampleblog.umwblogs.org/feed/"
+

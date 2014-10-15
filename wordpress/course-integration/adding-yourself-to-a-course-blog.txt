@@ -1,0 +1,14 @@
+{{indexmenu_n>7}}
+
+#Adding Yourself to a Course Blog
+
+Some courses require you to write posts directly on a central course blog. To do this, you will need to add yourself as an Author to that course blog.
+
+1)  Make sure you are logged into UMW Blogs, then visit the central blog for your course. Remember, if you are not sure where to find the blog for your course, visit the [[http://umwblogs.org/courses/|Courses section of UMW Blogs]], where all current and previous course blog links are listed.
+
+2)  Look for and click the "Add Me" button -- it is usually on the right side of the blog homepage, near the top, but it may also be on the left, or even at the bottom of the homepage. Once you have clicked the button, the page will refresh, and your course blog will now appear under the My Sites menu.
+
+Other Notes:
+  * If you do not find the "Add Me" button, but instead see the following message: "If you want to add yourself to this blog, please log in," this means you are not logged in. Log in and try again.
+  * If you are logged in and continue to have a hard time finding the "Add Me" button, ask a classmate or your professor.
+  * Once you have added yourself as an author to a course blog, you cannot remove yourself. If you drop the class or otherwise need to be removed from the course blog, contact your professor for assistance.

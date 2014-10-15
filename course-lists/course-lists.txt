@@ -1,0 +1,25 @@
+{{indexmenu_n>7}}
+
+#Course Lists
+
+These pages archive the courses taught using UMW Blogs since Fall of 2008. If you know of a course that was taught on UMW Blogs that we don't have listed here, please email Ryan at <rbrazell@umw.edu>.
+
+=== Current Semester ===
+  * [[Fall 2014 Course List|Fall 2014]]
+
+=== Archives ===
+
+  * [[Fall 2008 Course List|Fall 2008]]
+  * [[Spring 2009 Course List|Spring 2009]]
+  * [[Summer 2009 Course List|Summer 2009]]
+  * [[Fall 2009 Course List|Fall 2009]]
+  * [[Spring 2010 Course List|Spring 2010]]
+  * [[Summer 2010 Course List|Summer 2010]]
+  * [[Fall 2010 Course List|Fall 2010]]
+  * [[Spring 2011 Course List|Spring 2011]]
+  * [[Fall 2011 Course List|Fall 2011]]
+  * [[Spring 2012 Course List|Spring 2012]]
+  * [[Fall 2012 Course List|Fall 2012]]
+  * [[Spring 2013 Course List|Spring 2013]]
+  * [[Fall 2013 Course List|Fall 2013]]
+  * [[Spring 2014 Course List|Spring 2014]]

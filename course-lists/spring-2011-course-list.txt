@@ -1,0 +1,96 @@
+{{indexmenu_n>8}}
+
+#Spring 2011
+
+====Art and Art History====
+  * Joe Dibella's [[http://painting2.umwblogs.org/|Arts 342: Painting II]] 
+  * Joe Dibella's [[http://arts492.umwblogs.org/|Arts 492: Individual Study]] 
+  * Carole Garmon's [[http://cgar.umwblogs.org/|Approaches to Video Art]] 
+  * Rosemary Jesionowski's [[http://summerdigiarts.umwblogs.org/|Digital Approaches to Fine Arts]] 
+
+====Biology====
+  * Theresa Grana's [[http://bioinformatics2011.umwblogs.org/|Bioinformatics]] 
+
+====Chemistry====
+  * Leanna Giancarlo’s [[http://physchem.umwblogs.org/|Chemistry 383a: Physical Chemistry]] 
+
+====Classics, Philosophy, and Religion====
+  * David Ambuel's [[http://buddhism.umwblogs.org|PHIL/RELG 284: Buddhism]] 
+  * Dan Davis' [[http://ddavis4.umwblogs.org/|My Philosophical Autobiography]] 
+  * Nina Mikalevsky's [[http://americanphilosophy.umwblogs.org/|American Philosophy]]
+  * Nina Mikalevsky's [[http://introphilosophy.umwblogs.org/|Introduction to Philosophy]] 
+
+====Computer Science====
+  * Ernie Ackermann's [[http://cpsc110.umwblogs.org/|CPSC 110: Introduction to Computer Science]] 
+  * Ernie Ackermann's [[http://cpsc401.umwblogs.org/|CPSC 401: Organization of Programming Languages]] 
+  * Martha Burtis' [[http://digsto.umwblogs.org/|Digital Storytelling]] (section 2)
+  * Jim Groom's [[http://ds106.us|CPSC 106: Digital Storytelling]] (sections 3 & 4)
+  * Jeremy Robinson's [[http://cpsc125.umwblogs.org/|CPSC 125: Introduction to Discrete Mathematics]] 
+
+====Earth and Environmental Sciences/Geology====
+  * Melanie Szulczewski's [[http://envproblems2011.umwblogs.org/|EESC 230: Environmental Problems]] 
+  * Neil Tibert's [[http://paleo.umwblogs.org/|GEOL 201 – Paleontology]]
+  * Neil Tibert's [[http://oceans.umwblogs.org/|GEOL/EESC 210 – Oceanography]] 
+
+====Economics====
+  * Steve Greenlaw's [[http://econ488.umwblogs.org/|Econ 488: Seminar in Advanced Macroeconomics]] 
+  * Steve Greenlaw's [[http://econ304.umwblogs.org/|Econ 304: Intermediate Macro]] 
+
+====English, Linguistics, and Communication====
+  * Brady Earnhart's [[http://302prose.umwblogs.org/|English 302: Introduction to Creative Writing]] (sections 1 & 2)
+  * Claudia Emerson's [[http://ethershops11.umwblogs.org/|English 304: Creative Writing: Poetry]] 
+  * Chris Foss' [[ENGL 335B, British Romantic Literature, Spring 2011|ENGL 335B, British Romantic Literature]]
+  * Chris Foss' [[[ENGL 336, Victorian Literature, Spring 2011|ENGL 336, Victorian Literature]]
+  * Maya Mathur's [[http://engl295.umwblogs.org/|Introduction to Literary Studies]]
+  * Mike McCarthy's [[http://litjournalspring11.umwblogs.org/|Literary Journal]]
+  * John Morello's [[http://communication351.umwblogs.org/|Communication and Political Campaigns]] 
+  * Anand Rao's [[http://vizrhet11.umwblogs.org|Visual Rhetoric]] 
+  * Gary Richards' [[http://modernamericanfiction.umwblogs.org/|Modern American Fiction]] 
+  * Gary Richards' [[http://broadwaybabies.umwblogs.org/|Broadway Babies]] 
+  * Gary Richards' [[http://williamfaulkner.umwblogs.org/|William Faulkner]] 
+  * Warren Rochelle's [[http://302prose.umwblogs.org/|English 302: Introduction to Creative Writing]] (sections 3 & 4)
+  * Mara Scanlon's [[http://edhds11.umwblogs.org|Dickinson and H.D.]]
+  * Zach Whalen's [[http://media.elsweb.org|ENGL 202H: Writing through Media]] 
+
+====Freshman Seminars====
+  * Jackie Gallagher's [[http://waterresources.umwblogs.org/|FSEM: Water Resources]] 
+  * Angela Pitts' [[http://katabasis2.umwblogs.org/|FSEM: Katabasis]] 
+  * Zach Whalen's [[http://vgc.gameology.org|FSEM 100E3: A Videogame Canon]]
+====Geography====
+  * Jackie Gallagher's [[http://hazards.umwblogs.org/|Geography 240: Natural Disasters]] 
+  * Donald Rallis' [[http://www.regionalgeography.org/world|Geog 101: World Regional Geography]] 
+  * Donald Rallis'  [[http://www.regionalgeography.org/asia|Geog 307: Geography of Asia]] 
+  * Donald Rallis' [[http://www.regionalgeography.org/|Regional GeogBlog]] 
+
+====History & American Studies====
+  * Sue Fernsebner's [[http://history365.umwblogs.org/|History 365: Late Imperial China]] 
+  * Susan Fernsebner's [[http://history365discussion.umwblogs.org|History of China]] 
+  * Jeff McClurken's [[http://2011hist325.umwblogs.org|American Technology & Culture]] 
+  * Jeff McClurken's [[http://civilwarmemory.umwblogs.org/|Civil War in American Memory]] 
+  * Krystyn Moon's [[http://hist299.umwblogs.org/|History 299: Intro to the Study of History]] 
+  * Krystyn Moon's [[http://consumerism.umwblogs.org/|AMST 303: Consumerism]]
+  * Krystyn Moon's [[http://popularculture.umwblogs.org|US History and Popular Culture]]
+  * Bruce O'Brien's [[http://hist121s11.umwblogs.org/|Western Civilization I]] 
+  * Bruce O'Brien's [[http://hist332s11.umwblogs.org/|History of Rome]] 
+  * Bruce O'Brien's [[http://hist201s11.umwblogs.org/|The Early Crusades]] 
+  * Jess Rigelhaupt's [[http://amst201sec1s11.umwblogs.org/|Intro to American Studies: Section 1]] 
+  * Jess Rigelhaupt's [[http://amst201sec2s11.umwblogs.org/|Intro to American Studies: Section 2]] 
+  * Jess Rigelhaupt's [[http://amst202s11.umwblogs.org/|AMST 202: Sophomore American Studies Seminar]] 
+  * Jess Rigelhaupt's [[http://laborhistory2011.umwblogs.org/|US Labor History]] 
+
+====Library Sciences====
+  * Christy Glancy's [[http://libs101.umwblogs.org/|Library Studies 101]] 
+
+====Music====
+  * Jessie Fillerup's [[http://time.umwblogs.org/|"What is time?" Seminar]] 
+  * Jessie Fillerup's [[http://ravel.umwblogs.org/|Music 153: Opera]] 
+
+====Political Science====
+  * Jason Davidson's [[http://securityandconflict.umwblogs.org/|Security and Conflict Studies]] 
+
+====Psychology====
+  * Denis Nissim-Sabat's [[http://abpsych.umwblogs.org/|Abnormal Psychology]] 
+  * Denis Nissim-Sabat's [[http://clinical.umwblogs.org/|Clinical Psychology]] 
+
+====Theatre====
+  * Kevin McClurskey's [[http://thea113.umwblogs.org/|Theatre 113: Introduction to Theatre Design]]

@@ -1,0 +1,86 @@
+{{indexmenu_n>7}}
+
+#Fall 2010
+
+====Art and Art History====
+  * Carole Garmon's [[http://creativeact.umwblogs.org|The Creative Act]] 
+  * Rosemary Jesionowski's [[http://summerdigiarts.umwblogs.org|Digital Approaches to Fine Art]] 
+
+====Computer Science====
+  * Ernie Ackermann's [[http://cpsc110.umwblogs.org|Introduction to Computer Science]] 
+  * Jim Groom's [[http://ds106.umwblogs.org|Digital Storytelling]] 
+
+====Economics====
+  * Steve Greenlaw's [[http://econ201.umwblogs.org|ECON 201]] 
+  * Steve Greenlaw's [[http://econ300.umwblogs.org|ECON 300]] 
+  * Shawn Humphries's [[http://laceibamfi.umwblogs.org|LeCeiba]] 
+  * Robert Rycroft's [[http://econ324.umwblogs.org|ECON 324: Economics of Philanthropy]] 
+
+====English, Linguistics, and Communication====
+  * Brady Earnhart's [[http://302poetry.umwblogs.org|English 302]] 
+  * Claudia Emerson's [[http://ethershopf10.umwblogs.org|Ethershop]] 
+  * Chris Foss' [[http://dislit.umwblogs.org|Disability and Literature]] 
+  * James Harding's [[http://marketingradicalism.umwblogs.org|Marketing Radicalism: U.S. Theatre and Performance in the 1960s]] (taught at the Freie Uni, Berlin.)
+  * James Harding's [[http://americanavantgarde.umwblogs.org|American Avant-Garde Performance]] (taught at the Freie Uni, Berlin.)
+  * Ben Labreche's [[http://benlabreche.umwblogs.org|Writing about Liberty]] 
+  * Maya Mathur's [[http://shakespace.umwblogs.org|Shakespeare Online]] 
+  * Tim O'Donnell's [[http://argumentation.umwblogs.org|Argumentation]]
+  * Anand Rao's [[http://publicspeaking2010.umwblogs.org|Public Speaking]] 
+  * Anand Rao's [[http://smallgroup2010.umwblogs.org|Small Group Communication]] 
+  * Anand Rao's [[http://envirrhet2010.umwblogs.org|Environmental Rhetoric]] 
+  * Anand Rao's [[http://publicspeaking2010.umwblogs.org|Public Speaking]] 
+  * Warren Rochelle's [[http://302prose.umwblogs.org|English 302]]
+  * Gary Richards' [[http://southernliterature.umwblogs.org|Southern Literature]] 
+  * Mara Scanlon's [[http://asianamlitf10.umwblogs.org|Asian American Literature]] 
+  * Mara Scanlon's [[http://copof10.umwblogs.org|Contemporary Poetry]] 
+  * Zach Whalen's [[http://elit.zachwhalen.net|ENGL 251J: Electronic Literature]] 
+  * Zach Whalen's [[http://worlds.zachwhalen.net|ENGL 376MM: World Building]] 
+  * Zach Whalen's [[http://graphicnovel.zachwhalen.net|ENGL 386: The Graphic Novel]] 
+
+====Freshman Seminars====
+  * Steve Greenlaw's [[http://fsem100j.umwblogs.org|FSEM 100J: Globalization]]
+  * Steve Harris' [[http://russiannovel.umwblogs.org|The Russian Novel]] 
+  * Deborah Hydorn's [[http://eschermathfall2010.umwblogs.org|Escher Math]] 
+  * Jeff McClurken's [[http://marchinghome2010.umwblogs.org|When Americans Came Marching Home]] 
+  * Nina Mikhalevsky's [[http://bannedart.umwblogs.org|Banned and Dangerous Art]] 
+  * Mara Scanlon's [[http://ethicslitfsemf10.umwblogs.org|Ethics and Literature]] 
+
+====Geography====
+  * Donald Rallis' [[http://www.regionalgeography.org/world/|World Regional Geography]] 
+
+====History and American Studies====
+  * Nabil Al-Tikriti's [[http://altikriti299.umwblogs.org|History 299:Introduction to Historical Methods]] 
+  * Nabil Al-Tikriti's [[http://westernciv2.umwblogs.org|History 121: Western Civilization II]] 
+  * Susan Fernsebner's [[http://history141.umwblogs.org|Asian Civilization]] 
+  * Susan Fernsebner's [[http://history366.umwblogs.org|Modern China]] 
+  * Susan Fernsebner's [[http://fernsebner299.umwblogs.org|Historical Research Methods]] 
+  * Steve Harris'[[http://modernfrance.umwblogs.org|Modern France]] 
+  * Jeff McClurken's [[http://ushistfilm2010.umwblogs.org|US History & Film]] 
+  * Krystyn Moon's [[http://americanfood.umwblogs.org|American Food]]
+  * Bruce O'Brien's [[http://hist451f10.umwblogs.org|Anglo-Saxon England]] 
+  * Bruce O'Brien's [[http://hist121f10.umwblogs.org|Western Civilization]] 
+  * Bruce O'Brien's [[http://hist331f10.umwblogs.org|History of Ancient Greece]] 
+  * Allyson Poska's [[http://spainhist360.umwblogs.org|History of Spain]] 
+  * Jess Rigelhaupt's [[http://amst303f10.umwblogs.org|AMST 303]] 
+  * Jess Rigelhaupt's [[http://amst201f10.umwblogs.org|AMST 201]] 
+  * Jess Rigelhaupt's [[http://hist471d3f10.umwblogs.org|Oral History]] 
+
+====Modern Foreign Languages====
+  * Elizabeth Lewis' [[http://span413.umwblogs.org|Spanish 413]] 
+
+====Music====
+  * Jessie Fillerup's [[http://mworks1.umwblogs.org/|Great Musical Masterworks, Section1]] 
+  * Jessie Fillerup's [[http://mworks2.umwblogs.org/|Great Musical Masterworks, Section2]] 
+
+====Political Science====
+  * Jason Davidson's [[http://unitedstatesforeignpolicy.umwblogs.org/|Problems with Primacy]] 
+ 
+====Psychology====
+  * Mindy Erchull's [[http://psychofwomenfall10.umwblogs.org/|Psychology of Women]] 
+  * Denis Nissim-Sabat's [[http://abpsych.umwblogs.org/|Abnormal Psychology]] 
+  * Denis Nissim-Sabat's [[http://historyofpsych.umwblogs.org/|History of Psychology]] 
+
+====Sociology====
+  * Tracy Citeroni's [[http://foodjustice.umwblogs.org/|Food & Justice]] 
+  * Kristin Marsh's [[http://theory.umwblogs.org|Social Theory]]
+  * Leslie Martin's [[http://housing.umwblogs.org/|No Place Like Home]] 

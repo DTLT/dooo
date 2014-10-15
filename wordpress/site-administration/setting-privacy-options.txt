@@ -1,0 +1,22 @@
+{{indexmenu_n>3}}
+
+#Setting Privacy Options
+
+First click on tools on the left column. Then in the submenu that opens, click Reading.
+
+{{  :general-administration:tools_sidebar.png?150  |}}
+
+This will open a new page and at the bottom there will be five settings options for your privacy.
+
+1 - Will allow your site to be displayed as a search result on various search engines and  will allow anyone to see it or comment on it.
+
+2 - This setting will keep your site from being indexed by search engines and then it will not appear in search results. Although those who can still find the site will have unrestricted access to read or comment on your site. 
+
+3 - Will only allow those who are signed in with their UMW Domains / UMW Blogs Login information to view or comment on your content.
+
+4 - This will make content only visible and give the ability to comment to those who have registered with your site.
+
+5 - This makes content only viewable and available for comment by those who have been made administrators to your site. As default only you are an Administrator but you can make other users administrators too. 
+
+
+{{  :general-administration:privacy_settings.png?600  |}}

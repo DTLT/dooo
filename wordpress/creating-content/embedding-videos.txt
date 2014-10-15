@@ -1,0 +1,12 @@
+{{indexmenu_n>8}}
+
+#Embedding Videos
+
+
+
+=== Video Files from Your Computer ===
+Although it is possible to upload videos directly into WordPress, UMW Blogs is not intended to be a video server, and you will have better results if you upload your video directly to a video-hosting service (e.g. YouTube, Vimeo, etc) and then embed it into your post or your page.
+
+To embed the video all you need to do is to get the URL from the top of the page in the video hosting site and paste it directly into your post or page. The interface will automatically detect the video's URL and automatically embed it.
+
+{{:creating-content:grabbing_the_url.png?300|}}{{:creating-content:pasting_into_post.png?250|}}

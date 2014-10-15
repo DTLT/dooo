@@ -1,0 +1,9 @@
+{{indexmenu_n>4}}
+
+#Logging into UMW Blogs
+
+1)  Go to the [[http://umwblogs.org|UMW Blogs homepage]].
+
+2)  Enter your username and password into the boxes and click Log In. If you have forgotten your username or password, click the Lost your Password link and follow the instructions to change your password.
+
+[{{ :getting-started:umwblogs-login.png?nolink&300 |}}]

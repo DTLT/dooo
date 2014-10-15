@@ -1,0 +1,154 @@
+{{indexmenu_n>1}}
+
+#Mapper How-To
+
+1)  Go to [[http://drive.google.com|Google Drive]] and sign in with your Google username and password. If you don't already have a Google account, you will need to [[https://accounts.google.com/signup|create one]].
+
+2)  From the Google Drive [[http://drive.google.com/templates|Templates gallery]], search for UMW, and find the Spreadsheet Mapper template your course is using. If there is not a customized template for your specific course, use the template called "UMW Spreadsheet Mapper." You can also find [[other-tools:spreadsheet-mapper:spreadsheet-mapper|a list of customized templates]] on this wiki.
+
+3)  Once you have found the right template, click the "Use this template" button, and the template will be copied into your Google Drive account. When it is done copying, the template will be opened in your browser and you can begin working immediately.
+
+====Initial Setup====
+
+1)  The template will automatically open to the MapMetaData tab. Change the information in the "Basic Information" section to describe the project you are working on.
+
+2)  To make the data from this map accessible via the web, you will need to publish it. From the top menu, click File -> Publish to Web.
+
+[{{ :google-mapper:umw-spreadsheet-mapper.png?300 |}}]
+
+3)  Another window will pop up. Uncheck the Automatically republish when changes are made box, and click Start Publishing now. 
+
+4)  Remember, you will need to manually republish this spreadsheet after you make updates. You can do that by returning to this screen, and clicking the Republish now button.
+
+====Entering Data====
+
+To begin entering data, click the tab along the bottom of the screen called PlacemarkData. This is the worksheet where all of the data for your map lives. Each row will create a single placemark (i.e. a point on your map). Several sample placemarks have been included in the template The data is broken down into two sections: static columns, and variable columns.
+
+NOTE: To remove the sample placemarks, delete the content from each cell. DO NOT delete rows from the spreadsheet, as this will cause errors.
+
+===Static Columns===
+
+All placemarks have the same static columns, regardless of which template will be used to display the placemark. These columns are:
+
+  * **Folder Name:** (optional) helps organize placemarks into a collapsible folder.
+  * **Placemark Name:** the name of the location you are mapping.
+  * **Latitude and Longitude:** the geocoordinates of the location you are mapping.
+  * **Address:** the street address of the location you are mapping.
+
+===Variable Columns===
+
+The variable columns for each placemark are defined by the display template being used for each placemark. For a quick summary of columns used in a particular template, check the master key near the top of the PlacemarkData worksheet. 
+
+To make data entry easier, type the name of the desired template into cell I9 of the spreadsheet. This will change the yellow column headers, so you can easily see which data should go into which cell for a particular placemark. 
+
+To identify which template should be used to display a placemark, type the name of the template into the row where it intersects with column H.
+
+[{{ :google-mapper:template-fields.png?600 | }}]
+
+===Best Practices===
+
+  * Link Text refers to the text visitors will click to visit the link, while Link URL refers to the destination they'll be taken upon clicking.
+  * Image URLs need to be a direct link to an image, ending in .jpg, .png, or another image extension. If the image you want to use is on your computer, you can upload it to an image hosting service like [[http://imgur.com|Imgur]], [[http://photobucket.com|Photobucket]], or [[http://flickr.com|Flickr]].
+  * All images should be less than 200 pixels in height.
+  * Use geocoordinates (latitude and longitude) instead of street addresses when possible. Using street addresses will make your map much slower to load.
+  * Geocoordinates can often be found through a simple Google search (e.g. "UMW coordinates"). You can also navigate to the location you're mapping in Google Maps, right click on the spot you want to retrieve geocoordinates for, and then click “What's here?” in the pop up menu. The Latitude and Longitude will be displayed in the search bar at the top.
+  * Latitude and longitude must be entered into this spreadsheet as decimals, using positive and negative numbers to denote direction. North latitudes and east longitudes are positive numbers; south latitudes and west longitudes are negative numbers.
+
+[{{ :google-mapper:lat-long.png |}}]
+
+====Reordering Rows====
+
+If you are using the optional Folder Name column to organize your placemarks, you will occasionally need to reorder your rows to ensure the folders stay organized properly. You may also want to reorder rows in order to make sure empty rows are at the bottom of the spreadsheet. To reorder rows:
+
+1)  Click once in a white cell within the column you want to use to reorder the rows. If you are reordering the rows to reorganize based on the Folder Name, for example, you'll need to click in one of the white cells in Column C. If you are reordering to move empty rows to the bottom, you might want to use the "Title" column (usually Column I).
+
+2)  From the Data menu, select one of the Sort options for the column you chose. Most people will probably want to sort from A ----> Z. After a moment, your rows will be reordered.
+
+[{{ :google-mapper:sort-by-folder-name.png?400 |}}]
+
+====Adding or Removing Rows====
+
+If you need to add or remove rows from the spreadsheet, you must use the tools available under the Spreadsheet Mapper menu to do so. Adding or removing rows using any other method will cause errors.
+
+===Adding Rows===
+
+The UMW Spreadsheet Mapper comes with twenty available rows; a few of those are used for sample content, which can be removed whenever you are ready to add your own placemarks. If you need to map more than 20 placemarks, you can add rows by doing the following:
+
+1)  Click the Spreadsheet Mapper menu at the top, then click Add more rows.
+
+[{{ :google-mapper:add-rows.png?500 |}}]
+
+2)  If you have not added or removed rows before, two authorization windows will pop up. Click OK, then click Accept.
+
+[{{ :google-mapper:authorization.png?400 |}}]
+
+[{{ :google-mapper:accept.png?400 |}}]
+
+3)  Enter the number of rows you would like to add. Having a large number of empty rows can make your map slow to load, so only enter the number you actually need. (You can always add more rows later.) This process will take a moment to add the rows and then to process the table.
+
+[{{ :google-mapper:add-number-of-rows.png?300 |}}]
+
+===Removing Rows===
+
+Removing rows is not usually necessary; if you would like to remove a particular placemark from your map, simply delete the content from the cells of that row. The only time you should need to remove a row process is if you have a large number of empty rows at the bottom of your spreadsheet, in which case removing most of them may help improve how quickly your map loads. Keep in mind that the script will remove the number of rows you specify from the end of your spreadsheet, so double-check that you will not be deleting any placemarks you want to keep.
+
+To remove rows:
+
+1)  Click the Spreadsheet Mapper menu at the top, then click Remove some rows.
+
+[{{ :google-mapper:remove-rows.png?500 |}}]
+
+2)  If you have not added or removed rows before, two authorization windows will pop up. Click OK, then click Accept.
+
+[{{ :google-mapper:authorization.png?400 |}}]
+
+[{{ :google-mapper:accept.png?400 |}}]
+
+3)  Enter the number of rows you would like to remove. This process will take a moment to delete the rows and then to process the table.
+
+[{{ :google-mapper:remove_500.png?400 |}}]
+
+====Repairing the Spreadsheet==== 
+
+If you accidentally add or remove rows without using the Spreadsheet Mapper tools, or encounter other errors on the PlacemarkData worksheet, you can run the repair tool to resolve the errors.
+
+1)  Go to the Spreadsheet Mapper menu and click Repair Rows & Formulas.
+
+[{{ :google-mapper:spreadsheet-repair.png?600 |}}]
+
+2)  A confirmation box will pop up. Click OK.
+
+[{{ :google-mapper:repair_confirm.png?200 |}}]
+
+3)  Once Google Drive has repaired the rows and formulas, another box will pop up to tell you that repair is completed. Click OK to close the box. 
+
+[{{ :google-mapper:repair_completed.png?200 |}}]
+
+
+====Embedding in WordPress====
+
+If you are using the Spreadsheet Mapper as part of a course project, you can easily embed your map into a WordPress site. You only have to do this once; every time you re-publish the changes you've made in the spreadsheet, the embedded map will automatically update.(Keep in mind that it often takes 5-10 minutes for your updated information to appear on the embedded map.)
+
+To embed your map into WordPress:
+
+1)  Open your spreadsheet map in google maps and click the "chain" icon at the top left.
+
+[{{ :google-mapper:embed_step_one.png?500 |}}]
+
+2)  In the pop up window copy the embed code.
+
+[{{ :google-mapper:embed_step_two.png?500 |}}]
+
+3)  Open your WordPress dashboard and make a new post. 
+
+4)  Change your post type from "Visual" to "Text" in the top left corner. This will make WordPress interpret and display your embed code properly. 
+
+5)  Paste the embed code into the WordPress editor. You can also edit how large your map appears in your post by adjusting the Width and Height at the beginning of the embed code. 
+
+[{{ :google-mapper:adding_to_wordpress.png?500 |}}]
+
+====Tips and Tricks====
+
+1)  Be patient when you make changes; it will take a few moments for the spreadsheet to process your changes.
+
+2)  Do not forget to republish your spreadsheet after you make changes! Refer to the publishing instructions at the top of the page.

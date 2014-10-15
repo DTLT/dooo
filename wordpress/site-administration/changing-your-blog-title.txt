@@ -1,0 +1,20 @@
+{{indexmenu_n>1}}
+
+#Changing Your Blog Title
+
+
+To start click "Appearance" on the column on the left side.
+
+{{  :general-administration:appearance.png?150  |}}
+
+Then click "Customize" one the sub menu that appears.
+
+{{  :general-administration:customize.png?100  |}}
+
+This will take you to a new page, and on the new page click "title and subtitle" on the left side column.
+
+{{  :general-administration:site_title_and_tagline.png?400  |}}
+
+Enter your new title and subtitle in the new boxes that appear on the left side column.
+
+{{  :general-administration:site_title_subtitle.png?400  |}}

@@ -1,0 +1,77 @@
+{{indexmenu_n>10}}
+
+#Spring 2012
+
+====Art & Art History====
+  * Joe Dibella's [[http://arts342.umwblogs.org/|ARTS 342: Painting II]] 
+  * Joe Dibella's [[http://arts470.umwblogs.org/|ARTS 470: Special Topics: Painting]] 
+  * Rosemary Jesionowski's [[http://digiarts.umwblogs.org/|Digital Approaches to Fine Art]] 
+
+====Biology====
+  * Steve Gallik's [[http://histologyolm.umwblogs.org/|Biology 331: Histology OLM Atlases]] 
+
+====Classics, Philosophy, and Religion====
+  * Craig Vasey's [[http://phil220.umwblogs.org/|Philosophy 220: Feminism]] 
+
+====Computer Science====
+  * Jim Groom and Alan Levine's [[http://ds106.us|CPSC 106: Digital Storytelling]] (sections 1 & 2)
+  * Ernie Ackerman's [[http://cpsc230.umwblogs.org|CPSC 230: Computer Science II – Data Structures]] 
+
+====Education====
+  * Suzanne Houff's [[http://edci589.umwblogs.org|EDCI 589: Applied Research]] 
+
+====Environmental Science & Geology====
+  * Melanie Szulczewski's [[http://envproblems2012.umwblogs.org/|Examining Global Environmental Problems 2012]] 
+
+====History and American Studies====
+  * Nabil Al-Tikriti's [[http://hist384s12.umwblogs.org|History 384: Islamic Civilization II]] 
+  * Nabil Al-Tikriti's [[http://hist385s12.umwblogs.org|History 385: Arab Israeli Conflict]] 
+  * Nabil Al-Tikriti's [[http://westerncivguides.umwblogs.org|History 122: Western Civilization II]] 
+  * Martha Burtis' [[http://di202.umwblogs.org|Identity and Citizenship in the Digital Age]]
+  * Jeff McClurken's [[http://hist328.umwblogs.org|History 328: US Women's History since 1870]] 
+  * Jeff McClurken's [[http://dh2012.umwblogs.org/|Adventures in Digital History]] 
+  * Krystyn Moon's [[http://consumerism.umwblogs.org/|American Consumerism]] 
+  * Krystyn Moon's [[http://hist299.umwblogs.org/|History 299: Intro to the Study of History]]
+  * Bruce O'Brien's [[http://hist121s12.umwblogs.org|History 121: Western Civilization I]] 
+  * Bruce O'Brien's [[http://hist201s12.umwblogs.org/|History 201: The Early Crusades]] 
+  * Allyson Poska's [[http://hist362s10.umwblogs.org/|History 362: History of Latin America II]] 
+  * Jess Rigelhaupt's [[http://amst201s12.umwblogs.org/|American Studies 201]] 
+
+====Freshman Seminars====
+  * Debra Hydorn's [[http://artofmathsp2012.umwblogs.org/|The Art of Mathematics]] 
+  * Mara Scanlon's [[http://ethicslits12.umwblogs.org/|Ethics and Literature]] 
+  * Zach Whalen's [[http://canon.umwblogs.org/|Video Game Canon]] 
+
+====English, Linguistics and Communication====
+  * Brady Earnhart’s [[http://302poetry.umwblogs.org/|English 302: Introduction to Creative Writing]] (sections 3 & 4)
+  * Michael McCarthy's [[http://magazinewriting.umwblogs.org/|Magazine Writing]] 
+  * Michael McCarthy's [[http://literaryjournals.umwblogs.org/|Literary Journals Course]] 
+  * Gary Richards' [[http://americanhumor.umwblogs.org/|English 375XX: American Humor]] 
+  * Warren Rochelle's [[http://english378.umwblogs.org/|Science Fiction Literature]] 
+  * Warren Rochelle’s [[http://302prose.umwblogs.org/|English 302: Introduction to Creative Writing]] (sections 1 & 2)
+  * Mara Scanlon's [[http://mopos12.umwblogs.org/|Contemporary Poetry]] 
+  * Zach Whalen's [[http://elit.umwblogs.org|Electronic Literature]] 
+  * Zach Whalen's [[http://vectors.umwblogs.org|Adaptation]] 
+
+====Historic Preservation====
+  * Cristina Turdean's [[http://hisp4631.umwblogs.org/|George Washington and the Masonic Tradition]] 
+  * Cristina Turdean's [[http://entertainment.umwblogs.org/|Entertainment in Fredericskburg]] 
+
+====Modern Foreign Languages====
+  * Betsy Lewis' [[http://span413.umwblogs.org/|Spanish 413: Advanced Writing]] 
+
+====Music====
+  * Mark Snyder's [[http://orchestration2012.umwblogs.org/|MUPR 342: Orchestration ]] 
+  * Mark Snyder's [[http://midi12012.umwblogs.org/|MUTH 170: Section 1]] 
+  * Mark Snyder's [[http://midi22012.umwblogs.org/|MUTH 170: Section 2]] 
+
+====Political Science====
+  * Surupa Gupta's [[http://indianforeignpolicy.umwblogs.org/|Indian Foreign Policy]] 
+  * Surupa Gupta's [[http://psci351.umblogs.org|PSCI 351: International Political Economy]] 
+
+====Sociology====
+  * Tracy Citeroni's [[http://genderpowerhealth12.umwblogs.org/|Gender, Power, and Health]] 
+  * Tracy Citeroni's [[http://qrm2012.umwblogs.org/|Quantitative Research Methods]] 
+
+====Theatre====
+  * Chris Wingert's [[http://musicaltheatre.umwblogs.org/|THEA 335: Musical Theatre Performance]] 

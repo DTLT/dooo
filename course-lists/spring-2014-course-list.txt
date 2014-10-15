@@ -1,0 +1,81 @@
+{{indexmenu_n>14}}
+
+#Spring 2014
+
+==== Art & Art History ====
+  * Joe Dibella's [[http://arts342.umwblogs.org/ | Art 342: Painting II]]
+
+==== Biology ====
+  * Steve Gallik's [[http://histologyolm.umwblogs.org/ | Biology 331: Histology Lab]]
+
+==== Classics, Religion, and Philosophy ====
+  * David Ambuel's [[http://meditation.umwblogs.org/ | CPRD 100: Contemplative Practice]]
+
+==== Computer Science ====
+  * Jim Groom and Paul Bond's [[http://theinternetcourse.net | Computer Science 104: The Internet]]
+
+==== Earth & Environmental Science ====
+  * Melanie Szulczewski's [[http://envproblems2014.umwblogs.org/ | Earth & Environmental Science 230: Environmental Problems]]
+
+==== Economics ====
+  * Steve Greenlaw's [[http://econ300.umwblogs.org/ | Economics 300: Intro to Economic Analysis]]
+  * Steve Greenlaw's [[http://econ488.umwblogs.org/ | Economics 488: Seminar in Advanced Economics]]
+
+==== English, Linguistics, and Communication ====
+  * Luke Johnson's [[http://engl251.umwblogs.org/ | English 251: Introduction to Poetry]]
+  * Luke Johnson's [[http://engl304a.umwblogs.org/ | English 304A: Creative Writing: Poetry]]
+  * John Morello's [[http://comm351a.umwblogs.org/ | Communication 351A: Communication and Political Campaigns]]
+  * Jon Pineda's [[http://302prose.umwblogs.org/ | English 302A: Introduction to Creative Writing, Sections 1 & 2]]
+  * Gary Richards's [[http://americandramasince1945.umwblogs.org/ | English 376A: American Drama since 1945]]
+  * Warren Rochelle's [[http://engl305a.umwblogs.org/ | English 305A: Fiction Writing]]
+  * Warren Rochelle's [[http://cslewis.umwblogs.org |/ English 449P: C.S Lewis]]
+  * Amanda Rutstein's [[http://302poetry.umwblogs.org/ | English 302A: Introduction to Creative Writing, Sections 3 & 4]]
+  * Zach Whalen's [[http://elit.umwblogs.org/ | English 376VV: Electronic Literature]]
+
+==== Freshman Seminars ====
+  * Nabil Al-Tikriti's [[http://genocide.umwblogs.org/ | Freshman Seminar 100J9: History of Genocides]]
+  * JeanAnn Dabb's [[http://hitchcock.umwblogs.org/ | Freshman Seminar 100J6: Hitchcock: Master of Suspense]]
+
+==== Historic Preservation ====
+  * Gary Stanton's [[http://hisp102.umwblogs.org/ | Historic Preservation 102: Preserving Historic America]]
+  * Gary Stanton's [[http://hisp305.umwblogs.org/ | Historic Preservation 305: American Building]]
+  * Gary Stanton's [[http://hisp325.umwblogs.org/ | Historic Preservation 325: Vernacular Architecture]]
+
+==== History and American Studies ====
+  * Nabil Al-Tikriti's [[http://hist384.umwblogs.org/ | History 384: Islamic Civilization II]]
+  * Nabil Al-Tikriti's [[http://hist385.umwblogs.org/ | History 385: The History of the Arab-Israeli Conflict]]
+  * Susan Fernsebner's [[http://history142.umwblogs.org/ | HIST 142: Asian Civilizations II]]
+  * Susan Fernsebner's [[http://chinesefilm2013.umwblogs.org/ | History 300AA: Chinese History through Film]]
+  * Susan Fernsebner's [[http://history466.umwblogs.org/ | History 466: A Cultural History of Late 20th Century China]]
+  * Claudine Ferrell's [[http://hist297spring14.umwblogs.org/ | History 297: History Colloquium]]
+  * Claudine Ferrell's [[http://hist471e5.umwblogs.org/ | History 471E5: American Sports History]]
+  * Steven Harris's [[http://westerncivilization.umwblogs.org/ | HIST 122: History of Western Civilization II]]
+  * Steven Harris's [[http://russianandsoviethistory.umwblogs.org/ | HIST 358: History of Russia, 1861-Present]]
+  * Steve Harris's [[http://secondworldurbanityseminar.umwblogs.org/ | History 471E6: Second World Urbanity]]
+  * Jeff McClurken's [[http://dh2014.umwblogs.org/ | History 478: Adventures in Digital History]]
+  * Bruce O'Brien's [[http://hist121s14.umwblogs.org/ | History 121: Western Civilization I]]
+  * Bruce O'Brien's [[http://hist342s14.umwblogs.org/ | History 342: Europe in the Middle Ages II]]
+  * Bruce O'Brien's [[http://hist451s14.umwblogs.org/ | History 451: Anglo-Saxon England]]
+  * Edward Pompeian's [[http://history362s14.umwblogs.org/ | History 362: Latin America II]]
+  * Jess Rigelhaupt's [[http://amst201sec1s14.umwblogs.org/ | American Studies 201: Introduction to American Studies, Section 1]]
+  * Jess Rigelhaupt's [[http://amst201sec2s14.umwblogs.org/ | American Studies 201: Introduction to American Studies, Section 2]]
+  * Jess Rigelhaupt's [[http://amst202s14.umwblogs.org/ | American Studies 202: The Politics and Culture of the 1960s]]
+
+==== Modern Foreign Languages ====
+  * Betsy Lewis's [[http://span413.umwblogs.org/ | Spanish 413: Advanced Writing]]
+
+==== Music ====
+  * Mark Snyder's [[http://midi.umwblogs.org/ | MUTH 170: Introduction to MIDI Composition]]
+
+==== Political Science and International Affairs ====
+  * Stephen Farnsworth's [[http://massmedia.umwblogs.org/ | Political Science 363: Mass Media Politics]]
+  * Surupa Gupta's [[http://indianforeignpolicy.umwblogs.org/ | Political Science 471Y: Indian Foreign Policy]]
+  * Ranjit Singh's [[http://irtheory.umwblogs.org/ | Political Science 491: IR Theory]]
+
+
+==== Psychology ====
+  * Mindy Erchull's [[http://psychofwomenspring2014.umwblogs.org/ | Psychology 350: Psychology of Women]]
+
+==== Sociology ====
+  * Traci Citeroni's [[http://qrm2014spring.umwblogs.org/ | Sociology 365: Qualitative Research Methods]]
+  * Traci Citeroni's [[http://illnessnarratives.umwblogs.org/ | Sociology 371Q: Illness Narratives in Social Research]]

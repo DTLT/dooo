@@ -1,0 +1,73 @@
+{{indexmenu_n>1}}
+
+#Timeline How-To
+
+TimelineJS is a web-based tool that takes entries from a Google Spreadsheet and displays them visually on a timeline. This tool has been used to create timeline covering topics like the  [[http://taipingcivilwar.org/timeline|Taiping Civil War]], the [[http://america.aljazeera.com/articles/timeline-egypt-inturmoil0.html|Crisis in Egypt]], and the [[http://world.time.com/2013/12/05/nelson-mandelas-extraordinary-life-an-interactive-timeline/|Life of Nelson Mandela]].
+
+====Access the Template====
+
+1)  Go to [[http://drive.google.com|Google Drive]] and sign in with your Google username and password. If you don't already have a Google account, you will need to [[https://accounts.google.com/signup|create one]].
+
+2)  From the Google Drive [[http://drive.google.com/templates|Templates gallery]], search for UMW, and find the Spreadsheet Timeline template your course is using. If there is not a customized template for your specific course, use the template called "UMW Spreadsheet Timeline." You can also find [[other-tools:spreadsheet-timeline:spreadsheet-timeline|a list of customized templates]] on this wiki.
+
+3)  Once you have found the right template, click the "Use this template" button, and the template will be copied into your Google Drive account. When it is done copying, the template will be opened in your browser and you can begin working immediately.
+
+====Embedding in WordPress====
+
+In order to view your timeline, you will need to first publish the spreadsheet you are using to contain its data, and also to embed the timeline display code into a website (in this case, a post or page on UMW Blogs or another WordPress-based site).
+
+You only need to complete these steps once for each timeline you create; after you have published and embedded the timeline into a website, any changes you make to the spreadsheet will automatically (although not instantaneously) be populated into the timeline on your site.
+
+1)  In your spreadsheet, click on "File" at the top, then "Click publish to the Web"
+
+[{{ :other-tools:spreadsheet-timeline:timeline-publish.png |}}]
+
+2)  Another window will pop up. Make sure the box labeled "Automatically republish when changes are made" is checked, and click "Start Publishing."
+
+[{{ :other-tools:spreadsheet-timeline:publish-start-publishing.png |}}]
+
+3)  In the bottom of that window, copy the URL that appears under "Get a link to the published data." Be sure you copy the entire link -- you may need to expand the box to get the whole URL.
+
+[{{ :other-tools:spreadsheet-timeline:publish-get-url.png |}}]
+
+4)  Go to the [[http://timeline.knightlab.com|TimelineJS website]], scroll down to the "Make a Timeline" section, and find Step 3. Paste the URL you copied into the box. You can use the "More Options" drop-down menu to make custom changes, but for most people the default options are acceptable.
+
+[{{ :other-tools:spreadsheet-timeline:publish-paste-url.png?500 |}}]
+
+5)  Scroll down to Step 4 on the TimelineJS website. Clicking the Preview button will show you what your timeline will look like. (At this point you may not have customized the template at all, but it's still useful to preview to make sure you have completed all of the steps up to this point properly.) Copy the code provided to your computer's clipboard.
+
+[{{ :other-tools:spreadsheet-timeline:publish-embed-code.png?500 |}}]
+
+6)  To embed this timeline into UMWBlogs (or another WordPress site), first create a new post or page to contain the embedded timeline, then switch the WordPress editor from Visual to Text mode. 
+
+7)  Paste the code from the TimelineJS website into the WordPress editor, then publish your page or post. Your timeline should appear embedded into the post, and any changes you make in the spreadsheet should automatically be updated here. (Note that it may take a few minutes for changes on the spreadsheet to appear on the timeline; while the process is automatic, it is not instantaneous. Be patient!)
+
+====Entering Data====
+
+Each row in the spreadsheet will create a single slide (i.e. an event on your timeline). Several sample events have been included in the template as examples of what your slides will look like when finished.
+
+Here are descriptions of the available columns in the timeline spreadsheet:
+
+  * **Start Date** and **End Date:** you must enter at least one date for each event, either a start date, or an end date. (You may enter both, if applicable.) The standard date format is MM/DD/YYYY, but you may also enter just a month and year (MM/YYYY) or just a year (YYYY).
+  * **Headline:** the title of the event. For the Title slide, the Headline will be displayed as the name of the timeline.
+  * **Text:** a brief description of the event. For the Title slide, the Text will appear as a subtitle text.
+  * **Media:** a link to a single multimedia object you'd like to display on an event slide. It could be a picture, website, YouTube or Vimeo video, Google map, Flickr photo, tweet, SoundCloud audio, or block quote. Note that your chosen multimedia object must already be online; you cannot upload it directly to the timeline from your computer. For a block quote use ''<blockquote>'' before the text and ''</blockquote>'' at the end of the text.
+  * **Media Credit:** the credit for the media creator.
+  * **Media Caption:** a caption to describe the media.
+  * **Media Thumbnail:** a small image that will appear in the slider to represent an event.
+  * **Type:** can be one of three options: title, era, or blank.
+
+Using the title type will create an introductory slide that a visitor will always see first. Only one slide can be the title slide. The first slide is by default set to be the title slide. If you select the title type for a slide other than the first slide, all slides before it will not be shown.
+
+Using the era type means the timeline will not show anything in the other fields for the event, it will simply add an orange box and name to the timeline below to show events happening in an era. It will name your era with the headline in that row. 
+
+Leaving the type field blank will create a standard slide in the timeline. 
+
+====Tips and Tricks====
+
+  * Don't change the column headers, don't remove any columns, and don't leave any blank rows in your spreadsheet.
+  * For the Headline you must include something in the "Text" Field. It will show up as subtext under the Headline.
+  * You do not need to fill the cells for: "End date”, “Media”, “Media Credit”, “Media Caption”, or “Media Thumbnail”.
+  * Watch out for blank rows, your timeline will stop wherever that Blank row occurs and any slide after will not appear.
+  * You can add additional rows at the bottom of the spreadsheets for more events. You will need to expand the formatting of your cells above by grabbing the right corner of the cell and dragging it down the column to your new rows. You can also use the format painter brush as well to expand the formatting.
+  * Visitors to your site can navigate the timeline with the arrow keys on their keyboard, by clicking on an event tab in the timeline slider, by clicking the arrows on either side of the slide currently displayed on the timeline, and/or by dragging the slider.

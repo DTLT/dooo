@@ -1,0 +1,11 @@
+{{indexmenu_n>6}}
+
+#Exporting Your Blog
+
+Click on "Tools" on the left hand column and then in the sub menu that opens, click "Export."
+
+{{:general-administration:tools_left_column.png?150|}}
+
+In the new window that opens up you can choose options to allow you to export your website as an XML file which will allow you to essentially recreate it on another site.
+
+{{:general-administration:export_screen.png?500|}}

@@ -1,0 +1,83 @@
+{{indexmenu_n>9}}
+
+#Embedding PDFs
+
+You could use this to easily display PDFs so that your users do not have to download the PDF to see it.\\
+So there are at least three ways to embed a PDF into a post or page in WordPress. All three yield similar results, but there are some compatibility issues across different browsers and versions of these browsers.
+==== Uploading the PDF ====
+
+From your blogs dashboard, click "Media" on the right side and then click "Add New". Then upload the file in the window that appears.
+
+{{:creating-content:upload_pdf.png|}}
+====Finding the location of the PDF====
+
+
+To find the location of the PDF file to put in the code click on the "Media" tab on the left column and it should show your media library. If not, click "Media" on the left sidebar and then click "Library" in the submenu. 
+
+{{:creating-content:in_media_library.png|}}
+
+Click on your PDF and it will open up a new page. Then on your new page copy the file URL from the right side menu. **One very important thing to note:** if you decide to change the title of your PDF document, the Link will also change, so you may need to comeback and copy this link again and your post(s).
+
+{{:creating-content:file_url.png|}}
+==== Using Different Embedding Methods ====
+
+To use the embed code you need to use the URL from the previous step and insert it into the the following locations below that have been labeled "(Insert Location of PDF)". Make sure to delete the parentheses as well.
+
+You can adjust the numbers in the parentheses at the end of any of these code sequences to adjust the display width and height of the pdf, but you are constrained to the maximums that your page theme is set to. 
+
+**Embed Command**
+
+This command while short and simple can have compatibility issues with HTML 4 and HTML 5 coding languages.
+This does not work for the Firefox browser without an additional plugin.\\
+This does not work for the Safari browser.
+
+<code>
+
+<embed src="(Insert location of the PDF)" width="1500" height="600">
+
+
+</code>
+
+You can adjust the numbers in the parentheses at the end of the code to adjust the display width and height of the pdf, but you are constrained to the maximums that your page them is set to.
+
+**Using Object And Embed Code**
+
+This command sequence is claimed to have the best compatibility across all browsers. 
+
+This does not work for Safari Browser.
+
+
+
+<code>
+
+<object data="(Insert location of the PDF)" type="application/pdf" width="1000" height="500">
+
+    <embed src="(Insert location of the PDF)" type="application/pdf" /> 
+</object>
+
+</code>
+
+You can adjust the numbers in the parentheses at the end of the code to adjust the display width and height of the pdf, but you are constrained to the maximums that your page them is set to.
+
+
+**Using Iframe Code**
+
+This is the recommend version, because it gives you the most options in displaying your PDF in the page, but it also is compatible across all internet browsers other than Safari. You can change the ID name, the Title of the PDF, and also the You can also adjust the "frameborder" to display a larger border around the PDF to set it apart from the page.
+
+<code>
+
+<iframe id="(insert Id name)" title="(Insert Title)" src="(Insert location of the PDF)" width="640" height="600" frameborder="1" scrolling="auto"></iframe>
+
+</code>
+
+
+ 
+
+
+==== Embedding into a Post or Page ====
+
+To embed the PDF into a post or page you need to select "Text" rather than the default "Visual" setting from the top right corner. 
+
+Then paste your code into the post and you are finished. I have pasted all the codes just to show it, but you only need one of the codes from above to make it work. 
+
+{{:creating-content:pasting_the_code.png|}}

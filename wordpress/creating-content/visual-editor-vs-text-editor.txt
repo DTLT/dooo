@@ -1,0 +1,14 @@
+{{indexmenu_n>4}}
+
+#Visual Editor vs Text Editor
+
+WordPress provides two different editors: a Visual editor and a Text editor. To switch between editing modes, look towards the top right-hand corner of the editing toolbar, and select either the Visual tab, or the Text tab.
+
+[{{ :creating-content:visual-editor.png?nolink |}}]
+
+The **Visual editor** is the default, and provides a series of icons for applying formatting similar to the ones found in word processors. What you see in the Visual editor is exactly what visitors will get when visiting your site. This makes editing text more intuitive, but it means that the Visual editor does not properly translate HTML (including embed codes) for visitors.
+
+[{{ :creating-content:text-editor.png?nolink |}}]
+
+The **Text editor** has a formatting toolbar with text labels instead of icons. What you see in the Text editor is not necessarily what visitors will see when visiting your site; the strength of the Text editor is that you can enter HTML, including embed codes, and the Text editor will translate that code into the proper visual display.
+

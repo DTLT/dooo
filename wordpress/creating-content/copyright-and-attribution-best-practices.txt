@@ -1,0 +1,73 @@
+{{indexmenu_n>10}}
+
+#Copyright and Attribution
+
+When writing a paper, it's important to provide credit to the writers, researchers, academics, and others who influenced your thinking, or whose words you have used. This is usually done through the use of footnotes, endnotes, and/or bibliographies. It's just as important to provide credit to creators of images, audio, video, and other kinds of media you have used or remixed, especially on an open and highly-trafficked publishing platform like UMW Blogs.
+
+==== Aren't I Protected by Fair Use? ====
+
+"Fair use" refers to guidelines that allow portions of copyrighted works to be used for educational purposes without prior permission from the rightsholder. Fair use rights are not explicitly protected by law; they are a set of guidelines agreed to by publishers, academics communities, and others, but they are not officially codified as part of the US Copyright Act of 1976. As a result, fair use guidelines are at times vaguely defined, and it can often be difficult for a layperson without a law degree to determine where exactly the boundary between fair and unfair use lies. Stanford University's [[http://fairuse.stanford.edu/|Copyright and Fair Use website]] does a great job of providing in-depth details about fair use for those who are interested. 
+
+Even if you are not interested in the particulars, it's important to understand that fair use provides a limited number of protections within a limited number of contexts. Also, consider that the last major update to US copyright law was the 1998 passage of the [[http://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act|Digital Millennium Copyright Act]]. For context, that happened:
+  * One year before [[http://en.wikipedia.org/wiki/Napster|Napster]] (1999)
+  * Six years before [[http://en.wikipedia.org/wiki/Facebook|Facebook]] (2004)
+  * Six years before [[http://en.wikipedia.org/wiki/Flickr|Flickr]] (2004)
+  * Seven years before [[http://en.wikipedia.org/wiki/Youtube|YouTube]] (2005)
+
+In short, US copyright law is outdated in many ways, and fair use probably does not provide the breadth of protection you think it does.
+
+==== A "Simplified" Guide to Copyright ====
+
+Before getting started, there are some questions you can ask yourself to determine whether it would be appropriate for you to use a particular piece of media on your blog. Consider the following flowchart:
+
+[{{ :creating-content:copyright-flowchart.png?nolink |}}]
+
+This flowchart is not intended to summarize or to provide guidance related to all use cases. It is meant to help you visualize the most basic questions you should be asking before using media on your blog. In simplifying that process, it necessarily glosses over some of the complexities inherent to copyright and attribution. For example:
+  * **Making work from scratch is different than editing or remixing work that others have created.** You automatically have the right to use any work you have created from scratch. If you want to make something new based on work others have created, you need to make sure you have permission to reuse and remix each individual piece.
+  * **Determining who owns the rights to a particular media object can be tricky.** When you find media on the web, it's not always clear exactly what the original source is, and therefore who has the authority to say under what conditions and in what contexts a particular media object may be used. Sometimes the creator owns the rights to their own work, but sometimes the rights belong to someone else. For example, in 1985 Michael Jackson paid almost $50 million for the rights to ~200 Beatles songs, which meant he was able to control and profit from usage of those songs. Unattributed text can often be found via Google and other popular search engines, and [[https://www.tineye.com/|TinEye]] provides a reverse search that can help identify where a particular image originated, and who owns the rights. For video and audio, it may be impossible to determine who the rightsholder is, and you may have to proceed without that information.
+  * **Permission can be sought, and granted, in many different ways.** For example, you can research a media object to determine whether it is in the public domain. (Given the way our copyright system works, this is more likely for historical objects.) If you can determine the creator of the work, you can contact them directly to explain what you want to do and ask if it's okay. Some creators and rightsholders label their works with licenses that explicitly state what individuals are permitted to with their work, and what the conditions of that permission are.
+  * **In some cases, you might have to decide how to proceed without permission.** Sometimes, it's not necessary to use a particular work, and you can find an alternative for which the rights situation is clear. (Do you really have to use *that* image of an eagle? Or would a different image of a different eagle suffice?) For academic projects where it's very important or necessary that you use a particular image, but the rights situation is unclear, ask your professor for advice on how to proceed.
+
+==== Easy Alternatives to Traditional Copyright ====
+
+**Creative Commons**
+
+One way to avoid the complexities of traditional copyright is to take advantage of alternative licenses. Creative Commons (CC) licenses, for example, make it very easy to determine what you can use, and how you can use it. 
+
+[{{ :creating-content:cc-search.png?nolink&650 |}}]
+
+By using the [[http://search.creativecommons.org/|CC search engine]], you can easily find images, audio, video, and other kinds of media that are ready for you to reuse and remix. Simply type your keyword(s) into the box, uncheck "use for commercial purposes," and click the site you'd like to search. If you will not be make any changes to the image (no cropping, no including it with other images, etc), you can also uncheck "modify, adapt, or build upon" to see a larger number of results.
+
+**The Noun Project**
+
+For icons and line drawings, a great resource is [[http://thenounproject.com|The Noun Project]].
+
+[{{ :creating-content:noun-project-eagle.png?nolink&650 |}}]
+
+To find an image, visit The Noun Project and type your keyword into the search box. Click on one of the results that appears, and you'll be presented with a larger view of the image, as well as the licensing terms that have been applied. Some of the images here have traditional copyright licenses, but many use CC licensing, or are in the public domain.
+
+**Archive.org**
+
+Many people are familiar with the Wayback Machine, which lets you browse websites as they looked in the past. (Check out [[https://web.archive.org/web/20040520055337/http://www.umw.edu/|UMW's homepage]] from May 20th, 2004.) Archive.org also provides access to a repository of public domain and CC-licensed audio, video, and text.
+
+[{{ :creating-content:archive-eagle.png?nolink |}}]
+
+Just visit the Archive.org homepage and type your keyword(s) into the search box near the top left. You can search all media types at once, or if you are looking for something specific, use the drop-down menu to pick the kind of media you are looking for.
+
+==== Giving Attribution ====
+
+If an object you are using is in the public domain, that generally means it is free for you to use, remix, remake, etc with no restrictions, and no need to provide attribution (i.e. to disclose who made it and where it came from). There are [[http://fairuse.stanford.edu/overview/public-domain/|some exceptions to that general rule]], of course, especially regarding famous objects (old movies, iconic images and photographs, etc). Most of the time, however, you should be okay to use objects in the public domain.
+
+For CC-licensed objects, the license will specify whether you need to provide attribution. If so, the Creative Commons website has [[http://wiki.creativecommons.org/Marking/Users|a guide that walks you through how to do this correctly]]. At a minimum, your attribution should answer four questions about each of the materials you use:
+  * What is the title?
+  * Who is the author?
+  * Where can I find it?
+  * What can I do with it?
+
+For traditionally-copyrighted items you've gotten permission to use, you will almost certainly need to provide attribution, and (unless specified otherwise by the rightsholder) the method described for CC-licensed materials works in this context as well. 
+
+==== Links and Resources ====
+  * [[http://fairuse.stanford.edu|Stanford's Copyright & Fair Use website]]
+  * [[http://tineye.com|TinEye Reverse Image Search]]
+  * [[http://search.creativecommons.org|Creative Commons Search Engine]]
+  * [[http://wiki.creativecommons.org/Marking/Users|Creative Commons Attribution Tips]]
