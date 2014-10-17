@@ -1,6 +1,6 @@
 {{indexmenu_n>7}}
 
-#Course Lists
+====== Course Lists ======
 
 These pages archive the courses taught using UMW Blogs since Fall of 2008. If you know of a course that was taught on UMW Blogs that we don't have listed here, please email Ryan at <rbrazell@umw.edu>.
 
