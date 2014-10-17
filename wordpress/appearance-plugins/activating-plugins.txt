@@ -3,10 +3,10 @@
 1) Log into your account\\
 2) Select the plugins menu from the left side bar\\
 
-[{{  :appearance-and-plugins:plugin_s_on_left_menu.png?150  |}}]\\
+{{https://farm4.staticflickr.com/3948/15371078817_181a3361f9_o_d.png}}\\
 
 3) Click activate under the individual plugins
 
-{{  :appearance-and-plugins:plugin_s_menu.png?600  |}}
+{{https://farm4.staticflickr.com/3942/15533379196_5a15105a76_d.jpg}}
 
 **Note: Some plugins may require additional activation steps.**
