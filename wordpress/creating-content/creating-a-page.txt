@@ -1,6 +1,6 @@
 {{indexmenu_n>3}}
 
-#Creating a Page
+====== Creating a Page ======
 
 For some courses, you will need to create a page on your own personal blog; for others, you will need to create a page directly on the main course blog. Make sure you are on the correct Dashboard by looking in the menu across the top. If you are not in the right Dashboard, use the My Sites drop-down menu to go to the correct Dashboard. When in doubt, consult the syllabus, ask a classmate, or check with the professor.
 
