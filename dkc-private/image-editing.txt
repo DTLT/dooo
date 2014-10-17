@@ -10,4 +10,4 @@ As stated above GIMP is essentially the free version of Photoshop. Many of the s
   - Open GIMP {{https://farm4.staticflickr.com/3950/15311226590_9f00cc4075_z.jpg}}
 =====Pixlr=====
 1. Go to https://pixlr.com/
-Casual Tutorial Here: [[http://blogs.jessicareingold.com/ds106/thoughts-and-ideas/pixlr-tutorial/]]
+  * Tutorial Here: [[http://blogs.jessicareingold.com/ds106/thoughts-and-ideas/pixlr-tutorial/]]
