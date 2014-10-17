@@ -1,6 +1,6 @@
 {{indexmenu_n>1}}
 
-#Posts vs Pages
+====== Posts vs Pages ======
 
 In WordPress, you add content to your site primarily by creating posts and pages. Both posts and pages can contain text, images, and other kinds of embedded media. Although the two look similar, they are different in several ways:
 
