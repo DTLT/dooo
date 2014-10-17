@@ -10,7 +10,7 @@ Whether you are uploading a file directly to WordPress, or embedding a file loca
 
 //While editing a post:// Click **Add Media** to use existing files or to upload a new file. This is the primary method for accessing the Media Library, as it allows you to both upload a file and place it in a post/page at the same time.
 
-{{ :creating-content:media-library.png?nolink |}}
+{{https://farm4.staticflickr.com/3943/15556335125_d059a20928_o_d.png}}
 
 //From the dashboard:// Go to **Media -> Library** to view files you've already uploaded, or **Media -> Add New** to upload new files. This method is useful for uploading files you want to use later.
 
@@ -18,19 +18,19 @@ Whether you are uploading a file directly to WordPress, or embedding a file loca
 
 **Using a File from the Web**
 
-{{ :creating-content:insert-from-url.png?nolink&600 |}}
+{{https://farm4.staticflickr.com/3927/15532620446_9829ce53d5_d.jpg}}
 
 From the post/page editor, click **Add Media**, then **Insert from URL**. Enter the direct URL to the file you want to add to the Library (the URL will normally end in jpg or png for images, docx or pdf for text documents, etc), enter a title, and click **Insert into Post**. Note that files added this way are not stored in your Media Library; if the files are removed from the original storage location by the owner, they will no longer appear on your blog. Think carefully before choosing this method! Consider only using this method with files you control, e.g. images stored in your own Flickr account.
 
 **Using a File from Your Computer**
 
-{{ :creating-content:insert-media.png?nolink&600 |}}
+{{https://farm4.staticflickr.com/3951/14935566924_374cd83562_d.jpg}}
 
 Click **Add Media** from the post/page editor to go to the Upload Files tab of the Media Library. When uploading files, you may either drag and drop them into marked section of the browser window, or click **Select Files** to find the ones you want to upload from your computer. Pay attention to the current maximum upload file size limit, and make sure each file you upload is below the designated limit.
 
 **Using a Previously-Uploaded File**
 
-{{ :creating-content:insert-media-from-library.png?nolink&600 |}}
+{{https://farm6.staticflickr.com/5607/15370192828_0978c90a10_d.jpg}}
 
 If you would like to re-use a file you have previously uploaded to your WordPress Media Library, simply click **Media Library**, find the file you want to use, and click to select it. 
 
@@ -40,7 +40,7 @@ After uploading or selecting your file from the Media Library, you will have the
 
 === Images === 
 
-{{ :creating-content:insert-media-eagle.png?nolink&600 |}}
+{{https://farm4.staticflickr.com/3934/15370696220_6aa864eee0_d.jpg}}
 
 1)  For images, the most important of the text-based details are the:
   * //Caption//, which should contain copyright / licensing information about the image, and the
@@ -57,7 +57,7 @@ You may also wish to enter text into the Description field, and whether or not t
 
 === Text Documents ===
 
-{{ :creating-content:insert-eagle-facts.png?nolink&600 |}}
+{{https://farm4.staticflickr.com/3944/14936156113_4be891de73_d.jpg}}
 
 1)  For text documents, the most important of the text-based details is the title, which will be used as the text for the clickable link to this file. You will also have the ability to enter a caption and a description for your file. Whether or not these additional items are displayed will depend on what theme you are using. Each of these text fields accepts basic HTML (e.g. anchor tags to create links). 
 
@@ -69,12 +69,12 @@ You may also wish to enter text into the Description field, and whether or not t
 
 === Images ===
 
-{{ :creating-content:image-edit.png?nolink |}}
+{{https://farm4.staticflickr.com/3939/14935567004_92297c2f49_d.jpg}}
 
 You can make changes to an embedded image by clicking on it in the post/page editor. Two new icons will appear in the top left-hand corner of the image. To make changes, click **Edit Image**, and to remove the image, click **Delete Image**. This will delete the image from your post, but it will remain in your Media Library for later use.
 
 === Text Documents ===
 
-{{ :creating-content:edit-text-link.png?nolink |}}
+{{https://farm6.staticflickr.com/5603/14935566994_4c902875ae_o_d.png}}
 
 Once you have inserted the link to a file, you can change the text of the link by simply clicking on the link and making your desired edits. To change which file the link points to, or to update the caption or description, delete the link and recreate it.
