@@ -6,7 +6,7 @@ Whether you are uploading a file directly to WordPress, or embedding a file loca
 
 ==== Accessing the Media Library ====
 
-{{ :creating-content:visual-editor.png?nolink |}}
+{{https://www.flickr.com/photos/umwdtlt/15369704229/sizes/m/}}
 
 //While editing a post:// Click **Add Media** to use existing files or to upload a new file. This is the primary method for accessing the Media Library, as it allows you to both upload a file and place it in a post/page at the same time.
 
