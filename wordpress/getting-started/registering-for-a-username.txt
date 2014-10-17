@@ -8,7 +8,7 @@
 
 2)  On the registration form, enter a username and your @mail.umw.edu e-mail address, the read the terms and click the "I Agree" box. Make sure the "Just a username, please" radio button is selected.
 
-{{:getting-started:create-username.png?nolink&500|}}
+{{https://farm4.staticflickr.com/3935/14936231284_2dbb99fe77_d.jpg}}
 
 3)  Click the Next button, and you will receive an email with a confirmation link. 
 
