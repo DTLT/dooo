@@ -1,6 +1,6 @@
 {{indexmenu_n>1}}
 
-#Making the Front Page a Static Page
+====== Making the Front Page a Static Page ======
 
 To create a static front page is sometimes a good idea if you want users of your blog/website to see a different landing page first. This way they are not just going right into the default of latest posts of your blog or website. This can be particularly helpful if you would like to them to get some background of your site or see other things before they go straight into your blog. 
 
