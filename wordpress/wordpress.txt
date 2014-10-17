@@ -1,3 +1,5 @@
+{{indexmenu_n>3}}
+
 ====== WordPress ======
 
 {{http://farm8.staticflickr.com/7347/10841570623_40647e2b01_z.jpg}}
@@ -5,5 +7,3 @@
 WordPress is an open source blog application. WordPress forked from b2/cafelog in 2003, and WordPress Mu multiple website functionality has been integrated since 2010. Today WordPress is the most used blog application powering millions of blogs and being used by tens of millions of people every day.
 
 {{namespace>wordpress&depth=1}}
-
-{{indexmenu_n>4}}
