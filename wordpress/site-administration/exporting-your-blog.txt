@@ -1,6 +1,6 @@
 {{indexmenu_n>6}}
 
-#Exporting Your Blog
+====== Exporting Your Blog ======
 
 Click on "Tools" on the left hand column and then in the sub menu that opens, click "Export."
 
