@@ -1,6 +1,6 @@
 {{indexmenu_n>2}}
 
-#Changing the Theme
+====== Changing the Theme ======
 
 If you do not like the standard layout of the blog/website, you can choose different theme that is better suited to your purposes, style, or visual appeal.
 
