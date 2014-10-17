@@ -4,17 +4,17 @@
 
 For some courses, you will need to create a post on your own personal blog; for others, you will need to create a post directly on the main course blog. Make sure you are on the correct Dashboard by looking in the menu across the top. If you are not in the right Dashboard, use the My Sites drop-down menu to go to the correct Dashboard. When in doubt, consult the syllabus, ask a classmate, or check with the professor.
 
-[{{ :creating-content:post-addnew.png?nolink |}}]
+{{https://farm4.staticflickr.com/3935/15554588711_d0e5b6543f_o_d.png}}
 
 1)  From the left sidebar, go to Posts -> Add New.
 
-[{{ :creating-content:post-editor.png?nolink |}}]
+{{https://farm6.staticflickr.com/5616/15554588691_42cc56006f_d.jpg}}
 
 2)  In the Add Post editing area, enter a title for your post. Be descriptive, but not boring! Assignment #1, Paper #1, etc are NOT good titles. You may be asked to include specific items in your post titles, so when in doubt, consult the syllabus, ask a classmate, or check with the professor.
 
 3)  Type your post into the larger text box. It's best to compose your text directly in the browser window, if possible. If you are pasting text from Microsoft Word, the visual editor will do its best to remove any extraneous formatting that may cause problems on your blog.
 
-[{{ :creating-content:categories-tags.png?nolink |}}]
+{{https://farm4.staticflickr.com/3943/15370644549_e144a519d5_o_d.png}}
 
 4)  You may be asked to add certain tags or categories to your post. Scroll down the Add Post page and look for the Categories and Tags widgets on the right side. 
 
@@ -24,6 +24,6 @@ For some courses, you will need to create a post on your own personal blog; for 
 
 When in doubt about what categories or tags to use, consult the syllabus, ask a classmate, or check with the professor.
 
-[{{ :creating-content:publish.png?nolink |}}]
+{{https://farm4.staticflickr.com/3929/15370644149_e287a6a8d2_o_d.png}}
 
 5)  When you are finished, find and click the Publish icon near the top of the right sidebar. Your post will now appear on the site.
