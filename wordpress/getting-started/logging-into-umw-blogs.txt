@@ -6,4 +6,4 @@
 
 2)  Enter your username and password into the boxes and click Log In. If you have forgotten your username or password, click the Lost your Password link and follow the instructions to change your password.
 
-[{{ :getting-started:umwblogs-login.png?nolink&300 |}}]
+{{https://farm4.staticflickr.com/3932/14936816053_929ced3560_o_d.png}}
