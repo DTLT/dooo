@@ -14,6 +14,6 @@ For some courses, you will need to create a page on your own personal blog; for 
 
 3)  Type the content for your page into the larger text box. It's best to compose your text directly in the browser window, if possible. If you are pasting text from Microsoft Word, the visual editor will do its best to remove any extraneous formatting that may cause problems on your blog.
 
-{{https://farm4.staticflickr.com/3929/15370644149_bb75d8d84f_d.jpg}}
+{{https://farm4.staticflickr.com/3929/15370644149_e287a6a8d2_o_d.png}}
 
 4)  When you are finished, find and click the Publish icon near the top of the right sidebar. Your page will now appear on the site.
