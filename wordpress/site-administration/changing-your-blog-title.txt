@@ -1,6 +1,6 @@
 {{indexmenu_n>1}}
 
-#Changing Your Blog Title
+====== Changing Your Blog Title ======
 
 
 To start click "Appearance" on the column on the left side.
