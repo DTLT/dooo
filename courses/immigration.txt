@@ -1,0 +1,16 @@
+====== HIST471E8: Immigration and the US South ======
+
+As you  build your projects on the course site, you should think about ways to creatively and effectively use media to enhance your research. Below are links to a number of useful tutorials and resources to consider: 
+
+===== Working with Images =====
+  * You may want to embed images in your pages. Please review our [[wordpress:creating-content:uploading-and-displaying-files|tutorial on uploading and displaying media]]. 
+  * If you have a collection of photos, you may wish to create an image gallery. You can find . [[http://codex.wordpress.org/The_WordPress_Gallery|basic instructions for creating an Image Gallery in Wordpress here]].
+  * In addition, we've installed a plugin to the course site, that allows you to create some different gallery layouts (including a slideshow). This video provides an overview of how to use the alternative layouts: 
+
+<html><iframe width="420" height="315" src="//www.youtube.com/embed/RE5ipUEq1ZM" frameborder="0" allowfullscreen></iframe></html>
+
+===== Maps =====
+  * The simplest way to add a map to your site is to create a My Map in Google Maps. You will need a Google account in order to create one. 
+   * [[https://www.google.com/maps/d/|You can create a Google Map here.]] 
+   * You can find [[https://support.google.com/maps/answer/3045850?hl=en|a tutorial about how to create a Google Map here.]
+   * You can find [[https://support.google.com/maps/answer/3544418?hl=en|a tutorial about how to embed a Google Map here.]] Important Note: You will need to paste the embed code in WordPress in the Text editor (Read more at [[wordpress:creating-content:visual-editor-vs-text-editor|Visual Editor vs. Text Editor]]
