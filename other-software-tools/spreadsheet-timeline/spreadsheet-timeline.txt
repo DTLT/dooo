@@ -1,6 +1,6 @@
 {{indexmenu_n>1}}
 
-#Spreadsheet Timeline
+====== Spreadsheet Timeline (TimelineJS) ======
 
 ====Documentation====
   * [[Using the UMW Spreadsheet Timeline]]
