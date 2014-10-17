@@ -1,6 +1,6 @@
 {{indexmenu_n>3}}
 
-#Setting Privacy Options
+====== Setting Privacy Options ======
 
 First click on tools on the left column. Then in the submenu that opens, click Reading.
 
