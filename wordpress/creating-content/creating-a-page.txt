@@ -4,16 +4,16 @@
 
 For some courses, you will need to create a page on your own personal blog; for others, you will need to create a page directly on the main course blog. Make sure you are on the correct Dashboard by looking in the menu across the top. If you are not in the right Dashboard, use the My Sites drop-down menu to go to the correct Dashboard. When in doubt, consult the syllabus, ask a classmate, or check with the professor.
 
-[{{ :creating-content:page-addnew.png?nolink |}}]
+{{https://farm6.staticflickr.com/5616/15370644249_1326c291f5_o_d.png}}
 
 1)  From the left sidebar, go to Pages -> Add New.
 
-[{{ :creating-content:page-editor.png?nolink |}}]
+{{https://farm4.staticflickr.com/3939/15370644229_613e5968b6_d.jpg}}
 
 2)  In the Add New Page editing area, enter a title for your page. Be descriptive! You may be asked to include specific items in your page titles. When in doubt, consult the syllabus, ask a classmate, or check with the professor.
 
 3)  Type the content for your page into the larger text box. It's best to compose your text directly in the browser window, if possible. If you are pasting text from Microsoft Word, the visual editor will do its best to remove any extraneous formatting that may cause problems on your blog.
 
-[{{ :creating-content:publish.png?nolink |}}]
+{{https://farm4.staticflickr.com/3929/15370644149_bb75d8d84f_d.jpg}}
 
 4)  When you are finished, find and click the Publish icon near the top of the right sidebar. Your page will now appear on the site.
