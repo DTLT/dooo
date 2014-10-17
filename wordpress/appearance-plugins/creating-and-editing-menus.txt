@@ -1,6 +1,6 @@
 {{indexmenu_n>4}}
 
-#Creating and Editing Menus
+====== Creating and Editing Menus ======
 
 
 Creating a menu is how you can structure your site to show pages with content separated by their tags or show different pages with static information. This is also where you can relationally reorganize certain pages and make them sub-pages to parent pages.
