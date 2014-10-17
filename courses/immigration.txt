@@ -23,6 +23,6 @@ As you  build your projects on the course site, you should think about ways to c
 ===== Timeline =====
 For creating an interactive timeline, we recommend you use a tool called [[http://timeline.knightlab.com/|TimeLineJS]]. You will need to use a Google spreadsheet to create the data that you want to display on your timeline, so you will need a Google account. 
 
-Check out [[http://support.umwblogs.org/other-tools/spreadsheet-timeline/using-the-umw-spreadsheet-timeline|this tutorial for complete instructions about creating a timeline]].
+Check out [[http://support.umwblogs.org/other-tools/spreadsheet-timeline/using-the-umw-spreadsheet-timeline|this tutorial for complete instructions about creating a timeline]]. **NOTE: When you are looking for the Google spreadsheet template, you should look for one titled "UMW Spreadsheet Timeline."** 
 
-Note that your timeline can be embedded in your WordPress page, but (similar to a Google Map) you will need to paste the embed code into the Text editor in WordPress. 
+Keep in mind that while your timeline can be embedded in a WordPress page, you will need to paste the embed code into the Text editor in WordPress. 
