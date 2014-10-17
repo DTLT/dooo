@@ -1,6 +1,6 @@
 {{indexmenu_n>1}}
 
-#Spreadsheet Mapper
+====== Spreadsheet Mapper ======
 
 ====Documentation====
   * [[Using the UMW Spreadsheet Mapper]]
