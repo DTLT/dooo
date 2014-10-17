@@ -1,6 +1,6 @@
 {{indexmenu_n>5}}
 
-#Finding Your Blogs
+====== Finding Your Blogs ======
 
 If you are not sure where to find the blog for your course, visit the [[http://umwblogs.org/courses/|Courses section]], where all of the current semester's course blog links are listed. (All previous courses can be found on the [[http://umwblogs.org/courses/list-of-courses/|master list of course blogs]].)
 
