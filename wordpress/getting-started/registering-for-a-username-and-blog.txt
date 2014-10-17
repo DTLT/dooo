@@ -4,15 +4,15 @@
 
 1)  To register your username and blog, go to the [[http://umwblogs.org | UMW Blogs homepage]], and click the "Create a New Account" link.
 
-[{{ :getting-started:umwblogs-create-account.png?nolink&300 |}}]
+{{https://farm4.staticflickr.com/3929/15370980837_a34d494206_o_d.png}}
 
 2)  On the registration form, enter a username and your @mail.umw.edu e-mail address, the read the terms and click the "I Agree" box. Make sure the "Gimme a site!" radio button is selected.
 
-[{{ :getting-started:username-site.png?nolink&600 |}}]
+{{https://farm6.staticflickr.com/5599/15370980807_12934c3cf9_d.jpg}}
 
 3) Click on the Next button, and enter a domain and name for your site. 
 
-[{{ :getting-started:site-domain.png?nolink&600 |}}]
+{{https://farm6.staticflickr.com/5603/14936816073_24151e54b0_d.jpg}}
 
 The domain is the part that goes before UMWBlogs.org in the URL for your site; if your site's URL is http://classdemo.umwblogs.org, then your domain is classdemo. Your domain must be unique, can only contain numbers and letters (no spaces or punctuation), and cannot be changed once you have created it. Chose carefully!
 
@@ -23,4 +23,3 @@ Also pay attention to the privacy options on this page; choose Yes if you want y
 4)  Click the Signup button, and you will receive an email with a confirmation link. 
 
 5)  Log into your UMW email address and click the confirmation link. Once you've clicked this link to confirm your email address, you will be provided with your initial UMW Blogs password, and can log in immediately to your new blog. If you do not click the confirmation link within two days, you will have to re-register.
-
