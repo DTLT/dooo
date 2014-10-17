@@ -1,6 +1,6 @@
 {{indexmenu_n>4}}
 
-#Logging into UMW Blogs
+====== Logging into UMW Blogs ======
 
 1)  Go to the [[http://umwblogs.org|UMW Blogs homepage]].
 
