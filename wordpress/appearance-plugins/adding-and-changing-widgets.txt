@@ -11,12 +11,12 @@ Some WordPress Widgets offer customization and options such as forms to fill out
 
 There are two ways to change your widgets. Both are accessed by clicking on "Appearance," on the left sidebar.
 
-{{  :appearance-and-plugins:appearance_widgets.png?150  |}}
+{{https://farm4.staticflickr.com/3948/15557925862_5a41f81feb_o_d.png}}
 
 The first way is to click, "Widgets," in the submenu that appears after clicking appearance. You will be taken to another page where you can adjust the widgets as you need.
 
-{{  :appearance-and-plugins:widgets_acess_1.png?500  |}}
+{{https://farm6.staticflickr.com/5597/15554411061_18f3c133fd_d.jpg}}
 
 The second is to click, "Customize," in the submenu that appears after clicking appearance. This will take you to a new page where you can toggle the page Widgets and see how they appear on your site. 
 
-{{  :appearance-and-plugins:widgets_acess_2.png?600  |}}
+{{https://farm6.staticflickr.com/5615/15370463189_971209aef8_d.jpg}}
