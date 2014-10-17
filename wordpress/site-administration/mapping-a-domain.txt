@@ -1,6 +1,6 @@
 {{indexmenu_n>5}}
 
-#Mapping a Domain
+====== Mapping a Domain ======
 
 To map a domain, click on "Tools" on the left sidebar, then when the sub menu opens click "Domain Mapping."
 
