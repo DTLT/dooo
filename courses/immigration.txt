@@ -19,3 +19,8 @@ As you  build your projects on the course site, you should think about ways to c
     * You can [[http://storymaps.arcgis.com/en/app-list/map-tour/ | learn more about the Map Tour app here]].
     * You can [[http://storymaps.arcgis.com/en/app-list/map-tour/tutorial/ | find detailed step-by-step instructions here.]]
     * You can [[http://storymaps.arcgis.com/en/app-list/map-tour/gallery/#s=0&n=30&d=1&md=storymaps-apps:000100000 | find examples of Map Tour stories here]].
+
+===== Timeline =====
+For creating an interactive timeline, we recommend you use a tool called [[http://timeline.knightlab.com/|TimeLineJS]]. You will need to use a Google spreadsheet to create the data that you want to display on your timeline, so you will need a Google account. 
+
+Check out [[http://support.umwblogs.org/other-tools/spreadsheet-timeline/using-the-umw-spreadsheet-timeline|this tutorial for complete instructions about creating a timeline]].
