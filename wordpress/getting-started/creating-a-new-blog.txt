@@ -1,6 +1,6 @@
 {{indexmenu_n>6}}
 
-#Creating a New Blog
+====== Creating a New Blog ======
 
 To create a new blog when you already have a username and password:
 
