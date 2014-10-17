@@ -1,4 +1,4 @@
-#Activating Plugins
+====== Activating Plugins ======
 
 1) Log into your account\\
 2) Select the plugins menu from the left side bar\\
