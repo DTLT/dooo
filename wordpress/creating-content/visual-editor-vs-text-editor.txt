@@ -1,6 +1,6 @@
 {{indexmenu_n>4}}
 
-#Visual Editor vs Text Editor
+====== Visual Editor vs Text Editor ======
 
 WordPress provides two different editors: a Visual editor and a Text editor. To switch between editing modes, look towards the top right-hand corner of the editing toolbar, and select either the Visual tab, or the Text tab.
 
