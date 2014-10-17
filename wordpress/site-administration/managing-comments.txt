@@ -1,6 +1,6 @@
 {{indexmenu_n>2}}
 
-#Managing Comments
+====== Managing Comments ======
 
 Click on the comments tab on the left hand side to open the comments management area.
 
