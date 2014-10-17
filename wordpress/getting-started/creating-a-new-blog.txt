@@ -6,11 +6,11 @@ To create a new blog when you already have a username and password:
 
 1) Log into [[http://umwblogs.org | UMW Blogs]], and from the homepage, click "Get another blog on UMW Blogs!" 
 
-[{{ :getting-started:get-another-blog.png?nolink |}}]
+{{https://farm4.staticflickr.com/3954/14936816173_4cfd092c61_o_d.png}}
 
 2) Enter a domain and a name for your new blog.
 
-[{{ :getting-started:site-domain.png?nolink&600 |}}]
+{{https://farm6.staticflickr.com/5603/14936816073_24151e54b0_d.jpg}}
 
 The domain is the part that goes before UMWBlogs.org in the URL for your site; if your site's URL is http://classdemo.umwblogs.org, then your domain is classdemo. Your domain must be unique, can only contain numbers and letters (no spaces or punctuation), and cannot be changed once you have created it. Chose carefully!
 
