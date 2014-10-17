@@ -1,2 +1,5 @@
+{{indexmenu_n>2}}
+
 ====== Canvas  ======
+
 {{namespace>canvas}}
