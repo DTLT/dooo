@@ -1,6 +1,6 @@
 {{indexmenu_n>7}}
 
-#Adding Yourself to a Course Blog
+====== Adding Yourself to a Course Blog ======
 
 Some courses require you to write posts directly on a central course blog. To do this, you will need to add yourself as an Author to that course blog.
 
