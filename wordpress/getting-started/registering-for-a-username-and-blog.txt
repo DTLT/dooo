@@ -1,6 +1,6 @@
 {{indexmenu_n>3}}
 
-#Registering for a Username and Blog
+====== Registering for a Username and Blog ======
 
 1)  To register your username and blog, go to the [[http://umwblogs.org | UMW Blogs homepage]], and click the "Create a New Account" link.
 
