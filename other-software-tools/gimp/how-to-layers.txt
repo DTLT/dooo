@@ -1,16 +1,16 @@
 ====== Layers ======
 
-  * Understanding how to use layers is essential to get the most out of GIMP. When you create a new image in GIMP (File > New Image) you will automatically have one layer, which will appear in your Layers dialog box to the right of the screen, titled Background.
-  * As you work with your image, you can continue to work on the Background layer, or you can create new layers by going to Layer > New Layer from the menubar or by clicking on the blank sheet of paper on the Layers dialog box. Either method will bring up the New Layer dialog box. You can change the layers width and height, as well as its fill type, but typically you’ll just want to use the default settings. Click OK.
+  * Understanding how to use layers is essential to get the most out of GIMP. When you create a new image in GIMP (**File** > **New Image**) you will automatically have one layer, which will appear in your Layers dialog box to the right of the screen, titled **Background**.
+  * As you work with your image, you can continue to work on the Background layer, or you can create new layers by going to **Layer** > **New Layer** from the menubar or by clicking on the blank sheet of paper on the Layers dialog box. Either method will bring up the New Layer dialog box. You can change the layers width and height, as well as its fill type, but typically you’ll just want to use the default settings. Click OK.
   * With multiple layers, you’ll want to ensure that you have them in the correct order in the Layers dialog box. You can think of layers like they are sheets of paper. If place smaller sheets of paper on top of bigger sheets, you’ll be able to see portions of each. However, if you place a larger sheet on a small one, you will only be able to see the bigger sheet. 
   * The same is true for the layers in GIMP. For instance, new layers are by default transparent, allowing you to draw shapes, add text, and more to them, while still being able to see portions of the layers below them. However, if you were to click and drag the Background layer above the new layer, the background layer which is not transparent would cover the view of the other layers. 
 {{http://i.imgur.com/SiFglsZ.gif}}
-  * If you have layer that is partially covered by a layer above it, you can also hide the above layer by clicking on the eye to the left of it. This will allow you to work on that below layer without changing their order. Just be sure to click the eye again to make it visible before you finalize and export your work. Otherwise it will remain hidden in the final image. 
+  * If you have a layer that is partially covered by a layer above it, you can also hide the above layer by clicking on the eye to the left of it. This will allow you to work on that below layer without changing their order. Just be sure to click the eye again to make it visible before you finalize and export your work. Otherwise it will remain hidden in the final image. 
 
 {{http://i.imgur.com/VunpIVp.gif}}
   * You can also merge and group layers together to make them easier to work with.
-  * To merge layers, simply right click the layer above the one you want to merge it with and click merge down. You can go to Layer > Merge Down in the menubar.
+  * To merge layers, simply right click the layer above the one you want to merge it with and click **Merge Down**. You can also go to **Layer** > **Merge Down** from the menubar.
 
 {{http://i.imgur.com/jWKBvdV.gif}}
-  * To group layers without merging them—this is usually done for organization purposes as well as the ability to hide and change the order of several layers at once—click on the folder on the Layers dialog box, you can also go to Layer > New Layer Group… This will create a folder in the Layers dialog box. You can then drag and drop other layers into the folder.
+  * To group layers without merging them—this is usually done for organization purposes as well as the ability to hide and change the order of several layers at once—click on the folder on the Layers dialog box, you can also go to **Layer** > **New Layer Group…** This will create a folder in the Layers dialog box. You can then drag and drop other layers into the folder.
 {{http://i.imgur.com/jpkGw56.png}}
