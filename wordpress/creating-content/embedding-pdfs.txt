@@ -8,17 +8,17 @@ So there are at least three ways to embed a PDF into a post or page in WordPress
 
 From your blogs dashboard, click "Media" on the right side and then click "Add New". Then upload the file in the window that appears.
 
-{{:creating-content:upload_pdf.png|}}
+{{https://farm6.staticflickr.com/5600/15558104062_7ea64ea292_d.jpg}}
 ====Finding the location of the PDF====
 
 
 To find the location of the PDF file to put in the code click on the "Media" tab on the left column and it should show your media library. If not, click "Media" on the left sidebar and then click "Library" in the submenu. 
 
-{{:creating-content:in_media_library.png|}}
+{{https://farm4.staticflickr.com/3950/15371133008_602bb55510_d.jpg}}
 
 Click on your PDF and it will open up a new page. Then on your new page copy the file URL from the right side menu. **One very important thing to note:** if you decide to change the title of your PDF document, the Link will also change, so you may need to comeback and copy this link again and your post(s).
 
-{{:creating-content:file_url.png|}}
+{{https://farm4.staticflickr.com/3953/15371133138_72964acd05_d.jpg}}
 ==== Using Different Embedding Methods ====
 
 To use the embed code you need to use the URL from the previous step and insert it into the the following locations below that have been labeled "(Insert Location of PDF)". Make sure to delete the parentheses as well.
@@ -80,4 +80,4 @@ To embed the PDF into a post or page you need to select "Text" rather than the d
 
 Then paste your code into the post and you are finished. I have pasted all the codes just to show it, but you only need one of the codes from above to make it work. 
 
-{{:creating-content:pasting_the_code.png|}}
+{{https://farm4.staticflickr.com/3931/15371259857_eeb37ba0fb_d.jpg}}
