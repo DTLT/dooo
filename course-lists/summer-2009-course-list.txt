@@ -1,6 +1,6 @@
 {{indexmenu_n>3}}
 
-#Summer 2009
+====== Summer 2009 ======
 
 ====Computer Science====
   *  Jennifer Pollack-Wahl's [[http://cpsc106.umwblogs.org/|CPSC 106: Digital Storytelling]] 
