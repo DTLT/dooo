@@ -6,4 +6,4 @@ If you are not sure where to find the blog for your course, visit the [[http://u
 
 To find blogs you have created for yourself, as well as course blogs to which you have already added yourself, log into UMW Blogs and hover your mouse over the My Sites icon near the top left corner. 
 
-[{{ :getting-started:my-sites.png?nolink |}}]
+{{ https://farm6.staticflickr.com/5606/15533280816_4a59d23838_o_d.png }}
