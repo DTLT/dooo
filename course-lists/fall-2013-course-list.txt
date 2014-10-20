@@ -1,6 +1,6 @@
 {{indexmenu_n>13}}
 
-#Fall 2013
+====== Fall 2013 ======
 
 ====Art & Art History====
   * Rosemary Jesionwoski's [[http://digiarts.umwblogs.org/|Art 104: Digital Approaches to Fine Art]] 
