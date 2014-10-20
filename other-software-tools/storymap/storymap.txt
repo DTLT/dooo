@@ -2,11 +2,11 @@
 
 ===== Setting up StoryMap =====
 
-  - Go to [[http://storymap.knightlab.com/]] and click on "**Make a storymap now**." {picture}
+  - Go to [[http://storymap.knightlab.com/]] and click on "**Make a storymap now**." {{https://farm6.staticflickr.com/5608/15585905172_80137dc618_c.jpg}}
   - **Connect with you Google Account** and accept the connection between your Google Account and KnightLab StoryMap JS. 
-  - Select **Map.** Gigapixel is when you can use a picture (e.g. historic map, photograph, piece of art) as the background and then create a "map" on top of it. {picture}
+  - Select **Map.** Gigapixel is when you can use a picture (e.g. historic map, photograph, piece of art) as the background and then create a "map" on top of it. {{https://farm4.staticflickr.com/3938/15561382216_b44c492ea8_o.png}}
   - Add a title to your map.
-  - The following screen is your title slide. {picture}
+  - The following screen is your title slide. {{https://farm6.staticflickr.com/5612/15582406901_a89be91935_b.jpg}}
   - There are two areas where you can add content. There is a place to add and **Headline and Description,** {picture} a place to add **Media** through either uploading a file or inserting a URL. {picture} These can be pictures or videos. 
   - You can also add a background image to the slide, or change the background color by clicking the "**Slide Options**" button in the bottom right hand corner. {picture}
   - After you add some content, you can **preview** your slide by switching to preview mode at the top of the screen. {picture}
