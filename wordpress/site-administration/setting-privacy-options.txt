@@ -4,7 +4,7 @@
 
 First click on tools on the left column. Then in the submenu that opens, click Reading.
 
-{{  :general-administration:tools_sidebar.png?150  |}}
+{{  https://farm4.staticflickr.com/3954/15585144402_118ce97993_o_d.png }}
 
 This will open a new page and at the bottom there will be five settings options for your privacy.
 
@@ -19,4 +19,4 @@ This will open a new page and at the bottom there will be five settings options 
 5 - This makes content only viewable and available for comment by those who have been made administrators to your site. As default only you are an Administrator but you can make other users administrators too. 
 
 
-{{  :general-administration:privacy_settings.png?600  |}}
+{{  https://farm6.staticflickr.com/5608/15398181708_169bd99973_d.jpg  }}
