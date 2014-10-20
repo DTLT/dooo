@@ -1,6 +1,6 @@
 {{indexmenu_n>1}}
 
-#Fall 2008
+====== Fall 2008 ======
 
 ====Art & Art History====
   * JeanAnn Dabb's [[http://mosaics.umwblogs.org|Mosaics Exhibit]] 
