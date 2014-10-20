@@ -1,6 +1,6 @@
 {{indexmenu_n>5}}
 
-#Spring 2010
+====== Spring 2010 ======
 
 ====Art and Art History====
   * Joseph DiBella's [[http://painting2.umwblogs.org/|Painting II]] 
