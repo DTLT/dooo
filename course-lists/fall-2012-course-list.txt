@@ -1,6 +1,6 @@
 {{indexmenu_n>11}}
 
-#Fall 2012
+====== Fall 2012 ======
 
 ====Anthropology====
   * Laura Mentore [[http://medicalanthropology.umwblogs.org/|Anthropology 37iGG: Medical Anthropology]] 
