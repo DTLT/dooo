@@ -8,5 +8,3 @@
   * After you’ve chosen your desired location and named your file, click Export.
   * Depending on the extension you chose, a second dialog box may pop up. In most cases, you should simply click Export again. The second dialog box allows you to alter aspects of the file extension, including quality and file size. In most cases, the defaults should be fine.
   * To save a copy of an image using a different file name or extension, simple choose Save as… or Export as… from the File menu and follow the same instructions.
-  * 
-  * 
