@@ -1,6 +1,6 @@
 {{indexmenu_n>10}}
 
-#Spring 2012
+====== Spring 2012 ======
 
 ====Art & Art History====
   * Joe Dibella's [[http://arts342.umwblogs.org/|ARTS 342: Painting II]] 
