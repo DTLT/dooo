@@ -20,7 +20,7 @@ In short, US copyright law is outdated in many ways, and fair use probably does 
 
 Before getting started, there are some questions you can ask yourself to determine whether it would be appropriate for you to use a particular piece of media on your blog. Consider the following flowchart:
 
-[{{ :creating-content:copyright-flowchart.png?nolink |}}]
+{{https://farm4.staticflickr.com/3956/15370644499_5a14b94558_d.jpg}}
 
 This flowchart is not intended to summarize or to provide guidance related to all use cases. It is meant to help you visualize the most basic questions you should be asking before using media on your blog. In simplifying that process, it necessarily glosses over some of the complexities inherent to copyright and attribution. For example:
   * **Making work from scratch is different than editing or remixing work that others have created.** You automatically have the right to use any work you have created from scratch. If you want to make something new based on work others have created, you need to make sure you have permission to reuse and remix each individual piece.
@@ -34,7 +34,7 @@ This flowchart is not intended to summarize or to provide guidance related to al
 
 One way to avoid the complexities of traditional copyright is to take advantage of alternative licenses. Creative Commons (CC) licenses, for example, make it very easy to determine what you can use, and how you can use it. 
 
-[{{ :creating-content:cc-search.png?nolink&650 |}}]
+{{https://farm4.staticflickr.com/3941/14936508234_8d073429c0_d.jpg}}
 
 By using the [[http://search.creativecommons.org/|CC search engine]], you can easily find images, audio, video, and other kinds of media that are ready for you to reuse and remix. Simply type your keyword(s) into the box, uncheck "use for commercial purposes," and click the site you'd like to search. If you will not be make any changes to the image (no cropping, no including it with other images, etc), you can also uncheck "modify, adapt, or build upon" to see a larger number of results.
 
@@ -42,7 +42,7 @@ By using the [[http://search.creativecommons.org/|CC search engine]], you can ea
 
 For icons and line drawings, a great resource is [[http://thenounproject.com|The Noun Project]].
 
-[{{ :creating-content:noun-project-eagle.png?nolink&650 |}}]
+{{https://farm4.staticflickr.com/3937/15370644279_496a9b3691_d.jpg}}
 
 To find an image, visit The Noun Project and type your keyword into the search box. Click on one of the results that appears, and you'll be presented with a larger view of the image, as well as the licensing terms that have been applied. Some of the images here have traditional copyright licenses, but many use CC licensing, or are in the public domain.
 
@@ -50,7 +50,7 @@ To find an image, visit The Noun Project and type your keyword into the search b
 
 Many people are familiar with the Wayback Machine, which lets you browse websites as they looked in the past. (Check out [[https://web.archive.org/web/20040520055337/http://www.umw.edu/|UMW's homepage]] from May 20th, 2004.) Archive.org also provides access to a repository of public domain and CC-licensed audio, video, and text.
 
-[{{ :creating-content:archive-eagle.png?nolink |}}]
+{{https://farm6.staticflickr.com/5608/15371260097_ab66310d70_d.jpg}}
 
 Just visit the Archive.org homepage and type your keyword(s) into the search box near the top left. You can search all media types at once, or if you are looking for something specific, use the drop-down menu to pick the kind of media you are looking for.
 
