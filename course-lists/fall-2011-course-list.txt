@@ -1,6 +1,6 @@
 {{indexmenu_n>9}}
 
-#Fall 2011
+====== Fall 2011 ======
 
 ====Art & Art History====
   * Rosemary Jesionowski [[http://digiarts.umwblogs.org|Art 104: Digital Approaches to Fine Arts]] 
