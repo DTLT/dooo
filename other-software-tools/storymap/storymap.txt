@@ -18,3 +18,9 @@
   - If you want to zoom in on your point, you can click the + button in the upper left hand side of the map. 
   - Continuing adding slides to create your story. 
   - As you will see, in the Preview mode, your points will be **connected** as you add slides with different points. {picture} 
+  - Make sure to regularly **Save** your work by clicking the dave button at the top of the screen. 
+  - You can **further customize** your StoryMap, such as changing the style of the map by clicking **Options** next to the Save button. {picture}
+
+===== Sharing Your StoryMap =====
+  - To share a link or to embed your StoryMap, click the **Share** button in the top right hand corner of the screen.{picture}
+{2 pictures}
