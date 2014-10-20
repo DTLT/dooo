@@ -1,6 +1,6 @@
 {{indexmenu_n>6}}
 
-#Summer 2010
+====== Summer 2010 ======
 
 ====Art and Art History====
   * Rosemary Jesionowski's [[http://summerdigiarts.umwblogs.org|Digital Approaches to Fine Art]] 
