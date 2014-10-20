@@ -9,4 +9,4 @@ Although it is possible to upload videos directly into WordPress, UMW Blogs is n
 
 To embed the video all you need to do is to get the URL from the top of the page in the video hosting site and paste it directly into your post or page. The interface will automatically detect the video's URL and automatically embed it.
 
-{{:creating-content:grabbing_the_url.png?300|}}{{:creating-content:pasting_into_post.png?250|}}
+{{https://farm4.staticflickr.com/3953/14937092453_46f5848a3a_d.jpg}}{{https://farm4.staticflickr.com/3949/15371132918_3bd784b7f4_d.jpg}}
