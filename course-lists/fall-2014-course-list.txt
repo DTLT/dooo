@@ -3,46 +3,83 @@
 ====== Fall 2014 ======
 
 ==== Art & Art History ====
-  * 
-
-==== Biology ====
-  * 
-
-==== Classics, Religion, and Philosophy ====
-  * 
+  * Jason Robinson's [[http://digi.umwblogs.org/ | ARTS 104: Digital Approaches to Fine Art]]
 
 ==== Computer Science ====
-  * 
+  * Jim Groom's [[http://theinternetcourse.net/ | CPSC 104: The Internet]]
+  * Jim Groom's [[http://ds106.us/tag/wire106 | CPSC 106: Digital Storytelling]]
+  * Jennifer Polack's [[http://ds106.us/tag/umwfall14/ | CPSC 106: Digital Storytelling]]
 
-==== Earth & Environmental Science ====
-  * 
+==== Education ====
+  * Janine Davis' [[http://teachingideas.umwblogs.org/ | EDUC 351A: Instructional Design and Assessment]]
 
 ==== Economics ====
-  * 
+  * Steve Greenlaw's [[http://econ201honors.umwblogs.org/ | ECON 201: Principles of Macroeconomics]]
 
 ==== English, Linguistics, and Communication ====
-  * 
+  * Chris Foss' [[http://brl14.umwblogs.org/ | ENGL 335B: British Romantic Literature]]
+  * Chris Foss' [[http://bvl14.umwblogs.org/ | ENGL 336: British Victorian Literature]]
+  * Jon Pineda's [[http://engl304.umwblogs.org/ | ENGL 304: Creative Writing: Poetry]]
+  * Jon Pineda's [[http://firstperson.umwblogs.org/ | ENGL 305A: Fiction Writing]] 
+  * Jon Pineda's [[http://engl470b.umwblogs.org/ | ENGL 470B: Creative Writing: Fiction]]
+  * Warren Rochelle's [[http://302prose.umwblogs.org/ | ENGL 302A: Introduction to Creative Writing, Sections 1 & 2]]
+  * Warren Rochelle's [[http://engl313e.woodbetweentheworlds.us/ | ENGL 313E: Fantasy Writing]]
+  * Amanda Rutstein's [[http://302poetry.umwblogs.org/ | ENGL 302A: Introduction to Creative Writing, Sections 3 & 4]]
+  * Mara Scanlon's [[http://litgreatwar.umwblogs.org/ | ENGL 375JJ: Literature of the Great War]]
+  * Zach Whalen's [[http://graphicnovel.umwblogs.org/ | ENGL 386: The Graphic Novel]]
 
 ==== Freshman Seminars ====
-  * 
+  * Nabil Al-Tikriti's [[http://genocide.umwblogs.org | FSEM 100J9: History of Genocides]]
+  * JeanAnn Dabb's [[http://hitchcock.umwblogs.org | FSEM 100J6: Alfred Hitchcock: The Master of Suspense]]
+  * Stephen Davies' [[http://inventions.umwblogs.org/ | FSEM 100K7: Inventions that Rocked the World]]
+  * Sue Fernsebner's [[http://toysashistory.umwblogs.org/ | FSEM 100C6: Toys as History]]
+  * Jeremy Larochelle's [[http://greenhousefsem14.umwblogs.org/ | FSEM 100A3: Writing for a Wounded Planet]]
+  * Nina Mikhalevsky's [[http://bannedart.umwblogs.org/ |FSEM 100KK: Banned & Dangerous Art]]
+  * Warren Rochelle's [[http://fsem100m.umwblogs.org/ | FSEM 100M: The Good Society: Exploring Utopia]]
+  * Gary Stanton's [[http://fsem100f4.umwblogs.org/ | FSEM 100F4: Virtual Vernacular: Recorded Community Music]]
+
+==== Geography ====
+  * Melina Patterson's [[http://www.melinapatterson.net/teaching/geog237/ | GEOG 237: Cities]]
 
 ==== Historic Preservation ====
-  * 
+  * Gary Stanton's [[http://hisp101.umwblogs.org/ | HISP 101-01: The American Heritage]]
+  * Gary Stanton's [[http://hisp10104.umwblogs.org/ | HISP 101-04: The American Heritage]] 
+  * Gary Stanton's [[http://hisp206.umwblogs.org/ | HIST 206: American Folklore]]
 
 ==== History and American Studies ====
-  * 
+  * Nabil Al-Tikriti's [[http://hist383f12.umwblogs.org/ | HIST 383: Islamic Civilization I]]
+  * Nabil Al-Tikriti's [[http://westerncivguides.umwblogs.org/ | HIST 122: Western Civ II]]
+  * Sue Fernsebner's [[http://fernsebner297.umwblogs.org | HIST 297: History Colloquium]]
+  * Sue Fernsebner's [[http://history141.umwblogs.org | HIST 141: Asian Civilizations I]]
+  * Claudine Ferrell's [[http://hist298.ferrellhistory.com | HIST 298: History Practicum]]
+  * Krystyn Moon's [[http://consumerism.umwblogs.org/ | AMST 303: American Consumerism]]
+  * Krystyn Moon's [[http://historycolloquium.umwblogs.org/ | HIST 297: History Colloquium]]
+  * Jeff McClurken's [[http://ushistoryfilm2014.umwblogs.org/ | HIST 329: US History in Film]]
+  * Jeff McClurken's [[http://infoage2014.umwblogs.org/ | HIST 471D7: History of the Information Age]]
+  * Jess Rigelhaupt's [[http://amst201f14.umwblogs.org/ | AMST 201: Introduction to American Studies]]
+  * Jess Rigelhaupt's [[http://amst202f14.umwblogs.org/ | AMST 202: The Politics and Culture of the 1960s]]
+  * Jess Rigelhaupt's [[http://oralhistoryf14.umwblogs.org/ | HIST 441: Oral History]]
+
+==== Honors Program ====
+  * Steve Greenlaw's HONR 100M: Inequality and the American Dream
+  * Mary Kayler's [[http://partplay.org | HONR 100E: Participatory Play]]
+  * Robert Rycroft's HONR 100M: Inequality and the American Dream
 
 ==== Modern Foreign Languages ====
-  * 
+  * Antonia Delgado-Poust's [[http://adelgadopoust.umwblogs.org/ | SPAN 317: Grammar and Composition]]
 
 ==== Music ====
-  * 
-
-==== Political Science and International Affairs ====
-  * 
+  * Mark Snyder's [[http://electronicmusic.umwblogs.org | MUTH 370 Electronic Music]]
+  * Mark Snyder's [[http://theory3.umwblogs.org | MUTH 381A Theory III]]
+  * Mark Snyder's [[http://worldmusic.umwblogs.org/ | MUTH 154 Music of Non-Western Cultures]]
 
 ==== Psychology ====
-  * 
+  * Mindy Erchull's [[http://methodsfall14.umwblogs.org/ | PSYC 362: Research Methods]]
 
 ==== Sociology and Anthropology ====
-  * 
+  * Tracy Citeroni's [[http://publicsoc14.umwblogs.org/ | SOCG 475: Public Sociology Seminar]]
+  * Jason James' [[http://ethnographyfall2014.umwblogs.org/ | ANTH 298: Ethnography]]
+  * Jason James' [[http://ethnographyfall2014.umwblogs.org/ | ANTH 299: Arguments in Anthropology]]
+
+==== Women's and Gender Studies ====
+  * Kristin Marsh's [[http://introws.umwblogs.org/ | WGST 101: Intro to Women's Studies]]
