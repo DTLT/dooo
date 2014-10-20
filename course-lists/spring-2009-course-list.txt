@@ -1,6 +1,6 @@
 {{indexmenu_n>2}}
 
-#Spring 2009
+====== Spring 2009 ======
 
 ====Art & Art History====
   *  Carole Garmon's [[http://cgar.umwblogs.org/|Approaches to Video Art]] 
