@@ -1,6 +1,6 @@
 {{indexmenu_n>4}}
 
-#Fall 2009
+====== Fall 2009 ======
 
 ====Art and Art History====
   * Joe Dibella's [[http://galleryexperience.umwblogs.org|ART 470A2: Advanced Study and Gallery Experience]] 
