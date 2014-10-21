@@ -1,4 +1,4 @@
-====== Gimp Tutorials ======
+====== Gimp ======
 
   * [[other-software-tools:gimp:resizing-images|Resizing Images]]
   * [[other-software-tools:gimp:how-to-layers|Layers]]
