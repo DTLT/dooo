@@ -1,6 +1,6 @@
 {{indexmenu_n>9}}
 
-#Updating Your Profile
+====== Updating Your Profile ======
 
 Your profile contains identifying information about you, including your display name, email address, password, and avatar. To access your profile, make sure you are logged into UMW Blogs, and look in the top right-hand corner of the browser window. You should see a welcome message, along with a small picture.
 
