@@ -1,15 +1,15 @@
 ====== Working with Text ======
  
-  * To add text to images in GIMP, select the Text Tool from the Toolbox, it’s typically to the left of your screen.
+  * To add text to images in GIMP, select the **Text Tool** from the Toolbox, it’s typically to the left of your screen.
 {{http://i.imgur.com/RCpVFnc.gif}}
   * Then click on the image that you want to add the text to and start typing.
-  * You can use the either the Tool Options in the below the Toolbox to the left of the screen, or you can use the options that pop up when you begin typing to alter the font type, size, color, spacing, alignment, and more. 
-  * Afterward, if you wish to move your text, use the Move Tool from the Toolbox. Text entries act no differently from other layers in this aspect.
+  * You can use the either the **Tool Options** in the below the Toolbox to the left of the screen, or you can use the options that pop up when you begin typing to alter the **font type**, **size**, **color**, **spacing**, **alignment**, and more. 
+  * Afterward, if you wish to move your text, use the **Move Tool** from the Toolbox. Text entries act no differently than other layers in this aspect.
 
 ===== Adding Outlines =====
 
   * If you find it hard to see your text, you may want to apply an outline. The best way to do this is to create a separate layer for your outline.
 {{http://i.imgur.com/NNhI9ka.gif}}
-  * To make your outline, ensure that your text layer is selected, and click Layer > Transparency > Alpha to Selection from the menubar. This will create an selection, outlining the text.
-  * Afterwards, create a new layer below your text layer (Layer > New Layer) and go to Select > Grow from the menubar. Typically you’ll want to increase the size of the outline by 2 pixels for smaller text entries. The amount is up to you.
-  * After you’ve done, ensure the new layer is selected, and use the Bucket Fill Tool to fill in the outline, using your desired color. If the outline covers your text, make sure the new layer is below your original text layer on the layers dialog box.
+  * To make your outline, ensure that your text layer is selected, and click **Layer** > **Transparency** > **Alpha to Selection** from the menubar. This will create an selection, outlining the text.
+  * Afterwards, create a new layer below your text layer (**Layer** > **New Layer**) and go to **Select** > **Grow** from the menubar. Typically you’ll want to increase the size of the outline by 2 pixels for smaller text entries. The amount is up to you.
+  * After you’ve done, ensure the new layer is selected, and use the **Bucket Fill Tool** from the Toolbox to fill in the outline, using your desired color. If the outline covers your text, make sure the new layer is below your original text layer on the layers dialog box.
