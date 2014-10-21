@@ -1,4 +1,5 @@
-WordPress Themes
+====== WordPress Themes ======
+
 When it comes to WordPress, customizing the look of your site is simple and straightforward. When you install WordPress, the default (or pre-set) theme is called Twenty Fourteen (as of WordPress version 3.8). It is a very customizable theme. For example, while the default install doesn't include a header, you have the option of adding one of your own images. You can also easily modify the colors of the different fonts and backgrounds used in the theme.
 
 Twenty Fourteen also provides you with the option of choosing a slider or “grid layout” for your site's homepage and to use a custom tag to determine which posts show up on your homepage.
