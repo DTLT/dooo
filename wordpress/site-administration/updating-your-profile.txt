@@ -4,7 +4,7 @@
 
 Your profile contains identifying information about you, including your display name, email address, password, and avatar. To access your profile, make sure you are logged into UMW Blogs, and look in the top right-hand corner of the browser window. You should see a welcome message, along with a small picture.
 
-[{{ :getting-started:edit-profile.png?nolink |}}]
+{{ https://farm6.staticflickr.com/5605/15371359530_b6ab08b4f1_o_d.png }}
 
 To access and/or update your profile, hover your mouse over the "Howdy" message, and click the Edit My Profile link that appears in the drop-down menu.
 
@@ -18,7 +18,7 @@ Most WordPress theme display information about the author of a post; by default,
 
 The only box that must be filled out in this area is the nickname; if you are uncomfortable in having your real name displayed on UMW Blogs, pick a pseudonym and let your professors know what name you are using.
 
-[{{ :getting-started:update-name.png?nolink&600 |}}]
+{{ https://farm6.staticflickr.com/5598/15370855308_60a921b4f4_d.jpg }}
 
 ==== Changing Your Password ====
 
@@ -30,7 +30,7 @@ When you first signed up for UMW Blogs, you were given a random (and probably ha
 
 3)  Click Update Profile to save your changes.
 
-[{{ :getting-started:change-password.png?nolink&600 |}}]
+{{ https://farm6.staticflickr.com/5616/14936231294_b24d16572a_d.jpg }}
 
 The new password will take effect immediately.
 
