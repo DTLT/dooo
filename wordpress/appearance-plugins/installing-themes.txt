@@ -1,0 +1,26 @@
+WordPress Themes
+When it comes to WordPress, customizing the look of your site is simple and straightforward. When you install WordPress, the default (or pre-set) theme is called Twenty Fourteen (as of WordPress version 3.8). It is a very customizable theme. For example, while the default install doesn't include a header, you have the option of adding one of your own images. You can also easily modify the colors of the different fonts and backgrounds used in the theme.
+
+Twenty Fourteen also provides you with the option of choosing a slider or “grid layout” for your site's homepage and to use a custom tag to determine which posts show up on your homepage.
+
+You can find out more about customizing the homepage layout here. You can find out more general information about Twenty Fourteen here.
+
+In addition to Twenty Fourteen, you'll have other themes available to you. (What themes you have depends upon if you did a default WordPress installation, or if you installed a special package.) If Twenty Fourteen doesn't meet your needs, you can activate another theme on your site or install a completely new one.
+
+
+Activating Themes
+Start at your site's Dashboard. 14764078696_baa90d9f58_c.jpg
+Navigate to Appearance > Themes.14765360436_3f92e98492_c.jpg
+You will see thumbnail images representing each of the themes that you currently have available on your site. Simply mouse over any one of them, and click the Activate link. 14788010522_9efc6704a0_c.jpg
+That's all you need to do to change the look of your site with a new theme.
+
+
+Installing Themes
+If none of the themes that were provided when you installed WordPress are what you're looking for, you can always search for and install other themes from the WordPress Theme Repository.
+
+Navigate to Appearance > Themes. 14765360436_3f92e98492_c.jpg
+Installing new themes is quite simple. You start by clicking Add New Theme. 14601781048_3cdbb00893_c.jpg
+The initial page displays Featured theme examples that you can install. You can also click “Popular” or “Latest” for more examples. “Feature Filter” allows you to narrow your search based on properties of themes. 14788122502_ba5a86cfa6_c.jpg
+By hovering your mouse over each example, you'll have two choices - Install and Preview. You can also click on the example to see the Details and Preview. Once you find a theme that fits your needs, click Install Now to add the new theme to your site. Even after you install the theme, it is still not active on your site. You will need to Activate it to use it. 14765542246_0f0cbbba52_c.jpg
+Once activated, your site will be using the new theme. 14601903328_a79f74e053_c.jpg
+At the top of the page will be a message “New Theme Activated”. Click on the Visit Site link to view your site with the new look. 14601850830_10b392a988_c.jpg
