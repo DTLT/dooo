@@ -1,3 +1,5 @@
+====== Saving Images ======
+
   * In GIMP, there is a difference between saving and exporting an image. 
   * To save an image, choose **File** > **Save** from the menubar, or press **Ctrl** + **S** on the keyboard.
   * In GIMP, saving an image means saving your project as a whole in a way that you can open it again in GIMP, with all of the layers, paths, etc. intact. 
