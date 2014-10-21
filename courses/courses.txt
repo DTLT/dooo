@@ -1,1 +1,3 @@
 ====== Courses ======
+
+{{indexmenu_n>9}}
