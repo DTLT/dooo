@@ -20,23 +20,23 @@ You only need to complete these steps once for each timeline you create; after y
 
 1)  In your spreadsheet, click on "File" at the top, then "Click publish to the Web"
 
-[{{ :other-tools:spreadsheet-timeline:timeline-publish.png |}}]
+{{ https://farm4.staticflickr.com/3940/14974583864_f141a594f5_d.jpg }}
 
 2)  Another window will pop up. Make sure the box labeled "Automatically republish when changes are made" is checked, and click "Start Publishing."
 
-[{{ :other-tools:spreadsheet-timeline:publish-start-publishing.png |}}]
+{{ https://farm4.staticflickr.com/3943/15592658071_458759172d_d.jpg }}
 
 3)  In the bottom of that window, copy the URL that appears under "Get a link to the published data." Be sure you copy the entire link -- you may need to expand the box to get the whole URL.
 
-[{{ :other-tools:spreadsheet-timeline:publish-get-url.png |}}]
+{{ https://farm6.staticflickr.com/5614/15596156282_a438b150c9_d.jpg }}
 
 4)  Go to the [[http://timeline.knightlab.com|TimelineJS website]], scroll down to the "Make a Timeline" section, and find Step 3. Paste the URL you copied into the box. You can use the "More Options" drop-down menu to make custom changes, but for most people the default options are acceptable.
 
-[{{ :other-tools:spreadsheet-timeline:publish-paste-url.png?500 |}}]
+{{ https://farm6.staticflickr.com/5607/14975168213_a2636e5e98_d.jpg }}
 
 5)  Scroll down to Step 4 on the TimelineJS website. Clicking the Preview button will show you what your timeline will look like. (At this point you may not have customized the template at all, but it's still useful to preview to make sure you have completed all of the steps up to this point properly.) Copy the code provided to your computer's clipboard.
 
-[{{ :other-tools:spreadsheet-timeline:publish-embed-code.png?500 |}}]
+{{ https://farm4.staticflickr.com/3941/15592658091_bd0c4bac92_d.jpg }}
 
 6)  To embed this timeline into UMWBlogs (or another WordPress site), first create a new post or page to contain the embedded timeline, then switch the WordPress editor from Visual to Text mode. 
 
