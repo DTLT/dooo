@@ -6,8 +6,9 @@
   * Afterward, if you wish to move your text, use the Move Tool from the Toolbox. Text entries act no differently from other layers in this aspect.
 
 ===== Adding Outlines =====
-{{http://i.imgur.com/RCpVFnc.gif}}
+
   * If you find it hard to see your text, you may want to apply an outline. The best way to do this is to create a separate layer for your outline.
+{{http://i.imgur.com/RCpVFnc.gif}}
   * To make your outline, ensure that your text layer is selected, and click Layer > Transparency > Alpha to Selection from the menubar. This will create an selection, outlining the text.
   * Afterwards, create a new layer below your text layer (Layer > New Layer) and go to Select > Grow from the menubar. Typically you’ll want to increase the size of the outline by 2 pixels for smaller text entries. The amount is up to you.
   * After you’ve done, ensure the new layer is selected, and use the Bucket Fill Tool to fill in the outline, using your desired color. If the outline covers your text, make sure the new layer is below your original text layer on the layers dialog box.
