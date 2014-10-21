@@ -27,5 +27,5 @@ After installing your plugin be sure to visit the developers website if you have
 
 Some plugins will have their own settings page located under the 'Settings', other plugins will break out their own menu item on the lefthand side of the Dashboard. The best way to understand how to use a plugin is to make sure you've read the documentation available on the plugin's website as every plugin behaves differently and sometimes it won't be explicit how the plugin interacts with your website.
 
-**Pro Tip**
+**Pro Tip:**
 To search for the plugin that works best for your site, search through google instead of directly going through the Wordpress directory. This way you will be able to find forums or videos that show the best plugins out there to get the job done. Additionally, be sure to visit https://wordpress.org/plugins/ to find more information on a particular plugin. Also, be sure to check reviews, bug problems, and the amount of times the plugin has been downloaded and updated. This is important to make sure the plugin is worth using. If a plugin has not been updated in several years it may not be worth downloading. 
