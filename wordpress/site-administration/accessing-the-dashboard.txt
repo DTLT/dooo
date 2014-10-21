@@ -8,14 +8,14 @@ You can access your WordPress Dashboard in one of several ways:
 
 1)  When you visit the UMW Blogs homepage and log in, you will be automatically taken to the Dashboard of the first blog you created or were given permission to access.
 
-[{{ :getting-started:dashboard.png?nolink&600 |}}]
+{{https://farm4.staticflickr.com/3927/15370855418_1ba11bf8cb_d.jpg}}
 
 2)  If you are looking at the front page of a site on UMW Blogs, you can hover your mouse over the home icon and select Dashboard from the drop-down menu that appears.
 
-[{{ :getting-started:current-dashboard.png?nolink |}}]
+{{ https://farm4.staticflickr.com/3944/15371359580_f6e1453089_o_d.png }}
 
 3)  When you are logged in, you can see a list of sites you have access to by hovering your mouse over the My Sites icon. Hovering over a blog's name will give you quick access to that blog's Dashboard. 
 
-[{{ :getting-started:my-sites-dashboard.png?nolink |}}]
+{{ https://farm6.staticflickr.com/5606/15533280816_4a59d23838_o_d.png }}
 
 4)  No matter where you are, you can always add ''admin'' to the end of your blog's URL, and that will take you to that blog's Dashboard. (If you are not logged in, you will be prompted to do so, and then taken to the Dashboard.) For example: if your blog is located at http://classdemo.umwblogs.org/, then your Dashboard can be accessed at http://classdemo.umwblogs.org/admin.
