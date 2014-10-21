@@ -1,6 +1,6 @@
 {{indexmenu_n>10}}
 
-#Copyright and Attribution
+====== Copyright and Attribution ======
 
 When writing a paper, it's important to provide credit to the writers, researchers, academics, and others who influenced your thinking, or whose words you have used. This is usually done through the use of footnotes, endnotes, and/or bibliographies. It's just as important to provide credit to creators of images, audio, video, and other kinds of media you have used or remixed, especially on an open and highly-trafficked publishing platform like UMW Blogs.
 
