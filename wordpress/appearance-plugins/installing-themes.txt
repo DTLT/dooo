@@ -4,7 +4,7 @@ When it comes to WordPress, customizing the look of your site is simple and stra
 
 Twenty Fourteen also provides you with the option of choosing a slider or “grid layout” for your site's homepage and to use a custom tag to determine which posts show up on your homepage.
 
-You can find out more about customizing the homepage layout here. You can find out more general information about Twenty Fourteen here.
+You can find out more about [[http://codex.wordpress.org/Twenty_Fourteen|customizing the homepage layout here]]. You can find out more general information about Twenty Fourteen here.
 
 In addition to Twenty Fourteen, you'll have other themes available to you. (What themes you have depends upon if you did a default WordPress installation, or if you installed a special package.) If Twenty Fourteen doesn't meet your needs, you can activate another theme on your site or install a completely new one.
 
