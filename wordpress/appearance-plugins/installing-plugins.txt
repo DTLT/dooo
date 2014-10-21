@@ -21,7 +21,7 @@ Wordpress has a lot of functionality built-in, but occasionally you might find a
 
 5. Once you find your desired plugin to install it hit “install now”, which will automatically install the plugin and prompt you if you would like to activate it now or return to the menu.
 
-14785187631_9c4ed17c1b_c.jpg
+[[http://docs.umwdomains.com/lib/exe/fetch.php?tok=59e3a3&media=https%3A%2F%2Ffarm6.staticflickr.com%2F5571%2F14785187631_9c4ed17c1b_c.jpg]]
 
 After installing your plugin be sure to visit the developers website if you have any additional questions about how the plugin works, as some plugins may require certain codes or other actions to be used properly.
 
