@@ -1,6 +1,6 @@
 {{indexmenu_n>8}}
 
-#Accessing the Dashboard
+====== Accessing the Dashboard ======
 
 The WordPress Dashboard is the administrative view of UMW Blogs, and serves as the hub for all of the changes you'll make, including choosing new themes, writing posts, updating your password, etc. You can create and have access to an unlimited number of blogs; each of these has its own Dashboard.
 
