@@ -1,6 +1,7 @@
 ====== Working with Text ======
-  * Working with Text
+ 
   * To add text to images in GIMP, select the Text Tool from the Toolbox, it’s typically to the left of your screen.
+{{http://i.imgur.com/RCpVFnc.gif}}
   * Then click on the image that you want to add the text to and start typing.
   * You can use the either the Tool Options in the below the Toolbox to the left of the screen, or you can use the options that pop up when you begin typing to alter the font type, size, color, spacing, alignment, and more. 
   * Afterward, if you wish to move your text, use the Move Tool from the Toolbox. Text entries act no differently from other layers in this aspect.
