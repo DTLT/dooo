@@ -16,12 +16,7 @@ The **Customize** category gives you an overview of all the basic aesthetic chan
   * **Widgets**: These are independent sections of content that you can arrange and customize that appear on the sidebar of your blog or website.
 
 
-====== Exploring the Appearance Categories and Subcategories ======
-
-
-  - Under **Appearance** in the left-hand column, you will select **Customize**. {{https://farm4.staticflickr.com/3930/15234910378_fe833c55f0_o.png}}
-  - You will see your theme with a bunch of filler information in it. {{https://farm3.staticflickr.com/2945/15398454836_c386b8fc92.jpg}}
-  - From the left-hand column, select **Site Title & Tagline**. This is where you can change the **Title** and **Site Tagline**. {{https://farm4.staticflickr.com/3929/15398454626_3de9812435_o.png}} Once you have typed in what you want for the title and site tagline, be sure to press the blue **Save & Publish** button at the top of the left-hand column. {{https://farm3.staticflickr.com/2942/15234953017_e20f98df1c_o.png}} Now you should notice some changes. {{https://farm3.staticflickr.com/2947/15234751539_5713d87354.jpg}}
-  - Next, go to the next section in the left-hand column, **Colors**. {{https://farm4.staticflickr.com/3927/15234910208_ee3573e221_o.png}} Select the color that you would like to be the background and press **Save & Publish**. {{https://farm3.staticflickr.com/2946/15421504165_6335cdbe93.jpg}} You should notice that the background color has changed. {{https://farm3.staticflickr.com/2949/15234910188_31a7089def.jpg}}
-  - Continuing to move down the left-hand column, expand the section called **Background Image**. Click on **no image** and you will be given the option to select an image from your files to use as the background image. Once you have done so, hit the blue button at the top of the left-hand column that says **Save & Publish**. {{https://farm4.staticflickr.com/3931/15234952907_71d57e3d8d.jpg}} You will notice that the background image has changed and has replaced the background color with the image.
-  - Next, you will modify the widgets. Select the **Widgets** section from the left-hand column. {{https://farm4.staticflickr.com/3928/15234820670_dda7b0c976_o.png}}
+====== Things You Might Not Know ======
+===== How to Make a Subcategory in a Menu =====
+  * In the menu section, select the categories or pages you want in the menu. 
+  * To make one of the categories or pages a subcategory to the other one and thus appear below it when you mouse over the parent category or page, drag the child page or category to the right until it remains bumped over on the menu list.
