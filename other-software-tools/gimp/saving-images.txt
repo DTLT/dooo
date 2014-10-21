@@ -8,6 +8,7 @@
   * After you’ve chosen your desired location and named your file, click **Save**.
   * To export your image, that is to save it as something other than GIMP’s native format (**PNG**, **GIF**, **JPG**, etc.), choose to **File** > **Export** from the menubar, or press **Ctrl** + **E** on the keyboard.
   * There are several extensions available in the Export dialog box. You can see a whole list of what’s available by clicking on Select File Type (By Extension) at the bottom of the dialog box. However, most projects you do will use **JPG**, **PNG**, or **GIF**.
+{{https://farm4.staticflickr.com/3943/15593724435_1e29dd82e4.jpg}}
   * After you’ve chosen your desired location and named your file, click **Export**.
   * Depending on the extension you chose, a second dialog box may pop up. In most cases, you should simply click **Export** again. The second dialog box allows you to alter aspects of the file extension, including quality and file size. In most cases, the defaults should be fine.
 {{https://farm4.staticflickr.com/3952/14972984254_335bc4ec61.jpg}}
