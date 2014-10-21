@@ -8,7 +8,7 @@ You can access your WordPress Dashboard in one of several ways:
 
 1)  When you visit the UMW Blogs homepage and log in, you will be automatically taken to the Dashboard of the first blog you created or were given permission to access.
 
-{{https://farm4.staticflickr.com/3927/15370855418_1ba11bf8cb_d.jpg}}
+{{ https://farm4.staticflickr.com/3927/15370855418_1ba11bf8cb_d.jpg }}
 
 2)  If you are looking at the front page of a site on UMW Blogs, you can hover your mouse over the home icon and select Dashboard from the drop-down menu that appears.
 
