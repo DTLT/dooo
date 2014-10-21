@@ -76,17 +76,17 @@ The UMW Spreadsheet Mapper comes with twenty available rows; a few of those are 
 
 1)  Click the Spreadsheet Mapper menu at the top, then click Add more rows.
 
-[{{ :google-mapper:add-rows.png?500 |}}]
+{{ https://farm6.staticflickr.com/5601/15595979092_d99435a8b8_d.jpg }}
 
 2)  If you have not added or removed rows before, two authorization windows will pop up. Click OK, then click Accept.
 
-[{{ :google-mapper:authorization.png?400 |}}]
+{{ https://farm4.staticflickr.com/3946/15595979062_7b85014b61_d.jpg }}
 
-[{{ :google-mapper:accept.png?400 |}}]
+{{ https://farm6.staticflickr.com/5610/14974988383_8dd52f7bb1_d.jpg }}
 
 3)  Enter the number of rows you would like to add. Having a large number of empty rows can make your map slow to load, so only enter the number you actually need. (You can always add more rows later.) This process will take a moment to add the rows and then to process the table.
 
-[{{ :google-mapper:add-number-of-rows.png?300 |}}]
+{{ https://farm4.staticflickr.com/3941/15409141127_390516110a_o_d.png }}
 
 ===Removing Rows===
 
@@ -96,17 +96,17 @@ To remove rows:
 
 1)  Click the Spreadsheet Mapper menu at the top, then click Remove some rows.
 
-[{{ :google-mapper:remove-rows.png?500 |}}]
+{{ https://farm4.staticflickr.com/3939/15595978872_0a555229c5_d.jpg }}
 
 2)  If you have not added or removed rows before, two authorization windows will pop up. Click OK, then click Accept.
 
-[{{ :google-mapper:authorization.png?400 |}}]
+{{ https://farm4.staticflickr.com/3946/15595979062_7b85014b61_d.jpg }}
 
-[{{ :google-mapper:accept.png?400 |}}]
+{{ https://farm6.staticflickr.com/5610/14974988383_8dd52f7bb1_d.jpg }}
 
 3)  Enter the number of rows you would like to remove. This process will take a moment to delete the rows and then to process the table.
 
-[{{ :google-mapper:remove_500.png?400 |}}]
+{{ https://farm6.staticflickr.com/5603/15409140917_4e5477d933_d.jpg }}
 
 ====Repairing the Spreadsheet==== 
 
@@ -114,15 +114,15 @@ If you accidentally add or remove rows without using the Spreadsheet Mapper tool
 
 1)  Go to the Spreadsheet Mapper menu and click Repair Rows & Formulas.
 
-[{{ :google-mapper:spreadsheet-repair.png?600 |}}]
+{{ https://farm4.staticflickr.com/3933/15595978762_313f0923ea_d.jpg }}
 
 2)  A confirmation box will pop up. Click OK.
 
-[{{ :google-mapper:repair_confirm.png?200 |}}]
+{{ https://farm4.staticflickr.com/3935/14974987983_eda5ab5eaf_d.jpg}}
 
 3)  Once Google Drive has repaired the rows and formulas, another box will pop up to tell you that repair is completed. Click OK to close the box. 
 
-[{{ :google-mapper:repair_completed.png?200 |}}]
+{{ https://farm6.staticflickr.com/5610/15592479411_770b406c9c_d.jpg }}
 
 
 ====Embedding in WordPress====
@@ -133,11 +133,11 @@ To embed your map into WordPress:
 
 1)  Open your spreadsheet map in google maps and click the "chain" icon at the top left.
 
-[{{ :google-mapper:embed_step_one.png?500 |}}]
+{{ https://farm6.staticflickr.com/5604/14974988283_16d0999c56_d.jpg }}
 
 2)  In the pop up window copy the embed code.
 
-[{{ :google-mapper:embed_step_two.png?500 |}}]
+{{ https://farm4.staticflickr.com/3943/14974988233_f4a07f077e_d.jpg }}
 
 3)  Open your WordPress dashboard and make a new post. 
 
@@ -145,7 +145,7 @@ To embed your map into WordPress:
 
 5)  Paste the embed code into the WordPress editor. You can also edit how large your map appears in your post by adjusting the Width and Height at the beginning of the embed code. 
 
-[{{ :google-mapper:adding_to_wordpress.png?500 |}}]
+{{ https://farm4.staticflickr.com/3942/15595979072_f30dd16682_d.jpg }}
 
 ====Tips and Tricks====
 
