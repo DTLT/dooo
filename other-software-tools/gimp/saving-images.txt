@@ -2,6 +2,7 @@
   * To save an image, choose **File** > **Save** from the menubar, or press **Ctrl** + **S** on the keyboard.
   * In GIMP, saving an image means saving your project as a whole in a way that you can open it again in GIMP, with all of the layers, paths, etc. intact. 
   * By default, the Save Image dialog box will set the extension to **XCF**. This is GIMP's native format, and what you’ll want to save your project as if you wish to preserve your work and open it in the program again.
+{{https://farm4.staticflickr.com/3950/15407105759_42d2684e80.jpg}}
   * After you’ve chosen your desired location and named your file, click **Save**.
   * To export your image, that is to save it as something other than GIMP’s native format (**PNG**, **GIF**, **JPG**, etc.), choose to **File** > **Export** from the menubar, or press **Ctrl** + **E** on the keyboard.
   * There are several extensions available in the Export dialog box. You can see a whole list of what’s available by clicking on Select File Type (By Extension) at the bottom of the dialog box. However, most projects you do will use **JPG**, **PNG**, or **GIF**.
