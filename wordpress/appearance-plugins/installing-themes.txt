@@ -9,7 +9,8 @@ You can find out more about customizing the homepage layout here. You can find o
 In addition to Twenty Fourteen, you'll have other themes available to you. (What themes you have depends upon if you did a default WordPress installation, or if you installed a special package.) If Twenty Fourteen doesn't meet your needs, you can activate another theme on your site or install a completely new one.
 
 
-Activating Themes
+===== Activating Themes =====
+
 1. Start at your site's Dashboard. {{https://farm4.staticflickr.com/3881/14764078696_baa90d9f58_c.jpg}}
 2. Navigate to Appearance > Themes. {{https://farm3.staticflickr.com/2899/14765360436_3f92e98492_c.jpg}}
 3. You will see thumbnail images representing each of the themes that you currently have available on your site. Simply mouse over any one of them, and click the Activate link. {{https://farm3.staticflickr.com/2899/14788010522_9efc6704a0_c.jpg}}
