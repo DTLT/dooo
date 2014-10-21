@@ -1,6 +1,6 @@
 {{indexmenu_n>1}}
 
-#10 Ways to Use UMW Blogs
+====== 10 Ways to Use UMW Blogs ======
 
 ==== Traditional Blogging ====
 Figured we would get this one out of the way first. UMW Blogs can be used as a good, old-fashioned blog.  
