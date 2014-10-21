@@ -7,7 +7,7 @@ Wordpress has a lot of functionality built-in, but occasionally you might find a
 
 2. From the left side menu locate and click plugins.
 
-14765005986_a91f13ae25_c.jpg
+{{https://farm4.staticflickr.com/3844/14765005986_a91f13ae25_c.jpg}}
 
 - You will be given a list of all your currently installed plugins.
 
