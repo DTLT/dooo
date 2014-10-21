@@ -1,6 +1,6 @@
 {{indexmenu_n>6}}
 
-#Uploading and Displaying Files
+====== Uploading and Displaying Files ======
 
 Whether you are uploading a file directly to WordPress, or embedding a file located on the web, the Media Library is responsible for organizing and managing images, documents, audio, video, and other kinds of files. 
 
