@@ -15,7 +15,8 @@ Activating Themes
 That's all you need to do to change the look of your site with a new theme.
 
 
-Installing Themes
+===== Installing Themes =====
+
 If none of the themes that were provided when you installed WordPress are what you're looking for, you can always search for and install other themes from the WordPress Theme Repository.
 
 Navigate to Appearance > Themes. 14765360436_3f92e98492_c.jpg
