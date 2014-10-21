@@ -14,7 +14,7 @@
 
 2)  To make the data from this map accessible via the web, you will need to publish it. From the top menu, click File -> Publish to Web.
 
-[{{ :google-mapper:umw-spreadsheet-mapper.png?300 |}}]
+{{ https://farm6.staticflickr.com/5614/15409033988_bc6cf6e3f4_d.jpg }}
 
 3)  Another window will pop up. Uncheck the Automatically republish when changes are made box, and click Start Publishing now. 
 
@@ -43,7 +43,7 @@ To make data entry easier, type the name of the desired template into cell I9 of
 
 To identify which template should be used to display a placemark, type the name of the template into the row where it intersects with column H.
 
-[{{ :google-mapper:template-fields.png?600 | }}]
+{{ https://farm6.staticflickr.com/5615/14974404264_e86f70017e_d.jpg  }}
 
 ===Best Practices===
 
@@ -54,7 +54,7 @@ To identify which template should be used to display a placemark, type the name 
   * Geocoordinates can often be found through a simple Google search (e.g. "UMW coordinates"). You can also navigate to the location you're mapping in Google Maps, right click on the spot you want to retrieve geocoordinates for, and then click “What's here?” in the pop up menu. The Latitude and Longitude will be displayed in the search bar at the top.
   * Latitude and longitude must be entered into this spreadsheet as decimals, using positive and negative numbers to denote direction. North latitudes and east longitudes are positive numbers; south latitudes and west longitudes are negative numbers.
 
-[{{ :google-mapper:lat-long.png |}}]
+{{ https://farm6.staticflickr.com/5612/14974404494_d7c9f23a5c_d.jpg }}
 
 ====Reordering Rows====
 
@@ -64,7 +64,7 @@ If you are using the optional Folder Name column to organize your placemarks, yo
 
 2)  From the Data menu, select one of the Sort options for the column you chose. Most people will probably want to sort from A ----> Z. After a moment, your rows will be reordered.
 
-[{{ :google-mapper:sort-by-folder-name.png?400 |}}]
+{{ https://farm6.staticflickr.com/5610/15409529020_0292140356_d.jpg }}
 
 ====Adding or Removing Rows====
 
