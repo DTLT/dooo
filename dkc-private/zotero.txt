@@ -5,8 +5,8 @@ There are two ways to use Zotero.
   - Zotero Standalone
 
 ==== Zotero for Firefox ====
+Zotero for Firefox lets you capture and organize all your research without ever leaving the browser.
 
 
 ====  Zotero Standalone ====
- 
-
+ Zotero Standalone runs as a separate application and plugs into your choice of browser. It works with Chrome, Safari, and Firefox. 
