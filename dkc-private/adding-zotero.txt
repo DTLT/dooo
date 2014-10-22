@@ -19,3 +19,7 @@ To learn more about Zotero, you can go to [[https://www.zotero.org/support/quick
 
 ====  Zotero Standalone ====
  Zotero Standalone runs as a separate application and plugs into your choice of browser. It works with Chrome, Safari, and Firefox. 
+
+=== Installing the Standalone ===
+ 
+1. Go to https://www.zotero.org/ and select **Download Now**
