@@ -12,15 +12,18 @@
   - After you add some content, you can **preview** your slide by switching to preview mode at the top of the screen. {{https://farm4.staticflickr.com/3939/15398937138_0b94aa4bed_c.jpg}}
 
 ===== Creating a Story =====
-  - Once your title slide is done, you can add a new slide by clicking "Add Slide" on the left side of the screen. {picture}
+  - Once your title slide is done, you can add a new slide by clicking "Add Slide" on the left side of the screen. {{https://farm4.staticflickr.com/3932/15585905542_a69df1d3bd_c.jpg}}
   - You can add in your Headline, description, and media like before on the title slide, but you can also now **add a point on the map**. 
-  - To add a point on the map, **enter in a place in the search box on the map**, press enter.  A point will be dropped onto the place that you searched for. {picture}
-  - If you want to zoom in on your point, you can click the + button in the upper left hand side of the map. 
+  - To add a point on the map, **enter in a place in the search box on the map**, press enter.  A point will be dropped onto the place that you searched for. {{https://farm4.staticflickr.com/3942/15585905452_2c580bd77e_o.png}}
+  - If you want to zoom in or out on your point, you can click the **+** or **- button** in the upper left hand side of the map. 
   - Continuing adding slides to create your story. 
-  - As you will see, in the Preview mode, your points will be **connected** as you add slides with different points. {picture} 
-  - Make sure to regularly **Save** your work by clicking the dave button at the top of the screen. 
-  - You can **further customize** your StoryMap, such as changing the style of the map by clicking **Options** next to the Save button. {picture}
+  - As you will see, in the Preview mode, your points will be **connected** as you add slides with different points. {{https://farm4.staticflickr.com/3951/15582407341_3937acbc26_c.jpg}} 
+  - Make sure to regularly **Save** your work by clicking the save button at the top of the screen. 
+  - You can **further customize** your StoryMap, such as changing the style of the map by clicking **Options** next to the Save button. {{https://farm6.staticflickr.com/5606/15585059455_c07c583817_z.jpg}}
 
 ===== Sharing Your StoryMap =====
-  - To share a link or to embed your StoryMap, click the **Share** button in the top right hand corner of the screen.{picture}
-{2 pictures}
+  - To share a link or to embed your StoryMap, click the **Share** button in the top right hand corner of the screen.{{https://farm4.staticflickr.com/3933/15582407041_7af5fa3502_o.png}}
+=== Shared with a link ===
+{{https://farm6.staticflickr.com/5616/14964327524_767b3e117c_c.jpg}}
+=== Embedded in a post ===
+{{https://farm4.staticflickr.com/3938/15398937648_89518fa75e_o.png}}
