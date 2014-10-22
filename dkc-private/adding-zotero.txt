@@ -50,4 +50,6 @@ If you are using Chrome as your web browser you will need to also download the Z
 
 You will now have the ability to sync your Zotero application with the Chrome web browser. 
 
+=== Getting Started ===
+
 Zotero is, at the most basic level, a citation manager. It is designed to store, manage, and cite bibliographic references, such as books and articles. In Zotero, each of these references constitutes an item. 
