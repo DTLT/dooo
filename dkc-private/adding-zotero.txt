@@ -1,6 +1,6 @@
 ====== Adding Zotero ======
 Zotero is a research tool that automatically senses content in your web browser and then allows you to add it to your personal library with a single click. Zotero allows you to organize research material and generate citations in both a note and bibliography form. To get Zotero go to [[https://www.zotero.org/]].
-There are two ways to use Zotero. 
+There are two ways to add Zotero. 
   - Zotero for Firefox
   - Zotero Standalone
 
