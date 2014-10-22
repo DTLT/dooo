@@ -48,6 +48,9 @@ If you are using Chrome as your web browser you will need to also download the Z
 4. Install the App
 {{https://farm4.staticflickr.com/3952/15578963416_454109ab30_b.jpg}}
 
+5. Now when on an article or other web source you will see a new icon in your browsers URL
+{{https://farm6.staticflickr.com/5605/15416134439_501f8a9c75_o.png}}
+
 You will now have the ability to sync your Zotero application with the Chrome web browser. 
 
 === Getting Started ===
