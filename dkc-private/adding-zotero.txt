@@ -16,6 +16,7 @@ Zotero for Firefox lets you capture and organize all your research without ever 
 To learn how to use Zotero, [[dkc-private:using-zotero|go here]]. 
 To learn more about Zotero, you can go to [[https://www.zotero.org/support/quick_start_guide]]. 
 
+----
 
 ====  Zotero Standalone ====
  Zotero Standalone runs as a separate application and plugs into your choice of browser. It works with Chrome, Safari, and Firefox. 
