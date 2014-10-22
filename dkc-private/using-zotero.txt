@@ -10,6 +10,7 @@ Zotero is a research tool that automatically senses content in your web browser 
   * This is your library. {{https://farm6.staticflickr.com/5615/15579758826_a3080b97ce_c.jpg}} 
 
   * You can also **add items manually** by going to your library and clicking on the little green and white + button. You will be prompted to enter the information about that material on the right side of your library. {{https://farm4.staticflickr.com/3946/15417839220_779d0dce9d_c.jpg}}
+  * You can also **add items** through the different tool buttons Zotero provides in the library such as. You can create web page item from the current page, use the identifier tool to create items from codes such as ISBNs, and you can create notes that are either stuck to an item (Child Note) or are by themselves in your library (Standalone Note). {{https://farm6.staticflickr.com/5615/15600922151_edc1e29ba7_o.png}}
 
 === Organizing Your Library ===
 
