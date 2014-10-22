@@ -17,4 +17,7 @@ Zotero is a research tool that automatically senses content in your web browser 
 
 
 For more complex features on Zotero, please refer to this page:[[https://www.zotero.org/support/start]].
+
+----
+
 ==== Zotero Standalone ====
