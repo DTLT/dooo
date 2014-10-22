@@ -1,0 +1,20 @@
+====== Adding Zotero ======
+Zotero is a research tool that automatically senses content in your web browser and then allows you to add it to your personal library with a single click. Zotero allows you to organize research material and generate citations in both a note and bibliography form. To get Zotero go to [[https://www.zotero.org/]].
+There are two ways to use Zotero. 
+  - Zotero for Firefox
+  - Zotero Standalone
+
+==== Zotero for Firefox ====
+Zotero for Firefox lets you capture and organize all your research without ever leaving the browser.
+=== Adding Zotero to Firefox ===
+  - **To add Zotero directly to Firefox**, go to [[https://www.zotero.org/download/]] using the Firefox Browser and click on the Zotero 4.0 for Firefox button.{picture}
+  - Click **Allow** when Firefox prompts you with a security pop-up. {picture}
+  - Click **Install** in the following pop-up. {picture}
+  - Click **Restart** for Zotero to be on Firefox. 
+  - Zotero has now been added to Firefox! You can **register** to be able to access your library on any computer with Firefox. {picture}
+
+To learn more about Zotero, you can go to [[https://www.zotero.org/support/quick_start_guide]]. 
+
+
+====  Zotero Standalone ====
+ Zotero Standalone runs as a separate application and plugs into your choice of browser. It works with Chrome, Safari, and Firefox. 
