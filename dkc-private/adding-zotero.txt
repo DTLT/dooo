@@ -30,3 +30,6 @@ To learn more about Zotero, you can go to [[https://www.zotero.org/support/quick
 
 3. When downloading the Zotero Standalone you will be asked to give permission for it to run. Select **Open**.
 {{https://farm6.staticflickr.com/5600/15603191912_a64766755e_o.png}}
+
+4. You have successfully downloaded Zotero! Now register your account!
+{{https://farm6.staticflickr.com/5606/14982283553_fd69c884b5_b.jpg}}
