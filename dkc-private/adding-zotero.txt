@@ -34,4 +34,12 @@ To learn more about Zotero, you can go to [[https://www.zotero.org/support/quick
 4. You have successfully downloaded Zotero! Now register your account!
 {{https://farm6.staticflickr.com/5606/14982283553_fd69c884b5_b.jpg}}
 
-=== Getting Started===
+=== Chrome App===
+If you are using Chrome as your web browser you will need to also download the Zotero App for Chrome. 
+
+1. Log into your Google Chrome Account
+
+2. Navigate to https://chrome.google.com/webstore/category/apps 
+
+3. Search for **Zotero**
+Zotero is, at the most basic level, a citation manager. It is designed to store, manage, and cite bibliographic references, such as books and articles. In Zotero, each of these references constitutes an item. 
