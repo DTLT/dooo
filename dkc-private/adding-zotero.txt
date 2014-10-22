@@ -33,3 +33,5 @@ To learn more about Zotero, you can go to [[https://www.zotero.org/support/quick
 
 4. You have successfully downloaded Zotero! Now register your account!
 {{https://farm6.staticflickr.com/5606/14982283553_fd69c884b5_b.jpg}}
+
+=== Getting Started===
