@@ -55,4 +55,6 @@ You will now have the ability to sync your Zotero application with the Chrome we
 
 === Getting Started ===
 
-Zotero is, at the most basic level, a citation manager. It is designed to store, manage, and cite bibliographic references, such as books and articles. In Zotero, each of these references constitutes an item. 
+Zotero is, at the most basic level, a citation manager. It is designed to store, manage, and cite bibliographic references, such as books and articles. In Zotero, each of these references constitutes an item. When searching for articles, newspaper, etc. online you now have the ability to store those findings in Zotero. 
+
+For instance when you are searching for scholarly journal articles through Academic Search Complete and come across one you want to review, you can now just save that article to Zotero. 
