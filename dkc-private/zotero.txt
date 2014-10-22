@@ -3,4 +3,4 @@ Zotero is a research tool that automatically senses content in your web browser 
 
 ===== Downloading/Installing Zotero =====
 ==== MAC ====
-==== PC ====​
+==== PC ====​ 
