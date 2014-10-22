@@ -7,11 +7,11 @@ There are two ways to add Zotero.
 ==== Zotero for Firefox ====
 Zotero for Firefox lets you capture and organize all your research without ever leaving the browser.
 === Adding Zotero to Firefox ===
-  - **To add Zotero directly to Firefox**, go to [[https://www.zotero.org/download/]] using the Firefox Browser and click on the Zotero 4.0 for Firefox button.{picture}
-  - Click **Allow** when Firefox prompts you with a security pop-up. {picture}
-  - Click **Install** in the following pop-up. {picture}
+  - **To add Zotero directly to Firefox**, go to [[https://www.zotero.org/download/]] using the Firefox Browser and click on the Zotero 4.0 for Firefox button.{{https://farm4.staticflickr.com/3933/15578338376_d9636d2172_c.jpg}}
+  - Click **Allow** when Firefox prompts you with a security pop-up. {{https://farm6.staticflickr.com/5599/15416019507_f2be917df5_o.png}}
+  - Click **Install** in the following pop-up. {{https://farm6.staticflickr.com/5616/15415904638_a1d076325f_o.png}}
   - Click **Restart** for Zotero to be on Firefox. 
-  - Zotero has now been added to Firefox! You can **register** to be able to access your library on any computer with Firefox. {picture}
+  - Zotero has now been added to Firefox! You can **register** to be able to access your library on any computer with Firefox. {{https://farm6.staticflickr.com/5609/15415904508_a02c40c015_c.jpg}}
 
 To learn how to use Zotero, [[dkc-private:using-zotero|go here]]. 
 To learn more about Zotero, you can go to [[https://www.zotero.org/support/quick_start_guide]]. 
