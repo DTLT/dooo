@@ -42,4 +42,6 @@ If you are using Chrome as your web browser you will need to also download the Z
 2. Navigate to https://chrome.google.com/webstore/category/apps 
 
 3. Search for **Zotero**
+{{https://farm6.staticflickr.com/5601/15603426982_3915da7288_o.png}}
+
 Zotero is, at the most basic level, a citation manager. It is designed to store, manage, and cite bibliographic references, such as books and articles. In Zotero, each of these references constitutes an item. 
