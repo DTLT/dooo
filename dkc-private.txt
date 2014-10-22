@@ -44,6 +44,7 @@ These are the current tutorial types offered by the Digital Knowledge Center. Ea
   * [[dkc-private:image-editing|Image Editing]]
   * [[dkc-private:audio-editing|Audio Editing]]
   * [[3dprinting:basics|Other]]
+  * [[dkc-private:zotero|Zotero]]
 
 ===== Documentation Needed! =====
 This is documentation that needs to be written. Some of them may require a fair amount of research. If you'd like to work on one, put your name by it. 
