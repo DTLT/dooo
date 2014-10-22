@@ -4,11 +4,11 @@ Zotero is a research tool that automatically senses content in your web browser 
 ==== Zotero for Firefox  ====
 === Adding Stuff to Your Library ===
   * **Adding items** to your Zotero library is very simple. All you have to do is click the icon that appears in far right side of the URL address bar. The icons differ based on what kind of material it is you are saving to your library. Once you click the icon, that item is automatically saved to your Zotero library on the browser. 
-{{https://farm6.staticflickr.com/5604/15578338326_d71668782c_c.jpg}}
+{{https://farm6.staticflickr.com/5604/15578338326_d71668782c_c.jpg}} {{https://farm6.staticflickr.com/5599/15416805409_3c760bb876_c.jpg}}
 
-  * To **view** your library all you have to do is click on the "Z" in upper right hand corner of the browser. {picture} 
+  * To **view** your library all you have to do is click on the "Z" in upper right hand corner of the browser. {{https://farm6.staticflickr.com/5615/14982694304_348127a0a1_c.jpg}} This is your library. {{https://farm6.staticflickr.com/5615/15579758826_a3080b97ce_c.jpg}} 
 
-  * You can also add in items **manually** by going to your library and clicking on the little green and white + button. You will be prompted to enter the information about that material on the right side of your library. {picture}
+  * You can also add in items **manually** by going to your library and clicking on the little green and white + button. You will be prompted to enter the information about that material on the right side of your library. {{https://farm4.staticflickr.com/3946/15417839220_779d0dce9d_c.jpg}}
 
 === Organizing Your Library ===
 
