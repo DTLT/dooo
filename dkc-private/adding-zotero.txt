@@ -27,3 +27,6 @@ To learn more about Zotero, you can go to [[https://www.zotero.org/support/quick
 
 2. Choose **Zotero Standalone** and select your preferred browser. 
 {{https://farm6.staticflickr.com/5602/15599692261_ca09f22072_o.png}}
+
+3. When downloading the Zotero Standalone you will be asked to give permission for it to run. Select **Open**.
+{{https://farm6.staticflickr.com/5600/15603191912_a64766755e_o.png}}
