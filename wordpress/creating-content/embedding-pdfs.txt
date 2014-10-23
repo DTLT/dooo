@@ -20,6 +20,7 @@ To find the location of the PDF file to put in the code click on the "Media" tab
 Click on your PDF and it will open up a new page. Then on your new page copy the file URL from the right side menu. **One very important thing to note:** if you decide to change the title of your PDF document, the Link will also change, so you may need to comeback and copy this link again and your post(s).
 
 {{https://farm4.staticflickr.com/3953/15371133138_72964acd05_d.jpg}}
+
 ==== Using Different Embedding Methods ====
 
 To use the embed code you need to use the URL from the previous step and insert it into the the following locations below that have been labeled "(Insert Location of PDF)". Make sure to delete the parentheses as well.
@@ -28,57 +29,49 @@ You can adjust the numbers in the parentheses at the end of any of these code se
 
 **Embed Command**
 
-This command while short and simple can have compatibility issues with HTML 4 and HTML 5 coding languages.
-This does not work for the Firefox browser without an additional plugin.\\
-This does not work for the Safari browser.
+This is the shortest and simplest command to embed a PDF file.
 
 <code>
 
 <embed src="(Insert location of the PDF)" width="1500" height="600">
 
-
 </code>
 
 You can adjust the numbers in the parentheses at the end of the code to adjust the display width and height of the pdf, but you are constrained to the maximums that your page them is set to.
 
-**Using Object And Embed Code**
-
-This command sequence is claimed to have the best compatibility across all browsers. 
-
-This does not work for Safari Browser.
-
-
-
-<code>
-
-<object data="(Insert location of the PDF)" type="application/pdf" width="1000" height="500">
-
-    <embed src="(Insert location of the PDF)" type="application/pdf" /> 
-</object>
-
-</code>
-
-You can adjust the numbers in the parentheses at the end of the code to adjust the display width and height of the pdf, but you are constrained to the maximums that your page them is set to.
-
-
-**Using Iframe Code**
-
-This is the recommend version, because it gives you the most options in displaying your PDF in the page, but it also is compatible across all internet browsers other than Safari. You can change the ID name, the Title of the PDF, and also the You can also adjust the "frameborder" to display a larger border around the PDF to set it apart from the page.
-
-<code>
-
-<iframe id="(insert Id name)" title="(Insert Title)" src="(Insert location of the PDF)" width="640" height="600" frameborder="1" scrolling="auto"></iframe>
-
-</code>
-
+There are a few other commands that will also embed a PDF and there are some additional features and trade offs that come with them.
 
  
-
-
 ==== Embedding into a Post or Page ====
 
 To embed the PDF into a post or page you need to select "Text" rather than the default "Visual" setting from the top right corner. 
 
-Then paste your code into the post and you are finished. I have pasted all the codes just to show it, but you only need one of the codes from above to make it work. 
+Then paste your code into the post and you are finished.
 
 {{https://farm4.staticflickr.com/3931/15371259857_eeb37ba0fb_d.jpg}}
+
+
+===== Embedding a PDF Using a Plugin =====
+
+The suggested plug in to use is the "Vanilla PDF Embed," it is a very simple embed program that will allow to swiftly embed PDFs.
+
+**To download the Plugin:**
+
+  - Log in to your Wordpress Dashboard, your website or blog. 
+  - Click the Plug-ins tab on the left side.
+  - Click add new at the top.
+  - Then click the search bar on the top right and search for, "PDF Embed."
+  - "vanilla-pdf-embed" should be one of the first few results.
+  - Click "Install Now"
+
+Once the plug in has been installed, then follow these steps that are similar to the ones above,
+The "Uploading the PDF" and "Finding the Location of the PDF"
+
+  - Click the Media tab on the left.
+  - Find your PDF File
+  - Click on the file
+  - When the page opens, grab the URL / Location of the file
+  - Then paste into the post, it does not matter if it is set to visual or text
+  - The plug in will automatically sense the PDF file and embed it. 
+
+Note: This plug in will go through previous posts and if it finds a link like that it will automatically embed the PDF. 
