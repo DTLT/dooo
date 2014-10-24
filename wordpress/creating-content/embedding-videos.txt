@@ -5,6 +5,35 @@
 === Video Files from Your Computer ===
 Although it is possible to upload videos directly into WordPress, UMW Blogs is not intended to be a video server, and you will have better results if you upload your video directly to a video-hosting service (e.g. YouTube, Vimeo, etc) and then embed it into your post or your page.
 
+== YouTube: ==
 To embed the video all you need to do is to get the URL from the top of the page in the video hosting site and paste it directly into your post or page. The interface will automatically detect the video's URL and automatically embed it.
 
-{{https://farm4.staticflickr.com/3953/14937092453_46f5848a3a_d.jpg}}{{https://farm4.staticflickr.com/3949/15371132918_3bd784b7f4_d.jpg}}
+   Before
+{{https://farm4.staticflickr.com/3953/14937092453_46f5848a3a_d.jpg}}
+   After
+{{https://farm4.staticflickr.com/3952/15617289085_d647b72c15_c.jpg}}
+
+Once you copy the link into the post editor, Wordpress will automatically add your video to your post (The actual text of the link will disappear), leaving behind the thumbnail of the video.
+
+== Vimeo: == 
+It's literally the same process, Wordpress makes it very easy to embed a video to the your post. Follow the same steps as you would with YouTube.
+    Before
+{{https://farm4.staticflickr.com/3948/15431224448_5847950a19_c.jpg}}
+    After
+{{https://farm6.staticflickr.com/5609/14996586474_c93b15b80e_c.jpg}}
+
+== Hulu: ==
+Hulu is a great site to watch TV shows and movies on. This site might not be used as often as YouTube or Vimeo might be but it is a great site to grab a clip from a movie or a TV show. The process is exactly the same as YouTube and Vimeo. Just copy and past the link into the post editor. 
+
+   Before
+{{https://farm6.staticflickr.com/5598/15431301418_3dc533edb0_c.jpg}}
+   After
+{{https://farm6.staticflickr.com/5607/15431422787_c797697caa_c.jpg}}
+
+== Headline ==
+
+
+
+
+  
+{{https://farm4.staticflickr.com/3949/15371132918_3bd784b7f4_d.jpg}}
