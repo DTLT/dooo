@@ -30,9 +30,11 @@ Hulu is a great site to watch TV shows and movies on. This site might not be use
    After
 {{https://farm6.staticflickr.com/5607/15431422787_c797697caa_c.jpg}}
 
-== Headline ==
+== Howcast: ==
 
+Now Howcast is a site that hosts different "how to" videos. There are videos on literally every topic. Embedding this site is a little more complicated. Here you need to grab the embed code and insert it into the text editor on the post editor. 
 
+http://www.pcmag.com/slideshow/story/315419/5-other-video-sites-like-youtube/2
 
 
   
