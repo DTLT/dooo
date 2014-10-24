@@ -35,8 +35,6 @@ WHM is the web hosting management system. You would rarely need to access it -- 
 ===== Tutorial Types =====
 These are the current tutorial types offered by the Digital Knowledge Center. Each tutorial type page contains resources and training materials for DKC tutors to review as they prepare to offer that tutorial type. 
 
-**IMPORTANT!! Tutors aren't expected to build these pages! These are pages for me (Martha) to create as I develop the curriculum for tutors on the various tutorial types. Sorry for the confusion! :-)** 
-
   * [[dkc-private:wordpress|Wordpress (including UMW Blogs)]]
   * [[dkc-private:domains|Domain of One's Own]]
   * [[dkc-private:knightlabs|Timeline JS or StoryMap]]
@@ -66,8 +64,7 @@ This is documentation that needs to be written. Some of them may require a fair 
   * [[wordpress:appearance-plugins:installing-themes | Installing Themes]]: we need a document that focuses on the process of finding and installing new themes in WordPress. Feel free to borrow from the existing [[wordpress:appearance-plugins:themes | WordPress Themes]] document.
   * [[wordpress:appearance-plugins:changing-the-theme | Changing the Theme]]: this tutorial needs to be fleshed out to include info on finding existing themes, including using the theme filter interface, and activating them. It should also give some specifics about where to look for additional theme options and customizations. This tutorial should be generic enough to be useful for both UMW Blogs and UMW Domains users. Feel free to borrow from the existing [[wordpress:appearance-plugins:themes | WordPress Themes]] document.
   * The [[wordpress:creating-content:embedding-pdfs | Embedding PDFs]] document needs to be cleaned up and updated for WordPress 4.0. Consider making a recommendation for a plugin if that would make the process easier.
-  * The [[wordpress:creating-content:embedding-videos | Embedding Videos]] tutorial needs to be cleaned up and expanded to include videos on sites other than YouTube. Consider adding information about what to do with student-created videos (i.e. hosting options other than YouTube).
-  * [[dkc-private:video-editing-basic|Video Editing Basic]] This is a basic run down of how to use iMovie to edit video. MEREDITH
+  * The [[wordpress:creating-content:embedding-videos | Embedding Videos]] tutorial needs to be cleaned up and expanded to include videos on sites other than YouTube. Consider adding information about what to do with student-created videos (i.e. hosting options other than YouTube). MEREDTIH
 
 
 {{indexmenu_n>15}}
