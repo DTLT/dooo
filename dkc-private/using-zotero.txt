@@ -22,12 +22,14 @@ Your Zotero library can be organized used several different features including c
   * You will be able to save directly to your new collection and add items from your library to your new collection by dragging the items to your new collection. 
 
 === Tags ===
-  * You can organize your library or a collection by tags.
-  * You can add new tags to items and then see all of the items with that tag. 
+  * You can organize your library or a collection by **tags**.
+  * You can **add new tags** to items and then see all of the items with that tag. 
 {{https://farm4.staticflickr.com/3945/14996040004_e63fffaefb_c.jpg}} {{https://farm6.staticflickr.com/5601/14996641703_82e1df63ed_c.jpg}}
 
 === Groups ===
-
+You can also organize your items by group. 
+  * To **add a group,** click the Add Group button. You will be prompted to sign in and then add your group. 
+{{https://farm6.staticflickr.com/5597/15430191289_3d7f83da44_z.jpg}}
 
 
 === Generating Bibliographies, Citations and Reports ===
