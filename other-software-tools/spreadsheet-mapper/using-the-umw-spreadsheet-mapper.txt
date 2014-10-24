@@ -1,6 +1,6 @@
 {{indexmenu_n>1}}
 
-#Mapper How-To
+====== Mapper How-To ======
 
 1)  Go to [[http://drive.google.com|Google Drive]] and sign in with your Google username and password. If you don't already have a Google account, you will need to [[https://accounts.google.com/signup|create one]].
 
