@@ -17,7 +17,8 @@ Your Zotero library can be organized used several different features including c
 === Collections ===
 
   * **Zotero Library** Your Zotero library is the place where all of saved items will be stored. However, it your library will not divide up your items for you. In order to divide up your items based on subject, the course, project, etc. you need to make **collections**.  
-  * To **make a collection**, all you need to do is click on the New Collection button in the very upper left hand corner of your library. {{https://farm4.staticflickr.com/3939/14996603513_34b94acc54_o.png}} {{https://farm6.staticflickr.com/5603/15430758697_0453e68ce6_o.png}} {{https://farm4.staticflickr.com/3945/15617586382_c93ebafe9d_o.png}}
+  * To **make a collection**, all you need to do is click on the New Collection button in the very upper left hand corner of your library. 
+{{https://farm4.staticflickr.com/3939/14996603513_34b94acc54_o.png}} {{https://farm6.staticflickr.com/5603/15430758697_0453e68ce6_o.png}} {{https://farm4.staticflickr.com/3945/15617586382_c93ebafe9d_o.png}}
   * You will be able to save directly to your new collection and add items from your library to your new collection by dragging the items to your new collection. 
 
 === Tags ===
