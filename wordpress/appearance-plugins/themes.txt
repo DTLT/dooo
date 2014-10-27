@@ -1,3 +1,5 @@
+{{indexmenu_n>12}}
+
 ====== WordPress Themes ======
  
 When it comes to WordPress, customizing the look of your site is simple and straightforward. When you install WordPress, the default (or pre-set) theme is called **Twenty Fourteen** (as of WordPress version 3.8). It is a very customizable theme.  For example, while the default install doesn't include a header, you have the option of adding one of your own images. You can also easily modify the colors of the different fonts and backgrounds used in the theme. 
@@ -28,4 +30,3 @@ If none of the themes that were provided when you installed WordPress are what y
   - Once activated, your site will be using the new theme. {{https://farm3.staticflickr.com/2904/14601903328_a79f74e053_c.jpg}}
   - At the top of the page will be a message "New Theme Activated". Click on the **Visit Site** link to view your site with the new look. {{https://farm3.staticflickr.com/2937/14601850830_10b392a988_c.jpg}}
 
-{{indexmenu_n>11}}
