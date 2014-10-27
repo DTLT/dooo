@@ -71,6 +71,7 @@ The "Uploading the PDF" and "Finding the Location of the PDF"
   - Find your PDF File
   - Click on the file
   - When the page opens, grab the URL / Location of the file
+{{https://farm4.staticflickr.com/3950/15371133008_602bb55510_d.jpg}}
   - Then paste into the post, it does not matter if it is set to visual or text
   - The plug in will automatically sense the PDF file and embed it. 
 
