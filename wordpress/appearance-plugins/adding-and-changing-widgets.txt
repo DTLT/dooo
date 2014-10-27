@@ -1,4 +1,4 @@
-{{indexmenu_n>3}}
+{{indexmenu_n>30}}
 
 ====== Adding and Changing Widgets - DELETE THIS PAGE? ======
 
