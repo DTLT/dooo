@@ -1,6 +1,16 @@
+{{indexmenu_n>12}}
+
 ====== WordPress Widgets ======
 
-Widgets are a more advanced feature of WordPress that allow you even more control over the content on your site. In essence, widgets are small containers of content that can be placed in various areas of your site. Where you can place widgets depends entirely on the theme you are using. Many (most) themes include at least one "sidebar" into which you can place widgets. Some themes include additional "widgetized" areas. The best way to find out what areas are available to you is to go to Appearance > Widgets and take a look at the areas listed on the right. Each widgetized area will appear as a box on the right. In the example show below, the theme contains three widgetized areas: Primary Sidebar, Content Sidebar, and Footer Widget Area. 
+===== Adding and Changing Widgets =====
+
+Widgets are a more advanced feature of WordPress that allow you even more control over the content on your site. In essence, widgets are small containers of content that can be placed in various areas of your site. Where you can place widgets depends entirely on the theme you are using. Many (most) themes include at least one "sidebar" into which you can place widgets. Some themes include additional "widgetized" areas. 
+
+There are two ways to change your widgets. Both are accessed by clicking on "Appearance," on the left sidebar.
+
+{{https://farm4.staticflickr.com/3948/15557925862_5a41f81feb_o_d.png}}
+
+The best way to find out what areas are available to you is to go to Appearance > Widgets and take a look at the areas listed on the right. Each widgetized area will appear as a box on the right. In the example show below, the theme contains three widgetized areas: Primary Sidebar, Content Sidebar, and Footer Widget Area. 
 
 {{http://farm8.staticflickr.com/7311/12306550785_bfb4d20051_c.jpg}}
 
@@ -9,6 +19,10 @@ On the right, you will see a number of widgets available to you. WordPress comes
 Widgets can present all different kinds of information. The simplest widgets allow you to add text to your site. But you'll also find widgets with many options that you can set to display dynamic content or to interact with other services. Below is a list of the default widgets available in WordPress. 
 
 When you're ready to start using widgets, all you need to do is drag them from the right-hand side of the Widgets interface into the boxes on the left. WordPress will immediately save them, but you may need to set some options 
+
+The second is to click, "Customize," in the submenu that appears after clicking appearance. This will take you to a new page where you can toggle the page Widgets and see how they appear on your site. 
+
+{{https://farm6.staticflickr.com/5615/15370463189_971209aef8_d.jpg}}
 
 ===== Default Widgets =====
 
@@ -25,6 +39,3 @@ When you're ready to start using widgets, all you need to do is drag them from t
   * Search: Provides your users with a search box. 
   * Tag Cloud: Shows a "cloud" of the tags/categories on your site. 
   * Text: Shows whatever text you enter. 
-
-
-{{indexmenu_n>12}}
