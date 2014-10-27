@@ -1,6 +1,6 @@
 {{indexmenu_n>3}}
 
-====== Adding and Changing Widgets ======
+====== Adding and Changing Widgets - DELETE THIS PAGE? ======
 
 
 WordPress Widgets add content and features to your Sidebars. Examples are the default widgets that come with WordPress; for post categories, tag clouds, navigation, search, etc. Plugins will often add their own widgets.
