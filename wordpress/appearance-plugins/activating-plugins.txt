@@ -1,12 +1,27 @@
-====== Activating Plugins ======
+====== Activating and Disabling Plugins ======
 
-1) Log into your account\\
-2) Select the plugins menu from the left side bar\\
+
+Wordpress has a lot of functionality built-in, but occasionally you might find a specific need that isn't a part of the default software. To accomplish this, Wordpress has a plugin architecture where developers can create plugins that add additional functionality to your site. From simple photo galleries to site statistics, to automatic Twitter and Facebook sharing of posts, there is practically a plugin for whatever you need for your blog (over 23,000 at the time of this writing). To start using and installing plugins just follow these simple instructions:
+
+1. Log in to your wordpress dashboard.
+
+2. From the left side menu locate and click plugins.
 
 {{https://farm4.staticflickr.com/3948/15371078817_181a3361f9_o_d.png}}\\
 
-3) Click activate under the individual plugins
+{{https://farm4.staticflickr.com/3844/14765005986_a91f13ae25_c.jpg}}
+
+
+ - You will be given a list of all your currently installed plugins.
+
+3. From this menu you are able to activate and disable specified plugins by using either the single plugin options located under each plugin name.
 
 {{https://farm4.staticflickr.com/3942/15533379196_5a15105a76_d.jpg}}
+
+
+ - Or you may use the bulk action drop down menu to simultaneously activate/disable multiple plugins by checking desired plugins
+
+
+ - Additionally you may also sort through installed plugins using the sorting options above the bulk action menu.
 
 **Note: Some plugins may require additional activation steps.**
