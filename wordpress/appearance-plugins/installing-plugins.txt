@@ -1,3 +1,5 @@
+{{indexmenu_n>10}}
+
 ====== Installing Plugins ======
 
 
