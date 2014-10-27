@@ -1,4 +1,4 @@
-====== Plugins ======
+====== Installing Plugins ======
 
 
 Wordpress has a lot of functionality built-in, but occasionally you might find a specific need that isn't a part of the default software. To accomplish this, Wordpress has a plugin architecture where developers can create plugins that add additional functionality to your site. From simple photo galleries to site statistics, to automatic Twitter and Facebook sharing of posts, there is practically a plugin for whatever you need for your blog (over 23,000 at the time of this writing). To start using and installing plugins just follow these simple instructions:
