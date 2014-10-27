@@ -12,16 +12,15 @@ Wordpress has a lot of functionality built-in, but occasionally you might find a
 {{https://farm4.staticflickr.com/3844/14765005986_a91f13ae25_c.jpg}}
 
 
- - You will be given a list of all your currently installed plugins.
+3. You will be given a list of all your currently installed plugins.
 
-3. From this menu you are able to activate and disable specified plugins by using either the single plugin options located under each plugin name.
-
-{{https://farm4.staticflickr.com/3942/15533379196_5a15105a76_d.jpg}}
+4. From this menu you are able to activate and disable specified plugins by using either the single plugin options located under each plugin name.
 
 
- - Or you may use the bulk action drop down menu to simultaneously activate/disable multiple plugins by checking desired plugins
+5. Or you may use the bulk action drop down menu to simultaneously activate/disable multiple plugins by checking desired plugins
 
 
- - Additionally you may also sort through installed plugins using the sorting options above the bulk action menu.
+6. Additionally you may also sort through installed plugins using the sorting options above the bulk action menu.
+
 
 **Note: Some plugins may require additional activation steps.**
