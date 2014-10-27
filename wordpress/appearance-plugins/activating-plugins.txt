@@ -9,8 +9,6 @@ Wordpress has a lot of functionality built-in, but occasionally you might find a
 
 2. From the left side menu locate and click plugins.
 
-{{https://farm4.staticflickr.com/3948/15371078817_181a3361f9_o_d.png}}\\
-
 {{https://farm4.staticflickr.com/3844/14765005986_a91f13ae25_c.jpg}}
 
 
