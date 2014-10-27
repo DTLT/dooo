@@ -64,6 +64,8 @@ The suggested plug in to use is the "Vanilla PDF Embed," it is a very simple emb
 5. "vanilla-pdf-embed" should be one of the first few results.\\
 6. Click "Install Now"\\
 
+Note: See the [[wordpress:appearance-plugins:installing-plugins|installing plugins guide]] if you have difficulties. 
+
 Once the plug in has been installed, then follow these steps that are similar to the ones above,
 The "Uploading the PDF" and "Finding the Location of the PDF"
 
