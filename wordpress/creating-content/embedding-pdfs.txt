@@ -67,12 +67,14 @@ The suggested plug in to use is the "Vanilla PDF Embed," it is a very simple emb
 Once the plug in has been installed, then follow these steps that are similar to the ones above,
 The "Uploading the PDF" and "Finding the Location of the PDF"
 
-  - Click the Media tab on the left.
-  - Find your PDF File
-  - Click on the file
-  - When the page opens, grab the URL / Location of the file
-{{https://farm4.staticflickr.com/3950/15371133008_602bb55510_d.jpg}}
-  - Then paste into the post, it does not matter if it is set to visual or text
-  - The plug in will automatically sense the PDF file and embed it. 
+  1. Click the Media tab on the left.\\
+  2. Find your PDF File\\
+  3. Click on the file\\
+  4. When the page opens, grab the URL / Location of the file\\
+\\
+{{https://farm4.staticflickr.com/3953/15371133138_72964acd05_d.jpg}}\\
+\\
+  5. Then paste into the post, it does not matter if it is set to visual or text\\
+  6. The plug in will automatically sense the PDF file and embed it. \\
 
 Note: This plug in will go through previous posts and if it finds a link like that it will automatically embed the PDF. 
