@@ -15,10 +15,6 @@ Wordpress has a lot of functionality built-in, but occasionally you might find a
 
 3. From this menu you are able to activate and disable specified plugins by using either the single plugin options located under each plugin name.
 
-- Or you may use the bulk action drop down menu to simultaneously activate/disable multiple plugins by checking desired plugins
-
-- Additionally you may also sort through installed plugins using the sorting options above the bulk action menu.
-
 See the [[wordpress:appearance-plugins:activating-plugins|managing plugins]] page for more information.
 
 4. To install a new plugin click “add new” either from the plugin sidebar or the main plugin menu, you will the be redirected to a search engine where you can search using general or specific terms to find plugins. - For example searching “photo gallery” brings up various plugins from different developers.
@@ -31,5 +27,4 @@ After installing your plugin be sure to visit the developers website if you have
 
 Some plugins will have their own settings page located under the 'Settings', other plugins will break out their own menu item on the lefthand side of the Dashboard. The best way to understand how to use a plugin is to make sure you've read the documentation available on the plugin's website as every plugin behaves differently and sometimes it won't be explicit how the plugin interacts with your website.
 
-**Pro Tip:**
-To search for the plugin that works best for your site, search through google instead of directly going through the Wordpress directory. This way you will be able to find forums or videos that show the best plugins out there to get the job done. Additionally, be sure to visit https://wordpress.org/plugins/ to find more information on a particular plugin. Also, be sure to check reviews, bug problems, and the amount of times the plugin has been downloaded and updated. This is important to make sure the plugin is worth using. If a plugin has not been updated in several years it may not be worth downloading. 
+**Pro Tip:**  To search for the plugin that works best for your site, search through google instead of directly going through the Wordpress directory. This way you will be able to find forums or videos that show the best plugins out there to get the job done. Additionally, be sure to visit https://wordpress.org/plugins/ to find more information on a particular plugin. Also, be sure to check reviews, bug problems, and the amount of times the plugin has been downloaded and updated. This is important to make sure the plugin is worth using. If a plugin has not been updated in several years it may not be worth downloading. 
