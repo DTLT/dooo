@@ -70,7 +70,7 @@ This is documentation that needs to be written. Some of them may require a fair 
 
   * Combine [[wordpress:appearance-plugins:making-the-front-page-a-static-page | Making the Front Page a Static Page]] with [[wordpress:appearance-plugins:reading-settings-front-page | Reading Settings - Front Page]].
 
-  * Combine [[wordpress:appearance-plugins:adding-and-changing-widgets | Adding and Changing Widgets]] with [[wordpress:appearance-plugins:widgets | WordPress Widgets]].
+  * Combine [[wordpress:appearance-plugins:adding-and-changing-widgets | Adding and Changing Widgets]] with [[wordpress:appearance-plugins:widgets | WordPress Widgets]]. **PATRICK**
 
   * [[wordpress:appearance-plugins:installing-themes | Installing Themes]]: we need a document that focuses on the process of finding and installing new themes in WordPress. Feel free to borrow from the existing [[wordpress:appearance-plugins:themes | WordPress Themes]] document.
 
