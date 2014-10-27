@@ -57,12 +57,12 @@ The suggested plug in to use is the "Vanilla PDF Embed," it is a very simple emb
 
 **To download the Plugin:**
 
-1. Log in to your Wordpress Dashboard, your website or blog. 
-2. Click the Plug-ins tab on the left side.
-3. Click add new at the top.
-4. Then click the search bar on the top right and search for, "PDF Embed."
-5. "vanilla-pdf-embed" should be one of the first few results.
-6. Click "Install Now"
+1. Log in to your Wordpress Dashboard, your website or blog.\\ 
+2. Click the Plug-ins tab on the left side.\\
+3. Click add new at the top.\\
+4. Then click the search bar on the top right and search for, "PDF Embed."\\
+5. "vanilla-pdf-embed" should be one of the first few results.\\
+6. Click "Install Now"\\
 
 Once the plug in has been installed, then follow these steps that are similar to the ones above,
 The "Uploading the PDF" and "Finding the Location of the PDF"
