@@ -5,7 +5,7 @@
 
 Wordpress has a lot of functionality built-in, but occasionally you might find a specific need that isn't a part of the default software. To accomplish this, Wordpress has a plugin architecture where developers can create plugins that add additional functionality to your site. From simple photo galleries to site statistics, to automatic Twitter and Facebook sharing of posts, there is practically a plugin for whatever you need for your blog (over 23,000 at the time of this writing). To start using and installing plugins just follow these simple instructions:
 
-1. Log in to your wordpress dashboard.
+1. Log in to your WordPress dashboard.
 
 2. From the left side menu locate and click plugins.
 
@@ -18,6 +18,8 @@ Wordpress has a lot of functionality built-in, but occasionally you might find a
 - Or you may use the bulk action drop down menu to simultaneously activate/disable multiple plugins by checking desired plugins
 
 - Additionally you may also sort through installed plugins using the sorting options above the bulk action menu.
+
+See the [[wordpress:appearance-plugins:managing-plugins|managing plugins]] page for more information.
 
 4. To install a new plugin click “add new” either from the plugin sidebar or the main plugin menu, you will the be redirected to a search engine where you can search using general or specific terms to find plugins. - For example searching “photo gallery” brings up various plugins from different developers.
 
