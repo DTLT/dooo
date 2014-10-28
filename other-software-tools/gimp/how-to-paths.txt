@@ -6,6 +6,7 @@
   * Each point you make will be connected to the last via visible lines. If you stop using the Paths Tool, the path will disappear from view. You’ll have to go to the Paths dialog box—it’s to the right in the same box as the Layers dialog box—and click on the eye to the right on your chosen path. This works the same way as item visibility in the Layers dialog box does. 
 {{https://farm4.staticflickr.com/3948/15466959778_2996e7a52d.jpg}}
   * Once you’ve made your path visible, it’ll appear as a thick red outline on your image. Select the Paths Tool and click on it. Afterwards, you’ll want to hide the path in the dialog box to remove the red outline. You can now edit the path freely. 
+{{http://i.imgur.com/YrZAm6b.gif}}
   * For greater control of your path, hold down Ctrl while you’re editing it, or change the Edit Mode in the Tool Options to the left to Edit. This will allow you to add points to existing areas on your path. Doing so will give you greater control of its overall shape.
   * You can also click on the lines connecting your points and drag them to make them curve. 
 
