@@ -16,5 +16,6 @@
   * You can make a selection from your path by going to Select > From Path on the menubar, by pressing Shift + V, or by clicking on the Path to selection button at the bottom of the Paths dialog box. Likewise, you can also turn selections into paths by pressing the Selection to path button beside it.
   * There are several reasons you might want to create a selection from a path. 
   * For instance, you can fill in the selection with the Bucket Fill Tool to make a shape. You can also use the selection to cut away at an image. This is ideal for removing unwanted objects or backgrounds from an image.
+{{http://i.imgur.com/DligzTQ.gif}}
   * In addition to making selections, you can also paint along a path, meaning you can make a solid outline of your path.
   * To do this, go to Edit > Stroke Path from the menubar. This will bring up the Stroke Path dialog box. Here you can adjust the size, color and style of your line. You can even choose to stroke your path with an existing paint tool (Paintbrush, pencil, eraser, etc.). Once you’re satisfied with the options, click Stroke.
