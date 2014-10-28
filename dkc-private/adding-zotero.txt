@@ -54,5 +54,6 @@ If you are using Chrome as your web browser you will need to also download the Z
 
 You will now have the ability to sync your Zotero application with the Chrome web browser. 
 
-==== Microsoft Word Plugin ====
+==== Connecting Zotero to Word ====
 
+1. After successfully downloading Zotero go to: https://www.zotero.org/support/word_processor_plugin_installation
