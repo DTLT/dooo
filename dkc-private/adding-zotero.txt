@@ -56,4 +56,5 @@ You will now have the ability to sync your Zotero application with the Chrome we
 
 ==== Connecting Zotero to Word ====
 
-1. After successfully downloading Zotero [[go here to find the Word plugin.]https://www.zotero.org/support/word_processor_plugin_installation] 
+1. After successfully downloading Zotero [[https://www.zotero.org/support/word_processor_plugin_installation
+|go here to find the Word plugin.]]
