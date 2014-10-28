@@ -34,7 +34,18 @@ Hulu is a great site to watch TV shows and movies on. This site might not be use
 
 Now Howcast is a site that hosts different "how to" videos. There are videos on literally every topic. Embedding this site is a little more complicated. Here you need to grab the embed code and insert it into the text editor on the post editor. 
 
-http://www.pcmag.com/slideshow/story/315419/5-other-video-sites-like-youtube/2
+  - **Click** Share button on the video you want to share {{https://farm8.staticflickr.com/7576/15465039829_db851c70e7_c.jpg}}
+
+  - **Click** Embed Video {{https://farm8.staticflickr.com/7514/15465535578_08f4f5b21f_c.jpg}}
+  - **Copy** the code {{https://farm6.staticflickr.com/5609/15465536058_319e285cae_c.jpg}}
+  - **Paste** the code into the **Text Editor** of the post editor {{https://farm4.staticflickr.com/3934/15465611258_73d4b0f48d_c.jpg}}
+  - Here's the final video!{{https://farm6.staticflickr.com/5612/15030920704_e33776383c_c.jpg}
+
+== Vevo ==
+Vevo is a hosting site, much like YouTube but this site is only for music. Its also like Hulu where you can only watch the content. Embedding the video is similar to Howcast where you need to grab the iFrame to embed the video into the text editor. 
+
+
+
 
 
   
