@@ -54,9 +54,5 @@ If you are using Chrome as your web browser you will need to also download the Z
 
 You will now have the ability to sync your Zotero application with the Chrome web browser. 
 
-=== Getting Started ===
-
-Zotero is, at the most basic level, a citation manager. It is designed to store, manage, and cite bibliographic references, such as books and articles. In Zotero, each of these references constitutes an item. When searching for articles, newspaper, etc. online you now have the ability to store those findings in Zotero. Additionally, you can connect Zotero to Microsoft Word to automatically add citations, but you will need the Word plugin for Zotero.
-
-=== Microsoft Word Plugin ===
+==== Microsoft Word Plugin ====
 
