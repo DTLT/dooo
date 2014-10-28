@@ -9,6 +9,7 @@
 {{http://i.imgur.com/YrZAm6b.gif}}
   * For greater control of your path, hold down Ctrl while you’re editing it, or change the Edit Mode in the Tool Options to the left to Edit. This will allow you to add points to existing areas on your path. Doing so will give you greater control of its overall shape.
   * You can also click on the lines connecting your points and drag them to make them curve. 
+{{http://i.imgur.com/mao6dvX.gif}}
 
 ====== Applications ======
 
