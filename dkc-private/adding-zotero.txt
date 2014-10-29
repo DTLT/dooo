@@ -79,4 +79,4 @@ The latest versons of Zotero allow you automatically connect to Microsoft Word, 
 3. If you receive a message Zotero is already connected to Word and there is no need for the plugin.
 {{https://farm4.staticflickr.com/3934/15039846794_22cdaf8ae3_o.png}}
 
-4. Once the plugin is successfully installed follow the steps above this section. 
+4. Once the plugin is successfully installed follow the steps above this section in **Connecting Zotero to Word**. 
