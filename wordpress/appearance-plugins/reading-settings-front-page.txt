@@ -2,7 +2,11 @@
 
 WordPress is a very flexible platform for creating full-blown websites, not just blogging sites. This page will show you how to change the "front page" of your website.
 
-As we have said before, WordPress provides two primary content types for you two work with: **posts** and **pages**. Posts, as in blog posts, are a somewhat complex form of webpage. Each blog post gets published in reverse chronological order, on the front page of a WordPress site. You write a new post, and it gets published at the top of the front page. Pages, are a more static form of content. They are additional areas to put information that doesn't change much. So what if you would like to make the front page of your WordPress site based on a page instead of your blog posts?
+As we have said before, WordPress provides two primary content types for you two work with: **posts** and **pages**. Posts, as in blog posts, are a somewhat complex form of webpage. Each blog post gets published in reverse chronological order, on the front page of a WordPress site. You write a new post, and it gets published at the top of the front page. 
+
+Pages, are a more static form of content. A static front page is sometimes a good idea if you want users of your blog/website to see a different landing page first. This way they are not just going right into the default of latest posts of your blog or website. This can be particularly helpful if you would like to them to get some background of your site or see other things before they go straight into your blog. They are additional areas to put information that doesn't change much. So what if you would like to make the front page of your WordPress site based on a page instead of your blog posts?
+
+
 
 Start at the **Dashboard**.
 
