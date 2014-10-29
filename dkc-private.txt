@@ -62,9 +62,7 @@ This is documentation that needs to be written. Some of them may require a fair 
 
   * [[other-software-tools:storymap:storymap | StoryMap Tutorial]]: We need a basic tutorial to using creating a StoryMap using the SM authoring tool. It should include an introduction to the basic concepts/interface, step-by-steps for common tasks, and screenshots, as necessary.**JESS-done**
 
-  * [[wordpress:appearance-plugins:installing-plugins | Installing Plugins]]: we need a document that focuses on the process of finding and installing new plugins in WordPress. Feel free to borrow from the existing [[wordpress:appearance-plugins:plugins | WordPress Plugins]] document. **Patrick**
 
-  * [[wordpress:appearance-plugins:activating-plugins | Activating Plugins]]: this tutorial needs to be fleshed out to include info on finding existing plugins and activating them. It should also give some specifics about where to look, and what to do, if a plugin requires additional setup. This tutorial should be generic enough to be useful for both UMW Blogs and UMW Domains users. Feel free to borrow from the existing [[wordpress:appearance-plugins:plugins | WordPress Plugins]] document. **Patrick**
 
   
 
@@ -90,7 +88,9 @@ This is documentation that needs to be written. Some of them may require a fair 
 
   * The [[wordpress:creating-content:embedding-pdfs | Embedding PDFs]] document needs to be cleaned up and updated for WordPress 4.0. Consider making a recommendation for a plugin if that would make the process easier. **PATRICK-Done**
 
+  * [[wordpress:appearance-plugins:installing-plugins | Installing Plugins]]: we need a document that focuses on the process of finding and installing new plugins in WordPress. Feel free to borrow from the existing [[wordpress:appearance-plugins:plugins | WordPress Plugins]] document. **Patrick** New page installing plugins created 
 
+  * [[wordpress:appearance-plugins:activating-plugins | Activating Plugins]]: this tutorial needs to be fleshed out to include info on finding existing plugins and activating them. It should also give some specifics about where to look, and what to do, if a plugin requires additional setup. This tutorial should be generic enough to be useful for both UMW Blogs and UMW Domains users. Feel free to borrow from the existing [[wordpress:appearance-plugins:plugins | WordPress Plugins]] document. **Patrick** New page Activating Plugins created
 
 
 
