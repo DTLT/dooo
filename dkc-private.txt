@@ -68,7 +68,7 @@ This is documentation that needs to be written. Some of them may require a fair 
 
   * Combine [[wordpress:appearance-plugins:menus | Working with Custom Menus]] with [[wordpress:appearance-plugins:creating-and-editing-menus | Creating and Editing Menus]].
 
-  * Combine [[wordpress:appearance-plugins:making-the-front-page-a-static-page | Making the Front Page a Static Page]] with [[wordpress:appearance-plugins:reading-settings-front-page | Reading Settings - Front Page]]. **Patrick**
+  * Combine [[wordpress:appearance-plugins:making-the-front-page-a-static-page | Making the Front Page a Static Page]] with [[wordpress:appearance-plugins:reading-settings-front-page | Reading Settings - Front Page]]. **PATRICK - Combined**
 
   * Combine [[wordpress:appearance-plugins:adding-and-changing-widgets | Adding and Changing Widgets]] with [[wordpress:appearance-plugins:widgets | WordPress Widgets]]. **PATRICK - Combined**
 
