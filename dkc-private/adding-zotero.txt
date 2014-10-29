@@ -58,3 +58,6 @@ You will now have the ability to sync your Zotero application with the Chrome we
 
 1. After successfully downloading Zotero [[https://www.zotero.org/support/word_processor_plugin_installation
 |go here to find the Word plugin.]]
+
+2. Choose the plugin for either Windows or Mac
+{{https://farm4.staticflickr.com/3944/15657827021_7022b1952b_b.jpg}}
