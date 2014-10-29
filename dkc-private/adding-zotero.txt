@@ -56,8 +56,27 @@ You will now have the ability to sync your Zotero application with the Chrome we
 
 ==== Connecting Zotero to Word ====
 
+The latest versons of Zotero allow you automatically connect to Microsoft Word, making it easier to cite information or make a bibliography. However, in some versions of Zotero you cannot connect to word, so you may need to download the Word plugin for Zotero. 
+
+1. First check to see if Zotero is already connected to Word before proceeding.
+
+2. With Word open look for this icon at the top of your screen.
+{{https://farm4.staticflickr.com/3945/15474446738_e23b525900_o.png}}
+
+3. Click the icon and scroll down to Zotero. 
+{{https://farm4.staticflickr.com/3948/15474463838_f2d2b63bde_o.png}}
+
+4. From this menu you can automatically add citations to your Word Document from Zotero.
+
+===Installing Word Plugin=== 
+
 1. After successfully downloading Zotero [[https://www.zotero.org/support/word_processor_plugin_installation
 |go here to find the Word plugin.]]
 
 2. Choose the plugin for either Windows or Mac
 {{https://farm4.staticflickr.com/3944/15657827021_7022b1952b_b.jpg}}
+
+3. If you receive a message Zotero is already connected to Word and there is no need for the plugin.
+{{https://farm4.staticflickr.com/3934/15039846794_22cdaf8ae3_o.png}}
+
+4. Once the plugin is successfully installed follow the steps above this section. 
