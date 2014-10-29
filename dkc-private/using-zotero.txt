@@ -42,3 +42,10 @@ For more complex features on Zotero, please refer to this page:[[https://www.zot
 ----
 
 ==== Zotero Standalone ====
+
+The Zotero Standalone is not much different than the one for Firefox. The main difference when using the Standalone is that the application runs on its own does not use your web browser to access your library. 
+
+1. Find Zotero on your computer and open the application (you may receive a message asking permission to run the program since it's from the internet, so click 'ok' or 'yes'). 
+
+2. When the program is running you should get a window that looks like this: 
+{{https://farm8.staticflickr.com/7552/15474586648_1ae4b00859_b.jpg}}
