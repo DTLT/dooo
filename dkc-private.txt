@@ -54,7 +54,7 @@ This is documentation that needs to be written. Some of them may require a fair 
 
   * [[wordpress:advanced-topics:using-feedwordpress|Feedwordpress]]: This is a tutorial on installing FeedWordPress and configuring it (as well as a general introduction to the concept of syndication) **JACK**
 
-  * [[wordpress:advanced-topics:child-themes|Child Themes]]: This is a tutorial on what child themes are, why you would use them, and how to create them. **JESS-done**
+
 
   * [[wordpress:advanced-topics:advanced-wordpress-themes|Advanced WordPress Theme Techniques]]: This is a tutorial on advanced techniques for working with WordPress themes. When you install a new theme, how do you go about figuring out how to use it? What are some good tips/best practices?
 
@@ -66,19 +66,32 @@ This is documentation that needs to be written. Some of them may require a fair 
 
   * [[wordpress:appearance-plugins:activating-plugins | Activating Plugins]]: this tutorial needs to be fleshed out to include info on finding existing plugins and activating them. It should also give some specifics about where to look, and what to do, if a plugin requires additional setup. This tutorial should be generic enough to be useful for both UMW Blogs and UMW Domains users. Feel free to borrow from the existing [[wordpress:appearance-plugins:plugins | WordPress Plugins]] document. **Patrick**
 
-  * Combine [[wordpress:appearance-plugins:menus | Working with Custom Menus]] with [[wordpress:appearance-plugins:creating-and-editing-menus | Creating and Editing Menus]].
-
-  * Combine [[wordpress:appearance-plugins:making-the-front-page-a-static-page | Making the Front Page a Static Page]] with [[wordpress:appearance-plugins:reading-settings-front-page | Reading Settings - Front Page]]. **PATRICK - Combined**
-
-  * Combine [[wordpress:appearance-plugins:adding-and-changing-widgets | Adding and Changing Widgets]] with [[wordpress:appearance-plugins:widgets | WordPress Widgets]]. **PATRICK - Combined**
+  
 
   * [[wordpress:appearance-plugins:installing-themes | Installing Themes]]: we need a document that focuses on the process of finding and installing new themes in WordPress. Feel free to borrow from the existing [[wordpress:appearance-plugins:themes | WordPress Themes]] document.
 
   * [[wordpress:appearance-plugins:changing-the-theme | Changing the Theme]]: this tutorial needs to be fleshed out to include info on finding existing themes, including using the theme filter interface, and activating them. It should also give some specifics about where to look for additional theme options and customizations. This tutorial should be generic enough to be useful for both UMW Blogs and UMW Domains users. Feel free to borrow from the existing [[wordpress:appearance-plugins:themes | WordPress Themes]] document.
 
-  * The [[wordpress:creating-content:embedding-pdfs | Embedding PDFs]] document needs to be cleaned up and updated for WordPress 4.0. Consider making a recommendation for a plugin if that would make the process easier. **PATRICK-Done**
+  
 
   * The [[wordpress:creating-content:embedding-videos | Embedding Videos]] tutorial needs to be cleaned up and expanded to include videos on sites other than YouTube. Consider adding information about what to do with student-created videos (i.e. hosting options other than YouTube). **MEREDITH**
+
+
+
+==== Completed ====
+
+  * [[wordpress:advanced-topics:child-themes|Child Themes]]: This is a tutorial on what child themes are, why you would use them, and how to create them. **JESS-done**
+
+  * Combine [[wordpress:appearance-plugins:menus | Working with Custom Menus]] with [[wordpress:appearance-plugins:creating-and-editing-menus | Creating and Editing Menus]]. **PATRICK - COMBINED**
+
+  * Combine [[wordpress:appearance-plugins:making-the-front-page-a-static-page | Making the Front Page a Static Page]] with [[wordpress:appearance-plugins:reading-settings-front-page | Reading Settings - Front Page]]. **PATRICK - Combined**
+
+  * Combine [[wordpress:appearance-plugins:adding-and-changing-widgets | Adding and Changing Widgets]] with [[wordpress:appearance-plugins:widgets | WordPress Widgets]]. **PATRICK - Combined**
+
+  * The [[wordpress:creating-content:embedding-pdfs | Embedding PDFs]] document needs to be cleaned up and updated for WordPress 4.0. Consider making a recommendation for a plugin if that would make the process easier. **PATRICK-Done**
+
+
+
 
 
 {{indexmenu_n>15}}
