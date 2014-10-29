@@ -60,10 +60,10 @@ The latest versons of Zotero allow you automatically connect to Microsoft Word, 
 
 1. First check to see if Zotero is already connected to Word before proceeding.
 
-2. With Word open look for this icon at the top of your screen.
+2. With Word open look for this icon at the top of your screen. 
 {{https://farm4.staticflickr.com/3945/15474446738_e23b525900_o.png}}
 
-3. Click the icon and scroll down to Zotero. 
+3. Click the icon and scroll down to Zotero. If you do not see an option for Zotero you will need to download the plugin.
 {{https://farm4.staticflickr.com/3948/15474463838_f2d2b63bde_o.png}}
 
 4. From this menu you can automatically add citations to your Word Document from Zotero.
