@@ -4,9 +4,9 @@ There are two ways to add Zotero.
   - Zotero for Firefox
   - Zotero Standalone
 
-==== Zotero for Firefox ====
+===== Zotero for Firefox =====
 Zotero for Firefox lets you capture and organize all your research without ever leaving the browser.
-=== Adding Zotero to Firefox ===
+
   - **To add Zotero directly to Firefox**, go to [[https://www.zotero.org/download/]] using the Firefox Browser and click on the Zotero 4.0 for Firefox button.{{https://farm4.staticflickr.com/3933/15578338376_d9636d2172_c.jpg}}
   - Click **Allow** when Firefox prompts you with a security pop-up. {{https://farm6.staticflickr.com/5599/15416019507_f2be917df5_o.png}}
   - Click **Install** in the following pop-up. {{https://farm6.staticflickr.com/5616/15415904638_a1d076325f_o.png}}
@@ -18,10 +18,10 @@ To learn more about Zotero, you can go to [[https://www.zotero.org/support/quick
 
 ----
 
-====  Zotero Standalone ====
+=====  Zotero Standalone =====
  Zotero Standalone runs as a separate application and plugs into your choice of browser. It works with Chrome, Safari, and Firefox. 
 
-=== Installing the Standalone ===
+==== Installing the Standalone ====
  
 1. Go to https://www.zotero.org/ and select **Download Now**
 {{https://farm4.staticflickr.com/3953/15416359487_80a72c3c45_b.jpg}}
@@ -35,7 +35,7 @@ To learn more about Zotero, you can go to [[https://www.zotero.org/support/quick
 4. You have successfully downloaded Zotero! Now register your account!
 {{https://farm6.staticflickr.com/5606/14982283553_fd69c884b5_b.jpg}}
 
-=== Chrome App===
+==== Chrome App ====
 If you are using Chrome as your web browser you will need to also download the Zotero App for Chrome. 
 
 1. Log into your Google Chrome Account
@@ -54,7 +54,7 @@ If you are using Chrome as your web browser you will need to also download the Z
 
 You will now have the ability to sync your Zotero application with the Chrome web browser. 
 
-==== Connecting Zotero to Word ====
+===== Connecting Zotero to Word =====
 
 The latest versons of Zotero allow you automatically connect to Microsoft Word, making it easier to cite information or make a bibliography. However, in some versions of Zotero you cannot connect to word, so you may need to download the Word plugin for Zotero. 
 
@@ -68,7 +68,7 @@ The latest versons of Zotero allow you automatically connect to Microsoft Word, 
 
 4. From this menu you can automatically add citations to your Word Document from Zotero.
 
-===Installing Word Plugin=== 
+====Installing Word Plugin==== 
 
 1. After successfully downloading Zotero [[https://www.zotero.org/support/word_processor_plugin_installation
 |go here to find the Word plugin.]]
