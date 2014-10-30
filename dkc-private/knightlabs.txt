@@ -17,6 +17,6 @@ StoryMap JS is an open source tool that allows you to create stories using maps 
   * SnapMap: These are a special "flavor" of StoryMap that use your last 20 geo-coded instagram photos to create a narrative map. Once created, you can use StoryMap's editing tool to embellish/modify the story. 
 
 **Preparing for this tutorial**
-  - Review [[storymap:storymap|the StoryMap tutorial]].
+  - Review [[http://docs.umwdomains.com/other-software-tools/storymap/storymap|the StoryMap tutorial]].
   - Review the [[http://storymap.knightlab.com/index.html#help | FAQ at the StoryMap Web site]].
   - Build your own storymap and blog it (tag: dkctutorstorymap)
