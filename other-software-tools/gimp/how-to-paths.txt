@@ -1,24 +1,24 @@
 ====== Paths ======
 
-  * Paths in GIMP are an easy and precise way to create freeform shapes and outlines. To use paths, you’ll first want to select the Paths Tool in the toolbox to the left. 
+  * Paths in GIMP are an easy and precise way to create freeform shapes and outlines. To use paths, you’ll first want to select the **Paths Tool** in the toolbox to the left. 
 {{https://farm8.staticflickr.com/7478/15032957233_e5a3611dd1.jpg}}
   * With the Paths Tool selected, you can begin creating paths by clicking on your image and creating points. 
   * Each point you make will be connected to the last via visible lines. If you stop using the Paths Tool, the path will disappear from view. You’ll have to go to the Paths dialog box—it’s to the right in the same box as the Layers dialog box—and click on the eye to the right on your chosen path. This works the same way as item visibility in the Layers dialog box does. 
 {{https://farm4.staticflickr.com/3948/15466959778_2996e7a52d.jpg}}
   * Once you’ve made your path visible, it’ll appear as a thick red outline on your image. Select the Paths Tool and click on it. Afterwards, you’ll want to hide the path in the dialog box to remove the red outline. You can now edit the path freely. 
 {{http://i.imgur.com/YrZAm6b.gif}}
-  * For greater control of your path, hold down Ctrl while you’re editing it, or change the Edit Mode in the Tool Options to the left to Edit. This will allow you to add points to existing areas on your path. Doing so will give you greater control of its overall shape.
+  * For greater control of your path, hold down **Ctrl** while you’re editing it, or change the **Edit Mode** in the Tool Options to the left to **Edit**. This will allow you to add points to existing areas on your path. Doing so will give you greater control of its overall shape.
   * You can also click on the lines connecting your points and drag them to make them curve. 
 {{http://i.imgur.com/mao6dvX.gif}}
 
 ====== Applications ======
 
   * Now that you understand how to make and edit a path, here some possible uses for them.
-  * The most basic application of paths are to use them as a way to make selections. Think of something along the lines of Rectangle, Ellipse, or Free Select tools, only you have more control over the overall shape.
-  * You can make a selection from your path by going to Select > From Path on the menubar, by pressing Shift + V, or by clicking on the Path to selection button at the bottom of the Paths dialog box. Likewise, you can also turn selections into paths by pressing the Selection to path button beside it.
+  * The most basic application of paths are to use them as a way to make selections. Think of something along the lines of **Rectangle**, **Ellipse**, or **Free Select tools**, only you have more control over the overall shape.
+  * You can make a selection from your path by going to **Select** > From **Path** on the menubar, by pressing **Shift** + **V**, or by clicking on the Path to selection button at the bottom of the Paths dialog box. Likewise, you can also turn selections into paths by pressing the **Selection to path** button beside it.
   * There are several reasons you might want to create a selection from a path. 
-  * For instance, you can fill in the selection with the Bucket Fill Tool to make a shape. You can also use the selection to cut away at an image. This is ideal for removing unwanted objects or backgrounds from an image.
+  * For instance, you can fill in the selection with the **Bucket Fill Tool** to make a shape. You can also use the selection to cut away at an image. This is ideal for removing unwanted objects or backgrounds from an image.
 {{http://i.imgur.com/DligzTQ.gif}}
   * In addition to making selections, you can also paint along a path, meaning you can make a solid outline of your path.
-  * To do this, go to Edit > Stroke Path from the menubar. This will bring up the Stroke Path dialog box. Here you can adjust the size, color and style of your line. You can even choose to stroke your path with an existing paint tool (Paintbrush, pencil, eraser, etc.). Once you’re satisfied with the options, click Stroke.
+  * To do this, go to **Edit** > **Stroke Path** from the menubar. This will bring up the Stroke Path dialog box. Here you can adjust the size, color and style of your line. You can even choose to stroke your path with an existing paint tool (Paintbrush, pencil, eraser, etc.). Once you’re satisfied with the options, click **Stroke**.
 {{http://i.imgur.com/1rYYqXr.gif}}
