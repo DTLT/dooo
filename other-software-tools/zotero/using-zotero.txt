@@ -1,0 +1,56 @@
+====== Using Zotero ======
+Zotero is a research tool that automatically senses content in your web browser and then allows you to add it to your personal library with a single click. Zotero allows you to organize research material and generate citations in both a note and bibliography form. To get Zotero go to [[https://www.zotero.org/]]and refer to [[adding-zotero|this tutorial]]. Following are the steps on how to use Zotero once downloaded and installed. 
+
+===== Zotero for Firefox  =====
+==== Adding Stuff to Your Library ====
+  * **Adding items** to your Zotero library is very simple. All you have to do is click the icon that appears in far right side of the URL address bar. The icons differ based on what kind of material it is you are saving to your library. Once you click the icon, that item is automatically saved to your Zotero library on the browser. 
+{{https://farm6.staticflickr.com/5604/15578338326_d71668782c_c.jpg}} {{https://farm6.staticflickr.com/5599/15416805409_3c760bb876_c.jpg}}
+
+  * To **view** your library all you have to do is click on the "Z" in upper right hand corner of the browser. {{https://farm6.staticflickr.com/5615/14982694304_348127a0a1_c.jpg}} 
+  * This is your library. {{https://farm6.staticflickr.com/5615/15579758826_a3080b97ce_c.jpg}} 
+
+  * You can also **add items manually** by going to your library and clicking on the little green and white + button. You will be prompted to enter the information about that material on the right side of your library. {{https://farm4.staticflickr.com/3946/15417839220_779d0dce9d_c.jpg}}
+  * You can also **add items** through the different tool buttons Zotero provides in the library such as. You can create web page item from the current page, use the identifier tool to create items from codes such as ISBNs, and you can create notes that are either stuck to an item (Child Note) or are by themselves in your library (Standalone Note). {{https://farm6.staticflickr.com/5615/15600922151_edc1e29ba7_o.png}}
+
+===== Organizing Your Library =====
+Your Zotero library can be organized used several different features including collections, tags, and groups.
+==== Collections ====
+
+  * **Zotero Library** Your Zotero library is the place where all of saved items will be stored. However, it your library will not divide up your items for you. In order to divide up your items based on subject, the course, project, etc. you need to make **collections**.  
+  * To **make a collection**, all you need to do is click on the New Collection button in the very upper left hand corner of your library. 
+{{https://farm4.staticflickr.com/3939/14996603513_34b94acc54_o.png}} {{https://farm6.staticflickr.com/5603/15430758697_0453e68ce6_o.png}} {{https://farm4.staticflickr.com/3945/15617586382_c93ebafe9d_o.png}}
+  * You will be able to save directly to your new collection and add items from your library to your new collection by dragging the items to your new collection. 
+
+==== Tags ====
+  * You can organize your library or a collection by **tags**.
+  * You can **add new tags** to items and then see all of the items with that tag. 
+{{https://farm4.staticflickr.com/3945/14996040004_e63fffaefb_c.jpg}} {{https://farm6.staticflickr.com/5601/14996641703_82e1df63ed_c.jpg}}
+
+==== Groups ====
+You can also organize your items by group. 
+  * To **add a group,** click the Add Group button. You will be prompted to sign in and then add your group. 
+{{https://farm6.staticflickr.com/5597/15430191289_3d7f83da44_z.jpg}}
+
+==== Generating Bibliographies, Citations and Reports ====
+Generating bibliographies is probably the most helpful task that Zotero can perform. 
+  * To **generate a bibliography,** select all for the items you want to include in it (hold down Shift and click on the items you want cited) and then //right click// on the selected items and click on Create Bibliography from Items...{picture} 
+  * You can then select which citation style and which form you want your bibliography to be created with. {picture}
+  * Your bibliography will then be copied to your clipboard and ready for you to paste. 
+
+For more complex features on Zotero, please refer to this page:[[https://www.zotero.org/support/start]].
+
+----
+
+===== Zotero Standalone =====
+
+The Zotero Standalone is not much different than the one for Firefox. The main difference when using the Standalone is that the application runs on its own does not use your web browser to access your library. 
+
+1. Find Zotero on your computer and open the application (you may receive a message asking permission to run the program since it's from the internet, so click 'ok' or 'yes'). 
+
+2. When the program is running you should get a window that looks like this: 
+{{https://farm8.staticflickr.com/7552/15474586648_1ae4b00859_b.jpg}}
+
+3. When searching for articles, newspaper, etc. on your browser you will now have the option of saving that information to your Zotero Library. 
+ 
+4. When you are on a webpage that you want to save to your library, see if you have this icon your url bar: 
+{{https://farm4.staticflickr.com/3941/15637101816_4c87445d38_o.png}}
