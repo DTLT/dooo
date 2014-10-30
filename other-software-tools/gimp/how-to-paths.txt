@@ -19,7 +19,7 @@
   * There are several reasons you might want to create a selection from a path. 
   * For instance, you can fill in the selection with the **Bucket Fill Tool** to make a shape. You can also use the selection to cut away at an image. This is ideal for removing unwanted objects or backgrounds from an image.
   * To do this, make a path around the object you wish to cut the background away from, and make a selection from the path.
-Then, press **Ctrl** + **X** or choose **Edit** > **Cut** from the menubar. If the selection is around your object instead of the background, be sure to press **Ctrl** + I or choose **Select** > **Invert** from the menubar before you cut away the selection.
+  * Then, press **Ctrl** + **X** or choose **Edit** > **Cut** from the menubar. If the selection is around your object instead of the background, be sure to press **Ctrl** + I or choose **Select** > **Invert** from the menubar before you cut away the selection.
 
 {{http://i.imgur.com/bH8uHgp.gif}}
   * In addition to making selections, you can also paint along a path, meaning you can make a solid outline of your path.
