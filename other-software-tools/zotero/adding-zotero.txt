@@ -13,7 +13,7 @@ Zotero for Firefox lets you capture and organize all your research without ever 
   - Click **Restart** for Zotero to be on Firefox. 
   - Zotero has now been added to Firefox! You can **register** to be able to access your library on any computer with Firefox. {{https://farm6.staticflickr.com/5609/15415904508_a02c40c015_c.jpg}}
 
-To learn how to use Zotero, [[dkc-private:using-zotero|go here]]. 
+To learn how to use Zotero, [[using-zotero|go here]]. 
 To learn more about Zotero, you can go to [[https://www.zotero.org/support/quick_start_guide]]. 
 
 ----
