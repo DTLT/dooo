@@ -1,13 +1,13 @@
 ====== How to Use Timeplot ======
 
-  * [[Timeplot:Overview]]
-  * [[Timeplot:Installation]]
-  * [[timeplot:explanation-of-the-javascript-code-file|Explanation of the HTML File]]
-  * [[Timeplot:Explanation of the XML File]]
-  * [[Timeplot:Explanation of the Text File]]
-  * [[Timeplot:Creating a Text File Using Wikipedia & Google Drive]]
-  * [[Timeplot:Basic Tutorial]]
-  * [[Timeplot:Advanced Tutorial]]
-  * [[Timeplot:Embedding Your Timeplot in WordPress]]
+  * [[other-software-tools:timeplot:overview|Overview]]
+  * [[other-software-tools:timeplot:Installation]]
+  * [[other-software-tools:timeplot:explanation-of-the-javascript-code-file|Explanation of the HTML File]]
+  * [[other-software-tools:timeplot:Explanation of the XML File]]
+  * [[other-software-tools:timeplot:Explanation of the Text File]]
+  * [[other-software-tools:timeplot:Creating a Text File Using Wikipedia & Google Drive]]
+  * [[other-software-tools:timeplot:Basic Tutorial]]
+  * [[other-software-tools:timeplot:Advanced Tutorial]]
+  * [[other-software-tools:timeplot:Embedding Your Timeplot in WordPress]]
 
 {{indexmenu_n>11}}
