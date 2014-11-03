@@ -7,6 +7,7 @@ Typically this problem is from one of three issues:
   - Too many photos or videos, this is ex only exacerbated if they are of high quality.
   - You have so much content! This is awesome and you should not feel bad!
 
+==== Assessing usage ====
 To being assessing which of the three is really this issue you should first log into your cPanel.
 
 Go to [[http://umw.domains|UMW Domains]]
@@ -26,3 +27,44 @@ Click on "**Disk Space Usage**."
 {{https://farm4.staticflickr.com/3893/15207493828_b927561aeb_b.jpg}}
 
 Disk Usage Viewer provides an overview of the disk space for that account. It shows disk usage totals for your account’s directories and all of its databases rather than for individual files or databases. For future reference you can use the [[domain-of-ones-own:cpanel:accessing-your-files-through-the-file-manager|File Manager]] to see disk usage data for individual files. 
+
+
+Here you can now see how your space is being used.
+
+{{https://farm6.staticflickr.com/5599/15703938582_e1a65649ba_d.jpg}}
+
+So now we can see the in this case the back ups are responsible for using most of the space
+
+==== Managing Backups ====
+
+Once logged into the appropriate user account for Domain of One's Own you can now check backups for all applications using Installatron.
+
+1. Scroll down to "**Web Applications**."
+{{https://farm4.staticflickr.com/3900/15394291165_1656a545a2_b.jpg}}
+
+2. Click on the desired application.
+
+3. Click on "**My Backups**." 
+{{https://farm4.staticflickr.com/3888/15207768630_df31f73a19_b.jpg}}
+
+4. You can now see all the backups for that user's account.
+{{https://farm4.staticflickr.com/3920/15394118622_525820a5f1_b.jpg}}
+
+
+From here you can delete older backups. Its recommended not not delete all of them, but just ones that have duplicates and such. This is because if there is any issue you can reload this version of your website, but it really is only necessary to have one.
+
+==== Managing Pictures ====
+
+Returning to the issue about having to many pictures or videos this can be seen in the same way from the disk usage viewer.
+
+Here you'll see that this public_html/ is using a lot of memory. This means that there is a lot of pictures, videos, or content.
+
+{{https://farm8.staticflickr.com/7544/15702469905_cc052cc921_d.jpg}}
+
+Now we cannot really do anything about this for you. What we highly recommend doing is to create an account on a image hosting site. This way you can have a lot more space to to hold the images and then just embed them into your posts. This was it doesn't actually use this space. 
+
+Image Hosting sites:
+Flickr
+etc.
+
+==== Managing Content ====
