@@ -62,7 +62,7 @@ This is documentation that needs to be written. Some of them may require a fair 
 
   * The [[wordpress:creating-content:embedding-videos | Embedding Videos]] tutorial needs to be cleaned up and expanded to include videos on sites other than YouTube. Consider adding information about what to do with student-created videos (i.e. hosting options other than YouTube). **MEREDITH**
 
-  * We need a tutorial about the [[domain-of-ones-own:annual-domain-email|Annual Domain Email]] that is sent out to all users one a year to review their contact information. Apparently some users are concerned that it's spam/phishing, and we need a tutorial we can quickly point to that verifies it is legit. If you have a DoOO account, you should have a copy of this in your own inbox (Subject: Important Notice Regarding Your Domain), but if you can't find it, let me know and I will send it to you. We want to include a screenshot/transcript of what's in the email in the article (scrubbed of personal data). 
+  * We need a tutorial about the [[domain-of-ones-own:annual-domain-email|Annual Domain Email]] that is sent out to all users one a year to review their contact information. Apparently some users are concerned that it's spam/phishing, and we need a tutorial we can quickly point to that verifies it is legit. If you have a DoOO account, you should have a copy of this in your own inbox (Subject: Important Notice Regarding Your Domain), but if you can't find it, let me know and I will send it to you. We want to include a screenshot/transcript of what's in the email in the article (scrubbed of personal data). **JAMES**
 
 
 
