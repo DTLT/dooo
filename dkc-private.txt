@@ -85,5 +85,6 @@ This is documentation that needs to be written. Some of them may require a fair 
 
 
   * The [[wordpress:creating-content:embedding-videos | Embedding Videos]] tutorial needs to be cleaned up and expanded to include videos on sites other than YouTube. Consider adding information about what to do with student-created videos (i.e. hosting options other than YouTube). **MEREDITH** Done
+  * [[http://docs.umwdomains.com/domain-of-ones-own/domain-management/important-notice-regarding-your-domain-name-s-email|Important Notice Regarding Your Domain Name(s)]] email **JAMES**
 
 {{indexmenu_n>15}}
