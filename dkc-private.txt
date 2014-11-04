@@ -88,6 +88,6 @@ This is documentation that needs to be written. Some of them may require a fair 
   * [[other-software-tools:zotero:using-zotero|Using Zotero]]
 
 
-  * The [[wordpress:creating-content:embedding-videos | Embedding Videos]] tutorial needs to be cleaned up and expanded to include videos on sites other than YouTube. Consider adding information about what to do with student-created videos (i.e. hosting options other than YouTube). **MEREDITH**
+  * The [[wordpress:creating-content:embedding-videos | Embedding Videos]] tutorial needs to be cleaned up and expanded to include videos on sites other than YouTube. Consider adding information about what to do with student-created videos (i.e. hosting options other than YouTube). **MEREDITH** Done
 
 {{indexmenu_n>15}}
