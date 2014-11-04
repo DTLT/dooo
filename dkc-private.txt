@@ -58,11 +58,7 @@ This is documentation that needs to be written. Some of them may require a fair 
 
   * [[wordpress:appearance-plugins:installing-themes | Installing Themes]]: we need a document that focuses on the process of finding and installing new themes in WordPress. Feel free to borrow from the existing [[wordpress:appearance-plugins:themes | WordPress Themes]] document.
 
-  * [[wordpress:appearance-plugins:changing-the-theme | Changing the Theme]]: this tutorial needs to be fleshed out to include info on finding existing themes, including using the theme filter interface, and activating them. It should also give some specifics about where to look for additional theme options and customizations. This tutorial should be generic enough to be useful for both UMW Blogs and UMW Domains users. Feel free to borrow from the existing [[wordpress:appearance-plugins:themes | WordPress Themes]] document. 
-
-  
-
-  * We need a tutorial about the [[domain-of-ones-own:annual-domain-email|Annual Domain Email]] that is sent out to all users one a year to review their contact information. Apparently some users are concerned that it's spam/phishing, and we need a tutorial we can quickly point to that verifies it is legit. If you have a DoOO account, you should have a copy of this in your own inbox (Subject: Important Notice Regarding Your Domain), but if you can't find it, let me know and I will send it to you. We want to include a screenshot/transcript of what's in the email in the article (scrubbed of personal data). **JAMES**
+  * [[wordpress:appearance-plugins:changing-the-theme | Changing the Theme]]: this tutorial needs to be fleshed out to include info on finding existing themes, including using the theme filter interface, and activating them. It should also give some specifics about where to look for additional theme options and customizations. This tutorial should be generic enough to be useful for both UMW Blogs and UMW Domains users. Feel free to borrow from the existing [[wordpress:appearance-plugins:themes | WordPress Themes]] document.
 
 
 
