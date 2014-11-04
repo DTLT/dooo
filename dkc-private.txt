@@ -58,7 +58,7 @@ This is documentation that needs to be written. Some of them may require a fair 
 
   * [[wordpress:appearance-plugins:installing-themes | Installing Themes]]: we need a document that focuses on the process of finding and installing new themes in WordPress. Feel free to borrow from the existing [[wordpress:appearance-plugins:themes | WordPress Themes]] document.
 
-  * [[wordpress:appearance-plugins:changing-the-theme | Changing the Theme]]: this tutorial needs to be fleshed out to include info on finding existing themes, including using the theme filter interface, and activating them. It should also give some specifics about where to look for additional theme options and customizations. This tutorial should be generic enough to be useful for both UMW Blogs and UMW Domains users. Feel free to borrow from the existing [[wordpress:appearance-plugins:themes | WordPress Themes]] document. **Meredith**
+  * [[wordpress:appearance-plugins:changing-the-theme | Changing the Theme]]: this tutorial needs to be fleshed out to include info on finding existing themes, including using the theme filter interface, and activating them. It should also give some specifics about where to look for additional theme options and customizations. This tutorial should be generic enough to be useful for both UMW Blogs and UMW Domains users. Feel free to borrow from the existing [[wordpress:appearance-plugins:themes | WordPress Themes]] document. 
 
   
 
