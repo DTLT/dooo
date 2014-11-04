@@ -23,4 +23,4 @@
 
 {{https://farm4.staticflickr.com/3954/15486187481_b15b503fc2_b.jpg}}
 
-  * This will bring up the **Scale Layer** dialog box. Enter your desired measurements for height and width, and click *Scale**. Now the selected layer should be whatever size you entered.
+  * This will bring up the **Scale Layer** dialog box. Enter your desired measurements for height and width, and click **Scale**. Now the selected layer should be whatever size you entered.
