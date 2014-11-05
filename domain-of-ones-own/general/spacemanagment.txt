@@ -51,7 +51,7 @@ Once logged into the appropriate user account for Domain of One's Own you can no
 {{https://farm4.staticflickr.com/3920/15394118622_525820a5f1_b.jpg}}
 
 
-From here you can delete older backups. Its recommended not not delete all of them, but just ones that have duplicates and such. This is because if there is any issue you can reload this version of your website, but it really is only necessary to have one.
+From here you can delete older backups. It is recommended to not delete all of them, but just ones that are older than a more current one. This is because if there is any issue you can reload this version of your website, but it really is only necessary to have one. Sometimes it saves multiple copies of the backups and does not delete old ones.
 
 ==== Managing Pictures ====
 
@@ -61,10 +61,10 @@ Here you'll see that this public_html/ is using a lot of memory. This means that
 
 {{https://farm8.staticflickr.com/7544/15702469905_cc052cc921_d.jpg}}
 
-Now we cannot really do anything about this for you. What we highly recommend doing is to create an account on a image hosting site. This way you can have a lot more space to to hold the images and then just embed them into your posts. This was it doesn't actually use this space. 
+Now we cannot really do anything about this for you. What we highly recommend doing is to create an account on a image hosting site. This way you can have a lot more space to to hold the images and then just embed them into your posts. This was it doesn't actually use this memory space on the site. See the threads on imbedding images.
 
-Image Hosting sites:
-Flickr
-etc.
+We highly recommend [[https://www.flickr.com/|flikr]], but there are many other sites that may meet your needs such as [[http://imgur.com|imgur]].
 
 ==== Managing Content ====
+
+If you have gone through all of the troubleshooting steps above and you still have issues with the space on the website, then you most likely have too much content! This means have been a very busy blogger and you have so much text and content that we really have no other option. Please make an appointment to see a Digital Knowledge Center Tutor or someone from the DTLT to assist you. 
