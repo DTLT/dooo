@@ -1,7 +1,8 @@
-====== Gimp ======
+====== GIMP ======
 
   * [[other-software-tools:gimp:resizing-images|Resizing Images]]
   * [[other-software-tools:gimp:how-to-layers|Layers]]
   * [[other-software-tools:gimp:how-to-paths|Paths]]
   * [[other-software-tools:gimp:how-to-text|Working with Text]]
   * [[other-software-tools:gimp:saving-images|Saving Images]]
+  * [[other-software-tools:gimp:gif-from-video|Making an Animated GIF from Video]]
