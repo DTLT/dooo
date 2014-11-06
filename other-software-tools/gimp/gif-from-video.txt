@@ -3,19 +3,19 @@
   * Making an animated GIF in GIMP is a fairly simple process. However, you’ll need a little something extra to make one from a preexisting video clip. 
   * **LICEcap** is a simple and reliable way to take a video clip, and turn it into a GIF that you can then edit and optimize to your liking in GIMP. 
   * You can download [[http://www.cockos.com/licecap/|LICEcap]] for Windows [[http://www.cockos.com/licecap/licecap124-install.exe|here]] and for OSX [[http://www.cockos.com/licecap/licecap124.dmg|here]].
-  * Once installed, open the program. With it open, you’ll want to ensure that the Max FPS option in the bottom left is set to 30. This will be enough for most things, though you may want to change the setting depending on what you’re recording. It’s up to you.
+  * Once installed, open the program. With it open, you’ll want to ensure that the **Max FPS** option in the bottom left is set to 30. This will be enough for most things, though you may want to change the setting depending on what you’re recording. It’s up to you.
   * Now to record video as a GIF, take LICEcap and adjust its size so that it overlays the video you’re interested in recording. LICEcap will actually record whatever is on your computer screen, so you’ll want to make sure you don’t run your mouse through the area while it’s recording. 
 {{https://farm4.staticflickr.com/3937/15541430637_a023f18254_z.jpg}}
-  * Once you’ve finished placing LICEcap over the video, ensure that the video is paused and click Record. The program will then ask you to input a file location and name, and save the GIF.
-  * After doing this, you’ll notice the words “PREROLL” appear in the bottom-left of LICEcap. Wait until the PREROLL countdown is over before you start the video.
+  * Once you’ve finished placing LICEcap over the video, make sure the video is paused and click **Record**. The program will then ask you to input a file location and name, and save the GIF.
+  * After doing this, you’ll notice the words “**PREROLL**” appear in the bottom-left of LICEcap. Wait until the PREROLL countdown is over before you start the video.
   * When you’re satisfied with what was recorded, press stop. The GIF will now appear wherever you saved it earlier. However, it’s unlikely to be of usable size. It’s time to use GIMP to optimize it.
-  * With GIMP open, either drag the GIF into it, or go to File > Open from the menubar and open the GIF from there.
-  * Each frame of the GIF will appear as a layer in the Layer’s dialog box to the right of the screen. Here you can delete frames of the video that you don’t want.
+  * With GIMP open, either drag the GIF into it, or go to **File** > **Open** from the menubar and open the GIF from there.
+  * Each frame of the GIF will appear as a layer in the Layers dialog box to the right of the screen. Here you can delete frames of the video that you don’t want.
 {{https://farm8.staticflickr.com/7508/15541761310_0161a6012d.jpg}}
-  * Once you’re happy with that, you’ll want to resize the image to a more GIF appropriate size. Go to Image > Scale Image from the menubar and input your desired dimensions. I like to make my gifs no larger than 400 x 400.
-  * Afterwards, go to Filters > Animation > Optimize (for GIF) from the menubar. This will remove any repeated parts from frames, allowing for a smaller file size for the finished product. You may want to do this twice for the best results. Each optimization will create a new project in GIMP. Just make sure you have the optimized version selected when you export the final project.
-  * After you’ve done that, you can review your GIF by going to Filters > Animation > Playback from the menubar. 
-  * When you’re satisfied, go to File > Export from the menubar, or press Ctrl + E on the keyboard. This will bring up the Export Image dialog box. Either save it by a new name, or overwrite the original GIF and click Export. The Export Image as GIF dialog box should pop up. Make sure As animation and Loop forever are checked, and click Export.
+  * Once you’re happy with that, you’ll want to resize the image to a more GIF appropriate size. Go to **Image** > **Scale Image** from the menubar and input your desired dimensions. I like to make my GIFs no larger than 400 x 400.
+  * Afterwards, go to **Filters** > **Animation** > **Optimize (for GIF)** from the menubar. This will remove any repeated parts from frames, allowing for a smaller file size for the finished product. You may want to do this twice for the best results. Each optimization will create a new project in GIMP. Just make sure you have the optimized version selected when you export the final project.
+  * After you’ve done that, you can review your GIF by going to **Filters** > **Animation** > **Playback** from the menubar. 
+  * When you’re satisfied, go to **File** > **Export** from the menubar, or press **Ctrl** + **E** on the keyboard. This will bring up the Export Image dialog box. Either save it by a new name, or overwrite the original GIF and click **Export**. The Export Image as GIF dialog box should pop up. Make sure **As animation** and **Loop forever** (assuming you want your GIF to loop) are checked, and click **Export**.
 {{https://farm8.staticflickr.com/7553/15541181558_afdc402ed1.jpg}}
   * Now your GIF is finished. If it is still above 4 MB in size, you may want to shorten the length of the clip you captured, or make the dimension of the GIF even smaller. Many websites won’t accept GIFs larger than 3 or 4 MB.
 {{http://i.imgur.com/CDyW8Cz.gif}}
