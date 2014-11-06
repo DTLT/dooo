@@ -1,8 +1,8 @@
 ====== Making an Animated GIF from Video ======
 
   * Making an animated GIF in GIMP is a fairly simple process. However, you’ll need a little something extra to make one from a preexisting video clip. 
-  * LICEcap is a simple and reliable way to take a video clip, and turn it into a GIF that you can then edit and optimize to your liking in GIMP. 
-  * You can download LICEcap for Windows here and for OSX here.
+  * **LICEcap** is a simple and reliable way to take a video clip, and turn it into a GIF that you can then edit and optimize to your liking in GIMP. 
+  * You can download [[http://www.cockos.com/licecap/|LICEcap]] for Windows [[http://www.cockos.com/licecap/licecap124-install.exe|here]] and for OSX [[http://www.cockos.com/licecap/licecap124.dmg|here]].
   * Once installed, open the program. With it open, you’ll want to ensure that the Max FPS option in the bottom left is set to 30. This will be enough for most things, though you may want to change the setting depending on what you’re recording. It’s up to you.
   * Now to record video as a GIF, take LICEcap and adjust its size so that it overlays the video you’re interested in recording. LICEcap will actually record whatever is on your computer screen, so you’ll want to make sure you don’t run your mouse through the area while it’s recording. 
 {{https://farm4.staticflickr.com/3937/15541430637_a023f18254_z.jpg}}
