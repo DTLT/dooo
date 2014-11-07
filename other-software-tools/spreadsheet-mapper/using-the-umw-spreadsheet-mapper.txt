@@ -142,15 +142,19 @@ To embed your map into WordPress:
 3)  Open your WordPress dashboard and make a new post. 
 
 4)  Change your post type from "Visual" to "Text" in the top left corner. This will make WordPress interpret and display your embed code properly. 
+{{https://farm4.staticflickr.com/3952/15547645357_cfbfaab63b_o_d.png}}
 
 5)  Paste the embed code into the WordPress editor. 
 
 === Adjusting The Size of Your Map In The Post ===
  You can also edit how large your map appears in your post by adjusting the **Width** and **Height** at the beginning of the embed code. 
 
+{{https://farm8.staticflickr.com/7548/15734379592_fc921b3074_d.jpg}}
+
 The default setting is not always what is optimum, so you may have to adjust the settings to get something that works best for you. There is a maximum size though and that is set by the theme that you have selected for your website. 
 
-{{ https://farm4.staticflickr.com/3942/15595979072_f30dd16682_d.jpg }}
+Maybe try a square of 500 X 500 pixels, or a rectangle of 500x 400! Just try different numbers until you find something that works well for your post!
+
 
 ====Tips and Tricks====
 
