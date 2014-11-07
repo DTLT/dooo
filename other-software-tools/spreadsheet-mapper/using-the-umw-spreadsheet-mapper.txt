@@ -142,6 +142,7 @@ To embed your map into WordPress:
 3)  Open your WordPress dashboard and make a new post. 
 
 4)  Change your post type from "Visual" to "Text" in the top left corner. This will make WordPress interpret and display your embed code properly. 
+
 {{https://farm4.staticflickr.com/3952/15547645357_cfbfaab63b_o_d.png}}
 
 5)  Paste the embed code into the WordPress editor. 
