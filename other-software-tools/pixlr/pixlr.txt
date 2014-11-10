@@ -1,1 +1,69 @@
 ====== Pixlr ======
+Pixlr is at [[http://www.pixlr.com/]] and as you can see, the home page allows you to make an account, or continue to the editors without an account. There are 3 web applications that you can use on Pixlr. There’s **Pixlr Editor**, **Pixlr Express** and **Pixlr O-Matic**.
+
+==== Pros & Cons ====
+
+**Pros:**
+
+  * Free to use even without an account
+  * You can save images to your Google Drive
+  * There’s 3 different applications for photo editing
+  * There’s mobile apps for 2 of the 3 of the applications (Google Play/AppStore)
+
+**Cons:**
+
+  * Require Internet connection (unless you download the application it to your computer)
+  * Doesn’t have all of the same features as Photoshop
+
+===== Pixlr Editor =====
+ 
+=== About ===
+ 
+By far the most useful of the three editors, you can create your own image, upload an image to edit, import an image from a url, and if you have an account you can import an image from your library.
+
+{picture 1}
+
+Selecting "Create a new image," brings you into an editor that is similar to photoshop.
+
+  * All of the //tools// are on the //left//, the __navigator, layers, and history__ are on the __right__, and then **other effects or editing functions** are on the top in the **menu bar**.
+
+{picture 2}
+
+* All of the essential tools are there for you to use, such as the lasso tool, select tool, cropping tool, clone stamp, magic wand, burn and dodge tools, paintbrush, fill can, dropper, and text tool.
+
+* Another feature that is similar to Photoshop is that **you can open multiple images at once**. The only difference is that all of your images will appear in this grey area in separate windows, instead of in different tabs. 
+
+* When you are ready to save, **you can save it to your Google Drive** //or// to your computer **as JPEG** (you can choose the quality), **PNG** (great for transparent images), **BMP**, **TIFF**, and **PXD** (layered Pixlr image for if you want to go back later and continue editing).
+
+===== Pixlr Express =====
+
+=== About ===
+
+Pixlr Express is great for editing images quickly and without the hassle of using the Photoshopesque interface. Although you can’t do as much as you can in the Pixlr Editor, I will say it has some cool editing tools that are fun to play with. Pixlr Express Pixlr Express allows you to upload your images from your computer or a URL and allows you to edit a picture taken from your Webcam.
+I uploaded a picture of the UMW Bell Tower as an example. At the bottom are all your tools which includes adjustment functions, effects, overlays, borders, stickers, and text. At the top there is the zoom function, and the undo and redo functions.
+
+Pixlr Express Example
+
+Even though Pixlr Express doesn’t have as many tools as Pixlr Editor, they still give you a fair amount of adjustment tools like blurring, adding an additional image, rotating, resizing, cropping, contrast editing, etc.
+
+Pixlr Express Adjustments
+
+The effect tools are also pretty helpful as well. At first they may just seem like instrgram filters, but there is quite a few of different effects that you can implement on your image that change the color and/or brightness. Within the main categories of the effects you see below, there are numerous options, so there is definitely a wide range of effects to pick from!Pixlr Express Effects
+
+The biggest downside to Pixlr Express is that you can only save your image in JPEG form, but you can still set the save quality to 100% in order to maintain the best quality image as possible.
+
+===== Pixlr O-Matic =====
+=== About ===
+The least complex image editor out of the three different Pixlr web applications.
+
+Pixlr O-Matic
+
+ 
+
+You can still upload images from your computer or webcam but you cannot import images from a URL. Pixlr O-Matic has the same functions as Pixlr Express but less of them.
+
+Pixlr O-Matic example
+
+You can add some overlays, effects, borders, and filters, but nothing really else. You cannot resize, and you can only crop with an aspect ratio of 1:1. Nevertheless, it does have more of an interactive element to it since the image you upload sits in a tub of photo developing chemicals as you edit it. I like how they tied in the process of developing and editing photographs from film with today’s digital photograph editing. Lastly, with Pixlr O-Matic you cannot chose how you save it or what quality it is when you save it.
+
+So that’s Pixlr! I personally really love it and tend to use it unless I know I need to do super hardcore photo editing, in which case I go to the library and use Photoshop on their computers. Definitely feel free to comment here or tweet me (@jessreingold) with any questions you might have when using Pixlr. Happy image editing! :)
