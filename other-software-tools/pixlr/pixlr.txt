@@ -73,6 +73,10 @@ You can still upload images from your computer or webcam but you cannot import i
 
   * You can add some overlays, effects, borders, and filters. 
 
-  * You cannot resize, and you can only crop with an aspect ratio of 1:1. Nevertheless, it does have more of an interactive element to it since the image you upload sits in a tub of photo developing chemicals as you edit it. I like how they tied in the process of developing and editing photographs from film with today’s digital photograph editing. Lastly, with Pixlr O-Matic you cannot chose how you save it or what quality it is when you save it.
+  * You cannot resize 
 
-So that’s Pixlr! I personally really love it and tend to use it unless I know I need to do super hardcore photo editing, in which case I go to the library and use Photoshop on their computers. Definitely feel free to comment here or tweet me (@jessreingold) with any questions you might have when using Pixlr. Happy image editing! :)
+  * You can only crop with an aspect ratio of 1:1. 
+
+  * You cannot chose how you save it or what quality it is when you save it.
+
+That’s Pixlr! Happy image editing! :)
