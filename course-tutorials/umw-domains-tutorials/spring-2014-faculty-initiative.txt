@@ -2,12 +2,12 @@
 
 [[course-tutorials:umw-domains-tutorials:spring-2014-faculty-initiative:week-one|Week One: Understanding the Web (Burtis)]]
 
-[[courses:spring-2014-faculty-initiative:week-two|Week Two: Digital Identity (Burtis)]]
+[[course-tutorials:umw-domains-tutorials:spring-2014-faculty-initiative:week-two|Week Two: Digital Identity (Burtis)]]
 
-[[courses:spring-2014-faculty-initiative:week-three|Week Three: Teaching on the Open Web (Groom)]]
+[[course-tutorials:umw-domains-tutorials:spring-2014-faculty-initiative:week-three|Week Three: Teaching on the Open Web (Groom)]]
 
-[[courses:spring-2014-faculty-initiative:week-four|Week Four: Finding your Digital Community (Brazell)]]
+[[course-tutorials:umw-domains-tutorials:spring-2014-faculty-initiative:week-four|Week Four: Finding your Digital Community (Brazell)]]
 
-[[courses:spring-2014-faculty-initiative:week-five|Week Five: Scholarship and Research in a Digital Age (Groom)]]
+[[course-tutorials:umw-domains-tutorials:spring-2014-faculty-initiative:week-five|Week Five: Scholarship and Research in a Digital Age (Groom)]]
 
-[[courses:spring-2014-faculty-initiative:week-six|Week Six: Our Digital Future (Owens)]]
+[[course-tutorials:umw-domains-tutorials:spring-2014-faculty-initiative:week-six|Week Six: Our Digital Future (Owens)]]
