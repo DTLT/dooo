@@ -1,2 +1,9 @@
-====== Tutorial Templates ======
+{{indexmenu_n>10}}
 
+# Tutorial Templates
+
+  * [[No Syndication, Username Only]]
+  * [[No Syndication, Username and Blog]]
+  * [[Tag Syndication]]
+  * [[URL Syndication from UMW Blogs]]
+  * [[URL Syndication from UMW Domains]]

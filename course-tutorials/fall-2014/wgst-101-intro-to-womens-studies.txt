@@ -1,0 +1,43 @@
+# WGST 101: Intro to Women's Studies
+
+If you have questions or need help, please feel free to contact Ryan Brazell, one of the DTLT staff members. His contact information is as follows:
+
+**Email:** rbrazell@umw.edu
+
+**Phone:** 540-654-1370 (x1370)
+
+**In person:** ITCC 410
+
+**Course Tags and Categories**
+
+This course uses tag syndication, meaning that you will post your writing on your own UMW Blogs site, and it will be automatically copied into [[http://introws.umwblogs.org | the course's central site]]. The site you created during the in-class signup process should have the correct tag populated for you; if you are using a previously-created blog, or do not have the correct tags already in your site, you will need to use the tag **wgst101**. 
+
+In addition, the central course site uses categories for organizational purposes, and each post you write needs to be assigned one or more categories. The site you created during the in-class signup process should have the correct categories populated for you; if you are using a previously-created blog, or do not have the correct categories already in your site, you will need to use one or more of the following:
+  * Section1 (for all posts from students in section 1 of the course -- note there is no space!)
+  * Section2 (for all posts from students in section 2 of the course -- note there is no space!)
+  * Activism and Social Change
+  * Discussion Prompts
+  * Family
+  * Feminism
+  * Gender
+  * In the News
+  * Privilege
+  * Religion
+  * Reproductive Rights
+  * Sexuality
+  * The Body
+  * The State and Social Policy
+  * Violence
+  * Women's and Gender Studies
+  * Work and Occupations
+
+{{page>getting-started:signing-up-for-a-username-and-blog}}
+{{page>getting-started:logging-into-umw-blogs}}
+{{page>getting-started:accessing-the-dashboard}}
+{{page>getting-started:updating-your-profile}}
+{{page>getting-started:finding-your-blogs}}
+{{page>getting-started:adding-your-site-to-a-course-list-of-links}}
+{{page>creating-content:creating-a-post}}
+{{page>creating-content:visual-editor-vs-text-editor}}
+{{page>creating-content:uploading-and-displaying-files}}
+{{page>creating-content:embedding-videos}}

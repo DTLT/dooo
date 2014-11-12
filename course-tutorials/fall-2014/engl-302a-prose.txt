@@ -1,0 +1,33 @@
+#ENGL 302A: Prose
+
+If you have questions or need help, please feel free to contact Ryan Brazell, one of the DTLT staff members. His contact information is as follows:
+
+**Email:** rbrazell@umw.edu
+
+**Phone:** 540-654-1370 (x1370)
+
+**In person:** ITCC 410
+
+**Course Tags**
+
+This course uses tag syndication, meaning that you will post your writing on your own UMW Blogs site, and it will be automatically copied into [[http://302prose.umwblogs.org | the course's central site]]. The site you created during the in-class signup process should have the correct tag populated for you; if you are using a previously-created blog, or do not have the correct tags already in your site, you will need to use the tag **302prose** on all posts.
+
+In addition, the central course site uses categories for organizational purposes, and each post you write needs to be assigned one or more categories. The site you created during the in-class signup process should have the correct categories populated for you; if you are using a previously-created blog, or do not have the correct categories already in your site, you will need to use one or more of the following:
+  * Section 3 (for all posts from students in section 3 of the course -- note there is no space!)
+  * Section 4 (for all posts from students in section 4 of the course -- note there is no space!)
+  * Journal 1
+  * Journal 2
+  * Journal 3
+  * Journal 4
+  * Journal 5
+
+{{page>getting-started:signing-up-for-a-username-and-blog}}
+{{page>getting-started:logging-into-umw-blogs}}
+{{page>getting-started:accessing-the-dashboard}}
+{{page>getting-started:updating-your-profile}}
+{{page>getting-started:finding-your-blogs}}
+{{page>getting-started:adding-your-site-to-a-course-list-of-links}}
+{{page>creating-content:creating-a-post}}
+{{page>creating-content:visual-editor-vs-text-editor}}
+{{page>creating-content:uploading-and-displaying-files}}
+{{page>creating-content:embedding-videos}}

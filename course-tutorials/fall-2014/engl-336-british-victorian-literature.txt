@@ -1,0 +1,20 @@
+#ENGL 336: British Victorian Literature
+
+If you have questions or need help, please feel free to contact Ryan Brazell, one of the DTLT staff members. His contact information is as follows:
+
+**Email:** rbrazell@umw.edu
+
+**Phone:** 540-654-1370 (x1370)
+
+**In person:** ITCC 410
+
+{{page>getting-started:signing-up-for-a-username}}
+{{page>getting-started:logging-into-umw-blogs}}
+{{page>getting-started:accessing-the-dashboard}}
+{{page>getting-started:updating-your-profile}}
+{{page>getting-started:adding-yourself-to-a-course-blog}}
+{{page>getting-started:finding-your-blogs}}
+{{page>creating-content:creating-a-post}}
+{{page>creating-content:visual-editor-vs-text-editor}}
+{{page>creating-content:uploading-and-displaying-files}}
+{{page>creating-content:embedding-videos}}
