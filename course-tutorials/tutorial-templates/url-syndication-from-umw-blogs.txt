@@ -2,13 +2,13 @@
 
 If you have questions or need help, please visit the Digital Knowledge Center (ITCC 408) and meet with a peer tutor. Walk-ins are available, but we highly recommend [[http://dkc.umw.edu | making an appointment]] to ensure you'll get the help you need.
 
-{{page>getting-started:signing-up-for-a-username-and-blog}}
-{{page>getting-started:logging-into-umw-blogs}}
-{{page>getting-started:accessing-the-dashboard}}
-{{page>getting-started:updating-your-profile}}
-{{page>getting-started:finding-your-blogs}}
-{{page>getting-started:adding-your-site-to-a-course-list-of-links}}
-{{page>creating-content:creating-a-post}}
-{{page>creating-content:visual-editor-vs-text-editor}}
-{{page>creating-content:uploading-and-displaying-files}}
-{{page>creating-content:embedding-videos}}
+{{page>wordpress:getting-started:registering-for-a-username-and-blog}}
+{{page>wordpress:getting-started:logging-into-umw-blogs}}
+{{page>wordpress:site-administration:accessing-the-dashboard}}
+{{page>wordpress:site-administration:updating-your-profile}}
+{{page>wordpress:site-administration:finding-your-blogs}}
+{{page>wordpress:course-integration:adding-your-site-to-a-course-list-of-links}}
+{{page>wordpress:creating-content:creating-a-post}}
+{{page>wordpress:creating-content:visual-editor-vs-text-editor}}
+{{page>wordpress:creating-content:uploading-and-displaying-files}}
+{{page>wordpress:creating-content:embedding-videos}}
