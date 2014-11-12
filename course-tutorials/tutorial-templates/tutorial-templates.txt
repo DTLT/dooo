@@ -1,6 +1,6 @@
 {{indexmenu_n>10}}
 
-# Tutorial Templates
+====== Tutorial Templates ======
 
   * [[No Syndication, Username Only]]
   * [[No Syndication, Username and Blog]]
