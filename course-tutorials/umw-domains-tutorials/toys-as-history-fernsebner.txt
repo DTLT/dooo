@@ -15,7 +15,7 @@ For this class, you will need to set up a subdomain in which you'll install Word
 **PLEASE NOTE that when you install WordPress for this class, you should choose "Toys as History (Fernsebner) -- Fall 2014" as a package option during the installation process.**
 </WRAP>
  
-{{page>domain-of-ones-own:wordpress:installing-wordpress}}
+{{page>wordpress:getting-started:installing-wordpress}}
 
 <WRAP center round info 60%>
 **PLEASE NOTE that when you install WordPress for this class, you should choose "Toys as History (Fernsebner) -- Fall 2014" a package option during the installation process.**
