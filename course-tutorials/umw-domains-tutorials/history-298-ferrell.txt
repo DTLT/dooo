@@ -15,7 +15,7 @@ For this class, you will need to set up a subdomain in which you'll install Word
 **PLEASE NOTE that when you install WordPress for this class, you should choose "HIST 298: History Practicum (Ferrell)" as a package option during the installation process.**
 </WRAP>
  
-{{page>domain-of-ones-own:wordpress:installing-wordpress}}
+{{page>wordpress:getting-started:installing-wordpress}}
 
 <WRAP center round info 60%>
 **PLEASE NOTE that when you install WordPress for this class, you should choose "HIST 298: History Practicum (Ferrell)" a package option during the installation process.**
