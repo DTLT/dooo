@@ -1,6 +1,6 @@
 {{indexmenu_n>1}}
 
-====== Fall 2014 Course Tutorials ======
+====== UMW Blogs Tutorials ======
 
 ==== English, Linguistics, and Communication ====
   * [[course-tutorials:fall-2014:engl-302a-poetry|ENGL 302A: Poetry]]
