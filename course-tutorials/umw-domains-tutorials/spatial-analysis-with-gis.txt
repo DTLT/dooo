@@ -1,4 +1,4 @@
-{{indexmenu_n>9}}
+{{indexmenu_n>7}}
 
 ====== GIS 351: Spatial Analysis with GIS ======
 
