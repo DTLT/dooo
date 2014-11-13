@@ -1,6 +1,8 @@
 ====== HIST471E8: Immigration and the US South ======
 
-As you  build your projects on the course site, you should think about ways to creatively and effectively use media to enhance your research. Below are links to a number of useful tutorials and resources to consider: 
+As you  build your projects on the course site, you should think about ways to creatively and effectively use media to enhance your research. Below are links to a number of useful tutorials and resources to consider.
+
+If you have questions or need help, please visit the Digital Knowledge Center (ITCC 408) and meet with a peer tutor. Drop-in assistance is available, but we highly recommend [[http://dkc.umw.edu | making an appointment]] to ensure you'll get the help you need. 
 
 ===== Working with Images =====
   * You may want to embed images in your pages. Please review our [[wordpress:creating-content:uploading-and-displaying-files|tutorial on uploading and displaying media]]. 
