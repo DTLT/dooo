@@ -8,11 +8,11 @@ Please be sure to register first at [[http://bit.ly/doooworkshop]].
 
 Before you arrive to the workshop, make sure you've chosen your domain name and signed up: 
 
-{{page>general:choosing-a-domain-name}}
+{{page>domain-of-ones-own:general:choosing-a-domain-name}}
 
 <WRAP center round important 60%>
 Students who have registered for the workshop and received an email indicating they are ready to signup can skip the first step of this tutorial, "Getting a Client Account."
 </WRAP>
 
 
-{{page>general:signing-up-on-domain-of-one-s-own}}
+{{page>domain-of-ones-own:general:signing-up-on-domain-of-one-s-own}}
