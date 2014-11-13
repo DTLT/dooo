@@ -1,3 +1,5 @@
+{{indexmenu_n>7}}
+
 ====== GEOG 410W: Revanchist City / Rebel City ======
 
 {{page>domain-of-ones-own:general:choosing-a-domain-name}}
