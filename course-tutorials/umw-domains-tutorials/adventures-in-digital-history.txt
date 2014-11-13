@@ -1,4 +1,4 @@
-{{indexmenu_n>11}}
+{{indexmenu_n>8}}
 
 ====== HIST 428: Adventures in Digital History ======
 
