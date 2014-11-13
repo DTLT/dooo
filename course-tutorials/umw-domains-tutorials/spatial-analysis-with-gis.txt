@@ -4,6 +4,6 @@
 
 If you have questions or need help, please visit the Digital Knowledge Center (ITCC 408) and meet with a peer tutor. Walk-ins are available, but we highly recommend [[http://dkc.umw.edu | making an appointment]] to ensure you'll get the help you need.
 
-{{page>general:choosing-a-domain-name}}
-{{page>general:signing-up-on-domain-of-one-s-own}}
+{{page>domain-of-ones-own:general:choosing-a-domain-name}}
+{{page>domain-of-ones-own:general:signing-up-on-domain-of-one-s-own}}
 
