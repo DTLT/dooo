@@ -5,18 +5,18 @@
 If you have questions or need help, please visit the Digital Knowledge Center (ITCC 408) and meet with a peer tutor. Walk-ins are available, but we highly recommend [[http://dkc.umw.edu | making an appointment]] to ensure you'll get the help you need.
 
 ====Signing Up====
-{{page>general:choosing-a-domain-name}}
-{{page>general:signing-up-on-domain-of-one-s-own}}
+{{page>domain-of-ones-own:general:choosing-a-domain-name}}
+{{page>domain-of-ones-own:general:signing-up-on-domain-of-one-s-own}}
 
 ====WordPress====
 NOTE: When installing WordPress for this class, we recommend you choose the "Professional Portfolio" package. This will provide you with a preset collection of WordPress plugins & themes as well as some default pages. 
 
-{{page>]wordpress:installing-wordpress}}
+{{page>wordpress:getting-started:installing-wordpress}}
 
 ====Other WordPress Tutorials====
-  * [[wordpress:general-settings-title-and-tagline|General Settings: Title and Tagline]]
-  * [[wordpress:reading-settings-front-page|Reading Settings - Front Page]]
-  * [[wordpress:publishing-content|Publishing Content]]
+  * [[wordpress:site-administration:general-settings-title-and-tagline|General Settings: Title and Tagline]]
+  * [[wordpress:appearance-plugins:reading-settings-front-page|Reading Settings - Front Page]]
+  * [[wordpress:creating-content:publishing-content|Publishing Content]]
 
 ====Optional: Using the Research Fields Plugin====
 If you install the Professional Package of Wordpress, you will be provided with a custom plugin that was created for history students who wish to use their blogs to maintain research logs. You will need to activate it by going to **Plugins>Installed Plugins** and clicking the **Activate** link under the plugin titled **Research Log Fields**. {{http://farm8.staticflickr.com/7303/11953050304_8de15e1247_c.jpg}}
