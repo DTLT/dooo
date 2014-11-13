@@ -48,7 +48,7 @@ These are the current tutorial types offered by the Digital Knowledge Center. Ea
 ===== Documentation Needed! =====
 This is documentation that needs to be written. Some of them may require a fair amount of research. If you'd like to work on one, put your name by it. 
 
-  * [[canvas:uploading-media|Uploading Media to Canvas]]: This is the start of getting some Canvas tutorials up here, we need on on how to upload media (images and video) to Canvas. The process should be similar whether it's a wiki page in Canvas or a discussion board post or whatever. **JAMES**
+  * [[canvas:uploading-media|Uploading Media to Canvas]]: This is the start of getting some Canvas tutorials up here, we need on on how to upload media (images and video) to Canvas. The process should be similar whether it's a wiki page in Canvas or a discussion board post or whatever.
 
   * [[wordpress:advanced-topics:custom-content|Custom Content]]: This is a tutorial on WordPress custom content types and custom fields. We need a general overview of what they are, what they're for, and what plugins people can use to create/manage them. 
 
