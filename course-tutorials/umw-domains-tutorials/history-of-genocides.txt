@@ -4,20 +4,20 @@
 
 If you have questions or need help, please visit the Digital Knowledge Center (ITCC 408) and meet with a peer tutor. Walk-ins are available, but we highly recommend [[http://dkc.umw.edu | making an appointment]] to ensure you'll get the help you need.
 
-{{page>general:choosing-a-domain-name}}
-{{page>general:signing-up-on-domain-of-one-s-own}}
+{{page>domain-of-ones-own:general:choosing-a-domain-name}}
+{{page>domain-of-ones-own:general:signing-up-on-domain-of-one-s-own}}
 
 ====== Creating a Site for This Course ======
 
 For this class, you will need to set up a subdomain in which you'll install WordPress. You can call the subdomain anything you'd like; if you're not sure what to pick, consider using "historyfsem," "historyofgenocides," or something else similarly course-related (without the quotes, of course).
 
-{{page>domain-management:setting-up-subdomains}}
+{{page>domain-of-ones-own:domain-management:setting-up-subdomains}}
 
 <WRAP center round info 60%>
 **PLEASE NOTE that when you install WordPress for this class, you should choose "FSEM 100J9: History of Genocides (Al-Tikriti)" as a package option during the installation process.**
 </WRAP>
  
-{{page>wordpress:installing-wordpress}}
+{{page>wordpress:getting-started:installing-wordpress}}
 
 <WRAP center round info 60%>
 **PLEASE NOTE that when you install WordPress for this class, you should choose "FSEM 100J9: History of Genocides (Al-Tikriti)" as a package option during the installation process.**
