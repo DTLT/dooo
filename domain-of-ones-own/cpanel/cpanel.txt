@@ -9,6 +9,6 @@
   * [[File Structures and the File Manager]]
   * [[Creating an Email Address]]
   * [[Setting up FTP]]
-  * [[domain-management:domain-of-ones-own:setting-up-subdomains|Setting Up Subdomains]]
+  * [[domain-of-ones-own:domain-management:setting-up-subdomains|Setting Up Subdomains]]
   * [[Finding and changing account and application information and passwords in cpanel.]]
 
