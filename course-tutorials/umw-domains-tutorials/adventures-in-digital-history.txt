@@ -4,16 +4,16 @@
 
 If you have questions or need help, please visit the Digital Knowledge Center (ITCC 408) and meet with a peer tutor. Walk-ins are available, but we highly recommend [[http://dkc.umw.edu | making an appointment]] to ensure you'll get the help you need.
 
-{{page>general:choosing-a-domain-name}}
-{{page>general:signing-up-on-domain-of-one-s-own}}
-{{page>wordpress:installing-wordpress}}
+{{page>domain-of-ones-own:general:choosing-a-domain-name}}
+{{page>domain-of-ones-own:general:signing-up-on-domain-of-one-s-own}}
+{{page>wordpress:getting-started:installing-wordpress}}
 
 ===== More WordPress Tutorials =====
-  * [[wordpress:general-settings-title-and-tagline|General Settings: Title and Tagline]]
-  * [[wordpress:reading-settings-front-page|Reading Settings - Front Page]]
-  * [[wordpress:publishing-content|Publishing Content]]
-  * [[wordpress:wordpress-themes|WordPress Themes]]
+  * [[wordpress:site-administration:general-settings-title-and-tagline|General Settings: Title and Tagline]]
+  * [[wordpress:appearance-plugins:reading-settings-front-page|Reading Settings - Front Page]]
+  * [[wordpress:creating-content:publishing-content|Publishing Content]]
+  * [[wordpress:appearance-plugins:themes|WordPress Themes]]
 
 ===== FTP Information =====
 
-{{page>cpanel:setting-up-ftp}}
+{{page>domain-of-ones-own:cpanel:setting-up-ftp}}
