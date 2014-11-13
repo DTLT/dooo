@@ -2,14 +2,14 @@
 
 ====== Domain Management ======
 
-  * [[domain-management:What is DNS?]]
-  * [[domain-management:domain-of-ones-own:setting-up-subdomains|Setting Up Subdomains]]
-  * [[domain-management:What is Domain Mapping?]]
-  * [[domain-management:domain-of-ones-own:map-your-domain-to-umw-blogs]]
-  * [[domain-management:domain-of-ones-own:map-your-domain-to-tumblr]]
-  * [[domain-management:domain-of-ones-own:map-your-domain-to-blogger]]
-  * [[pointing-an-existing-domain-to-dooo]]
-  * [[subdomains-vs-subfolders]]
+  * [[domain-of-ones-own:domain-management:What is DNS?]]
+  * [[domain-of-ones-own:domain-management:setting-up-subdomains|Setting Up Subdomains]]
+  * [[domain-of-ones-own:domain-management:What is Domain Mapping?]]
+  * [[domain-of-ones-own:domain-management:map-your-domain-to-umw-blogs|Map Your Domain to UMW Blogs]]
+  * [[domain-of-ones-own:domain-management:map-your-domain-to-tumblr|Map Your Domain to Tumblr]]
+  * [[domain-of-ones-own:domain-management:map-your-domain-to-blogger|Map Your Domain to Blogger]]
+  * [[domain-of-ones-own:domain-management:pointing-an-existing-domain-to-dooo|Mapping an Existing Domain to UMW Domains]]
+  * [[domain-of-ones-own:domain-management:subdomains-vs-subfolders|Subdomains vs Subfolders]]
   * [["Important Notice Regarding Your Domain Name(s)" Email]]
 
 
