@@ -1,1 +1,4 @@
 ====== Course Integration ======
+
+  * [[wordpress:course-integration:adding-yourself-to-a-course-blog | Adding Yourself to a Course Blog]]
+  * [[wordpress:course-integration:adding-your-link-to-a-course-blog | Adding Your Link to a Course Blog]]
