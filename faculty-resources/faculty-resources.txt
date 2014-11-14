@@ -1,3 +1,7 @@
 {{indexmenu_n>8}}
 
 ====== Faculty Resources ======
+
+  * [[faculty-resources:setting-up-tag-syndication | Setting up Tag Syndication]]
+  * [[faculty-resources:allowing-students-to-add-themselves | Allowing Students to Add Themselves to a Course Blog]]
+  * 
