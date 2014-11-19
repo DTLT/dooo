@@ -2,6 +2,10 @@
 
 ====== Canvas  ======
 
-[[canvas:general-resources|General Resource Links]]
+  * [[canvas:general-resources|General Resource Links]]
+  * [[canvas:faculty-resources|Faculty Resources]]
+  * [[canvas:student-resources|Student Resources]]
+  * [[canvas:general-user-resources|General User Resources]]
+  * [[canvas:technical-requirements|Technical Requirements]]
 
 
