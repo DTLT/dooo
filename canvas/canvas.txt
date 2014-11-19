@@ -2,4 +2,6 @@
 
 ====== Canvas  ======
 
-{{namespace>canvas}}
+[[canvas:canvas:general-resources|General Resource Links]]
+
+
