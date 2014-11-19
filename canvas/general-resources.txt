@@ -1,0 +1,48 @@
+====== General Resources Links ======
+
+Welcome to Canvas! Canvas is a cloud-native learning platform and learning management system used by millions of students across the globe. These guides will get you started with the basics of Canvas.
+
+  * [[http://guides.instructure.com/m/4151|Getting Started]]
+  * Canvas Student Quickstart Guide
+  * Canvas Instructor Quickstart Guide
+
+===== Canvas Guides =====
+
+Once you’re up and running with Canvas, the complete Canvas Guides will help you learn the ins and outs of Canvas like a pro. 
+
+  * Canvas Instructor Guide 
+  * Canvas Student Guide
+
+===== Video Guide =====
+
+Canvas Video Guide
+
+===== Mobile Guides - Canvas by Instructure =====
+
+The Canvas by Instructure app is the mobile version of Canvas that helps you stay current with your courses anywhere you go. Download the Canvas by Instructure app on Android and iOS devices.
+
+  * Canvas by Instructure Android Phone Guide
+  * Canvas by Instructure Android Tablet Guide
+  * Canvas by Instructure iOS Phone Guide
+  * Canvas by Instructure iOS Tablet Guide
+
+===== Mobile Guides - MagicMarker =====
+
+The MagicMarker app is the efficient and effective way for instructors to record mastery of learning outcomes in their classroom and spend less time managing paperwork. All data syncs with the Learning Mastery Gradebook in Canvas. Download MagicMarker on iPad devices.
+
+MagicMarker iOS Tablet Guide
+
+===== Mobile Guides - Polls for Canvas =====
+
+The Polls for Canvas app is the easy way for instructors to request student opinion in the classroom. All students need is a smartphone. Download the Polls for Canvas app on Android and iOS devices.
+
+  * Polls for Canvas Android Phone Guide
+  * Polls for Canvas Android Tablet Guide
+  * Polls for Canvas iOS Phone Guide
+  * Polls for Canvas iOS Tablet Guide
+
+===== Mobile Guides - SpeedGrader =====
+
+SpeedGrader is designed for instructors to help minimize their workload when grading student assignments away from a computer. All SpeedGrader data syncs with SpeedGrader in Canvas. Download the SpeedGrader app on iPad devices.
+
+SpeedGrader iOS Tablet Guide
