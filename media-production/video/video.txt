@@ -1,1 +1,6 @@
 ====== Video ======
+
+====== Mediawiki ======
+
+  * [[mediawiki:Installing Mediawiki]]
+  * [[mediawiki: Managing Permissions]]
