@@ -1,6 +1,5 @@
 ====== Video ======
 
-====== Mediawiki ======
 
-  * [[mediawiki:Installing Mediawiki]]
-  * [[mediawiki: Managing Permissions]]
+  * [[video:Using the Canon Vixia HF R400]]
+  * [[video:Burning Blu-ray and DVD discs in Toast]]
