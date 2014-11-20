@@ -1,0 +1,52 @@
+**__Introduction__**:
+
+Twine is an open source tool that is used to tell stories in a fun and creative way. With using twine, you are able to make a normal story into an interactive one. This means that you can create hyperlinks within the text. This means that you can highlight a text so that it will link to another page of your story. 
+
+Using Twine, you are able to expand your story into infinite different options. 
+
+You can download Twine here: http://twinery.org/
+
+Once you’ve downloaded twine, you can follow along with their wiki page: http://twinery.org/wiki/ to get a better understanding of the inner workings of Twine. But I will also be guiding you step by step to create a fun and interactive story!
+
+**Step 1**: 
+
+- Download Twine onto your laptop through their website: http://twinery.org/ Twine is applicable for both Mac and PC softwares. 
+
+- Once it was been dowloaded, open Twine and you will see the homepage: 
+
+{{ https://farm6.staticflickr.com/5603/15803500396_bbf71a1aaf_c.jpg}}
+
+- You have to start your story under the Start window. **Don’t** change the title of it or else it won’t recognize the fact that you want to start there. Double click on the start box and start developing on your story. 
+
+
+**Step 2**: 
+
+- Once you have written the text that you want for your starting point, you can now create your first link! To do this, simply insert two <html>[[twine]]</html> around the word you wish to link. 
+You will notice that that word would have been highlighted to red, this means that your making progress! 
+
+{{https://farm9.staticflickr.com/8655/15827149615_f4d70f649a_z.jpg}} 
+
+- When you close the window, another window will pop up asking if you wish to create a new window named after the word that you highlighted. Click yes and another box will be automatically added. 
+
+- You continue with this progress to create more windows with more links. 
+Tip: You can create multiple links in one window. 
+
+{{https://farm8.staticflickr.com/7583/15803508136_f79a91c186_c.jpg}}
+
+**Step 3**: 
+
+- Once you are satisfied with your story, you can save it. To do this, go to the upper left corner of your computer and look for ‘Build.’ On the drop menu, click on ‘Build Story.’ Name your file whatever you like and click save. 
+
+- The file that you have saved is an HTML file and will open on your web browser so that you can preview it. 
+
+{{https://farm6.staticflickr.com/5603/15642312190_152758cff6_c.jpg}}
+
+- You will notice that here that there is no Story Title or Author. To add this, go back to the main Twine page and simple edit those two windows.
+
+- Once you’ve done that, go back to Build and click on ‘Rebuild Story’ to save the changes that you made. Once you’ve done this, you can go back to the HTML page and refresh it to see the changes that you’ve made.
+ 
+- The last task that needs to be done, is to host your story on a website. I recommend Philomela because it’s an easy way to publish and share your story through Twitter. 
+
+- Access the website here: http://www.philome.la/. Then follow the steps on the page and you can publish it! It’s as easy as that.
+
+{{https://farm8.staticflickr.com/7576/15828715342_57e69b7f87_c.jpg}} 
