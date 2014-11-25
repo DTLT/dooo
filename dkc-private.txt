@@ -63,7 +63,6 @@ This is documentation that needs to be written. Some of them may require a fair 
   
   *[[domain-of-ones-own:cpanel:uploading-files|Uploading Files]]: a quick tutorial showing how to upload files to your Web space using the File Manager. 
 
-  *[[domain-of-ones-own:cpanel:cloning-application|Cloning an Application]]: a tutorial that shows how to clone an existing install in Installatron to another location. Include a section called "Why Would I Do This?" with answers being if you installed an application in the wrong place or if you decided you wanted to move an application later. Also make sure to include/suggest that they remove/uninstall the original application (assuming they don't need it). **Meredith**
 
 
 
