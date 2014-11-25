@@ -7,4 +7,4 @@
 {{https://farm9.staticflickr.com/8581/15878420745_5d90538f25.jpg}}
   * Now you have a new folder with which you can upload files to your web space.
   * You can view an index of your folder by visiting **http://yourdomain.com/foldername/**. The index will include a list of links to the files in your folder. If you wish to view the individual file, include the name of the file after the folder’s name in the URL; for example, **http://yourdomain.com/foldername/file.html/**.
-{{https://farm8.staticflickr.com/7578/15692660067_ba649db612.jpg}}
+{{https://farm9.staticflickr.com/8570/15876527381_13eddd3d63.jpg}}
