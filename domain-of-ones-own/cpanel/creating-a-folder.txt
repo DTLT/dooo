@@ -1,4 +1,4 @@
-====== Creating a Folder in Your Domain of One’s Own Web Space ======
+====== Creating a Folder ======
 
   * Creating a folder in your Domain of One’s Own web space is fairly simple. First, login to your Domain of One’s Own account and locate your dashboard.
   * On the dashboard scroll-down to files and click on File Manager. This will bring up the File Manager Directory Selection. With the Web Root (public_html/www) selected, click Go.
