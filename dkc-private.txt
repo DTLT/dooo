@@ -61,7 +61,7 @@ This is documentation that needs to be written. Some of them may require a fair 
 
   *[[domain-of-ones-own:cpanel:creating-a-folder|Creating a Folder in your Domain of One's Own Web Space]]: a quick tutorial showing how to use the File Manager to create a folder on your Web space. 
   
-  *[[domain-of-ones-own:cpanel:uploading-files|Uploading Files]]: a quick tutorial showing how to upload files to your Web space using the File Manager. 
+  *[[domain-of-ones-own:cpanel:uploading-files|Uploading Files]]: a quick tutorial showing how to upload files to your Web space using the File Manager. **Meredith**
 
 
 
