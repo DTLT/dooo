@@ -8,7 +8,9 @@ To change your theme click the "Appearance" tab on the left side bar.
 
 {{https://farm6.staticflickr.com/5598/14936331204_de72953c41_o_d.png}}
 
-From there, select the "Themes" in the submenu. This will open page where you can select from pre-screened themes for your blog. You can test them by hovering your mouse over them and selecting the "Live Preview" option. If you like a theme you can activate it by hovering your mouse over the theme and then clicking "Activate." 
+From there, select the "Themes" in the submenu. This will open page where you can select from pre-screened themes for your blog. You can test them by hovering your mouse over them and selecting the **Live Preview** option. If you like a theme you can activate it by hovering your mouse over the theme and then clicking **Activate.**
 
 {{https://farm4.staticflickr.com/3954/15554411131_5b69494ae9_d.jpg}}
 
+So lets say you don't like the theme that is installed on your blog. So let's go look for different themes:
+  * Unordered List Item
