@@ -1,0 +1,12 @@
+====== Cloning an Application ======
+Cloning an application can be useful if you want to start a new blog but you like the settings that are on the previous blog. 
+  * You want to start out on [[http://umw.domains/|UMW Domains]].
+       * **Login** using your EagleNet username and password
+  * Once you are logged in your dashboard will be the first page you see {{https://farm8.staticflickr.com/7541/15851464176_126e880338_c.jpg}}
+  * **Click** on **view more** in the applications {{https://farm8.staticflickr.com/7491/15257620373_c3f13cae49_c.jpg}} 
+  * A list of applications should appear. 
+  * Then once you've selected your specific application. There are three options that you can choose from "backup," "clone," and "uninstall." Click the "clone" button (the middle button). {{https://farm8.staticflickr.com/7582/15875289151_2c2760e379_c.jpg}}
+  * **Click** clone when the new screen appears and you've checked to make sure everything looks good. {{https://farm8.staticflickr.com/7579/15255017654_dc9d97df0f_o.png}}
+  * It will process then once that done the new blog will appear. {{https://farm9.staticflickr.com/8631/15851492266_6ea4e9fab7_c.jpg}}
+
+This blog has all of the same settings as the parent application, but when you make changes to this application you won't change any settings on the parent application. This is helpful when you want to test out a specific setting or plugin but you don't want to majorly change your original application until you work out the kinks in the setting or plugin. 
