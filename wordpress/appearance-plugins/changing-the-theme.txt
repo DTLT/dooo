@@ -13,4 +13,14 @@ From there, select the "Themes" in the submenu. This will open page where you ca
 {{https://farm4.staticflickr.com/3954/15554411131_5b69494ae9_d.jpg}}
 
 So lets say you don't like the theme that is installed on your blog. So let's go look for different themes:
-  * Unordered List Item
+  * **Click** Add New Theme.
+    {{https://farm8.staticflickr.com/7536/15254505434_79c5766ee5_c.jpg}}
+  * This will open the theme browser. From here you can search for a particular theme, browse the Featured themes, or the themes that are the most popular as well. 
+    {{https://farm8.staticflickr.com/7466/15689256628_3ddbc11a1c_c.jpg}}
+  * Once you have the theme you want to use, **hover** over that particular theme, you can see a preview of that particular theme. You also have the option to install the theme right away by **clicking** the install button. 
+    {{https://farm9.staticflickr.com/8579/15257114993_7803849ae8_o.png}}
+  * This window will appear when the theme is installing. 
+    {{https://farm9.staticflickr.com/8643/15257114823_00bf99d082_o.png}}
+  * Then you can view a live preview of the theme, that is tailored to what is on your blog at the moment. 
+    {{https://farm8.staticflickr.com/7561/15689448920_36335924f8_c.jpg}}
+From there you can change your themes around to whatever you want!
