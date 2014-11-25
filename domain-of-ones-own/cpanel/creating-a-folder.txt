@@ -1,0 +1,9 @@
+<p>Creating a folder in your Domain of One’s Own Web Space is fairly simple. First, login to your Domain of One’s Own account and locate your dashboard.
+
+<p>On the dashboard scroll-down to files and click on File Manager. This will bring up the File Manager Directory Selection. With the Web Root (public_html/www) selected, click Go.
+
+<p>With public_html selected, click New Folder from the top-menu. Now, in the New Folder dialog box, input your New Folder Name and click Create New Folder.
+
+<p>Now you have a new folder with which you can upload files to your web space.
+
+<p>You can view an index of your folder by visiting http://yourdomain.com/foldername/. The index will include a list of links to the files in your folder. If you wish to view the individual file, include the name of the file after the folder’s name in the URL; for example, http://yourdomain.com/foldername/file.html/.
