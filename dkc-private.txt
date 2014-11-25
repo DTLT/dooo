@@ -57,9 +57,6 @@ This is documentation that needs to be written. Some of them may require a fair 
   * [[wordpress:advanced-topics:advanced-wordpress-themes|Advanced WordPress Theme Techniques]]: This is a tutorial on advanced techniques for working with WordPress themes. When you install a new theme, how do you go about figuring out how to use it? What are some good tips/best practices?
 
   * [[wordpress:appearance-plugins:installing-themes | Installing Themes]]: we need a document that focuses on the process of finding and installing new themes in WordPress. Feel free to borrow from the existing [[wordpress:appearance-plugins:themes | WordPress Themes]] document. **Matt**
-
-
-  *[[domain-of-ones-own:cpanel:creating-a-folder|Creating a Folder in your Domain of One's Own Web Space]]: a quick tutorial showing how to use the File Manager to create a folder on your Web space. **James**
   
   *[[domain-of-ones-own:cpanel:uploading-files|Uploading Files]]: a quick tutorial showing how to upload files to your Web space using the File Manager. **Meredith**
 
@@ -96,5 +93,7 @@ This is documentation that needs to be written. Some of them may require a fair 
   * [[wordpress:appearance-plugins:changing-the-theme | Changing the Theme]]: this tutorial needs to be fleshed out to include info on finding existing themes, including using the theme filter interface, and activating them. It should also give some specifics about where to look for additional theme options and customizations. This tutorial should be generic enough to be useful for both UMW Blogs and UMW Domains users. Feel free to borrow from the existing [[wordpress:appearance-plugins:themes | WordPress Themes]] document. **Meredith**
 
   * [[domain-of-ones-own:cpanel:cloning-application|Cloning an Application]]: a tutorial that shows how to clone an existing install in Installatron to another location. Include a section called "Why Would I Do This?" with answers being if you installed an application in the wrong place or if you decided you wanted to move an application later. Also make sure to include/suggest that they remove/uninstall the original application (assuming they don't need it). **Meredith**
+
+  *[[domain-of-ones-own:cpanel:creating-a-folder|Creating a Folder in your Domain of One's Own Web Space]]: a quick tutorial showing how to use the File Manager to create a folder on your Web space. **James**
 
 {{indexmenu_n>15}}
