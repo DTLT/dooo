@@ -2,6 +2,6 @@
 
 ====== Mediawiki ======
 
-  * [[mediawiki:Installing Mediawiki]]
-  * [[mediawiki: Managing Permissions]]
+  * [[other-software-tools:mediawiki:Installing Mediawiki]]
+  * [[other-software-tools:mediawiki: Managing Permissions]]
 
