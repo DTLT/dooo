@@ -2,4 +2,4 @@
 
 ====== Omeka ======
 
-  * [[omeka:installing-omeka]]
+  * [[omeka:installing omeka]]
