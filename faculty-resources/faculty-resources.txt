@@ -2,4 +2,4 @@
 
 ====== Faculty Resources ======
 
-  * [[faculty resources:generate an ebook|Generate an eBook]]
+  * [[faculty-resources:generate-an-ebook|Generate an eBook]]
