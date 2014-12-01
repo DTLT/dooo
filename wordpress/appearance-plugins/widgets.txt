@@ -29,7 +29,7 @@ The second is to click, "Customize," in the submenu that appears after clicking 
   * Archives: Shows a monthly listing of your posts. 
   * Calendar: Shows a calendar view of your posts. 
   * Categories: Shows a list of all of the categories on your site. 
-  * Custom Menu: Shows a custom menu that you've set up with [[wordpress:menus|WordPress' Custom Menu interface]].
+  * Custom Menu: Shows a custom menu that you've set up with [[wordpress:appearance-plugins:menus|WordPress' Custom Menu interface]].
   * Links: Shows your links. 
   * Meta: Shows links to your RSS feed and your login. 
   * Pages: Shows a menu of all of your pages. 
