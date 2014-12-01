@@ -1,4 +1,4 @@
 ====== Zotero ======
 
-* [[other-software-tools:zotero:adding zotero|Adding Zotero]]
-* [[other-software-tools:zotero:using zotero|Using Zotero]]
+  * [[other-software-tools:zotero:adding zotero|Adding Zotero]]
+  * [[other-software-tools:zotero:using zotero|Using Zotero]]
