@@ -2,5 +2,5 @@
 
 ====== Faculty Resources ======
 
-  * [[faculty-resources:generate-an-ebook | Generate an eBook]]
+  * [[faculty-resources:generate-an-ebook|Generate an eBook]]
   * [[faculty-resources:allowing-students-to-add-themselves | Allowing Students to Add Themselves to a Course Blog]]
