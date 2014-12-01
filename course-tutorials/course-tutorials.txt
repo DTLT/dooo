@@ -2,4 +2,3 @@
 
 ====== Course Tutorials ======
 
-  * [[course-tutorials:umw-domains-tutorials|UMW Domains Tutorials]]
