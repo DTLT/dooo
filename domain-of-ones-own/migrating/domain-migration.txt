@@ -1,5 +1,0 @@
-#Domain Migration
-
-{{namespace>:migrating:domain-migration}}
-
-{{indexmenu_n>2}}

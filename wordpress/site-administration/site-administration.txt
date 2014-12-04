@@ -1,1 +1,3 @@
 ====== Site Administration ======
+
+{{namespace>wordpress:site-administration}}

@@ -6,4 +6,9 @@
 
 WordPress is an open source blog application. WordPress forked from b2/cafelog in 2003, and WordPress Mu multiple website functionality has been integrated since 2010. Today WordPress is the most used blog application powering millions of blogs and being used by tens of millions of people every day.
 
-{{namespace>wordpress&depth=1}}
+  * [[wordpress:getting-started:getting-started|Getting Started]]
+  * [[wordpress:appearance-plugins:appearance-plugins|Appearance and Plugins]]
+  * [[wordpress:course-integration:course-integration|Course Integration]]
+  * [[wordpress:creating-content:creating-content|Creating Content]]
+  * [[wordpress:site-administration:site-administration|Site Administration]]
+  * [[wordpress:advanced-topics:advanced-topics|Advanced Topics]]

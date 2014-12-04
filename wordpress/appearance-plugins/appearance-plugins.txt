@@ -1,1 +1,3 @@
 ====== Appearance and Plugins ======
+
+{{namespace>wordpress:appearance-plugins}}

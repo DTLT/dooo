@@ -1,1 +1,3 @@
 ====== Creating Content ======
+
+{{namespace>wordpress:creating-content}}

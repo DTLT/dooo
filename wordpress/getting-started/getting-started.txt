@@ -1,1 +1,3 @@
 ====== Getting Started ======
+
+{{namespace>wordpress:getting-started}}
