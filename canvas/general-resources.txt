@@ -13,10 +13,6 @@ Once you’re up and running with Canvas, the complete Canvas Guides will help y
   * [[http://guides.instructure.com/m/4152|Instructor Guide]]  
   * [[http://guides.instructure.com/m/4212|Student Guide]]
 
-===== Video Guide =====
-
-Canvas Video Guide
-
 ===== Mobile Guides - Canvas by Instructure =====
 
 The Canvas by Instructure app is the mobile version of Canvas that helps you stay current with your courses anywhere you go. Download the Canvas by Instructure app on Android and iOS devices.
