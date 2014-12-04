@@ -1,7 +1,7 @@
 ====== Faculty Resource Links ======
 
 UMW-Specific Tutorials:  
-  * How to Add a QEP Module to Your Course
+  * How to Configure Mobile Apps with the UMW URLHow to Add a QEP Module to Your Course
   * How to Add the Mastering Biology Content
   * How to Find Evaluation Reports
 
