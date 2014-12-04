@@ -4,4 +4,4 @@
 
 All Canvas Users have 50MB of storage space for files. 
 
-  * What are the Currently Supported Browsers? * [[https://guides.instructure.com/m/4214/l/41056-which-browsers-does-canvas-support|Which Browsers Does Canvas Support?]]
+ * [[https://guides.instructure.com/m/4214/l/41056-which-browsers-does-canvas-support|Which Browsers Does Canvas Support?]]
