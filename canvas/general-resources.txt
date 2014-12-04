@@ -21,10 +21,10 @@ Canvas Video Guide
 
 The Canvas by Instructure app is the mobile version of Canvas that helps you stay current with your courses anywhere you go. Download the Canvas by Instructure app on Android and iOS devices.
 
-  * Canvas by Instructure Android Phone Guide
-  * Canvas by Instructure Android Tablet Guide
-  * Canvas by Instructure iOS Phone Guide
-  * Canvas by Instructure iOS Tablet Guide
+  * [[http://guides.instructure.com/m/18555|Canvas by Instructure Android Phone Guide]]
+  * [[http://guides.instructure.com/m/18560|Canvas by Instructure Android Tablet Guide]]
+  * [[http://guides.instructure.com/m/18561|Canvas by Instructure iOS Phone Guide]]
+  * [[http://guides.instructure.com/m/18562|Canvas by Instructure iOS Tablet Guide]]
 
 ===== Mobile Guides - MagicMarker =====
 
