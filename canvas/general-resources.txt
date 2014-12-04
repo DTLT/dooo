@@ -41,4 +41,4 @@ The Polls for Canvas app is the easy way for instructors to request student opin
 
 SpeedGrader is designed for instructors to help minimize their workload when grading student assignments away from a computer. All SpeedGrader data syncs with SpeedGrader in Canvas. Download the SpeedGrader app on iPad devices.
 
-SpeedGrader iOS Tablet Guide
+ * [[http://guides.instructure.com/m/19294|SpeedGrader iOS Tablet Guide]]
