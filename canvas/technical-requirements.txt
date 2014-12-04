@@ -1,0 +1,4 @@
+====== Technical Requirements Links ======
+
+  * How Much Storage Space do You Have? 
+  * What are the Currently Supported Browsers? 
