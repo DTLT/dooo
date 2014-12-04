@@ -7,7 +7,6 @@ Welcome to Canvas! Canvas is a cloud-native learning platform and learning manag
   * [[canvas:general-resources|General Resource Links]]
   * [[canvas:faculty-resources|Faculty Resources]]
   * [[canvas:student-resources|Student Resources]]
-  * [[canvas:all-user-resources|All-Users Resources]]
   * [[canvas:technical-requirements|Technical Requirements]]
 
 
