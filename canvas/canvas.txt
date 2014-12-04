@@ -2,6 +2,8 @@
 
 ====== Canvas  ======
 
+Welcome to Canvas! Canvas is a cloud-native learning platform and learning management system used by UMW. The following guides and resources will get you started with the basics of Canvas. 
+
   * [[canvas:general-resources|General Resource Links]]
   * [[canvas:faculty-resources|Faculty Resources]]
   * [[canvas:student-resources|Student Resources]]
