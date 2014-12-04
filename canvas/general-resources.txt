@@ -26,7 +26,7 @@ The Canvas by Instructure app is the mobile version of Canvas that helps you sta
 
 The MagicMarker app is the efficient and effective way for instructors to record mastery of learning outcomes in their classroom and spend less time managing paperwork. All data syncs with the Learning Mastery Gradebook in Canvas. Download MagicMarker on iPad devices.
 
-MagicMarker iOS Tablet Guide
+  *[[http://guides.instructure.com/m/22289|MagicMarker iOS Tablet Guide]]
 
 ===== Mobile Guides - Polls for Canvas =====
 
