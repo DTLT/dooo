@@ -1,1 +1,21 @@
-Faculty Resources 
+====== Faculty Resource Links ======
+
+UMW-Specific Tutorials:  
+  * How to Add a QEP Module to Your Course
+  * How to Add the Mastering Biology Content
+  * How to Find Evaluation Reports
+
+Top Most-Requested Tutorials:
+  * How to Cross-List Your Course Sections
+  * How to Copy Course Content from One Course to Another
+  * How to Publish Your Course
+  * How to Publish Your Modules/Content
+  * How to Make Your Course/Syllabus Public
+  * How to Weight Grades
+  * How to Add Accommodations for Students for Quizzes
+  * How to Assign Different Due Dates for Assignments or Quizzes per Section
+  * How to Create Group Sets and Groups
+  * How to Write Comments to Students
+
+Hidden Tips & Tricks
+  * The "Undelete" Trick
