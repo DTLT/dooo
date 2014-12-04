@@ -1,0 +1,2 @@
+====== Uploading Files ======
+Uploading files to your server can be a useful tool for many types of files. For this tutorial and HTML file will be uploaded to the blog space. 
