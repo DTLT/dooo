@@ -8,6 +8,7 @@ UMW-Specific Tutorials:
 
 Top Most-Requested Tutorials
   * How do I Set a Reminder for Assignment Due Dates?
+  * [[http://guides.instructure.com/m/4212/l/54363|How Do I Submit a Peer Review?]]  
   * How do I Know I've Been Assigned a Peer Review?
   * How do I Attach a File to a Discussion?
   * How do I "like" a Course?
