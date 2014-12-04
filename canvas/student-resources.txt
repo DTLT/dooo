@@ -13,4 +13,4 @@ Top Most-Requested Tutorials
   * How do I "like" a Course?
 
 Hidden Tips & Tricks
-  * How Do I Do Hypothetical Grading 
+  * [[http://guides.instructure.com/m/4152/l/55015-what-are-what-if-grades How Do I Do Hypothetical Grading 
