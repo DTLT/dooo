@@ -1,4 +1,7 @@
 ====== Technical Requirements Links ======
 
-  * How Much Storage Space do You Have? 
-  * What are the Currently Supported Browsers? 
+//Italic Text//How Much Storage Space do You Have? 
+
+All Canvas Users have 50MB of storage space for files. 
+
+  * What are the Currently Supported Browsers? * [[https://guides.instructure.com/m/4214/l/41056-which-browsers-does-canvas-support|Which Browsers Does Canvas Support?]]
