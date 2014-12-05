@@ -8,7 +8,7 @@ UMW-Specific Tutorials:
 
 Top Most-Requested Tutorials:
   * How to Cross-List Your Course Sections
-  * [[http://guides.instructure.com/m/4152/l/48305-how-do-i-compose-and-send-a-message|How to Compose a Message
+  * [[http://guides.instructure.com/m/4152/l/48305-how-do-i-compose-and-send-a-message|How to Compose a Message]]
   * [[http://guides.instructure.com/m/4152/l/107414-how-is-roll-call-attendance-graded-in-canvas|How to Grade Attendance using Roll Call]]
   * [[http://guides.instructure.com/m/4152/l/54249-how-do-i-create-a-peer-review-assignment|How to Create a Peer-Review Assignment]]
   * How to Copy Course Content from One Course to Another
