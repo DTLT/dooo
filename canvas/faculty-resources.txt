@@ -22,9 +22,14 @@ Top Most-Requested Tutorials:
   * [[http://guides.instructure.com/m/4152/l/67002-how-do-i-weight-the-final-grade-based-on-assignment-groups|How to Weight Grades]]
   * [[http://guides.instructure.com/m/4152/l/65779-how-do-i-allow-students-to-attach-files-to-a-discussion|How to Allow Students to Attach Files to Discussions]]
   * [[http://guides.instructure.com/m/4152/l/74551-where-can-i-find-external-apps-to-use-in-my-course|How to Add External Apps (LTIs) to Your Course]]
+  * [[http://guides.instructure.com/m/4152/l/41391-how-do-i-lock-files-and-folders-in-canvas|How to Lock Files]]
   * How to Add Accommodations for Students for Quizzes
+  * [[http://guides.instructure.com/m/4152/l/55002-how-do-i-set-a-default-grade-for-an-assignment|How to Set Default Grades for an Assignment]]
+  * [[http://guides.instructure.com/m/4152/l/55012-how-do-i-download-scores-from-the-gradebook|How to Download Grades]]
+  * [[http://guides.instructure.com/m/4152/l/78195-how-do-i-give-my-students-extra-credit|How to Give Extra Credit]]
   * How to Assign Different Due Dates for Assignments or Quizzes per Section
-  * How to Create Group Sets and Groups
+  * [[http://guides.instructure.com/m/4152/l/55485-how-do-i-create-a-new-group-set|How to Create Group Sets and Groups]]
+  * [[http://guides.instructure.com/m/4152/l/55495-how-do-i-view-what-students-are-doing-in-their-groups|How to View Student Groups]]
   * How to Write Comments to Students
 
 Hidden Tips & Tricks
