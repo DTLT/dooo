@@ -9,6 +9,7 @@ UMW-Specific Tutorials:
 Top Most-Requested Tutorials:
   * How to Cross-List Your Course Sections
   * How to Copy Course Content from One Course to Another
+  * How to Use Draft State http://guides.instructure.com/m/4152/l/180493-how-do-i-use-draft-state-in-assignments
   * How to Publish Your Course
   * How to Publish Your Modules/Content
   * How to Make Your Course/Syllabus Public
