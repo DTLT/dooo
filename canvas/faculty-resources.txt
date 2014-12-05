@@ -16,6 +16,7 @@ Top Most-Requested Tutorials:
   * How to Copy Course Content from One Course to Another
   * [[http://guides.instructure.com/m/4152/l/180493-how-do-i-use-draft-state-in-assignments|How to Publish Assignments with Draft State]] 
   * [[http://guides.instructure.com/m/4152/l/180497?data-resolve-url=true&data-manual-id=4152|How to Publish Modules with Draft State]]
+  * [[http://guides.instructure.com/m/4152/l/57120-where-can-i-find-statistics-about-when-students-are-accessing-the-course|How to Find Statistics on Student Access]]
   * How to Publish Your Course
   * How to Make Your Course/Syllabus Public
   * [[http://guides.instructure.com/m/4152/l/67002-how-do-i-weight-the-final-grade-based-on-assignment-groups|How to Weight Grades]]
