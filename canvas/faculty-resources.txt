@@ -11,9 +11,8 @@ Top Most-Requested Tutorials:
   * [[http://guides.instructure.com/m/4152/l/107414-how-is-roll-call-attendance-graded-in-canvas|How to Grade Attendance using Roll Call]]
   * [[http://guides.instructure.com/m/4152/l/54249-how-do-i-create-a-peer-review-assignment|How to Create a Peer-Review Assignment]]
   * How to Copy Course Content from One Course to Another
-  * How to Publish Your Assignments and Modules
-  * [[http://guides.instructure.com/m/4152/l/180493-how-do-i-use-draft-state-in-assignments|How to Use Draft State in Assignments]] 
-  * [[http://guides.instructure.com/m/4152/l/180497?data-resolve-url=true&data-manual-id=4152|How to Use Draft State in Modules]]
+  * [[http://guides.instructure.com/m/4152/l/180493-how-do-i-use-draft-state-in-assignments|How to Publish Assignments with Draft State]] 
+  * [[http://guides.instructure.com/m/4152/l/180497?data-resolve-url=true&data-manual-id=4152|How to Publish Modules with Draft State]]
   * How to Publish Your Course
   * How to Make Your Course/Syllabus Public
   * [[http://guides.instructure.com/m/4152/l/67002-how-do-i-weight-the-final-grade-based-on-assignment-groups|How to Weight Grades]]
