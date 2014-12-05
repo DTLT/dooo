@@ -2,7 +2,6 @@
 
 UMW-Specific Tutorials: 
   * How to Configure Mobile Apps with the UMW URL
-  * How to Submit a Ticket for a Canvas Issue
   * How to Submit a Course Evaluation
   * How to take a UMW Placement Exam for Modern Foreign Languages, Calculus or Latin
 
