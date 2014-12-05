@@ -14,12 +14,15 @@ Top Most-Requested Tutorials:
   * [[http://guides.instructure.com/m/4152/l/107414-how-is-roll-call-attendance-graded-in-canvas|How to Grade Attendance using Roll Call]]
   * [[http://guides.instructure.com/m/4152/l/54249-how-do-i-create-a-peer-review-assignment|How to Create a Peer-Review Assignment]]
   * How to Copy Course Content from One Course to Another
+  * [[http://guides.instructure.com/m/4152/l/41467-how-do-i-add-a-profile-picture|How to Add a Profile Picture]]
   * [[http://guides.instructure.com/m/4152/l/180493-how-do-i-use-draft-state-in-assignments|How to Publish Assignments with Draft State]] 
   * [[http://guides.instructure.com/m/4152/l/180497?data-resolve-url=true&data-manual-id=4152|How to Publish Modules with Draft State]]
   * [[http://guides.instructure.com/m/4152/l/57120-where-can-i-find-statistics-about-when-students-are-accessing-the-course|How to Find Statistics on Student Access]]
+  * [[http://guides.instructure.com/m/4152/l/41458-where-do-i-find-the-course-access-report-for-an-individual-student|How to Find Course Access Reports for Individual Students]]
   * How to Publish Your Course
-  * How to Make Your Course/Syllabus Public
+  * [[http://guides.instructure.com/m/4152/l/57093-how-do-i-set-a-license-for-my-course-and-make-it-publicly-visible|How to Make Your Course Public]]
   * [[http://guides.instructure.com/m/4152/l/67002-how-do-i-weight-the-final-grade-based-on-assignment-groups|How to Weight Grades]]
+  * [[http://guides.instructure.com/m/4152/l/235923-how-do-i-use-fudge-points-in-speedgrader|How to Use Fudge Points in the Speedgrader]]
   * [[http://guides.instructure.com/m/4152/l/65779-how-do-i-allow-students-to-attach-files-to-a-discussion|How to Allow Students to Attach Files to Discussions]]
   * [[http://guides.instructure.com/m/4152/l/74551-where-can-i-find-external-apps-to-use-in-my-course|How to Add External Apps (LTIs) to Your Course]]
   * [[http://guides.instructure.com/m/4152/l/41391-how-do-i-lock-files-and-folders-in-canvas|How to Lock Files]]
@@ -30,6 +33,7 @@ Top Most-Requested Tutorials:
   * How to Assign Different Due Dates for Assignments or Quizzes per Section
   * [[http://guides.instructure.com/m/4152/l/55485-how-do-i-create-a-new-group-set|How to Create Group Sets and Groups]]
   * [[http://guides.instructure.com/m/4152/l/55495-how-do-i-view-what-students-are-doing-in-their-groups|How to View Student Groups]]
+  * [[http://guides.instructure.com/m/4152/l/41440-how-do-i-create-a-new-page|How to Create Wiki Pages]]
   * How to Write Comments to Students
 
 Hidden Tips & Tricks
