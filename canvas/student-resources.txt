@@ -7,11 +7,17 @@ UMW-Specific Tutorials:
   * How to take a UMW Placement Exam for Modern Foreign Languages, Calculus or Latin
 
 Top Most-Requested Tutorials
-  * How do I Set a Reminder for Assignment Due Dates?
+  * [[http://guides.instructure.com/m/8470/l/103948-how-do-i-view-my-courses|How Do I View My Courses?]]
+  * [[http://guides.instructure.com/m/4212/l/196070-will-canvas-work-on-my-mobile-device|How Do I Access Canvas Mobile Apps]]
+  * [[http://guides.instructure.com/m/4212/l/41467-how-do-i-add-a-profile-picture|How Do I Add a Profile Picture?]]
+  * [[http://guides.instructure.com/m/4212/l/41960-how-do-i-add-my-cell-phone-number-to-canvas-to-receive-texts|How Do I Get Texts on my Cell from Canvas?]]
+  * [[http://guides.instructure.com/m/4212/l/54352-how-do-i-view-the-rubric-for-an-assignment|How Do I View a Rubric for an Assignment?]]
   * [[http://guides.instructure.com/m/4212/l/54363|How Do I Submit a Peer Review?]]  
-  * [[http://guides.instructure.com/m/4212/l/103951|How Do I Know How if I Have a Peer Review to Complete?]]   
-  * How do I Attach a File to a Discussion?
-  * How do I "like" a Course?
+  * [[http://guides.instructure.com/m/4212/l/103951|How Do I Know How if I Have a Peer Review to Complete?]] 
+  * [[http://guides.instructure.com/m/4212/l/55293-how-do-i-join-a-google-docs-collaboration|How Do I Join a GoogleDocs Collaboration?]]
+  * [[http://guides.instructure.com/m/4212/l/41982-how-do-i-join-a-web-conference|How Do I Join a Web Conference?]]
+  * [[http://guides.instructure.com/m/4212/l/55565-which-groups-am-i-enrolled-in|Which Group Am I Enrolled In?]]
+  * 
 
 Hidden Tips & Tricks
    * [[http://guides.instructure.com/m/4152/l/55015-what-are-what-if-grades|How Do I Do Hypothetical Grading]]  
