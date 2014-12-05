@@ -14,7 +14,7 @@ Top Most-Requested Tutorials:
   * [[http://guides.instructure.com/m/4152/l/180497?data-resolve-url=true&data-manual-id=4152|How to Use Draft State in Modules]]
   * How to Publish Your Course
   * How to Make Your Course/Syllabus Public
-  * [[http://guides.instructure.com/m/4152/l/67002-how-do-i-weight-the-final-grade-based-on-assignment-groups|How to Weight Grades
+  * [[http://guides.instructure.com/m/4152/l/67002-how-do-i-weight-the-final-grade-based-on-assignment-groups|How to Weight Grades]]
   * How to Add Accommodations for Students for Quizzes
   * How to Assign Different Due Dates for Assignments or Quizzes per Section
   * How to Create Group Sets and Groups
