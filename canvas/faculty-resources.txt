@@ -20,6 +20,8 @@ Top Most-Requested Tutorials:
   * How to Publish Your Course
   * How to Make Your Course/Syllabus Public
   * [[http://guides.instructure.com/m/4152/l/67002-how-do-i-weight-the-final-grade-based-on-assignment-groups|How to Weight Grades]]
+  * [[http://guides.instructure.com/m/4152/l/65779-how-do-i-allow-students-to-attach-files-to-a-discussion|How to Allow Students to Attach Files to Discussions]]
+  * [[http://guides.instructure.com/m/4152/l/74551-where-can-i-find-external-apps-to-use-in-my-course|How to Add External Apps (LTIs) to Your Course]]
   * How to Add Accommodations for Students for Quizzes
   * How to Assign Different Due Dates for Assignments or Quizzes per Section
   * How to Create Group Sets and Groups
