@@ -3,7 +3,6 @@
 UMW-Specific Tutorials:  
   * How to Configure Mobile Apps with the UMW URL
   * How to Add a QEP Module to Your Course
-  * How to Add the Mastering Biology Content
   * How to Find Evaluation Reports
 
 Top Most-Requested Tutorials:
