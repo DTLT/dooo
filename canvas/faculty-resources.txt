@@ -22,7 +22,7 @@ Top Most-Requested Tutorials:
   * How to Publish Your Course
   * [[http://guides.instructure.com/m/4152/l/57093-how-do-i-set-a-license-for-my-course-and-make-it-publicly-visible|How to Make Your Course Public]]
   * [[http://guides.instructure.com/m/4152/l/67002-how-do-i-weight-the-final-grade-based-on-assignment-groups|How to Weight Grades]]
-  * [[http://guides.instructure.com/m/4152/l/55016-how-do-i-use-speedgraderHow to Use the Speedgrader]]
+  * [[http://guides.instructure.com/m/4152/l/55016-how-do-i-use-speedgrader|How to Use the Speedgrader]]
   * [[http://guides.instructure.com/m/4152/l/235923-how-do-i-use-fudge-points-in-speedgrader|How to Use Fudge Points in the Speedgrader]]
   * [[http://guides.instructure.com/m/4152/l/65779-how-do-i-allow-students-to-attach-files-to-a-discussion|How to Allow Students to Attach Files to Discussions]]
   * [[http://guides.instructure.com/m/4152/l/74551-where-can-i-find-external-apps-to-use-in-my-course|How to Add External Apps (LTIs) to Your Course]]
