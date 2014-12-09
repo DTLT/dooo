@@ -7,5 +7,5 @@ Uploading files to your server can be a useful tool for many types of files. For
   * A new window should pop up with all of the files associated with your domain
   * Once you are here you want to select **Upload**{{https://farm9.staticflickr.com/8569/15984000782_f7718ec0b9_c.jpg}}
   * Select the file you want to upload. Keep in mind all of the files associated with your HTML file must be uploaded to the same place as well {{https://farm8.staticflickr.com/7583/15984000802_ed58c56c96_c.jpg}}
-  * Once all the files are uploaded, type in your domain name with the file name after that, for example meredithfierro.com/index.html. The .html is **important.** Once you are in that directory should be able to see all of you HTML file. 
+  * Once all the files are uploaded, type in your domain name with the file name after that, for example [[http://meredithfierro.com/index.html | meredithfierro.com/index.html]]. The .html is **important.** Once you are in that directory should be able to see all of you HTML file. 
   * You can move the files to another place, for instance, if you have a subdomain you can move the files to that folder but make sure you have all of the files associated with the HTML file moved there as well. 
