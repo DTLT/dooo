@@ -2,7 +2,6 @@
 
 UMW-Specific Tutorials:  
   * How to Configure Mobile Apps with the UMW URL
-====== Faculty Resource Links ======
   * How to Add a QEP Module to Your Course
   * How to Find Evaluation Reports
 
