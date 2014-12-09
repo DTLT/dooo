@@ -1,2 +1,7 @@
 ====== Uploading Files ======
-Uploading files to your server can be a useful tool for many types of files. For this tutorial and HTML file will be uploaded to the blog space. 
+Uploading files to your server can be a useful tool for many types of files. For this tutorial an HTML file will be uploaded.
+  * First you will want to log into your Domain of One's Own
+  * Scroll down until you see **Files**
+  * Click on **File Manager**
+  * You may have to move the pop up window so you can see it but **click** **Go**
+  * 
