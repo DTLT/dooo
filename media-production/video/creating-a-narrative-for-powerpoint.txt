@@ -1,0 +1,22 @@
+*Using ScreenFlow to record a narrative for PowerPoint*
+
+How to use ScreenFlow:
+
+ScreenFlow is an IOS application that makes recording visuals and audios easy. 
+
+There are a lot of ways where you can add audio by using different video editing applications, but the easiest and most smooth way of proceeding to record the application that you use, is to do it with ScreenFlow. 
+
+We have that application in the basement of the Convergence Center available for students. The only computer that has it is the one in the actual sound booth. Make sure you have your student ID with you because you will need to scan yourself in. 
+
+It is similar to Quick Time Player, but it is clearer, smoother, and flows better. 
+
+Feel free to use the headset provided by the DKC or talk freely without it. 
+
+Once you have logged onto the computer, search for ScreenFlow, and your desktop would have immediately started running on it. You will be able to notice this because at the top left corner of the screen, it would have say ScreenFlow. To record, click on the black camera on the upper right corner, and hit the record option. You will be given 5 seconds to prep whatever presentation needs recording. 
+
+To stop your recording, either click command 2 or exit out of your presentation, go to the upper right corner and click on the black camera and choose the option to stop recording. 
+
+Once you are finished recording, ScreenFlow will let you preview, edit, delete, and change your recording as necessary. Once you have completed all of that, you can save your ScreenFlow recording by click File save or save as. Or if you would like to publish it, click on File, publish to and you will be given the option to publish it to Youtube, Google Drive, or other public video websites. 
+
+Once that is completed, you will be able to do whatever you like with your ScreenFlow project.  :) 
+
