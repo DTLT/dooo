@@ -2,3 +2,4 @@
 
   * [[media-production:video:Using the Canon Vixia HF R400]]
   * [[media-production:video:Burning Blu-ray and DVD discs in Toast]]
+  * [[media-production:video:Creating a narrative for PowerPoint]]
