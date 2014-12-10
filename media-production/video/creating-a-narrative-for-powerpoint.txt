@@ -1,6 +1,6 @@
 **Using ScreenFlow to record a narrative for PowerPoint**
 
-_How to use ScreenFlow:_
+//How to use ScreenFlow//:
 
 ScreenFlow is an IOS application that makes recording visuals and audios easy. 
 
