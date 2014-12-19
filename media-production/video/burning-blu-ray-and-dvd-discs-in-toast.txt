@@ -1,1 +1,17 @@
 ==== Burning Blu-ray and DVD discs in Toast ====
+
+Burning:
+  - Plug in the Blu Ray Writer using the included USB cable.
+  - A blue light should appear on the front.
+  - Press the small button next to the light to open the device.
+  - Insert a blank disk and close the device.
+  - On the computer, open the Toast Titanium software.
+  - Select Video from the menus.
+  - Select the type of disk you are burning (Usually DVD or Blu-Ray)
+  - Navigate to the desired video using the Finder application.
+  - Click and drag the video file for the finder to the designated area in Toast.
+  - Under quality, choose “Best”.
+  - Click the “Burn” button.
+  - BE PATIENT, writing a disk takes a while. As long as the blue light on the front of the writer is blinking it’s still working. DO NOT UNPLUG DURING THIS PROCESS.
+  - Once completed, click eject and remove the disk from the writer.
+
