@@ -1,0 +1,9 @@
+
+
+If the scanner is not on (green light on the front), the power button is on the lower right side.
+Lift the lid of the scanner and place your item to be scanned on the glass, with the top pointing away from you and pressed against the top right corner of the glass.
+DO NOT TOUCH THE GLASS!
+On the computer, open the Image Capture Software.
+Once open, you should see the Epson device selected.
+Press scan.
+The default save location is the pictures folder DO NOT CHANGE THIS!
