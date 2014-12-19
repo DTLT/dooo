@@ -1,1 +1,15 @@
 ==== Using the Canon Vixia HF R400 ====
+
+Recording:
+  - Turn on the camera
+  - this can be done by opening the display on the side
+  - To record, press the silver button with the red line in it (on the back right of the camera)
+  - To stop recording, press the button again
+  - To view clips you’ve created, press the play button on the left side of the camera.
+
+Uploading:
+  - Turn on the camera
+  - Connect the camera to it’s power source (cable included in the bag)
+  - Connect the camera to the computer with the miniUSB cable (included in the bag)
+  - The camera will now appear as an external drive in the computer’s file browser.
+  - Note: Final Cut Pro has it’s own upload interface, follow the steps above with final cut open and the gui will open automatically.
