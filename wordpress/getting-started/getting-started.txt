@@ -1,6 +1,6 @@
 ====== Getting Started ======
 
-{{page>wordpress:getting-started:registering-for-a-username-only}}
+{{page>wordpress:getting-started:registering-for-a-username}}
 {{page>wordpress:getting-started:registering-for-a-username-and-blog}}
 {{page>wordpress:getting-started:creating-a-new-blog}}
 {{page>wordpress:getting-started:logging-into-umw-blogs}}
