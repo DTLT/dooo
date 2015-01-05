@@ -15,6 +15,7 @@
 
 ==== History and American Studies ====
   * [[course-tutorials:umw-blogs-tutorials:hist-383-islamic-civilization|HIST 383: Islamic Civilization]]
+  * [[course-tutorials:umw-blogs-tutorials:hist-471-shanghai-modern|HIST 471: Shanghai Modern]]
 
 
 ==== Women's and Gender Studies ====
