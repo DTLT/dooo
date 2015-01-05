@@ -1,0 +1,14 @@
+====== AMST 202: American Food ======
+
+If you have questions or need help, please visit the Digital Knowledge Center (ITCC 408) and meet with a peer tutor. Walk-ins are available, but we highly recommend [[http://dkc.umw.edu | making an appointment]] to ensure you'll get the help you need.
+
+{{page>wordpress:getting-started:registering-for-a-username}}
+{{page>wordpress:getting-started:logging-into-umw-blogs}}
+{{page>wordpress:site-administration:accessing-the-dashboard}}
+{{page>wordpress:site-administration:updating-your-profile}}
+{{page>wordpress:course-integration:adding-yourself-to-a-course-blog}}
+{{page>wordpress:site-administration:finding-your-blogs}}
+{{page>wordpress:creating-content:creating-a-post}}
+{{page>wordpress:creating-content:visual-editor-vs-text-editor}}
+{{page>wordpress:creating-content:uploading-and-displaying-files}}
+{{page>wordpress:creating-content:embedding-videos}}
