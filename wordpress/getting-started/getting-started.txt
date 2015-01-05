@@ -1,5 +1,9 @@
 ====== Getting Started ======
 
+===== Domain of One's Own =====
+{{page>wordpress:getting-started:installing-wordpress}}
+
+===== UMW Blogs =====
 {{page>wordpress:getting-started:registering-for-a-username}}
 {{page>wordpress:getting-started:registering-for-a-username-and-blog}}
 {{page>wordpress:getting-started:creating-a-new-blog}}
