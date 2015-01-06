@@ -1,1 +1,5 @@
-===== Google Maps =====
+====== Google Maps ======
+
+==== Documentation ====
+  * [[Creating a Map with Google Maps]]
+  * [[Sample Map]]
