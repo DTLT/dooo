@@ -58,7 +58,7 @@ This is documentation that needs to be written. Some of them may require a fair 
 
   * [[wordpress:appearance-plugins:installing-themes | Installing Themes]]: we need a document that focuses on the process of finding and installing new themes in WordPress. Feel free to borrow from the existing [[wordpress:appearance-plugins:themes | WordPress Themes]] document. **Matt**
 
-  * [[other-software-tools:google-maps:creating-a-map-with-google-maps | Google Maps]]: the old Spreadsheet Mapper tool from Google no longer works with the most recent version of Google Maps, released near the end of 2014. We need documentation that describes how to use the new web/GUI version of the Google Maps editor, "[[https://mapsengine.google.com/map/ | the new My Maps]]." 
+  * [[other-software-tools:google-maps:creating-a-map-with-google-maps | Google Maps]]: the old Spreadsheet Mapper tool from Google no longer works with the most recent version of Google Maps, released near the end of 2014. We need documentation that describes how to use the new web/GUI version of the Google Maps editor, "[[https://mapsengine.google.com/map/ | the new My Maps]]." Don't worry about the import process; Ryan is figuring out how data needs to be structured to be imported. Just focus on creating a map via the drag-and-drop interface.
   
 
 
