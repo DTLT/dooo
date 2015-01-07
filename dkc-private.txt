@@ -59,9 +59,19 @@ This is documentation that needs to be written. Some of them may require a fair 
   * [[wordpress:appearance-plugins:installing-themes | Installing Themes]]: we need a document that focuses on the process of finding and installing new themes in WordPress. Feel free to borrow from the existing [[wordpress:appearance-plugins:themes | WordPress Themes]] document. **Matt**
 
   * [[other-software-tools:google-maps:creating-a-map-with-google-maps | Google Maps]]: the old Spreadsheet Mapper tool from Google no longer works with the most recent version of Google Maps, released near the end of 2014. We need documentation that describes how to use the new web/GUI version of the Google Maps editor, "[[https://mapsengine.google.com/map/ | the new My Maps]]." Don't worry about the import process; Ryan is figuring out how data needs to be structured to be imported. Just focus on creating a map via the drag-and-drop interface.
+
+The following screencasts need to written (see Andy with any questions):
+
+  * Libraries on External Hard Drives in Final Cut Pro X - [[https://www.youtube.com/watch?v=_l2NNgtEwRA]]
+  * Import Video into iMovie - https://vimeo.com/100541069
+  * Creating a Camera Archive in Final Cut Pro X - https://vimeo.com/92358330
+  * Format Your External Drive to ExFat - https://vimeo.com/75891286
+  * Format drive for Final Cut Pro X - https://vimeo.com/73134399
+  * Subscribe to Podcasts in iTunes 12 - This one just needs to be copied to the docs site -  http://digitalmediacookbook.com/how-to-subscribe-to-a-podcast-in-itunes/
+  * Green Screen Effect in iMovie - https://www.youtube.com/watch?v=mm4o6wlA8Ak
+  * Green Screen Enhancements in iMovie - https://www.youtube.com/watch?v=pWUSs6l1R-I
+  * Download YouTube Videos with Video DownloadHelper - https://www.youtube.com/watch?v=3CweoQmJ2JU
   
-
-
 
 
 ==== Completed ====
