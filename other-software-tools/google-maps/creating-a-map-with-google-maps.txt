@@ -67,7 +67,7 @@ To add another image or video, select the **+** button in the bottom right-hand 
 To delete the image, select the **trash can icon** in the bottom right-hand corner of the black image box.\\
 {{https://farm8.staticflickr.com/7582/16044129950_2ae22b7dc2_z.jpg}}\\
 === Adding an Image Using Image URL ===
-Adding an Image using Image URL requires you to have a URL to an already uploaded image. You **CANNOT** upload an image file from your computer; it must already be available online. If you have some photos saved on your computer that you would like to use, you can upload them to [[http://imgur.com/ | Imgur]] or [[flickr.com | Flickr]] and then add them to your location point information via URL.\\
+Adding an Image using Image URL requires you to have a URL to an already uploaded image. You **CANNOT** upload an image file from your computer; it must already be available online. If you have some photos saved on your computer that you would like to use, you can upload them to [[http://imgur.com/ | Imgur]] or [[http://flickr.com | Flickr]] and then add them to your location point information via URL.\\
 To add an image using Image URL,starting from the location point information window, select the **camera** icon in the bottom right-hand corner if this is your first image or video for the location point\\ 
 {{https://farm9.staticflickr.com/8605/15608920264_335dabf48c.jpg}}\\
 or select **+** icon in the bottom right-hand corner if this is not your first image or video for the location point.\\
