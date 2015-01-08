@@ -1,0 +1,11 @@
+====== Creating a Map with Google Maps ======
+
+===== Before You Begin =====
+  * **Google+ Account** You will need to have a Google+ account before you begin because your work will be saved in Google Drive.
+  * **Know Your Data** The workflow is much easier if you go into it knowing all the data you need to input into the map. Otherwise, a lot of time will be spent googling or wandering Google Maps in search of the correct location.
+===== Making the Map =====
+  - Go to [[maps.google.com| maps.google.com]]. Make sure you are logged in to your Google+ account. If not, you can do so by clicking the blue **sign in** button on the upper right-hand corner of the map. {{GM step 1}}
+  - Once you are signed in, click the search bar on the upper left-hand corner and you will see **my maps** appear below it. {{GM step 2}}
+  - Select **create**. {{GM step 3}} 
+  - 
+
