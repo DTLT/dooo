@@ -5,14 +5,14 @@
   * **Know Your Data** The workflow is much easier if you go into it knowing all the data you need to input into the map. Otherwise, a lot of time will be spent googling or wandering Google Maps in search of the correct location.
 ===== Making the Map =====
   - Go to [[https://www.google.com/maps | maps.google.com]]. Make sure you are logged in to your Google+ account. If not, you can do so by clicking the blue **sign in** button on the upper right-hand corner of the map.\\ {{https://farm9.staticflickr.com/8622/16043583170_a5f4b00947_z.jpg}}\\
-  - Once you are signed in, click the search bar on the upper left-hand corner and you will see **my maps** appear below it.\\ {{https://farm8.staticflickr.com/7580/16230153372_9992c76d26_z.jpg}}
-  - Select **create**. {{https://farm8.staticflickr.com/7555/16229098321_2e504ba825.jpg}} 
-  - You will be brought to a new page, which is your workspace for creating the map. {{https://farm9.staticflickr.com/8574/16043456288_9fbf464d90_z.jpg}}
+  - Once you are signed in, click the search bar on the upper left-hand corner and you will see **my maps** appear below it.\\ {{https://farm8.staticflickr.com/7580/16230153372_9992c76d26_z.jpg}}\\
+  - Select **create**.\\ {{https://farm8.staticflickr.com/7555/16229098321_2e504ba825.jpg}}\\ 
+  - You will be brought to a new page, which is your workspace for creating the map.\\ {{https://farm9.staticflickr.com/8574/16043456288_9fbf464d90_z.jpg}}\\
 ===== Map Basics =====
 ==== Naming the Map ====
-The first thing you will want to do is give the map a name. This will also serve as the file name it will be saved under in Google Drive. 
-To rename the map, click **untitled map**. 
-{{https://farm8.staticflickr.com/7574/16229098441_53944ac090_z.jpg}} 
+The first thing you will want to do is give the map a name. This will also serve as the file name it will be saved under in Google Drive.\\ 
+To rename the map, click **untitled map**.\\ 
+{{https://farm8.staticflickr.com/7574/16229098441_53944ac090_z.jpg}}\\ 
 Type in your desired map name and description (if you would like), but only the map name is required. Then click **save**. 
 {{https://farm9.staticflickr.com/8598/16044849369_128051b747_z.jpg}}
 ==== Layers ====
