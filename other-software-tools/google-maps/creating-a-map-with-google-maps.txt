@@ -86,4 +86,10 @@ To delete the image, select the **trash can icon** in the bottom right-hand corn
 {{GM step 31 is next}}\\
 === Adding a Video Using YouTube URL ===
 
+==== Adjusting the Appearance of Your Map ====
+
+==== Sharing Your Map ====
+
+==== Embedding Your Map into a Blog Post or Page ====
+
 
