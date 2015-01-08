@@ -16,7 +16,7 @@ To rename the map, click **untitled map**.
 Type in your desired map name and description if you would like, but only the map name is required. Then click **save**. 
 {{GM step 6}}
 ==== Layers ====
-Layers work much like folders in that they are a way of grouping and viewing data on the map. 
+Layers work much like folders in that they are a way of grouping and viewing data on the map. Whatever layer is selected when a location point is created, that will be the layer that the location point is categorized under. 
 To rename a layer, click on the three vertical dots to the right of **untitled layer**. 
 {{GM step 7}} 
 A drop-down box will appear and you will select **rename layer**. 
@@ -26,3 +26,15 @@ A window will appear and you will rename the layer and then select **save**.
 To add more layers, select **add layer**.
 {{GM step 10}} 
 
+==== Adding Location Points ====
+To add a location point onto the map, first **make sure you have the correct layer selected**. There should be a blue line on the left-hand side of the layer category to show that it is the current layer selected. **If you do not have the correct layer selected when you add a location point, you will NOT be able to move the location point to the correct layer. You will have to DELETE the location point and start over.**
+{{GM step 11}}
+Since you are starting out with a full view of the U.S., you will want to use the search bar to get you closer the point you want to mark. 
+{{GM step 12}}
+To drop a pin, select the pin icon from below the search bar.
+{{GM step 13}}
+Then click the location you would like to be marked to drop a pin. A red pin will appear along with a window. Give your location point a name and a description (if desired) and then select **save**.
+{{GM step 14}}
+Now you will see the name of the location point under the layer it is categorized in. 
+{{GM step 15}}
+==== Adding Images and Video to Location Points ====
