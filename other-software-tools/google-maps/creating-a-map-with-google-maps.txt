@@ -7,5 +7,10 @@
   - Go to [[https://www.google.com/maps | maps.google.com]]. Make sure you are logged in to your Google+ account. If not, you can do so by clicking the blue **sign in** button on the upper right-hand corner of the map. {{GM step 1}}
   - Once you are signed in, click the search bar on the upper left-hand corner and you will see **my maps** appear below it. {{GM step 2}}
   - Select **create**. {{GM step 3}} 
-  - 
+  - You will be brought to a new page, which is your workspace for creating the map. {{GM step 4}}
+===== Map Basics =====
+  - The first thing you will want to do is give the map a name. This will also serve as the file name it will be saved under in Google Drive. To rename the map, click **untitled map**. {{GM step 5}} Type in your desired map name and description if you would like, but only the map name is required. Then click **save**. {{GM step 6}}
+  - Next you will want to set up your layers, which work much like folders in that they are a way of grouping and viewing data on the map. You can rename **untitled layer** by clicking on the three vertical dots to the right of **untitled layer**. {{GM step 7}} A drop-down box will appear and you will select **rename layer**. {{GM step 8}} A window will appear and you will rename the layer and then select **save**. {{GM step 9}}
+  - You can add more layers by selecting **add layer** and then going through the same renaming process.{{GM step 10}} 
+
 
