@@ -1,1 +1,6 @@
+{{indexmenu_n>8}}
+
 ====== HIST 297: History Colloquium (Ferrell) ======
+
+{{page>domain-of-ones-own:general:choosing-a-domain-name}}
+{{page>domain-of-ones-own:general:signing-up-on-domain-of-one-s-own}}
