@@ -1,1 +1,6 @@
+{{indexmenu_n>7}}
+
 ====== GEOG 237: Cities ======
+
+{{page>domain-of-ones-own:general:choosing-a-domain-name}}
+{{page>domain-of-ones-own:general:signing-up-on-domain-of-one-s-own}}
