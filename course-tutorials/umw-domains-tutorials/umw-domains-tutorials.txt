@@ -27,6 +27,7 @@
 
 ==== Geography ====
 
+  * [[course-tutorials:umw-domains-tutorials:cities | GEOG 237: Cities]] (Patterson)
   * [[course-tutorials:umw-domains-tutorials:revanchist-city-rebel-city | GEOG 410W: Revanchist City/Rebel City]] (Patterson)
 
 ==== Geographic Information Systems (GIS ====
