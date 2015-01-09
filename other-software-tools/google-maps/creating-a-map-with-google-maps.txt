@@ -118,7 +118,72 @@ To add another image or video, select the **+** button in the bottom right-hand 
 To delete the video, select the **trash can icon** in the bottom right-hand corner of the black image box.\\
 {{https://farm8.staticflickr.com/7582/16044129950_2ae22b7dc2_z.jpg}}\\
 ===== Adjusting the Appearance of Your Map =====
-
+Google Maps offers you multiple ways to adjust the appearance of your map and all adjustments can be made relatively easily.\\
+==== Layer Appearance Settings ====
+Below the name of each layer is a blue paint roller next to blue words that say **individual settings**. 
+{{https://farm9.staticflickr.com/8563/16238961305_3bdc3c72ae_z.jpg}}\\
+This allows you to adjust how places are grouped as well as the labels for each location point. By clicking on the blue **individual settings**, you will see two drop-down menus.\\
+{{https://farm9.staticflickr.com/8609/16052840119_4bb29b7353_z.jpg}}\\
+By clicking on **individual styles**, you will get a window that allows you to adjust how the places are grouped.\\
+{{https://farm8.staticflickr.com/7511/16051573930_41526f6292_z.jpg}}\\
+By clicking on **no labels**, you will get a window that allows you to adjust the location points\\
+{{https://farm8.staticflickr.com/7487/16051573950_1826621b16_z.jpg}}\\
+to show no labels,\\
+{{https://farm8.staticflickr.com/7463/16053111657_0e591f0a79_z.jpg}}\\
+show their name,\\
+{{https://farm8.staticflickr.com/7505/16213068166_cfb8631b28_z.jpg}\\
+or show their description.\\
+{{https://farm8.staticflickr.com/7492/16053111787_f17f43376c_z.jpg}}\\
+==== Individual Location Point Settings ====
+If you mouse over the name of one of the location points, you will see a gray paint bucket icon to the right of the location point's name.\\
+{{https://farm9.staticflickr.com/8619/16238133242_b76a8202e8_z.jpg}}\\
+By clicking on the gray paint bucket icon, a window opens\\
+{{https://farm8.staticflickr.com/7561/16238961545_05535409f0.jpg}}\\
+where you can adjust the color\\
+{{https://farm8.staticflickr.com/7496/16051574210_f02ebcf4da_z.jpg}}\\ 
+and shape of that location point's pin on the map.\\
+{{https://farm8.staticflickr.com/7484/15616540484_5229f23e3f_z.jpg}}\\
+If you would like to change the location point's pin to something other than the icon options show, click **more icons**.\\
+{{https://farm8.staticflickr.com/7575/15619097943_0ac79fed6e.jpg}}\\
+A new window will open with lots of options in a variety of categories that you can scroll through. You can even upload your own icon as long as it is the correct file type.\\ 
+{{https://farm8.staticflickr.com/7558/16051439238_02a60f163b_z.jpg}}\\
+Press **ok** when you are done. You will see that the icon has changed.\\
+{{https://farm8.staticflickr.com/7477/15616540544_38d3868dce_z.jpg}}\\
+Please not that you are **NOT** able to change the color of the icons found in **more icons**.
+==== Changing the Base Map ====
+The base map is the map that your points are displayed upon. There are a variety of options for you too choose from.\\
+{{https://farm9.staticflickr.com/8587/16051574450_e0d7b67031_m.jpg}}\\
+To change the base map, scroll to the bottom of the layers bar on the left-hand side of the screen. You will see an arrow icon next to **base map**. 
+{{https://farm8.staticflickr.com/7538/16051439308_90db84df61_z.jpg}}\\
+Click the arrow and you will be given nine different options in base maps.\\
+{{https://farm9.staticflickr.com/8587/16051574450_e0d7b67031_m.jpg}}\\
+Map\\
+{{https://farm8.staticflickr.com/7474/16051439398_0e7fe3182c_z.jpg}}\\
+Satellite\\
+{{https://farm8.staticflickr.com/7472/16237104651_5d30b0995e_z.jpg}}\\
+Terrain\\
+{{https://farm8.staticflickr.com/7501/16051574980_d2b67ea616_z.jpg}}\\
+Light Political\\
+{{https://farm8.staticflickr.com/7493/15619098493_209439dd9a_z.jpg}}\\
+Mono City\\
+{{https://farm9.staticflickr.com/8575/16051575060_8e52e40f9f_z.jpg}}\\
+Simple Atlas\\
+{{https://farm8.staticflickr.com/7572/16237105051_c80bc9a83c_z.jpg}}\\
+Light Landmass\\
+{{https://farm8.staticflickr.com/7557/16238134012_bd9b70f5b0_z.jpg}}\\
+Dark Landmass\\
+{{https://farm8.staticflickr.com/7506/16051439908_f1f48b3080_z.jpg}}\\
+Whitewater\\
+{{https://farm8.staticflickr.com/7563/16053112777_14f54db50e_z.jpg}}\\
+**Map** is a perfectly fine option for base map, unless your assignment has specific requirements. **Satellite** is useful to switch to if you are having trouble finding something on the map that doesn't appear on **Map**.\\
+==== Setting the Default View ====
+The default view is how the map will appear when someone looks at it on the site you've embedded it.\\
+To set the default view, first adjust your map to how you would like it to be viewed using the mouse to drag the map around and the plus and minus buttons in the bottom right-hand corner of the screen to zoom in and out. Make sure that you are using the cursor and not the pin when you attempt to drag the map.\\
+{{https://farm9.staticflickr.com/8636/16051575260_283d766c79_z.jpg}}\\
+Once you have the map set, click the three vertical dots next to where it says **add layer** and share** in the white column on the left-hand side of the screen.
+{{https://farm8.staticflickr.com/7524/15619098723_5c30e1f300_z.jpg}}\\
+A window will appear and you will click on **set default view**. Once you have clicked on it, the default view is set.\\
+{{https://farm8.staticflickr.com/7516/16051440108_639025cf19_z.jpg}}\\
 ===== Sharing Your Map =====
 
 ===== Embedding Your Map into a Blog Post or Page =====
