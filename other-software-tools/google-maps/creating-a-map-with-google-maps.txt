@@ -153,7 +153,7 @@ Please not that you are **NOT** able to change the color of the icons found in *
 ==== Changing the Base Map ====
 The base map is the map that your points are displayed upon. There are a variety of options for you too choose from.\\
 {{https://farm9.staticflickr.com/8587/16051574450_e0d7b67031_m.jpg}}\\
-To change the base map, scroll to the bottom of the layers bar on the left-hand side of the screen. You will see an arrow icon next to **base map**. 
+To change the base map, scroll to the bottom of the layers bar on the left-hand side of the screen. You will see an arrow icon next to **base map**.\\ 
 {{https://farm8.staticflickr.com/7538/16051439308_90db84df61_z.jpg}}\\
 Click the arrow and you will be given nine different options in base maps.\\
 {{https://farm9.staticflickr.com/8587/16051574450_e0d7b67031_m.jpg}}\\
