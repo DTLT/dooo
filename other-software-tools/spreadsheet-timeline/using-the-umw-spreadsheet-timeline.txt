@@ -8,7 +8,7 @@ TimelineJS is a web-based tool that takes entries from a Google Spreadsheet and 
 
 1)  Go to [[http://drive.google.com|Google Drive]] and sign in with your Google username and password. If you don't already have a Google account, you will need to [[https://accounts.google.com/signup|create one]].
 
-2)  From the Google Drive [[http://drive.google.com/templates|Templates gallery]], search for UMW, and find the Spreadsheet Timeline template your course is using. If there is not a customized template for your specific course, use the template called "UMW Spreadsheet Timeline." You can also find [[other-tools:spreadsheet-timeline:spreadsheet-timeline|a list of customized templates]] on this wiki.
+2)  From the Google Drive [[http://drive.google.com/templates|Templates gallery]], search for UMW, and find the Spreadsheet Timeline template your course is using. If there is not a customized template for your specific course, use the template called "UMW Spreadsheet Timeline." You can also find [[other-software-tools:spreadsheet-timeline:spreadsheet-timeline|a list of customized templates]] on this wiki.
 
 3)  Once you have found the right template, click the "Use this template" button, and the template will be copied into your Google Drive account. When it is done copying, the template will be opened in your browser and you can begin working immediately.
 
