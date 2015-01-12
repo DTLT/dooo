@@ -182,7 +182,7 @@ Whitewater\\
 The default view is how the map will appear when someone looks at it on the site you've embedded it.\\
 To set the default view, first adjust your map to how you would like it to be viewed using the mouse to drag the map around and the plus and minus buttons in the bottom right-hand corner of the screen to zoom in and out. Make sure that you are using the cursor and not the pin when you attempt to drag the map.\\
 {{https://farm9.staticflickr.com/8636/16051575260_283d766c79_z.jpg}}\\
-Once you have the map set, click the three vertical dots next to where it says **add layer** and share** in the white column on the left-hand side of the screen.
+Once you have the map set, click the three vertical dots next to where it says **add layer** and **share** in the white column on the left-hand side of the screen.
 {{https://farm8.staticflickr.com/7524/15619098723_5c30e1f300_z.jpg}}\\
 A window will appear and you will click on **set default view**. Once you have clicked on it, the default view is set.\\
 {{https://farm8.staticflickr.com/7516/16051440108_639025cf19_z.jpg}}\\
