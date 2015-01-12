@@ -14,19 +14,12 @@ For this class, you will need to set up a subdomain in which you'll install Word
 {{page>domain-of-ones-own:domain-management:setting-up-subdomains}}
 
 <WRAP center round info 60%>
-**PLEASE NOTE that when you install WordPress for this class, you should choose "ENGL 313E: Fantasy Writing (Rochelle)" as a package option during the installation process.**
+**PLEASE NOTE that when you install WordPress for this class, you should choose "IDIS 300M: Freedom Rides Revisited" as a package option during the installation process.**
 </WRAP>
  
 {{page>wordpress:getting-started:installing-wordpress}}
 
-====== Timeline ======
-
-Each student will be expected to create a timeline for this course using TimelineJS. Below are instructions on how to create and embed a timeline into your WordPress site:
+====== Other Software ======
 
 {{page>other-software-tools:spreadsheet-timeline:using-the-umw-spreadsheet-timeline}}
-
-====== Map ======
-
-Each student will be expected to create a map for this course using Google Maps. Below are instructions on how to create and embed a timeline into your WordPress site:
-
 {{page>other-software-tools:google-maps:creating-a-map-with-google-maps}}
