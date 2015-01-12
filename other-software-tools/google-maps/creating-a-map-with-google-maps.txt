@@ -211,4 +211,4 @@ Next you will need to sign into Wordpress on your blog and either create a new b
 You can then see how the map looks by clicking **preview**.\\
 {{https://farm9.staticflickr.com/8653/16262696531_b7905bae28_z.jpg}}\\
 You can always go back and edit the page or post to add some background information about the map or what other required information your professor requires.\\
-To see the published version of the map made in this tutorial, [[click here | http://dkc.umw.edu/uncategorized/google-maps-tutorial-map/]].\\
+To see the published version of the map made in this tutorial, [[http://dkc.umw.edu/uncategorized/google-maps-tutorial-map/ | click here]].\\
