@@ -131,7 +131,7 @@ By clicking on **no labels**, you will get a window that allows you to adjust th
 to show no labels,\\
 {{https://farm8.staticflickr.com/7463/16053111657_0e591f0a79_z.jpg}}\\
 show their name,\\
-{{https://farm8.staticflickr.com/7505/16213068166_cfb8631b28_z.jpg}\\
+{{https://farm8.staticflickr.com/7505/16213068166_cfb8631b28_z.jpg}}\\
 or show their description.\\
 {{https://farm8.staticflickr.com/7492/16053111787_f17f43376c_z.jpg}}\\
 ==== Individual Location Point Settings ====
@@ -186,9 +186,7 @@ Once you have the map set, click the three vertical dots next to where it says *
 {{https://farm8.staticflickr.com/7524/15619098723_5c30e1f300_z.jpg}}\\
 A window will appear and you will click on **set default view**. Once you have clicked on it, the default view is set.\\
 {{https://farm8.staticflickr.com/7516/16051440108_639025cf19_z.jpg}}\\
-
 ===== Sharing Your Map =====
-
 To share your map, press the **share** button in the left-hand column.\\
 {{https://farm9.staticflickr.com/8610/16263457882_f0f8e41e46_z.jpg}}\\
 A window will appear asking you to give the map a name and description. All you need is a name, so once you have that, you can press the **skip** button at the bottom of the window.\\
@@ -202,5 +200,15 @@ Once you choose **public on the web**, you will have the option to adjust the ac
 You will then be brought back to the sharing settings page where you can either enter the email addresses of the people you want to share it with or you can copy the link for the document and share it that way. When you have adjusted the sharing settings to your preference, click **done**.\\
 {{https://farm8.staticflickr.com/7497/16262470591_c907c669d4_z.jpg}}\\
 ===== Embedding Your Map into a Blog Post or Page =====
-
-
+To embed your map into a blog post or blog page, first select the three dots next to the **add layer** and **share** buttons.\\
+{{https://farm8.staticflickr.com/7489/15644615343_d0265b34c3_z.jpg}}\\
+Click **embed on my site** from the drop down menu. **This option is only able to be clicked if you have first set the share settings to public.**\\
+{{https://farm8.staticflickr.com/7468/16264512895_49cbaae2cb_z.jpg}}\\
+A window will appear with a link for you to copy. Copy the link and then click **done**.\\
+{{https://farm8.staticflickr.com/7472/16262696541_1dddda66fe.jpg}}\\
+Next you will need to sign into Wordpress on your blog and either create a new blog post or page, depending on where you want to embed your map. Once you have opened a new page or post, make sure you are working in the **text** editor, which can be selected by clicking the tab in the right hand corner above the toolbar that says **text**. Then past the link you copied from Google Maps into the text box and press **publish** if this is a new page or post or **update** if the page or post has been previously saved.\\
+{{https://farm8.staticflickr.com/7463/16078647947_34027af6cc_b.jpg}}\\
+You can then see how the map looks by clicking **preview**.\\
+{{https://farm9.staticflickr.com/8653/16262696531_b7905bae28_z.jpg}}\\
+You can always go back and edit the page or post to add some background information about the map or what other required information your professor requires.\\
+To see the published version of the map made in this tutorial, [[click here | http://dkc.umw.edu/uncategorized/google-maps-tutorial-map/]].\\
