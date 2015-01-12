@@ -209,6 +209,8 @@ A window will appear with a link for you to copy. Copy the link and then click *
 Next you will need to sign into Wordpress on your blog and either create a new blog post or page, depending on where you want to embed your map. Once you have opened a new page or post, make sure you are working in the **text** editor, which can be selected by clicking the tab in the right hand corner above the toolbar that says **text**. Then past the link you copied from Google Maps into the text box and press **publish** if this is a new page or post or **update** if the page or post has been previously saved.\\
 {{https://farm8.staticflickr.com/7463/16078647947_34027af6cc_b.jpg}}\\
 You can then see how the map looks by clicking **preview**.\\
+{{https://farm8.staticflickr.com/7485/16238679286_7133020a03_z.jpg}}\\
+Here is how the map appears as a blog post.\\
 {{https://farm9.staticflickr.com/8653/16262696531_b7905bae28_z.jpg}}\\
 You can always go back and edit the page or post to add some background information about the map or what other required information your professor requires.\\
 To see the published version of the map made in this tutorial, [[http://dkc.umw.edu/uncategorized/google-maps-tutorial-map/ | click here]].\\
