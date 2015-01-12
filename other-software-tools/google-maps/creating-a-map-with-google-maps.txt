@@ -195,7 +195,7 @@ A window will appear asking you to give the map a name and description. All you 
 {{https://farm8.staticflickr.com/7562/15641865884_24602904af.jpg}}\\
 You will then be brought to the window you see whenever you share something in Google Drive. **In order for someone else to be able to work on this map, you must set the map to PUBLIC.** To do this, click on **change**.\\
 {{https://farm8.staticflickr.com/7494/16264287905_0168df5ef3_z.jpg}}\\
-The link sharing window will then appear where you will select *public**. **Even if you plan to only share via link, you must change it to PUBLIC in order for someone else to be able to edit it.**\\
+The link sharing window will then appear where you will select **public**. **Even if you plan to only share via link, you must change it to PUBLIC in order for someone else to be able to edit it.**\\
 {{https://farm8.staticflickr.com/7561/16076916600_11e53fab55_z.jpg}}\\
 Once you choose **public on the web**, you will have the option to adjust the access from **can view** to **can edit**. Then click **save**.\\
 {{https://farm8.staticflickr.com/7503/16262470621_64bf8276c1_z.jpg}}\\
