@@ -48,6 +48,9 @@
   * [[course-tutorials:umw-domains-tutorials:oral-history|HIST 441: Oral History]] (Rigelhaupt)
   * [[courses:immigration|HIST 471E8: Immigration and the US South]] (Moon)
 
+==== Interdisciplinary Science Studies ====
+  * [[course-tutorials:umw-domains-tutorials:freedom-rides-revisited|IDIS 300M: Freedom Rides Revisited]]
+
 ==== Other Projects ====
 
   * [[course-tutorials:umw-domains-tutorials:history-department-workshop|History Department Workshop]]
