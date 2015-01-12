@@ -185,7 +185,18 @@ Once you have the map set, click the three vertical dots next to where it says *
 A window will appear and you will click on **set default view**. Once you have clicked on it, the default view is set.\\
 {{https://farm8.staticflickr.com/7516/16051440108_639025cf19_z.jpg}}\\
 ===== Sharing Your Map =====
-
+To share your map, press the **share** button in the left-hand column.\\
+{{https://farm9.staticflickr.com/8610/16263457882_f0f8e41e46_z.jpg}}\\
+A window will appear asking you to give the map a name and description. All you need is a name, so once you have that, you can press the **skip** button at the bottom of the window.\\
+{{https://farm8.staticflickr.com/7562/15641865884_24602904af.jpg}}\\
+You will then be brought to the window you see whenever you share something in Google Drive. **In order for someone else to be able to work on this map, you must set the map to PUBLIC.** To do this, click on **change**.\\
+{{https://farm8.staticflickr.com/7494/16264287905_0168df5ef3_z.jpg}}\\
+The link sharing window will then appear where you will select *public**. **Even if you plan to only share via link, you must change it to PUBLIC in order for someone else to be able to edit it.**\\
+{{https://farm8.staticflickr.com/7561/16076916600_11e53fab55_z.jpg}}\\
+Once you choose **public on the web**, you will have the option to adjust the access from **can view** to **can edit**. Then click **save**.\\
+{{https://farm8.staticflickr.com/7503/16262470621_64bf8276c1_z.jpg}}\\
+You will then be brought back to the sharing settings page where you can either enter the email addresses of the people you want to share it with or you can copy the link for the document and share it that way. When you have adjusted the sharing settings to your preference, click **done**.\\
+{{https://farm8.staticflickr.com/7497/16262470591_c907c669d4_z.jpg}}\\
 ===== Embedding Your Map into a Blog Post or Page =====
 
 
