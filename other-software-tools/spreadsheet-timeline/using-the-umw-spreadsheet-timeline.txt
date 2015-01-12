@@ -1,6 +1,6 @@
 {{indexmenu_n>1}}
 
-#Timeline How-To
+====== Timeline How-To ======
 
 TimelineJS is a web-based tool that takes entries from a Google Spreadsheet and displays them visually on a timeline. This tool has been used to create timeline covering topics like the  [[http://taipingcivilwar.org/timeline|Taiping Civil War]], the [[http://america.aljazeera.com/articles/timeline-egypt-inturmoil0.html|Crisis in Egypt]], and the [[http://world.time.com/2013/12/05/nelson-mandelas-extraordinary-life-an-interactive-timeline/|Life of Nelson Mandela]].
 
