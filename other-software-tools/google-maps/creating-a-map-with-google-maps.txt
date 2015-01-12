@@ -187,6 +187,8 @@ Once you have the map set, click the three vertical dots next to where it says *
 A window will appear and you will click on **set default view**. Once you have clicked on it, the default view is set.\\
 {{https://farm8.staticflickr.com/7516/16051440108_639025cf19_z.jpg}}\\
 ===== Sharing Your Map =====
+
+
 To share your map, press the **share** button in the left-hand column.\\
 {{https://farm9.staticflickr.com/8610/16263457882_f0f8e41e46_z.jpg}}\\
 A window will appear asking you to give the map a name and description. All you need is a name, so once you have that, you can press the **skip** button at the bottom of the window.\\
