@@ -58,7 +58,7 @@ This is documentation that needs to be written. Some of them may require a fair 
 
   * [[wordpress:appearance-plugins:installing-themes | Installing Themes]]: we need a document that focuses on the process of finding and installing new themes in WordPress. Feel free to borrow from the existing [[wordpress:appearance-plugins:themes | WordPress Themes]] document. **Matt**
 
-  * [[other-software-tools:google-maps:creating-a-map-with-google-maps | Google Maps]]: the old Spreadsheet Mapper tool from Google no longer works with the most recent version of Google Maps, released near the end of 2014. We need documentation that describes how to use the new web/GUI version of the Google Maps editor, "[[https://mapsengine.google.com/map/ | the new My Maps]]." Don't worry about the import process; Ryan is figuring out how data needs to be structured to be imported. Just focus on creating a map via the drag-and-drop interface. **MAGGIE**
+
 
 The following screencasts need to written (see Andy with any questions):
 
@@ -106,5 +106,6 @@ The following screencasts need to written (see Andy with any questions):
   * [[domain-of-ones-own:cpanel:cloning-application|Cloning an Application]]: a tutorial that shows how to clone an existing install in Installatron to another location. Include a section called "Why Would I Do This?" with answers being if you installed an application in the wrong place or if you decided you wanted to move an application later. Also make sure to include/suggest that they remove/uninstall the original application (assuming they don't need it). **Meredith**
 
   *[[domain-of-ones-own:cpanel:creating-a-folder|Creating a Folder in your Domain of One's Own Web Space]]: a quick tutorial showing how to use the File Manager to create a folder on your Web space. **James**
+  * [[other-software-tools:google-maps:creating-a-map-with-google-maps | Google Maps]]: the old Spreadsheet Mapper tool from Google no longer works with the most recent version of Google Maps, released near the end of 2014. We need documentation that describes how to use the new web/GUI version of the Google Maps editor, "[[https://mapsengine.google.com/map/ | the new My Maps]]." Don't worry about the import process; Ryan is figuring out how data needs to be structured to be imported. Just focus on creating a map via the drag-and-drop interface. **MAGGIE** DONE
 
 {{indexmenu_n>15}}
