@@ -151,6 +151,7 @@ Press **ok** when you are done. You will see that the icon has changed.\\
 {{https://farm8.staticflickr.com/7477/15616540544_38d3868dce_z.jpg}}\\
 Please not that you are **NOT** able to change the color of the icons found in **more icons**.
 ==== Changing the Base Map ====
+
 The base map is the map that your points are displayed upon. There are a variety of options for you too choose from.\\
 {{https://farm9.staticflickr.com/8587/16051574450_e0d7b67031_m.jpg}}\\
 To change the base map, scroll to the bottom of the layers bar on the left-hand side of the screen. You will see an arrow icon next to **base map**.\\ 
@@ -176,7 +177,8 @@ Dark Landmass\\
 Whitewater\\
 {{https://farm8.staticflickr.com/7563/16053112777_14f54db50e_z.jpg}}\\
 **Map** is a perfectly fine option for base map, unless your assignment has specific requirements. **Satellite** is useful to switch to if you are having trouble finding something on the map that doesn't appear on **Map**.\\
-==== Setting the Default View ====\\
+==== Setting the Default View ====
+
 The default view is how the map will appear when someone looks at it on the site you've embedded it.\\
 To set the default view, first adjust your map to how you would like it to be viewed using the mouse to drag the map around and the plus and minus buttons in the bottom right-hand corner of the screen to zoom in and out. Make sure that you are using the cursor and not the pin when you attempt to drag the map.\\
 {{https://farm9.staticflickr.com/8636/16051575260_283d766c79_z.jpg}}\\
@@ -185,6 +187,7 @@ Once you have the map set, click the three vertical dots next to where it says *
 A window will appear and you will click on **set default view**. Once you have clicked on it, the default view is set.\\
 {{https://farm8.staticflickr.com/7516/16051440108_639025cf19_z.jpg}}\\
 ===== Sharing Your Map =====
+
 To share your map, press the **share** button in the left-hand column.\\
 {{https://farm9.staticflickr.com/8610/16263457882_f0f8e41e46_z.jpg}}\\
 A window will appear asking you to give the map a name and description. All you need is a name, so once you have that, you can press the **skip** button at the bottom of the window.\\
