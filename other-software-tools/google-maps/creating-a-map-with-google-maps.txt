@@ -176,7 +176,7 @@ Dark Landmass\\
 Whitewater\\
 {{https://farm8.staticflickr.com/7563/16053112777_14f54db50e_z.jpg}}\\
 **Map** is a perfectly fine option for base map, unless your assignment has specific requirements. **Satellite** is useful to switch to if you are having trouble finding something on the map that doesn't appear on **Map**.\\
-==== Setting the Default View ====
+==== Setting the Default View ====\\
 The default view is how the map will appear when someone looks at it on the site you've embedded it.\\
 To set the default view, first adjust your map to how you would like it to be viewed using the mouse to drag the map around and the plus and minus buttons in the bottom right-hand corner of the screen to zoom in and out. Make sure that you are using the cursor and not the pin when you attempt to drag the map.\\
 {{https://farm9.staticflickr.com/8636/16051575260_283d766c79_z.jpg}}\\
