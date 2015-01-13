@@ -2,6 +2,10 @@
 
 If you have questions or need help, please visit the Digital Knowledge Center (ITCC 408) and meet with a peer tutor. Walk-ins are available, but we highly recommend [[http://dkc.umw.edu | making an appointment]] to ensure you'll get the help you need.
 
+**Course Tag: hist471-f1**
+
+This course uses tag syndication, meaning that you will post your writing on your own UMW Blogs site, and it will be automatically copied into [[http://repubchina.umwblogs.org/ | the course's central site]]. To make this happen, you will need to use the following tag on all posts for this course, exactly as shown here: **hist471-f1** (don't forget the dash!)
+
 {{page>wordpress:getting-started:registering-for-a-username-and-blog}}
 {{page>wordpress:getting-started:logging-into-umw-blogs}}
 {{page>wordpress:site-administration:accessing-the-dashboard}}
