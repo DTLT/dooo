@@ -55,3 +55,4 @@
 
   * [[course-tutorials:umw-domains-tutorials:history-department-workshop|History Department Workshop]]
   * [[course-tutorials:umw-domains-tutorials:spring-2014-faculty-initiative|Spring 2014 Faculty Initative]] (Brazell, Burtis, Groom, Owens)
+  * [[course-tutorials:umw-domains-tutorials:spring-2015-faculty-initiative|Spring 2015 Faculty Initative]] (Brazell, Groom, Kayler, McClurken)
