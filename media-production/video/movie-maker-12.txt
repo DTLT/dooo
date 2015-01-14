@@ -1,2 +1,3 @@
 ====== Movie Maker 12 ======
+{{http://i.imgur.com/BZXoWSE.png}}
 Click [[http://go.microsoft.com/fwlink/p/?LinkID=255475|here]] to download and install Movie Maker 12 if you don't already have it. It is typically included with the Windows Essentials 2012 pack. You will need to be using Windows to downloaded and use Movie Maker. If you are using a Mac, using [[https://www.apple.com/mac/imovie/|iMovie]] instead.
