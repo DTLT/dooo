@@ -4,3 +4,4 @@
   * [[media-production:video:Burning Blu-ray and DVD discs in Toast]]
   * [[media-production:video:Creating a narrative for PowerPoint]]
   * [[media-production:video:Using the Epson Scanner]]
+  * [[media-production:video:Movie Maker 12]]
