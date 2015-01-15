@@ -3,6 +3,7 @@
 ====== UMW Blogs Tutorials ======
 
 ==== English, Linguistics, and Communication ====
+  * [[course-tutorials:umw-blogs-tutorials:engl-307-writing-studies|ENGL 307: Writing Studies]]
   * [[course-tutorials:umw-blogs-tutorials:engl-302a-poetry|ENGL 302A: Poetry]]
   * [[course-tutorials:umw-blogs-tutorials:engl-302a-prose|ENGL 302A: Prose]]
   * [[course-tutorials:umw-blogs-tutorials:engl-335b-british-romantic-literature|ENGL 335B: British Romantic Literature]]
