@@ -4,9 +4,7 @@ SPAM! Everyone hates it in their email. If you're new to WordPress and blogging 
 
 So how do you deal with comment spam when it can come in even more often than email spam? Do you have to delete every comment that comes in? Well, the answer to the second question is "no", and the answer to the first question is, with a plugin called [[http://akismet.com/|Akismet]].
 
-NOTE: If you installed WordPress through Domain of One's Own, you may already have Akismet installed. In that case, you can skip the next few steps about installing the plugin.
-
-To get started we need to install a plugin. To do this, we'll start at the **Dashboard**.
+To get started we need to activate the plugin. To do this, we'll start at the **Dashboard**.
 
 {{https://farm4.staticflickr.com/3881/14764078696_baa90d9f58_c.jpg}}
 
@@ -14,7 +12,16 @@ Navigate to **Plugins > Installed Plugins**.
 
 {{https://farm4.staticflickr.com/3844/14765005986_a91f13ae25_c.jpg}}
 
-At or near the top of the list of plugins that are automatically installed in a new WordPress installation, is [[http://wordpress.org/plugins/akismet/|Akismet]]. It is not activated, so part of the process of getting Akismet is **Activating** the plugin. Before you activate it, however, you need to get something that will be somewhat strange for most people. It's called an API key. API stands for Application Programming Interface, and it's a way for programs and services to "talk" to each other. The Akismet plugin requires you to get an **Akismet API Key**, which is simply a "code" that you supply when activating the plugin. The key is free if you use it on a personal WordPress installation, and it's [[http://akismet.com/wordpress/|available on the Akismet website]]. 
+At or near the top of the list of plugins that are automatically installed in a new WordPress installation, is [[http://wordpress.org/plugins/akismet/|Akismet]]. You need to make the plugin active on your site by click the "Activate" link.
+
+[[pre-activate image]]
+
+As soon as you activate the plugin, a box will appear at the top of your page with a button to activate your Akismet account. You should click the button. 
+
+[[activate image]]
+
+Your Akismet Settings page will appear. It will request an "API Key." API stands for Application Programming Interface, and it's a way for programs and services to "talk" to each other. The Akismet plugin requires you to get an **Akismet API Key**, which is simply a "code" that you supply when activating the plugin. The key is free if you use it on a personal WordPress installation, and you can click the "Get Your API Key" in order to set it up. 
+
 
 {{https://farm9.staticflickr.com/8627/16294235105_940b7669a6_c.jpg}}
 
