@@ -1,3 +1,5 @@
+====== Jetpack ======
+
 To install Jetpack to your website, log on to your WordPress dashboard and click on Plugins in the left-hand menu. Then choose “Add New.” 
 
 You’ll then see a list of featured plugins. You’ll want to click install now beside “Jetpack by WordPress.com.” If you do not see Jetpack, search for it in the right-hand menubar.
