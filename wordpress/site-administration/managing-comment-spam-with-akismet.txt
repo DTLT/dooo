@@ -22,27 +22,30 @@ As soon as you activate the plugin, a box will appear at the top of your page wi
 
 Your Akismet Settings page will appear. It will request an "API Key." API stands for Application Programming Interface, and it's a way for programs and services to "talk" to each other. The Akismet plugin requires you to get an **Akismet API Key**, which is simply a "code" that you supply when activating the plugin. The key is free if you use it on a personal WordPress installation, and you can click the "Get Your API Key" in order to set it up. 
 
+[[Akismet settings]]
 
-{{https://farm9.staticflickr.com/8627/16294235105_940b7669a6_c.jpg}}
 
 Once you arrive on the Akismet for WordPress site, click the **Get an Akismet API key** button.
 
-{{http://farm4.staticflickr.com/3812/9629484727_ce8acef3a9_o_d.jpg}}
+{{https://farm9.staticflickr.com/8627/16294235105_940b7669a6_c.jpg}}
+
 
 If you have an account at [[http://wordpress.com/|WordPress.com]] you can sign in with that login and get your key. Otherwise, fill in an email address, a username, and a password to use for a new account. Click the **Sign up** button to proceed.
 
-{{https://farm8.staticflickr.com/7545/16108103009_43ceff72ae_c.jpg}}
+{{http://farm4.staticflickr.com/3812/9629484727_ce8acef3a9_o_d.jpg}}
 
 Click on the **Sign Up** button under the Personal plan (that is if you want it to be the free version). When you get to the next page, the recommended contribution is $36. You can adjust the slider down to $0. The smiley face will begin to frown, but at least your key will be free.
 
-{{https://farm8.staticflickr.com/7492/16268302976_26a5707ae0_z.jpg}}
+{{https://farm8.staticflickr.com/7545/16108103009_43ceff72ae_c.jpg}}
 
 
 Also fill in your name and click **Continue**.
 
-{{https://farm8.staticflickr.com/7527/16294235025_9b3214f3de_c.jpg}}
+{{https://farm8.staticflickr.com/7492/16268302976_26a5707ae0_z.jpg}}
 
-You're finished with the sign up process for your key, and it will be displayed on the page for you (we've blurred ours out). Now follow the steps that they show you for using your new key. You will enter the key in either the Akismet area under Plugins or JetPack (if you have that installed).
+You're finished with the sign up process for your key, and it will be displayed on the page for you (we've blurred ours out). Now follow the steps that they show you for using your new key. You will enter the key on the Akismet settings page:
+
+{{https://farm8.staticflickr.com/7527/16294235025_9b3214f3de_c.jpg}}
 
 **An additional note**: If you installed Wordpress through Domain of One's Own using Installatron you will also have another spam plugin "Cookies for Comments" activated automatically which helps to catch spam that Akismet might not.
 
