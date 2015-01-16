@@ -1,10 +1,10 @@
 ====== Jetpack ======
   * [[https://wordpress.org/plugins/jetpack/|Jetpack]] is a plugin for WordPress that adds several useful tools including customization, traffic, mobile, content, and performance tools.
-  * To install Jetpack to your website, log on to your WordPress dashboard and click on Plugins in the left-hand menu. Then choose “Add New.” 
+  * To install Jetpack to your website, log on to your WordPress dashboard and click on "**Plugins**" in the left-hand menu. Then choose “**Add New**.” 
 {{https://farm8.staticflickr.com/7558/16108870457_4b8f509701_c.jpg}} 
-  * You’ll then see a list of featured plugins. You’ll want to click install now beside “Jetpack by WordPress.com.” If you do not see Jetpack, search for it in the right-hand menubar
+  * You’ll then see a list of featured plugins. You’ll want to click install now beside “**Jetpack by WordPress.com**.” If you do not see Jetpack, search for it in the right-hand menubar
 {{https://farm8.staticflickr.com/7483/15674850103_92672d58aa_c.jpg}}
-  * Once Jetpack is successfully installed, be sure to click on Activate Plugin. Once you activate the plugin, you then be prompted to “Connect to Get Started.”
+  * Once Jetpack is successfully installed, be sure to click on "**Activate Plugin**". Once you activate the plugin, you then be prompted to “**Connect to Get Started**.”
 {{https://farm8.staticflickr.com/7490/15674850033_bca27a8bb2_c.jpg}} 
-  * Finally, click “Authorize Jetpack” and you’re ready to use the plugin.
+  * Finally, click “**Authorize Jetpack**” and you’re ready to use the plugin.
 {{https://farm8.staticflickr.com/7464/16268789606_09aa5561cb.jpg}}
