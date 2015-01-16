@@ -1,0 +1,19 @@
+
+Ingredients
+1 – Computer (PC or Mac)
+
+1 – Apple’s iTunes program (current version as of this post, version 12)  – download here
+
+1 – An Internet website that has a podcast feed
+
+Directions
+Navigate to the website that has a podcast feed. This type of site would not be the norm, so this is likely a site that makes it very obvious that there is a podcast associated with it, or a site that was recommended by someone you know. An example would be the NPR Podcast Directory.
+Look for an icon somewhere on the webpage (not the one in the web address field) that looks like this:  or better yet, a button that says iTunes itunes
+If you don’t see that icon, look for some text that mentions “subscribe to feed”, “subscribe to iTunes or “RSS“. Linked text that reads “Entries (RSS)” is a common way the feed for a WordPress blog is encountered, usually near the bottom of the screen.
+If you need to manually subscribe, you can right-click on the icon or text link and choose either Copy Link Address (Chrome) or Copy Link Location (Firefox), or Copy Shortcut (Internet Explorer).
+Alternatively, you can click on the icon or the text and it should lead you to a page with a few options to subscribe to the RSS feed. You’ll need that link address so that you can paste it into iTunes.
+Start the iTunes program.
+Click on the File menu and choose Subscribe to Podcast…
+Paste the link shortcut into the box labeled URL:
+Click the OK button. This will add the podcast to the iTunes Podcast library and will start to download the latest podcast from the site. If you wish to download other, earlier podcasts, you can click the Feed button on the far right of the Podcast header (next to the Unplayed button). Then click one of the cloud icons to download the episode of your choice.
+Clicking the Refresh button while viewing the Podcast listing will check the site for the most recent podcast. To access it, click the “ellipsis” icon and then choose Refresh (as pictured below).
