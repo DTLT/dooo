@@ -1,3 +1,5 @@
 ====== Site Administration ======
 
 {{namespace>wordpress:site-administration}}
+
+[[Jetpack by WordPress]]
