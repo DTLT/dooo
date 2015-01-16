@@ -1,12 +1,14 @@
 
-Ingredients
+====== Ingredients ======
+
 1 – Computer (PC or Mac)
 
 1 – Apple’s iTunes program (current version as of this post, version 12)  – download here
 
 1 – An Internet website that has a podcast feed
 
-Directions
+====== Directions ======
+
 Navigate to the website that has a podcast feed. This type of site would not be the norm, so this is likely a site that makes it very obvious that there is a podcast associated with it, or a site that was recommended by someone you know. An example would be the NPR Podcast Directory.
 Look for an icon somewhere on the webpage (not the one in the web address field) that looks like this:  or better yet, a button that says iTunes itunes
 If you don’t see that icon, look for some text that mentions “subscribe to feed”, “subscribe to iTunes or “RSS“. Linked text that reads “Entries (RSS)” is a common way the feed for a WordPress blog is encountered, usually near the bottom of the screen.
