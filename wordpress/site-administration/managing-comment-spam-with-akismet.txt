@@ -24,7 +24,7 @@ If you have an account at [[http://wordpress.com/|WordPress.com]] you can sign i
 
 {{https://farm8.staticflickr.com/7545/16108103009_43ceff72ae_c.jpg}}
 
-Type in the URL of the site you'll use Akismet on and click on the **Sign Up** button under the Personal plan (that is if you want it to be the free version). When you get to the next page, the recommended contribution is $36. You can adjust the slider down to $0. The smiley face will begin to frown, but at least your key will be free.
+Click on the **Sign Up** button under the Personal plan (that is if you want it to be the free version). When you get to the next page, the recommended contribution is $36. You can adjust the slider down to $0. The smiley face will begin to frown, but at least your key will be free.
 
 {{https://farm8.staticflickr.com/7492/16268302976_26a5707ae0_z.jpg}}
 
