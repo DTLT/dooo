@@ -14,7 +14,7 @@ Navigate to **Plugins > Installed Plugins**.
 
 At or near the top of the list of plugins that are automatically installed in a new WordPress installation, is [[http://wordpress.org/plugins/akismet/|Akismet]]. It is not activated, so part of the process of getting Akismet is **Activating** the plugin. Before you activate it, however, you need to get something that will be somewhat strange for most people. It's called an API key. API stands for Application Programming Interface, and it's a way for programs and services to "talk" to each other. The Akismet plugin requires you to get an **Akismet API Key**, which is simply a "code" that you supply when activating the plugin. The key is free if you use it on a personal WordPress installation, and it's [[http://akismet.com/wordpress/|available on the Akismet website]]. 
 
-{{http://farm4.staticflickr.com/3762/9630985474_e8d624979d_c_d.jpg}}
+{{https://farm9.staticflickr.com/8627/16294235105_940b7669a6_c.jpg}}
 
 Once you arrive on the Akismet for WordPress site, click the **Get an Akismet API key** button.
 
@@ -22,16 +22,16 @@ Once you arrive on the Akismet for WordPress site, click the **Get an Akismet AP
 
 If you have an account at [[http://wordpress.com/|WordPress.com]] you can sign in with that login and get your key. Otherwise, fill in an email address, a username, and a password to use for a new account. Click the **Sign up** button to proceed.
 
-{{http://farm4.staticflickr.com/3687/9632762432_df63c892c9_o_d.jpg}}
+{{https://farm8.staticflickr.com/7545/16108103009_43ceff72ae_c.jpg}}
 
 Type in the URL of the site you'll use Akismet on and click on the **Sign Up** button under the Personal plan (that is if you want it to be the free version). When you get to the next page, the recommended contribution is $36. You can adjust the slider down to $0. The smiley face will begin to frown, but at least your key will be free.
 
-{{http://farm6.staticflickr.com/5550/9629549443_3b43cba82e_o_d.jpg}}
+{{https://farm8.staticflickr.com/7492/16268302976_26a5707ae0_z.jpg}}
 
 
 Also fill in your name and click **Continue**.
 
-{{http://farm4.staticflickr.com/3823/9632820968_2d66b73034_o_d.jpg}}
+{{https://farm8.staticflickr.com/7527/16294235025_9b3214f3de_c.jpg}}
 
 You're finished with the sign up process for your key, and it will be displayed on the page for you (we've blurred ours out). Now follow the steps that they show you for using your new key. You will enter the key in either the Akismet area under Plugins or JetPack (if you have that installed).
 
