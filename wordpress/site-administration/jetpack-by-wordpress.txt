@@ -7,7 +7,7 @@
 {{https://farm8.staticflickr.com/7483/15674850103_92672d58aa_c.jpg}}
   * Once Jetpack is successfully installed, be sure to click on "**Activate Plugin**". Once you activate the plugin, you then be prompted to “**Connect to WordPress.com**.”
 {{https://farm8.staticflickr.com/7504/15672622064_9167e8b032_c.jpg}} 
-  * Now you will be prompted to log into WordPress.com. If you do not have an account, click on "**Need an account?**" to sign up. 
+  * Now you will be prompted to log into [[https://wordpress.com/|WordPress.com]]. If you do not have an account, click on "**Need an account?**" to sign up. 
 {{https://farm9.staticflickr.com/8584/15675159023_2e258f8193_z.jpg}}
   * Afterwards, click “**Authorize Jetpack**” and you’re ready to use the plugin.
 {{https://farm9.staticflickr.com/8586/15675175253_0430c935bc_z.jpg}}
