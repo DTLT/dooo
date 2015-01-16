@@ -5,3 +5,4 @@
   * [[media-production:video:Creating a narrative for PowerPoint]]
   * [[media-production:video:Using the Epson Scanner]]
   * [[media-production:video:Movie Maker 12]]
+  * [[media-production:video:Libraries on External Hard Drives in Final Cut Pro X]]
