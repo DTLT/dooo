@@ -4,6 +4,8 @@ SPAM! Everyone hates it in their email. If you're new to WordPress and blogging 
 
 So how do you deal with comment spam when it can come in even more often than email spam? Do you have to delete every comment that comes in? Well, the answer to the second question is "no", and the answer to the first question is, with a plugin called [[http://akismet.com/|Akismet]].
 
+NOTE: If you installed WordPress through Domain of One's Own, you may already have Akismet installed. In that case, you can skip the next few steps about installing the plugin.
+
 To get started we need to install a plugin. To do this, we'll start at the **Dashboard**.
 
 {{https://farm4.staticflickr.com/3881/14764078696_baa90d9f58_c.jpg}}
