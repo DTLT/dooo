@@ -9,24 +9,15 @@
 
 ====== Directions ======
 
-1. Navigate to the website that has a podcast feed. This type of site would not be the norm, so this is likely a site that makes it very obvious that there is a podcast associated with it, or a site that was recommended by someone you know. An example would be the [[http://www.npr.org/rss/podcast/podcast_directory.php?type=main|NPR Podcast Directory]].
-
-2. Look for an icon somewhere on the webpage (not the one in the web address field) that looks like this: {{http://files.umwblogs.org/blogs.dir/1834/files/2009/01/rss.jpg}} or better yet, a button that says iTunes {{http://files.umwblogs.org/blogs.dir/1834/files/2009/01/29193434/itunes.gif}}
-
-3. If you don’t see that icon, look for some text that mentions “subscribe to feed”, “subscribe to iTunes or “RSS“. Linked text that reads “Entries (RSS)” is a common way the feed for a WordPress blog is encountered, usually near the bottom of the screen.
-
-4. If you need to manually subscribe, you can right-click on the icon or text link and choose either Copy Link Address (Chrome) or Copy Link Location (Firefox), or Copy Shortcut (Internet Explorer).
-
-5. Alternatively, you can click on the icon or the text and it should lead you to a page with a few options to subscribe to the RSS feed. You’ll need that link address so that you can paste it into iTunes.
-
-6. Start the iTunes program.
-
-7. Click on the File menu and choose **Subscribe to Podcast…**
-
-8. Paste the link shortcut into the box labeled **URL**:
-
-9. Click the OK button. This will add the podcast to the iTunes Podcast library and will start to download the latest podcast from the site. If you wish to download other, earlier podcasts, you can click the **Feed** button on the far right of the Podcast header (next to the Unplayed button). Then click one of the cloud icons to download the episode of your choice.
-
-10. Clicking the **Refresh** button while viewing the Podcast listing will check the site for the most recent podcast. To access it, click the “ellipsis” icon and then choose Refresh (as pictured below).
+  - Navigate to the website that has a podcast feed. This type of site would not be the norm, so this is likely a site that makes it very obvious that there is a podcast associated with it, or a site that was recommended by someone you know. An example would be the [[http://www.npr.org/rss/podcast/podcast_directory.php?type=main|NPR Podcast Directory]].
+  - Look for an icon somewhere on the webpage (not the one in the web address field) that looks like this: {{http://files.umwblogs.org/blogs.dir/1834/files/2009/01/rss.jpg}} or better yet, a button that says iTunes {{http://files.umwblogs.org/blogs.dir/1834/files/2009/01/29193434/itunes.gif}}
+  - If you don’t see that icon, look for some text that mentions “subscribe to feed”, “subscribe to iTunes or “RSS“. Linked text that reads “Entries (RSS)” is a common way the feed for a WordPress blog is encountered, usually near the bottom of the screen.
+  - If you need to manually subscribe, you can right-click on the icon or text link and choose either Copy Link Address (Chrome) or Copy Link Location (Firefox), or Copy Shortcut (Internet Explorer).
+  - Alternatively, you can click on the icon or the text and it should lead you to a page with a few options to subscribe to the RSS feed. You’ll need that link address so that you can paste it into iTunes.
+  - Start the iTunes program.
+  - Click on the File menu and choose **Subscribe to Podcast…**
+  - Paste the link shortcut into the box labeled **URL**:
+  - Click the OK button. This will add the podcast to the iTunes Podcast library and will start to download the latest podcast from the site. If you wish to download other, earlier podcasts, you can click the **Feed** button on the far right of the Podcast header (next to the Unplayed button). Then click one of the cloud icons to download the episode of your choice.
+  - Clicking the **Refresh** button while viewing the Podcast listing will check the site for the most recent podcast. To access it, click the “ellipsis” icon and then choose Refresh (as pictured below).
 
 {{http://files.umwblogs.org/blogs.dir/1834/files/2009/01/29193434/Screen-Shot-2014-10-23-at-9.25.31-AM.png}}
