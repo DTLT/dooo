@@ -12,7 +12,7 @@
   - Select your external hard drive. It will be listed on the left panel of the finder window.
   - Fill in a title for the new library in the box at the top of the window. It may say untitled if you haven't chosen a name yet.
   - Select save in the bottom right of the window. The window will close, and now in the left panel where it says **Libraries**, the new library will be listed.
-  - //For simplicities sake:// you can right click on the old library (the one created at the start of the project) and select **Close Library**. This will remove the selected library from the list.
+  - To reduce confusion, you can right click on the old library (the one created at the start of the project) and select **Close Library**. This will remove the selected library from the list.
   - Select **Import Media**. An import window will open with available media. It may be neccessary to navigate to the location of the media you would like to import.
   - Select the media, and press **Import Selected**.
   - Ensure that the event or library you are uploading to is correct, and click **Import**. The media will now begin to upload. The "progress circles" that appear on each clip show the progress of the import.
