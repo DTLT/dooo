@@ -60,9 +60,9 @@ This is documentation that needs to be written. Some of them may require a fair 
 
 
 
-The following screencasts need to written (see Andy with any questions):
+The following screencasts need to have step-by-step instructions written (see Andy with any questions). Please put your name next to the document you're working on:
 
-  * Libraries on External Hard Drives in Final Cut Pro X - [[https://www.youtube.com/watch?v=_l2NNgtEwRA]]
+  * Libraries on External Hard Drives in Final Cut Pro X - [[https://www.youtube.com/watch?v=_l2NNgtEwRA]] **EVAN**
   * Import Video into iMovie - https://vimeo.com/100541069
   * Creating a Camera Archive in Final Cut Pro X - https://vimeo.com/92358330
   * Format Your External Drive to ExFat - https://vimeo.com/75891286
