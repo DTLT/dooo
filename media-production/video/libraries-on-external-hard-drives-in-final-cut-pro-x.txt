@@ -2,7 +2,7 @@
 
 1 - Computer (Mac)
 
-1 - Copy of Final Cut Pro
+1 - Copy of Final Cut Pro X (version 10.1 or later)
 
 1 - External Hardrive (some recommended drives are in this article - [[http://umwnewmedia.org/getting-started-with-final-cut-pro-x/|Getting Started With Final Cut Pro X]])
 
