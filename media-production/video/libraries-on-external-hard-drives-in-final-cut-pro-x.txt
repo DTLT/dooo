@@ -4,7 +4,7 @@
 
 1 - Copy of Final Cut Pro
 
-1 - External Hardrive (some recommended drives are in this article - [[http://umwnewmedia.org/getting-started-with-final-cut-pro-x/ Getting Started With Final Cut Pro X]]
+1 - External Hardrive (some recommended drives are in this article - [[http://umwnewmedia.org/getting-started-with-final-cut-pro-x/|Getting Started With Final Cut Pro X]])
 
 ====== Directions ======
 
@@ -18,4 +18,4 @@
   - Ensure that the event or library you are uploading to is correct, and click **Import**. The media will now begin to upload. The "progress circles" that appear on each clip show the progress of the import.
   - Create a new project either by going to File -> New -> Project or clicking **New Project** in the lower window.
   - Give the project a title and press **OK**. A timeline will now appear in the lower window where media can be added and then edited to create a new video.
-  - Once you have finished, Quit Final Cut Pro X and then be sure to **Eject** the drive. Now you can take your project with you.
+  - Once you have finished, quit Final Cut Pro X and then be sure to **Eject** the drive. Now you can take your project with you.
