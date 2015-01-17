@@ -15,7 +15,7 @@
   - //For simplicities sake:// you can right click on the old library (the one created at the start of the project) and select **Close Library**. This will remove the selected library from the list.
   - Select **Import Media**. An import window will open with available media. It may be neccessary to navigate to the location of the media you would like to import.
   - Select the media, and press **Import Selected**.
-  - Ensure that the event or library you are uploading to is correct, and click **Import**. The media will now begin to upload. The circles that show on the media show the progress of the import.
+  - Ensure that the event or library you are uploading to is correct, and click **Import**. The media will now begin to upload. The "progress circles" that appear on each clip show the progress of the import.
   - Create a new project either by going to File -> New -> Project or clicking **New Project** in the lower window.
-  - Give the project a title and press **OK**. A timeline will now appear in the lower window where media can be edited and combined to create videos.
-  - Once you have finished, **Eject** the drive. Now you can take your project with you.
+  - Give the project a title and press **OK**. A timeline will now appear in the lower window where media can be added and then edited to create a new video.
+  - Once you have finished, Quit Final Cut Pro X and then be sure to **Eject** the drive. Now you can take your project with you.
