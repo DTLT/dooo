@@ -57,8 +57,10 @@ This is documentation that needs to be written. Some of them may require a fair 
   * [[wordpress:advanced-topics:advanced-wordpress-themes|Advanced WordPress Theme Techniques]]: This is a tutorial on advanced techniques for working with WordPress themes. When you install a new theme, how do you go about figuring out how to use it? What are some good tips/best practices?
 
   * [[wordpress:appearance-plugins:installing-themes | Installing Themes]]: we need a document that focuses on the process of finding and installing new themes in WordPress. Feel free to borrow from the existing [[wordpress:appearance-plugins:themes | WordPress Themes]] document. **Matt**
+  * 
+  * [[wordpress:getting-started:logging-into-wp-on-dooo]]: This needs to be a tutorial about how to login to a WP install. I'd like instructions on doing this via the /wp-admin link. You can link  [[http://docs.umwdomains.com/domain-of-ones-own/cpanel/finding-and-changing-account-and-application-information-and-passwords-in-cpanel|to the tutorial about changing your PW in Installatron]], in case they need to reset their pw. In addition, I would like a second section on how to login via cPanel (by logging into Domain of One's Own site and browsing to your installed application in cPanel). 
 
-
+===== Media Tutorials (For Evan * Tyler) =====
 
 The following screencasts need to have step-by-step instructions written (see Andy with any questions). Please put your name next to the document you're working on:
 
