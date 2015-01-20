@@ -1,3 +1,0 @@
-====== Writing a New Blog Post ======
-There are several steps you can take to write a new blog post with content. We'll start by talking about some of the privacy settings that can be applied on a per-post or whole site basis.
-{{page>wordpress:basic-privacy}}
