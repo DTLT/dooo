@@ -62,7 +62,7 @@ This is documentation that needs to be written. Some of them may require a fair 
 
 ===== Media Tutorials (For Evan * Tyler) =====
 
-The following screencasts need to have step-by-step instructions written (see Andy with any questions). Please put your name next to the document you're working on:
+The following screencasts need to have step-by-step instructions written (see Andy with any questions). Please put your name next to the document you're working on. Mark it DONE when finished:
 
   * Libraries on External Hard Drives in Final Cut Pro X - [[https://www.youtube.com/watch?v=_l2NNgtEwRA]] **EVAN** - **DONE**
   * Import Video into iMovie - https://vimeo.com/100541069
