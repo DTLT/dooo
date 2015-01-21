@@ -21,6 +21,7 @@
   * [[course-tutorials:umw-blogs-tutorials:hist-362-latin-america|HIST 362: Latin America II]]
   * [[course-tutorials:umw-blogs-tutorials:hist-383-islamic-civilization|HIST 383: Islamic Civilization]]
   * [[course-tutorials:umw-blogs-tutorials:hist-384-islamic-civilization-ii|HIST 384: Islamic Civilization II]]
+  * [[course-tutorials:umw-blogs-tutorials:hist-387-turkey-from-empire-to-republic|HIST 387: Turkey from Empire to Republic]]
   * [[course-tutorials:umw-blogs-tutorials:hist-471-shanghai-modern|HIST 471F1: Shanghai Modern]]
 
 
