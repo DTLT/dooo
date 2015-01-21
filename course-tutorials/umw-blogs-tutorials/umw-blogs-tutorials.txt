@@ -16,6 +16,7 @@
 
 ==== History and American Studies ====
   * [[course-tutorials:umw-blogs-tutorials:amst-202-american-food|AMST 202: American Food]]
+  * [[course-tutorials:umw-blogs-tutorials:hist-122-western-civ-ii|HIST 122: Western Civ II]]
   * [[course-tutorials:umw-blogs-tutorials:hist-298-history-practicum-fernsebner|HIST 298: History Practicum]] (Fernsebner)
   * [[course-tutorials:umw-blogs-tutorials:hist-362-latin-america|HIST 362: Latin America II]]
   * [[course-tutorials:umw-blogs-tutorials:hist-383-islamic-civilization|HIST 383: Islamic Civilization]]
