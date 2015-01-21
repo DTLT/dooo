@@ -20,6 +20,7 @@
   * [[course-tutorials:umw-blogs-tutorials:hist-298-history-practicum-fernsebner|HIST 298: History Practicum]] (Fernsebner)
   * [[course-tutorials:umw-blogs-tutorials:hist-362-latin-america|HIST 362: Latin America II]]
   * [[course-tutorials:umw-blogs-tutorials:hist-383-islamic-civilization|HIST 383: Islamic Civilization]]
+  * [[course-tutorials:umw-blogs-tutorials:hist-384-islamic-civilization-ii|HIST 384: Islamic Civilization II]]
   * [[course-tutorials:umw-blogs-tutorials:hist-471-shanghai-modern|HIST 471F1: Shanghai Modern]]
 
 
