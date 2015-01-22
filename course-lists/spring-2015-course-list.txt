@@ -75,7 +75,6 @@
   * Betsy Lewis' [[http://gohidalgo.org | SPAN 451: Cervantes y Don Quijote 21]]
 
 ==== Music ====
-  * Mark Snyder's [[http://audiorecording.umwblogs.org | THEA 452D: Audio Recording]] 
   * Mark Snyder's [[http://midi.umwblogs.org | MUTH 170: Intro to MIDI Composition]] 
   * Mark Snyder's [[http://composition.umwblogs.org | MUTH 483: Music Composition]] 
 
@@ -88,6 +87,9 @@
 
 ==== Sociology and Anthropology ====
   * Laura Mentore's [[http://futureeaters.umwblogs.org/ | ANTH 321: The Anthropology of Food]]
+
+==== Theatre and Dance ====
+  * Mark Snyder's [[http://audiorecording.umwblogs.org | THEA 452D: Audio Recording]] 
 
 ==== Women's and Gender Studies ====
   * 
