@@ -3,8 +3,8 @@
 ====== Spring 2015 ======
 
 ==== Art & Art History ====
-  * Jason Robinson's [[http://digi104.com | ARTS 104: Digital Approaches to Fine Art]]
   * Joe DiBella's [[http://arts342.umwblogs.org/ | ARTS 342: Painting II]]
+  * Jason Robinson's [[http://digi104.com | ARTS 104: Digital Approaches to Fine Art]]
 
 ==== Classics, Philosophy, and Religion ====
   * Mary Beth Mathews' [[http://relg331.umwblogs.org | RELG 331: Sex and Religion in America]]
@@ -34,8 +34,8 @@
   * Zach Whalen's [[http://gamecult.umwblogs.org/ | ENGL 255AA: Games and Culture]]
 
 ==== Freshman Seminars ====
-  * Debra Hydorn's [[http://infographics2015.umwblogs.org | FSEM 100C5: Infographics]]
   * Nabil Al-Tikriti's [[http://genocide.umwblogs.org | FSEM 100J9: History of Genocides]]
+  * Debra Hydorn's [[http://infographics2015.umwblogs.org | FSEM 100C5: Infographics]]
 
 ==== Geography ====
   * Melina Patterson's [[http://cities.melinapatterson.net | GEOG 237: Cities]]
@@ -63,6 +63,7 @@
   * Bruce O'Brien's [[http://forgery.umwblogs.org | HIST 455: Forgery and History]]
   * Bruce O'Brien's [[http://oriens.umwblogs.org | HIST 332: Rule and Rebellion in the Roman East]]
   * Jess Rigelhaupt's [[http://amst201s15.umwblogs.org | AMST 201: Introduction to American Studies]]
+
 ==== Honors Program ====
   * 
 
@@ -77,9 +78,11 @@
   * Mark Snyder's [[http://audiorecording.umwblogs.org | THEA 452D: Audio Recording]] 
   * Mark Snyder's [[http://midi.umwblogs.org | MUTH 170: Intro to MIDI Composition]] 
   * Mark Snyder's [[http://composition.umwblogs.org | MUTH 483: Music Composition]] 
+
 ==== Political Science and International Affairs ====
-  * Stephen Farnsworth's [[http://massmedia.umwblogs.org/ | PSCI 363: Mass Media Politics]]
   * Jason Davidson's [[http://securityandconflict.umwblogs.org/ | PSCI 387: Security and Conflict Studies]]
+  * Stephen Farnsworth's [[http://massmedia.umwblogs.org/ | PSCI 363: Mass Media Politics]]
+
 ==== Psychology ====
   * 
 
