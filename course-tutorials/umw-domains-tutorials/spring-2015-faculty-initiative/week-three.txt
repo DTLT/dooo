@@ -1,0 +1,27 @@
+{{indexmenu_n>3}}
+
+====== Week 3: Teaching on the Open Web ======
+  *//[[http://www.bloomsburyacademic.com/view/DigitalScholar_9781849666275/chapter-ba-9781849666275-chapter-008.xml | "Chapter 8: A Pedagogy of Abundance," The Digital Scholar, Martin Weller, 2011 (pps. 85-96)]]//
+  *//[[http://www.cluttermuseum.com/make-students-curators/ | "Make students curators" Clutter Museum Blog, Leslie Madsen-Brooks, July 17, 2012]]//
+  *//[[http://theory.cribchronicles.com/2012/11/20/twitter-for-teachers-an-experiment-in-openness/| Twitter for Teachers: an experiment in openness, The TheoryBlog, Bon Stewart, November 20th, 2012 ]]//
+  *//[[https://vimeo.com/46442363 | Professor Alec Couros: “The Connected Teacher,” 2013]]//
+
+
+===== Reading & Review =====
+This week's readings take you through some of the possibilities afforded by the web for teaching and learning. Martin Weller chapter "The Pedagogy of Abundance" from his book The //Digital Scholar// takes us through some of the broader implications and possibilities for radically different pedagogical approaches made possible by networked environments. One of the underlying ideas in this book is that in a world where teaching resources are no longer scarce and access is open, how might that change shift the role of the educator?
+
+In Leslie Madsen-Brooks' "Make students curators" post she asks the following question: "What would happen if we made students practice curation—actual curation?" How would instruction change if part of how we approached the process was to expect that students work was part of an on-going, open dialogue wherein students engage and narrate their process of  "creation, contextualization, argument, and engagement" openly online.
+
+Speaking of open, Bon Stewart interrogates that term as buzzword, much as Leslie does curation, to examine what a platform like Twitter might mean for educators and students alike to share their work within a networked context. More than just what you ate for lunch, Twitter can become an open, participatory space for collapsing context, time, and some of the institutional infrastructure of distributed education. These are not simply "good or bad" things instructors "must get on board with," rather they bring with them a series of possibilities and limitations which this post explores at length.
+
+Finally, "The Connected Teacher" video is an interview with Alec Couros by Howard Rheingold discussing his approach to his courses that builds open a community of people that feedback, reinforce, and particpate in his courses taught at the University of Regina. Couros provides a compelling example of how  professor can use social media to open up the experience of his students to tens of thousands of educators and thinkers in their field as part and parcel of the undergraduate experience. It takes the idea of networking as part of your education to a whole new level.
+
+
+===== Other Work =====
+This week, spend some time setting up a couple of plugins for your blog as well as getting a Twitter account: 
+
+  *Install the following WordPress Plugins on your blog (follow the link for an overview for installing [[WordPress Plugins]]):
+     *[[http://jetpack.me/ | Jetpack]]: This is a suite of plugins that enable you to check stats, post via email, enable subscriptiosn, etc. This plugin requires you to get a WordPress.com account for it to work on your self-hosted blog.
+     *[[http://akismet.com | Akismet]]: Akismet filters out your comment and track-back spam for you, so your site doesn;t quickly become a spam farm. You will need to signup for an API Key with Akismet, be sure that you move the slider to $0 for recommended donation to get it for free.You can [[wordpress:managing-comment-spam-with-akismet|find a tutorial about setting up Akismet here]].
+
+  * Signup for an account on [[http://twitter.com | Twitter]] and send out a tweet using the hashtag [[https://twitter.com/search?q=%23umwdomains&src=hash | #umwdomains]]. Twitter is one environment to buidl a professional network of peers, explore it a bit. 
