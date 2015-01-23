@@ -9,3 +9,4 @@
   * [[media-production:video:Subscribe to a Podcast in iTunes]]
   * [[media-production:video:Importing Video from a Camera to iMovie]]
   * [[media-production:video:Creating a Camera Archive in Final Cut Pro X]]
+  * [[media-production:video:Format Your External Drive to ExFat]]
