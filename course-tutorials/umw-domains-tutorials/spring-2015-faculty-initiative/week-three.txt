@@ -18,10 +18,10 @@ Finally, "The Connected Teacher" video is an interview with Alec Couros by Howar
 
 
 ===== Other Work =====
-This week, spend some time setting up a couple of plugins for your blog as well as getting a Twitter account: 
+This week, spend some time setting up a couple of plugins for your blog as well as getting a Twitter account. Install the following WordPress Plugins on your blog ([[http://docs.umwdomains.com/wordpress/appearance-plugins/installing-plugins | here is a help guide]]):
 
-  *Install the following WordPress Plugins on your blog (follow the link for an overview for installing [[WordPress Plugins]]):
-     *[[http://jetpack.me/ | Jetpack]]: This is a suite of plugins that enable you to check stats, post via email, enable subscriptiosn, etc. This plugin requires you to get a WordPress.com account for it to work on your self-hosted blog.
-     *[[http://akismet.com | Akismet]]: Akismet filters out your comment and track-back spam for you, so your site doesn;t quickly become a spam farm. You will need to signup for an API Key with Akismet, be sure that you move the slider to $0 for recommended donation to get it for free.You can [[wordpress:managing-comment-spam-with-akismet|find a tutorial about setting up Akismet here]].
+  * [[http://jetpack.me/ | Jetpack]]: This is a suite of plugins that enable you to check stats, post via email, enable subscriptiosn, etc. This plugin requires you to get a (free) WordPress.com account for it to work on your self-hosted blog.
+
+  * [[http://akismet.com | Akismet]]: Akismet filters out comment and track-back spam so your site doesn't quickly become a spam farm. You will need to signup for an API Key with Akismet, be sure that you move the slider to $0 for recommended donation to get it for free. You can [[http://docs.umwdomains.com/wordpress/site-administration/managing-comment-spam-with-akismet|find a tutorial about setting up Akismet here]].
 
   * Signup for an account on [[http://twitter.com | Twitter]] and send out a tweet using the hashtag [[https://twitter.com/search?q=%23umwdomains&src=hash | #umwdomains]]. Twitter is one environment to buidl a professional network of peers, explore it a bit. 
