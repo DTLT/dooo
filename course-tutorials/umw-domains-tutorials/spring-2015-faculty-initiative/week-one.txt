@@ -1,0 +1,39 @@
+{{indexmenu_n>1}}
+
+====== Week 1: Understanding the Web ======
+
+===== Reading & Review =====
+
+One goal of Domain of One’s Own is to help participants develop a deeper understanding of how the Web actually works. Prior to the first meeting, we’ve chosen a set of readings/videos/resources to review that, we hope, will give you a better understanding of the the history and underpinnings of the Web. 
+
+   * //[[http://www.ps.uni-saarland.de/~duchier/pub/vbush/vbush-all.shtml | As We May Think]]//, Vannevar Bush (1945)
+   * //[[http://sloan.stanford.edu/mousesite/1968Demo.html | Doug Engelbart 1968 Demo]]// (VIDEOS)
+   * //[[http://info.cern.ch | Home of the First Web Site]]// (~1992)
+   * //[[http://www.smallpieces.com/content/preface.html | Small Pieces, Loosely Joined: Preface]]//, David Weinberger (2002)
+   * //[[https://www.video2brain.com/en/lessons/how-the-web-works | How the Web Works]]//, Chad Chelius (2011) (VIDEO)
+   * //[[http://www.youtube.com/watch?v=BNHR6IQJGZs | How Search Works]]//, Matt Cutts (2010) (VIDEO)
+   * //[[http://blog.jonudell.net/2011/01/24/seven-ways-to-think-like-the-web/ | Seven Way to Think about the Web]]//, Jon Udell (2011)
+
+You'll notice that the readings & resources for this week cover a fairly large swath of time. Bush's article from 1945 predates the Internet by almost six decades, and Engelbart's demos, by almost 20 years. They're still worth reviewing and reflecting upon, however, in that they brilliantly foreshadowed the systems that ultimately became the Internet and the Web. 
+
+As you review http://info.cern.ch, we encourage you to explore it via the Line Mode Browser Simulator, to get a real sense of how we first interfaced with the Web. Take a moment and reflect upon the incredible degree to which those interfaces have changed in the last 20 years. 
+
+Weinberger's pieces (a preface to a longer book that examines the Web), is a great introduction to how the Web was different from anything that came before and how it's inherent qualities of openness (and, perhaps, democratization) have ultimately informed what it has become. 
+
+The two short videos by Chelius and Cutts are pretty basic introductions to the concept of the Web and of Search Engines. Understanding how Search Engines work, even on a basic level, is critical to developing a literacy around and about the Web -- after all Search Engines mediate a vast amount of our interaction with the Web. When was the last time you thought about how the algorithms that build your search result ultimately effect your experience of the Web (and your ability to find what you're looking for on it)? 
+
+Finally, Udell's short piece is a bit more theoretical -- but it proposes a number of suggestions about how we should be thinking about and interacting with the Web. Udell is known for advocating that we become more nuanced and critical users of the Internet. This article summarizes some of the reasons why he thinks that we need to be more self-aware about our interactions with these technologies and spaces. 
+
+===== Other Work =====
+ 
+In addition, prior to the first meeting, you must choose your own domain name and get a hosting account through Domain of One’s Own. You'll also need to install WordPress on your domain. 
+
+If you already have a domain, you do not need to sign-up again. Similarly, if you already have WordPress installed, you can use your existing installation for the Faculty Initiative -- Or you can install another copy of WordPress. Ultimately, you will be blogging as part of your participation in the program, and you can decide if you would like to use an existing WordPress or a new one. 
+
+The following tutorials will walk you through choosing a domain name, signing up on DoOO, and installing WordPress. 
+
+{{page>domain-of-ones-own:general:choosing-a-domain-name}}
+
+{{page>domain-of-ones-own:general:signing-up-on-domain-of-one-s-own}}
+
+{{page>wordpress:getting-started:installing-wordpress}}
