@@ -1,0 +1,41 @@
+{{indexmenu_n>5}}
+====== Week 5: Scholarship & Research in a Digital Age ======
+  *//[[http://www.bloomsburyacademic.com/view/DigitalScholar_9781849666275/chapter-ba-9781849666275-chapter-004.xml | "Chapter 4: The Nature of Scholarship," The Digital Scholar, Martin Weller, 2011 (pps. 41-51)]]//
+  *//[[http://musicfordeckchairs.wordpress.com/2013/12/18/ratfarming-lets-not/ | "Ratfarming: Let's Not!" Music For Deckchairs, Kate Bowles, December 18th, 2013]]//
+  *//[[http://www.wired.com/science/discoveries/magazine/16-07/pb_theory | "The End of Theory: The Data Deluge Makes the Scientific Method Obsolete," Wired, Chris Anderson, June 23th, 2008]]//
+  *//[[http://hapgood.us/2013/12/10/short-notes-on-the-absence-of-theory/ | "Short Notes on the Absence of Theory," Hapgood, Mike Caulfield, December 10, 2013]]//
+
+Also recommended:
+  *//[[http://www.uoc.edu/ojs/index.php/rusc/article/view/v9n2-weller | Martin Weller's "Digital Scholarship and the Tenure Process as an Indicator of Change in Universities," Universities and Knowledge Socieites Journal, Vol 9, No. 2 (July 2012)]]//
+
+===== Reading & Review =====
+This week's readings provide a range of views about scholarship and research in the digital age. Martin Weller chapter's "The Nature of Scholarship" from his book //The Digital Scholar// provides an excellent overview of the nature of scholarship and what the qualifier digital might mean. There is no one agreed upon definition of this term, as Weller Notes, but he does cite some characteristics of Digital Scholarship based on the American Council of Learned Societies Commission on Cyberinstructure for the Humainities and Social Sciences observations:
+
+>1. building a digital collection of Information for further study and anlysis,
+>2. creating appropriate tools for collection building
+>3. creating the appropriate tools for the analysis and study of collections  
+>4. using digital collections and analytical tools to generate new intellectual products, and
+>5. creating authoring tools for these new intellectual products, either in traditional form or in digital form
+
+Alternatively, Kate Bowles examines the nature of academic labor and social media and raises some "reservations about hitching public online conversations to the pseudo-productivity of formal academic publication." Her work offers an interesting counterpoint to the idea that work online should fall into a strict idea of academic publishing. Perhaps the research and scholarship being done in these networks need to have a new, networked tone? 
+
+From there we look at a larger shift in the nature of scholarship with the //Wired// article "The End of Theory: The Data Deluge Makes the Scientific Method Obsolete." How does a culture dominated by "Big Data" think about traditional research models? From the article: 
+
+>This is a world where massive amounts of data and applied mathematics replace every other tool that might be >brought to bear. Out with every theory of human behavior, from linguistics to sociology. Forget taxonomy, >ontology, and psychology. Who knows why people do what they do? The point is they do it, and we can track and >measure it with unprecedented fidelity. With enough data, the numbers speak for themselves.
+
+A nice follow-up to this article is Mike Caulfield's post "Short Notes on the Absence of Theory" which provides a brief, excellent overview of the emergence of big data in the education sphere as part of the Massive Open Online Course (MOOC) phenomenon. He provides an examination of the cultural context of this absence of theory in the field of Educational Technology, and academic research more broadly.
+
+
+===== Other Work =====
+
+**Technical:** Get a [[http://gravatar.com | Gravatar]] if you don't have one already so you show up clean and pretty on the Faculty Initiative blog :)
+
+
+----
+
+
+Being part of a community means actively engaging with others who have overlapping interests. Here's how:
+
+  * blog about your ideas of Digital Scholarship in relationship to the various readings.
+  * use the [[http://fi.umwdomains.com/category/dooofis14|Faculty Initiative community hub]] to find other participants' blogs, read their thoughts, and leave comments. The goal is to make sure everyone has at least one comment on their blog post. 
+  * check your own blog, and respond to any comments you receive.
