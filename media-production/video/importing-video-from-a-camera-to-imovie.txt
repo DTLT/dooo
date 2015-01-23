@@ -9,8 +9,6 @@
 
 1 - Video Camera
 
-1 - Connector Cable
-
 1 - External Hard Drive
 
 ==== Directions ====
