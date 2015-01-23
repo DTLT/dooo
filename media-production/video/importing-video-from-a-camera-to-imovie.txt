@@ -1,4 +1,7 @@
-====== Ingredients ======
+====== **Importing Video from a Camera to iMovie** ======
+
+
+==== Ingredients ====
 
 1 - Computer (Mac)
 
@@ -10,7 +13,7 @@
 
 1 - External Hard Drive
 
-====== Directions ======
+==== Directions ====
 
   - Select File -> Open Library -> New.
   - Name the library in the **Save As** box in window that opens.
