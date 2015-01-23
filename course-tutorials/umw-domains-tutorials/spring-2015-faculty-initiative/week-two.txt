@@ -17,16 +17,19 @@ In //A Personal Cyberinfrastructure//, Gardner Campbell considers the progress o
 Tim Champers Huffington Post series, while more mainstream and aimed at a general audience, does a nice job of laying out the realities of how our online identities are owned and controlled by the services and systems we use. He prompts us to think more deeply about what we are getting out of these relationships -- and what companies are getting from us. In addition, he links to a range of other articles and resources about this topic. We encourage you to spend some time following these trails. 
 
 Finally, in their article in the //Journal of Broadcasting and Electronic Media//, Baym and boyd survey the current landscape of what it means to navigate "socially mediated publicness." In particular, it's worth considering some of the scenarios and situations that the authors present:
+
   * What happens to our digital identity when we die? What does it mean when others can present and contextualize our "self" in a publicly-mediated online space without our consent? 
+
   * In spaces that ostensibly allow for more inclusivity and freedom of expression, how is it possible that certain voices and perspectives can become even more marginalized and threatened?
+
   * As these spaces become more and more important to our lives and our larger cultures, what does it mean when governments and corporations have the ability to control and/or censor our access to them?
 
 We're reading another piece by boyd this week that is a post from her blog. As you read this piece from an academic journal, it's also worth reflecting upon the different voices used in these two different publications, and how they work together as part of boyd's larger digital, public persona. 
 
 This week, as you begin to start blogging on your new WordPress site, make sure you write at least one post that addresses the readings. We offer a few prompts to perhaps get you started: 
 
-  * Chambers talks several times about becoming acquainted with the Terms of Service (TOS) of the online tools 
-we use. Look up the TOS for one or two services you regularly use [[https://www.facebook.com/legal/terms |Facebook]], [[https://twitter.com/tos | Twitter]], [[http://www.google.com/intl/en/policies/terms/ | Google TOS]], [[http://www.linkedin.com/legal/user-agreement?trk=hb_ft_userag | LinkedIn]]. Could you understand them? Where they what you expected, and, if not, why? What surprised you most about what you read? If you read more than one, how do they compare?
+  * Chambers talks several times about becoming acquainted with the Terms of Service (TOS) of the online tools we use. Look up the TOS for one or two services you regularly use [[https://www.facebook.com/legal/terms |Facebook]], [[https://twitter.com/tos | Twitter]], [[http://www.google.com/intl/en/policies/terms/ | Google TOS]], [[http://www.linkedin.com/legal/user-agreement?trk=hb_ft_userag | LinkedIn]]. Could you understand them? Where they what you expected, and, if not, why? What surprised you most about what you read? If you read more than one, how do they compare?
+
   * Spend a moment and consider what makes up your current digital identity. Write down what you think people would find out about you if they were to search for you on Google. Then do an actual search and see what you find. How does your perceived presentation of your digital identity compare with your actual one? 
 
   * Considering the exploration that Campbell exhorts us to undertake to build our own personal cyberinfrastructure, take a moment to lay out some goals for yourself. What do you hope to build or develop on Domain of One's Own? How can what you do become a model for students using this space? 
