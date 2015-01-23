@@ -1,5 +1,7 @@
+====== Subscribe to a Podcast in iTunes ======
 
-====== Ingredients ======
+
+==== Ingredients ====
 
 1 – Computer (PC or Mac)
 
@@ -7,7 +9,7 @@
 
 1 – An Internet website that has a podcast feed
 
-====== Directions ======
+==== Directions ====
 
   - Navigate to the website that has a podcast feed. This type of site would not be the norm, so this is likely a site that makes it very obvious that there is a podcast associated with it, or a site that was recommended by someone you know. An example would be the [[http://www.npr.org/rss/podcast/podcast_directory.php?type=main|NPR Podcast Directory]].
   - Look for an icon somewhere on the webpage (not the one in the web address field) that looks like this: {{http://files.umwblogs.org/blogs.dir/1834/files/2009/01/rss.jpg}} or better yet, a button that says iTunes {{http://files.umwblogs.org/blogs.dir/1834/files/2009/01/29193434/itunes.gif}}
