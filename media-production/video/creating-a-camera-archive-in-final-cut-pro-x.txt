@@ -1,0 +1,22 @@
+====== Creating a Camera Archive in Final Cut Pro X ======
+
+===== Ingredients =====
+
+1 - Computer (Mac)
+
+1 - Video Camera
+
+1 - Final Cut Pro X Software
+
+===== Directions =====
+
+  - Insert the SD Card from the video camera and insert it into the computer's SD Card Reader.
+  - Open Final Cut Pro X to the project you would like.
+  - Click **Import Media** (The down arrow on the left).
+  - Click **Create Archive** (Lower left hand corner).
+  - Navigate to where you would like to save the video files.
+  - Name the archive and click **Create**.
+  - Once the circle by the SD Card name has filled completely, you may remove the SD Card.
+  - To import media from your archive, click **Import Media**, navigate to where you saved the archive, and import the media just as if it was a physical SD Card.
+
+
