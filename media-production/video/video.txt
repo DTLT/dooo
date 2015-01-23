@@ -7,3 +7,4 @@
   * [[media-production:video:Movie Maker 12]]
   * [[media-production:video:Libraries on External Hard Drives in Final Cut Pro X]]
   * [[media-production:video:Subscribe to a Podcast in iTunes]]
+  * [[media-production:video:Importing Video from a Camera to iMovie]]
