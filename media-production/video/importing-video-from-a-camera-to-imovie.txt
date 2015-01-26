@@ -13,9 +13,10 @@
 
 ==== Directions ====
 
+  - Make sure that your external hard drive is connected to your computer.
   - Select File -> Open Library -> New.
   - Name the library in the **Save As** box in window that opens.
-  - In the **where** box, select your external hard drive (Note: you may have to click the down arrow next to Save As to see your external hard drive.
+  - In the **where** box, select your external hard drive (Note: you may have to click the down arrow next to Save As to see your external hard drive). Click Save.
   - The library will appear in the Libraries section of the iMovie window.
   - You may now right click the default iMovie Library and select **remove**.
   - Insert the SD Card from your video camera into the computer's SD Card reader. Alternately, you can connect the USB cable from the camera to the computer.
