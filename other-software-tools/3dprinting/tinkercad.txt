@@ -36,7 +36,7 @@ Tinkercad is an online tool for creating your own 3D objects that can be printed
 
 //Screenshot of keyboard and workplane//
 
-9. To zoom in/out, use two fingers on the touch pad or use the + and - buttons on the left hand side of the window.  
+9. To zoom in/out, use two fingers on the touch pad or use the **+** and **-** buttons on the left hand side of the window.  
 
 //Screenshot of zoom buttons in app//
 
