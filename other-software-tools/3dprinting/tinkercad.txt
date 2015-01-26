@@ -1,6 +1,6 @@
 ====== Using Tinkercad ======
 
-Tinkercad is an online tool for creating your own 3D objects that can be printed on a 3D printer.  
+Tinkercad is an online tool for creating your own 3D objects that can be printed using a 3D printer.  
 
 **Getting Started:**
 
@@ -44,4 +44,40 @@ Tinkercad is an online tool for creating your own 3D objects that can be printed
 
 //Screenshot new object//
 
-11. 
+11. To raise an object off of the workplane, click and drag the black cone above the object.  
+
+//Screenshot//
+
+12. To align multiple objects, select the objects you wish to align by holding down the **shift** key and clicking each object.  
+
+//Screenshot//
+
+13. Click on **Adjust** and then click on **Align...**  Black dots should appear on each dimension of the selected objects.  Click on the dots to align your objects.  
+
+//Screenshot//
+
+14. To group multiple objects into one object, select all objects holding down the **shift** key and clicking each object.  Then click on **Group**.  The grouped objects should now all be the same color.  To ungroup objects, simply select the desired objects, then click on **Ungroup**.  
+
+//Screenshot//
+
+15. To make a hole in an object, you can either choose one of the shapes from the **Holes** dropdown on the side toolbar, or you can choose any shape and click on **Hole** when the object is highlighted.  
+
+//Screenshot//
+
+16. To make multiple copies of an object, highlight the object, then click on **Edit**, then **Duplicate**.  Click **Edit**, then **Paste** and a copy of your object will appear on the workplane.  
+
+//Screenshot of duplicated image on workplane//
+
+17. To save your newly created object, click on **Design**, then **Save**.  
+
+//Screenshot//
+
+18. To rename your object, click on **Design**, then **Properties**.  Here you can change the name of your file, and the privacy settings of your object.  When finished, click **Save Changes**.  
+
+//Screenshot of popup window//
+
+19. When you are finished designing your object and you are ready to print it, click on **Design**, then **Download for 3D Printing**.  Download the file as **.STL**. 
+
+//Screenshot//
+
+You are now ready to prepare your object for printing using MakerBot Desktop.  See the tutorial on 3D Printing in order to print your object.  
