@@ -15,10 +15,10 @@
 
   - Select File -> Open Library -> New.
   - Name the library in the **Save As** box in window that opens.
-  - In the **where** box, select your external hard drive (Note: you may have to click the down arrow next to Save As t see your external hard drive.
+  - In the **where** box, select your external hard drive (Note: you may have to click the down arrow next to Save As to see your external hard drive.
   - The library will appear in the Libraries section of the iMovie window.
   - You may now right click the default iMovie Library and select **remove**.
-  - Insert the SD Card from your video camera into the computer's SD Card reader.
+  - Insert the SD Card from your video camera into the computer's SD Card reader. Alternately, you can connect the USB cable from the camera to the computer.
   - A window will open that displays all the video clips stored on the SD Card.
   - To import one video clip, select the cideo clip you wish to import and select **Import Selected**.
   - To import some but not all, hold **Command** on the keyboard, and select the clips your would like to import, then press **Import Selected**.
