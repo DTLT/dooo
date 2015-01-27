@@ -62,7 +62,7 @@ This is documentation that needs to be written. Some of them may require a fair 
 
   * [[other-software-tools:3dprinting:tinkercad|Using Tinkercad]]:An introduction to using Tinkercad to create 3D objects. **Nora - DONE**
 
-  * [[other-software-tools:3dprinting:makerbot|Printing with MakerBot Desktop]]: An introduction to using MakerBot software to print 3D objects
+  * [[other-software-tools:3dprinting:makerbot|Printing with MakerBot Desktop]]: An introduction to using MakerBot software to print 3D objects.  **Nora**
 
 ===== Media Tutorials (For Evan * Tyler) =====
 
