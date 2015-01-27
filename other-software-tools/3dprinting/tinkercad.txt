@@ -6,78 +6,78 @@ Tinkercad is an online tool for creating your own 3D objects that can be printed
 
 1. Go to [[https://www.tinkercad.com/]] and sign in, or create a new account for free.  
 
-//Screenshot of login buttons//
+{{https://farm8.staticflickr.com/7320/16194125998_5034422dea_c.jpg}}
 
 2. Click on **Create New Design**.  
 
-//Screenshot//
+{{https://farm8.staticflickr.com/7316/16380844652_065de502cc_z.jpg}}
 
 3. Click and drag a shape or letter onto the workplane.  
 
-//Screenshot//
+{{https://farm8.staticflickr.com/7343/16194347550_179a89d7cd_c.jpg}}
 
 4. To change the size of the shape, hover over one of the white corners of the object until the dimensions are displayed. Click and drag the object to resize.  
 
-//Screenshot//
+{{https://farm9.staticflickr.com/8674/16355777316_49bcbc014b_c.jpg}}
 
 5. To rotate the object, hover over one of the double-ended arrows until the protractor appears. Click and drag the object to rotate.  
 
-//Screenshot//
+{{https://farm8.staticflickr.com/7372/16195852837_154dbfb433_c.jpg}}
 
 6. To make the object taller, hover over the white box on top of the object until the dimension appears.  Click and drag the object to reshape. 
 
-//Screenshot//
+{{https://farm9.staticflickr.com/8614/16381751115_0f0a7be61d_c.jpg}}
 
 7. To undo any previous command, click on **Undo**.
 
-//Screenshot//
+{{https://farm9.staticflickr.com/8637/16194123858_7614cac1ec_c.jpg}}
 
 8. To move/rotate the workplane, hold down the **control (ctrl) button** on your keyboard and the **left mouse button** while dragging the mouse.  (If you are working on a Mac, you can also drag with two fingers instead of using the control key)
 
-//Screenshot of keyboard and workplane//
+{{https://farm8.staticflickr.com/7380/16194123578_ddc579e091_c.jpg}}
 
 9. To zoom in/out, use two fingers on the touch pad or use the **+** and **-** buttons on the left hand side of the window.  
 
-//Screenshot of zoom buttons in app//
+{{https://farm9.staticflickr.com/8667/15761742883_6ffab40e56_o.jpg}}
 
 10. To add another object, refer to step 3.  To edit said object, refer to steps 4-6.  
 
-//Screenshot new object//
+{{https://farm9.staticflickr.com/8567/16195852077_bcf9dc70f0_c.jpg}}
 
 11. To raise an object off of the workplane, click and drag the black cone above the object.  
 
-//Screenshot//
+{{https://farm8.staticflickr.com/7398/16195523859_dd8d3eb288_z.jpg}}
 
 12. To align multiple objects, select the objects you wish to align by holding down the **shift** key and clicking each object.  
 
-//Screenshot//
+{{https://farm8.staticflickr.com/7303/15761742373_959f5da257.jpg}}
 
 13. Click on **Adjust** and then click on **Align...**  Black dots should appear on each dimension of the selected objects.  Click on the dots to align your objects.  When you are finished, click on **Dismiss Align Tool**.
 
-//Screenshot//
+{{https://farm8.staticflickr.com/7344/15761742303_c2a609c798_z.jpg}}
 
 14. To group multiple objects into one object, select all objects holding down the **shift** key and clicking each object.  Then click on **Group**.  The grouped objects should now all be the same color.  To ungroup objects, simply select the desired objects, then click on **Ungroup**.  
 
-//Screenshot//
+{{https://farm9.staticflickr.com/8680/16381749665_6fc65c75b1.jpg}}
 
 15. To make a hole in an object, you can either choose one of the shapes from the **Holes** dropdown on the side toolbar, or you can choose any shape and click on **Hole** when the object is highlighted.  
 
-//Screenshot//
+{{https://farm8.staticflickr.com/7337/16194122708_5f5c273e5c_c.jpg}}
 
 16. To make multiple copies of an object, highlight the object, then click on **Edit**, then **Copy**.  Click **Edit**, then **Paste** and a copy of your object will appear on the workplane.  Using the **Duplicate** button will also work - only the second object will appear in //exactly the same spot// as the original, so you will have to drag one object around the workplane.  
 
-//Screenshot of duplicated image on workplane//
+{{https://farm9.staticflickr.com/8668/15759301854_f58c5eaec7_c.jpg}}
 
 17. To save your newly created object, click on **Design**, then **Save**.  
 
-//Screenshot//
+{{https://farm8.staticflickr.com/7396/15761741273_799cbea668.jpg}}
 
 18. To rename your object, click on **Design**, then **Properties**.  Here you can change the name of your file, and the privacy settings of your object.  When finished, click **Save Changes**.  
 
-//Screenshot of popup window//
+{{https://farm8.staticflickr.com/7306/16381748985_381409d519_z.jpg}}
 
 19. When you are finished designing your object and you are ready to print it, click on **Design**, then **Download for 3D Printing**.  Download the file as **.STL**. 
 
-//Screenshot//
+{{https://farm8.staticflickr.com/7446/16194344370_02f3481782_z.jpg}}
 
 You are now ready to prepare your object for printing using MakerBot Desktop.  See the tutorial on 3D Printing in order to print your object.  
