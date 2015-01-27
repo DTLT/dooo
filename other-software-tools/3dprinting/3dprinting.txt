@@ -1,3 +1,5 @@
 ====== 3D Printing ======
 
 [[other-software-tools:3dprinting:basics|3D Printing: The Basics]]
+
+[[other-software-tools:3dprinting:tinkercad|Using Tinkercad]]
