@@ -64,7 +64,7 @@ Tinkercad is an online tool for creating your own 3D objects that can be printed
 
 //Screenshot//
 
-16. To make multiple copies of an object, highlight the object, then click on **Edit**, then **Duplicate**.  Click **Edit**, then **Paste** and a copy of your object will appear on the workplane.  
+16. To make multiple copies of an object, highlight the object, then click on **Edit**, then **Copy**.  Click **Edit**, then **Paste** and a copy of your object will appear on the workplane.  Using the **Duplicate** button will also work - only the second object will appear in //exactly the same spot// as the original, so you will have to drag one object around the workplane.  
 
 //Screenshot of duplicated image on workplane//
 
