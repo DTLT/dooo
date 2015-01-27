@@ -52,7 +52,7 @@ Tinkercad is an online tool for creating your own 3D objects that can be printed
 
 //Screenshot//
 
-13. Click on **Adjust** and then click on **Align...**  Black dots should appear on each dimension of the selected objects.  Click on the dots to align your objects.  
+13. Click on **Adjust** and then click on **Align...**  Black dots should appear on each dimension of the selected objects.  Click on the dots to align your objects.  When you are finished, click on **Dismiss Align Tool**.
 
 //Screenshot//
 
