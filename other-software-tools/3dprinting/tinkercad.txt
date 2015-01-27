@@ -42,17 +42,17 @@ Tinkercad is an online tool for creating your own 3D objects that can be printed
 
 10. To add another object, refer to step 3.  To edit said object, refer to steps 4-6.  
 
+11. To raise an object off of the workplane, click and drag the black cone above the object. 
+
 {{https://farm9.staticflickr.com/8567/16195852077_bcf9dc70f0_c.jpg}}
-
-11. To raise an object off of the workplane, click and drag the black cone above the object.  
-
-{{https://farm8.staticflickr.com/7398/16195523859_dd8d3eb288_z.jpg}}
 
 12. To align multiple objects, select the objects you wish to align by holding down the **shift** key and clicking each object.  
 
-{{https://farm8.staticflickr.com/7303/15761742373_959f5da257.jpg}}
+{{https://farm8.staticflickr.com/7398/16195523859_dd8d3eb288_z.jpg}}
 
 13. Click on **Adjust** and then click on **Align...**  Black dots should appear on each dimension of the selected objects.  Click on the dots to align your objects.  When you are finished, click on **Dismiss Align Tool**.
+
+{{https://farm8.staticflickr.com/7303/15761742373_959f5da257.jpg}}
 
 {{https://farm8.staticflickr.com/7344/15761742303_c2a609c798_z.jpg}}
 
