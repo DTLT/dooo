@@ -1,6 +1,6 @@
 ====== Using Tinkercad ======
 
-Tinkercad is an online tool for creating your own 3D objects that can be printed using a 3D printer.  
+Tinkercad is an online tool for creating your own 3D objects that can be printed using a 3D printer. There are no boundaries when it comes to creating objects, so just experiment and play around with the different tools in Tinkercad and have fun! 
 
 **Getting Started:**
 
@@ -80,4 +80,4 @@ Tinkercad is an online tool for creating your own 3D objects that can be printed
 
 {{https://farm8.staticflickr.com/7446/16194344370_02f3481782_z.jpg}}
 
-You are now ready to prepare your object for printing using MakerBot Desktop.  See the tutorial on 3D Printing in order to print your object.  
+You are now ready to prepare your object for printing using MakerBot Desktop!  See the tutorial on 3D Printing in order to print your object.  
