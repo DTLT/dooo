@@ -2,3 +2,29 @@
 
 MakerBot Desktop is the newest version of MakerBot software that allows you to print 3D objects on a MakerBot 3D Printer.  
 
+This tutorial is designed to guide you through the process of printing a 3D object. If you want to create your own object to print, please read the [[other-software-tools:3dprinting:tinkercad|Tinkercad tutorial]] before proceeding here.  
+
+1. Go to [[http://www.makerbot.com/desktop#download]] and download the latest version of MakerBot Desktop and follow the installation steps.  
+
+//screenshot//
+
+2. Once downloaded, launch the application.  
+
+//screenshot homescreen//
+
+3.
+
+3. Click **Prepare**. You should see a blank grid like the one shown below.  
+
+//screenshot prepare button and prepare screen//
+
+4. Click **Add File** and find the .stl file that you created using Tinkercad, and click **Open**.  The file should appear on the build platform.  
+
+//screenshot of open with file//
+
+5. Using the various buttons along the left-hand side of the screen, you can change the view of the platform, rotate and move the object, and change the size of it. The object must be selected!  It is always a good idea to make sure your object is centered on the build platform. Click **On Platform** and **Center** under the **Change Position** button.  
+
+//screenshot center and on platform buttons//
+
+
+
