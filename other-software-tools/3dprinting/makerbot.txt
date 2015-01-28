@@ -52,7 +52,7 @@ This tutorial is designed to guide you through the process of printing a 3D obje
 
 
 
-==== If you are using the Replicator 5th Generation: ====
+===== If you are using the Replicator 5th Generation: =====
 
 
 1. Insert a USB drive into your computer.
