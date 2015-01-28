@@ -29,14 +29,4 @@ Finally, Udell's short piece is a bit more theoretical -- but it proposes a numb
 
 ===== Other Work =====
  
-In addition, prior to the first meeting, you must choose your own domain name and get a hosting account through Domain of One’s Own. You'll also need to install WordPress on your domain. 
-
-If you already have a domain, you do not need to sign-up again. Similarly, if you already have WordPress installed, you can use your existing installation for the Faculty Initiative -- Or you can install another copy of WordPress. Ultimately, you will be blogging as part of your participation in the program, and you can decide if you would like to use an existing WordPress or a new one. 
-
-The following tutorials will walk you through choosing a domain name, signing up on DoOO, and installing WordPress. 
-
-{{page>domain-of-ones-own:general:choosing-a-domain-name}}
-
-{{page>domain-of-ones-own:general:signing-up-on-domain-of-one-s-own}}
-
-{{page>wordpress:getting-started:installing-wordpress}}
+In addition, prior to the first meeting, we encourage you to think about what domain name (e.g. ryanbrazell.net) you might want to establish as part of this project.
