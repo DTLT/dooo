@@ -17,7 +17,7 @@ Weinberger's piece (a preface to a longer book that examines the Web) is a great
 
 Udell's short piece is a bit more theoretical -- but it proposes a number of suggestions about how we should be thinking about and interacting with the Web. Udell is known for advocating that we become more nuanced and critical users of the Internet. This article summarizes some of the reasons why he thinks that we need to be more self-aware about our interactions with these technologies and spaces.
 
-Suggested Readings:
+==== Suggested Readings ====
    * //[[http://sloan.stanford.edu/mousesite/1968Demo.html | Doug Engelbart 1968 Demo]]// (VIDEOS)
    * //[[http://info.cern.ch | Home of the First Web Site]]// (~1992)
    * //[[https://www.video2brain.com/en/lessons/how-the-web-works | How the Web Works]]//, Chad Chelius (2011) (VIDEO)
