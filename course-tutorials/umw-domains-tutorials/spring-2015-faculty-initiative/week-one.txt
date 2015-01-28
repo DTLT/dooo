@@ -31,4 +31,4 @@ The two short videos by Chelius and Cutts are pretty basic introductions to the 
  
 In addition, prior to the first meeting, we encourage you to think about what domain name (e.g. yourname.net) you might want to establish as part of this project. Below are some suggestions and guidelines to help you begin that thought process.
 
-{{page>general:choosing-a-domain-name}}
+{{page>domain-of-ones-own:general:choosing-a-domain-name}}
