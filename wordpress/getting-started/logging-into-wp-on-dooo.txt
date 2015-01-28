@@ -1,0 +1,9 @@
+===== Logging in to Domain of One's Own: Wordpress Application =====
+You may need to log into to your Wordpress
+
+  * First, you want to go to **umw.domains.**
+  * Once there, **click** Login/signup.
+  * **Sign-in** with your **EagleNet Login ID.**
+  * Your **Dashboard** should appear. 
+  * 
+
