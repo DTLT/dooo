@@ -23,7 +23,7 @@ Udell's short piece is a bit more theoretical -- but it proposes a number of sug
    * //[[https://www.video2brain.com/en/lessons/how-the-web-works | How the Web Works]]//, Chad Chelius (2011) (VIDEO)
    * //[[http://www.youtube.com/watch?v=BNHR6IQJGZs | How Search Works]]//, Matt Cutts (2010) (VIDEO)
 
-As you review http://info.cern.ch, we encourage you to explore it via the Line Mode Browser Simulator, to get a real sense of how we first interfaced with the Web. Take a moment and reflect upon the incredible degree to which those interfaces have changed in the last 20 years. 
+As you review [[http://info.cern.ch | the home of the first Web site]], we encourage you to explore it via the Line Mode Browser Simulator, to get a real sense of how we first interfaced with the Web. Take a moment and reflect upon the incredible degree to which those interfaces have changed in the last 20 years. 
 
 The two short videos by Chelius and Cutts are pretty basic introductions to the concept of the Web and of Search Engines. Understanding how Search Engines work, even on a basic level, is critical to developing a literacy around and about the Web -- after all Search Engines mediate a vast amount of our interaction with the Web. When was the last time you thought about how the algorithms that build your search result ultimately effect your experience of the Web (and your ability to find what you're looking for on it)?  
 
