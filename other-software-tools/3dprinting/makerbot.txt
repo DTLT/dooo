@@ -40,7 +40,7 @@ This tutorial is designed to guide you through the process of printing a 3D obje
 
 //screenshot//
 
-3. Change the type of filament to say **MakerBot ABS** for both the right and left extruders.  Then click **Save Settings**.
+3. Change the type of filament to say **MakerBot ABS** for both the right and left extruders.  If you have overhangs on your object, you will also want to turn on supports for the same extruder that you are printing from. Then click **Save Settings**.
 
 //screenshot of settings page//
 
@@ -61,7 +61,7 @@ This tutorial is designed to guide you through the process of printing a 3D obje
 
 //screenshot//
 
-3. Make sure the material says **MakerBot PLA**.  Then click **Save Settings**.
+3. Make sure the material says **MakerBot PLA**.  If you have overhangs on your object, you will also want to check the **Supports** box.  Then click **Save Settings**.
 
 //screenshot of settings page//
 
