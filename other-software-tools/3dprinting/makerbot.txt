@@ -12,19 +12,27 @@ This tutorial is designed to guide you through the process of printing a 3D obje
 
 //screenshot homescreen//
 
-3.
+3. Click on **Devices** then **Select Type of Device** and choose the printer that you will use.  The ThinkLab houses the **Replicator (Dual)** printer and DTLT houses the **Replicator (5th Generation)**.  **MAKE SURE YOU CHOOSE THE CORRECT PRINTER, OTHERWISE YOUR OBJECT WILL NOT PRINT PROPERLY!**
 
-3. Click **Prepare**. You should see a blank grid like the one shown below.  
+//screenshot devices list//
+
+4. Once you have chosen the correct printer, click **Prepare**. You should see a blank grid like the one shown below.  
 
 //screenshot prepare button and prepare screen//
 
-4. Click **Add File** and find the .stl file that you created using Tinkercad, and click **Open**.  The file should appear on the build platform.  
+5. Click **Add File** and find the .stl file that you created using Tinkercad, and click **Open**.  The file should appear on the build platform.  
 
 //screenshot of open with file//
 
-5. Using the various buttons along the left-hand side of the screen, you can change the view of the platform, rotate and move the object, and change the size of it. The object must be selected!  It is always a good idea to make sure your object is centered on the build platform. Click **On Platform** and **Center** under the **Change Position** button.  
+6. Using the various buttons along the left-hand side of the screen, you can change the view of the platform, rotate and move the object, and change the size of it. The object must be selected!  It is always a good idea to make sure your object is centered on the build platform. Click **On Platform** and **Center** under the **Change Position** button.  
 
 //screenshot center and on platform buttons//
+
+
+**Please read the following steps carefully, as they differ for each type of printer!**
+
+===== If you are using the Replicator Dual: =====
+
 
 
 
