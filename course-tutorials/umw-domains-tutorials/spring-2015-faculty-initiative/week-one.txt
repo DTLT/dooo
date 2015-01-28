@@ -9,7 +9,7 @@ One goal of Domain of One’s Own is to help participants develop a deeper under
 Required Readings:
    * //[[http://www.ps.uni-saarland.de/~duchier/pub/vbush/vbush-all.shtml | As We May Think]]//, Vannevar Bush (1945)
    * //[[http://www.smallpieces.com/content/preface.html | Small Pieces, Loosely Joined: Preface]]//, David Weinberger (2002)
-   * //[[http://blog.jonudell.net/2011/01/24/seven-ways-to-think-like-the-web/ | Seven Way to Think about the Web]]//, Jon Udell (2011) //(feel free to skim this one)//
+   * //[[http://blog.jonudell.net/2011/01/24/seven-ways-to-think-like-the-web/ | Seven Ways to Think about the Web]]//, Jon Udell (2011) //(feel free to skim this one)//
 
 Suggested Readings:
    * //[[http://sloan.stanford.edu/mousesite/1968Demo.html | Doug Engelbart 1968 Demo]]// (VIDEOS)
