@@ -34,5 +34,39 @@ This tutorial is designed to guide you through the process of printing a 3D obje
 ===== If you are using the Replicator Dual: =====
 
 
+1. Insert an SD card into your computer. This card is similar to the memory cards used in digital cameras.  
+
+2. Click on **Settings**.  
+
+//screenshot//
+
+3. Change the type of filament to say **MakerBot ABS** for both the right and left extruders.  Then click **Save Settings**.
+
+//screenshot of settings page//
+
+4. Click **Export Print File**. When another window pops up, click **Export Now**.  The file should be saved as **.x3g** file type. Make sure to save it onto the SD card and not your computer! When you are finished, click **Save**. 
+
+//screenshot//
+
+5. 
 
 
+
+==== If you are using the Replicator 5th Generation: ====
+
+
+1. Insert a USB drive into your computer.
+
+2. Click on **Settings**.  
+
+//screenshot//
+
+3. Make sure the material says **MakerBot PLA**.  Then click **Save Settings**.
+
+//screenshot of settings page//
+
+4. Click **Export Print File**. When another window pops up, click **Export Now**.  The file should be saved as **.makerbot** file type.  Make sure to save it onto the USB drive and not your computer! When you are finished, click **Save**. 
+
+//screenshot//
+
+5. 
