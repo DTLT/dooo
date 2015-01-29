@@ -47,6 +47,7 @@
   * [[course-tutorials:umw-domains-tutorials:adventures-in-digital-history|HIST 428: Adventures in Digital History]] (McClurken)
   * [[course-tutorials:umw-domains-tutorials:oral-history|HIST 441: Oral History]] (Rigelhaupt)
   * [[courses:immigration|HIST 471E8: Immigration and the US South]] (Moon)
+  * [[courses:century-america|Century America]] (McClurken)
 
 ==== Interdisciplinary Science Studies ====
   * [[course-tutorials:umw-domains-tutorials:freedom-rides-revisited|IDIS 300M: Freedom Rides Revisited]]
