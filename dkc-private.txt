@@ -66,7 +66,6 @@ This is documentation that needs to be written. Some of them may require a fair 
 
 The following screencasts need to have step-by-step instructions written (see Andy with any questions). Please put your name next to the document you're working on. Mark it DONE when finished:
 
-  * Format Your External Drive to ExFat - https://vimeo.com/75891286 **EVAN**
   * Format drive for Final Cut Pro X - https://vimeo.com/73134399 **TYLER**
   * Green Screen Effect in iMovie - https://www.youtube.com/watch?v=mm4o6wlA8Ak
   * Green Screen Enhancements in iMovie - https://www.youtube.com/watch?v=pWUSs6l1R-I
@@ -123,5 +122,7 @@ The following screencasts need to have step-by-step instructions written (see An
   * Creating a Camera Archive in Final Cut Pro X - https://vimeo.com/92358330 **EVAN** - **DONE**
 
   * Unordered List Item[[wordpress:getting-started:logging-into-wp-on-dooo]]: This needs to be a tutorial about how to login to a WP install. I'd like instructions on doing this via the /wp-admin link. You can link  [[http://docs.umwdomains.com/domain-of-ones-own/cpanel/finding-and-changing-account-and-application-information-and-passwords-in-cpanel|to the tutorial about changing your PW in Installatron]], in case they need to reset their pw. In addition, I would like a second section on how to login via cPanel (by logging into Domain of One's Own site and browsing to your installed application in cPanel). **Meredith** **DONE**
+  
+  * Format Your External Drive to ExFat - https://vimeo.com/75891286 **EVAN** - **DONE**
 
 {{indexmenu_n>15}}
