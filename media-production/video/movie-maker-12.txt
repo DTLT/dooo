@@ -17,3 +17,5 @@ Through the Video Tools tab, you'll be able to make several basic edits to your 
 
 The most immediately useful tool here is the **Split** tool. By splitting your timeline, you'll be able to more easily control settings for different parts of your video. For example, if you want the first four minutes of your video to run at 2x speed and the rest to run at 1x speed, you can simply split the video at the four minute mark and then select that portion of the video to change its speed. To split your video, go to the time on your video that you'd like to split it at, you can do this with either the video controls to the left under the preview, or by moving the black bar on the timeline. Once you position it carefully, click **Split**. Now your video should be split into two parts at the time you chose. You can do this as much as you'd like. You can also use the split tool in lieu of the **Trim** tool by splitting parts of your timeline and then deleting them.
 
+{{https://farm8.staticflickr.com/7288/16216822598_4ba95bfd05_z.jpg}}
+
