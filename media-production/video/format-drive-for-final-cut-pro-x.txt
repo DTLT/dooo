@@ -45,6 +45,6 @@ In this case you are using the External Hard Drive for Final Cut Pro- so select 
 
 After a few seconds you will basically have the pop-up that you had at the beginning when you plugged External Hard Drive into computer asking you : Do you want to use (name of your Hard Drive) to back up with Time Machine?
 
-4. Click Don’t Use 
+4. Select Don’t Use 
 
 - Now your drive is formatted and ready to be used with Final Cut Pro X
