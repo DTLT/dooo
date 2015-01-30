@@ -7,7 +7,9 @@ Movie Maker 12 is really a very simple program to learn. First you'll want to ha
 
 {{https://farm9.staticflickr.com/8659/16217706349_a3f5eda354_z.jpg}}
 
-Once you have your video file loaded, it should appear to the right of the screen.The video file will likely appear as one timeline, or one long thumbnail. To do basic editing on your video, you'll want to use Video Tools.
+Once you have your video file loaded, it should appear to the right of the screen.The video file will likely appear as one timeline, or one long thumbnail. To do basic editing on your video, you'll want to use **Video Tools**.
 
 {{https://farm9.staticflickr.com/8664/16403912275_711568094f_z.jpg}}
+
+Through the Video Tools tab, you'll be able to make several basic edits to your video. You can control the video's volume, and you can have the audio fade in or out by different intervals. Other edits include the ability to increase your video's speed, to split your video into parts, and to trim parts off of your video. 
 
