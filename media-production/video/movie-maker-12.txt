@@ -11,5 +11,9 @@ Once you have your video file loaded, it should appear to the right of the scree
 
 {{https://farm9.staticflickr.com/8664/16403912275_711568094f_z.jpg}}
 
-Through the Video Tools tab, you'll be able to make several basic edits to your video. You can control the video's volume, and you can have the audio fade in or out by different intervals. Other edits include the abilities to increase your video's speed, to split your video into parts, and to trim parts off of your video. 
+Through the Video Tools tab, you'll be able to make several basic edits to your video. You can control the video's volume, and you can have the audio fade in or out by different intervals. Other edits include the abilities to increase your video's speed, to split your video into parts, and to trim parts off of your video.
+
+{{https://farm9.staticflickr.com/8662/16218318177_6d2728620e_z.jpg}}
+
+The most immediately useful tool here is the **Split** tool. By splitting your timeline, you'll be able to more easily control settings for different parts of your video. For example, if you want the first four minutes of your video to run at 2x speed and the rest to run at 1x speed, you can simply split the video at the four minute mark and then select that portion of the video to change its speed. To split your video, go to the time on your video that you'd like to split it at, you can do this with either the video controls to the left under the preview, or by moving the black bar on the timeline. Once you position it carefully, click **Split**. Not your video show be split into two parts at the time you chose. You can do this as much as you need.
 
