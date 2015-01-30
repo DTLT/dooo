@@ -1,0 +1,22 @@
+====== Green Screen Enhancements in iMovie ======
+
+===== Ingredients =====
+
+1 - Computer (Mac only)
+
+1 - iMovie software
+
+===== Directions =====
+
+**NOTE** This movie is a continuation of the [[media-production:video:green-screen-effect-in-imovie|Green Screen Effect in iMovie]] video. If you haven't completed that recipe, you may want to do so now.
+
+  - In the adjustment panel, where previously we had selected **Fit** to have the image fit the screen, we now want to select **Crop to Fill** to have the image fill the screen with no extra (You can adjust the position and size of the selected area by clicking and dragging the field that appears).
+  - Next, we select **Color Correction**. Increase the saturation to make the subject look less washed out.
+  - Return to the adjustment panel.
+  - Using the **Softness** slider, you can correct small mistakes like small folds in the green screen. Beware however, that extremes to both sides of the slider can have interesting effects. For most instances, somewhere in the middle of the slider will provide the best results.
+  - For larger mistakes such as large shadows on the green screen, select the **Eraser** icon in the adjustment panel and click where the mistake is.
+  - Another technique for fixing large mistakes is using the **Clean Up** tool. Clicking this tool allows you to manipulate 4 white dots that appear in the corners to adjust what portion of the screen is being overlaid by the image alone, and what portion is image and video together. Beware that this means you can crop out entire parts of your footage so be careful.
+
+"With great power comes great responsibility." - Ben Parker, //Spiderman//
+
+Be careful with these tools, they can be very helpful, but they can also cause a lot of harm to a potential project. It may be a good idea to practice these techniques before attempting to implement them in a major project.
