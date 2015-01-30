@@ -1,0 +1,18 @@
+====== Green Screen Effect in iMovie ======
+
+===== Ingredients =====
+
+1 - Computer (Mac)
+
+1 - iMovie Software
+
+===== Directions =====
+
+**NOTE** you should already have the background video and the green screen video uploaded before this tutorial. If you need help uploading video to iMovie, you can find many tutorials from [[https://www.youtube.com/results?search_query=importing+video+into+imovie|Youtube]] or [[media-production:video:importing-video-from-a-camera-to-imovie|Here]]
+
+  - Open the iMovie software.
+  - Drag the still image background onto the timeline.
+  - If the image has a zoom or other similar effect, click on **Adjust**,and select the **Fit** button.
+  - Drag the green screen footage into the timeline, and align it with the background image. If need be, you can drag the length of the still image to match the green screen footage.
+  - Select the green screen footage and return to the adjustment panel.
+  - Where the video overlay displays **Cutaway**, using the dropdown menu, select **GreenBlueScreen**.
