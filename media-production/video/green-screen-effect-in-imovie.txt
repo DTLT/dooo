@@ -8,7 +8,7 @@
 
 ===== Directions =====
 
-**NOTE** you should already have a background image and the green screen footage uploaded before this tutorial. If you need help uploading video to iMovie, you can find many tutorials from [[https://www.youtube.com/results?search_query=importing+video+into+imovie|Youtube]] or [[media-production:video:importing-video-from-a-camera-to-imovie|Here]]
+**NOTE** You should already have a background image and the green screen footage uploaded before this tutorial. If you need help uploading video to iMovie, you can find many tutorials from [[https://www.youtube.com/results?search_query=importing+video+into+imovie|Youtube]] or [[media-production:video:importing-video-from-a-camera-to-imovie|Here]]
 
   - Open the iMovie software.
   - Drag the still image background onto the timeline.
