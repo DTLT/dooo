@@ -1,8 +1,17 @@
 ====== Format Your External Drive to ExFat ======
 
-===== Headline =====
+===== Ingredients =====
 
-1 - Computer
+1 - Computer (Mac for this tutorial)
 
 1 - External Hard Drive
 
+===== Directions =====
+
+**IMPORTANT** If there are files on the external hard drive, **BACK THEM UP**. All files will be erased during this procedure so if you want to save any files from the external hard drive you need to save them before this tutorial.
+
+  - Plug the external hard drive into a USB port on the computer.
+  - Open **Disk Utility**. This can be found either by using the mac's search function (the magnifying glass in the top right) or in the Utilities folder in Applications.
+  - Select your external hard drive and navigate to the **Erase** tab.
+  - Change the format to **ExFAT** using the drop down menu and name the drive whatever you'd like.
+  - Select **Erase** and confirm the action in the window that appears.
