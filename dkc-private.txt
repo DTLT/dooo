@@ -126,5 +126,8 @@ The following screencasts need to have step-by-step instructions written (see An
   * [[media-production:video:green-screen-effect-in-imovie|Green Screen Effect in iMovie]] - https://www.youtube.com/watch?v=mm4o6wlA8Ak **EVAN** - **DONE**
   
   * [[media-production:video:green-screen-enhancements-in-imovie|Green Screen Enhancements in iMovie]] - https://www.youtube.com/watch?v=pWUSs6l1R-I **EVAN** - **DONE**
+ 
+  * [[media-production:video:format-drive-for-final-cut-pro-x|Format Drive for Final Cut Pro X]] - https://vimeo.com/73134399 **TYLER** - **DONE**
+
 
 {{indexmenu_n>15}}
