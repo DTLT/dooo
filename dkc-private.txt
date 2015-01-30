@@ -128,6 +128,7 @@ The following screencasts need to have step-by-step instructions written (see An
   * [[media-production:video:green-screen-enhancements-in-imovie|Green Screen Enhancements in iMovie]] - https://www.youtube.com/watch?v=pWUSs6l1R-I **EVAN** - **DONE**
  
   * [[media-production:video:format-drive-for-final-cut-pro-x|Format Drive for Final Cut Pro X]] - https://vimeo.com/73134399 **TYLER** - **DONE**
-
+  
+  * [[media-production:video:download-youtube-videos-with-video-downloadhelper|Download YouTube Videos with Video DownloadHelper]]- https://www.youtube.com/watch?v=3CweoQmJ2JU **TYLER**-**DONE**
 
 {{indexmenu_n>15}}
