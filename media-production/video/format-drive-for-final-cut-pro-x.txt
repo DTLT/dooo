@@ -21,7 +21,7 @@ In this case you are using the External Hard Drive for Final Cut Pro- so select 
 
 2. Now you need to format your drive for Final Cut- Two ways to do this:
 
-*	Double Click Macintosh Hard Drive- Applications Folder- Utilities- Disk Utility- 
+*	Double Click Macintosh Hard Drive → Applications Folder → Utilities→ Disk Utility 
  
 *	Magnifying Glass (For Search)- Type Disk Utility (Hit Enter to start program)
 
@@ -35,7 +35,7 @@ In this case you are using the External Hard Drive for Final Cut Pro- so select 
 
 *	Click on Mac OS Extended (Journaled)
 
-*	Below after you make that selection, you are bale to change the name of your External Hard Drive or keep it the way that it is. 
+*	Below after you make that selection, you are able to change the name of your External Hard Drive or keep it the way that it is. 
 
 *	Finally click on the Erase Button on the bottom right of section. 
 
