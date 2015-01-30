@@ -1,0 +1,50 @@
+===== Format Drive for Final Cut Pro X =====
+
+===== Ingredients =====
+
+1 – Computer (Mac)
+
+1 - Final Cut Pro Software (Pre-installed on Mac OSX)
+
+1 – External hard Drive
+
+==== Directions ====
+
+
+----
+
+1. Plug In External Hard Drive into Computer
+
+(Pop-up may appear to ask if you would like to use External Hard Drive as a Back up with TIME Machine?)
+
+In this case you are using the External Hard Drive for Final Cut Pro- so select the button (Don’t Use)
+
+2. Now you need to format your drive for Final Cut- Two ways to do this:
+
+*	Double Click Macintosh Hard Drive- Applications Folder- Utilities- Disk Utility- 
+ 
+*	Magnifying Glass (For Search)- Type Disk Utility (Hit Enter to start program)
+
+3. Next thing to do is go in and format the drive
+
+*	Click on area that is the name of your external drive (Example: MY PASSPORT)
+
+*	Select the Erase tab
+
+* Format will Read: Windows NT File System (NTFS)- you will click on the drop down button where you read this to get the format you will use
+
+*	Click on Mac OS Extended (Journaled)
+
+*	Below after you make that selection, you are bale to change the name of your External Hard Drive or keep it the way that it is. 
+
+*	Finally click on the Erase Button on the bottom right of section. 
+
+*	Pop- up will ask you again if you want to erase, click Erase again
+
+(While it is erasing it will take the disk out, upload some temporary files, and erase the volume.)
+
+After a few seconds you will basically have the pop-up that you had at the beginning when you plugged External Hard Drive into computer, asking you: Do you want to use (name of your Hard Drive) to back up with Time Machine?
+
+4. Click Don’t Use 
+
+- Now your drive is formatted and ready to be used with Final Cut Pro X
