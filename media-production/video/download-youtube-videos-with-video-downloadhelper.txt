@@ -1,0 +1,35 @@
+====== Download YouTube Videos with Video DownloadHelper  ======
+
+===== Ingredients =====
+
+1- Computer
+
+1- Firefox Browser
+
+1- Plug-in (Video DownloadHelper for Firefox)
+
+1- Web address of YouTube video you want to download.
+
+==== Directions ====
+
+One of the easiest ways to download videos that exist on YouTube is by using the Firefox Web Browser + Plug-in ( Video DownloadHelper) . You can find this by searching for it on Google.
+ 
+1. Search - VideoDownloadHelper for Firefox, and download it.  
+
+You can tell that you have it installed if you look to the left of your website address bar. If DownloadHelper is active and ready to use there will be an icon spinning that looks like three circles connected in the middle.  
+
+2. You can check by going to YouTube in Firefox and searching a video such as Example: Jaaam (The Fresh Prince Remix)
+
+Once there, look to the left of your website address bar and you should see the icon spinning when you hover over it. 
+
+3. When you see this icon click on the down arrow to the right of it, and you will be given several options of video quality. You always want to try and get the highest quality of the video shown to work with. Such as a (720p) file which in this video example is a MP4. 
+
+4. Click on your quality of video you want and then select download.
+
+5. When prompted for a location, send to your movie folder to store and click save.
+
+Video will then begin downloading; you can see this at bottom left of browser page.	
+
+6. Go to finder → movies folder
+
+And your video will be the most recent shown.  
