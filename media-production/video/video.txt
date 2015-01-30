@@ -11,4 +11,4 @@
   * [[media-production:video:Creating a Camera Archive in Final Cut Pro X]]
   * [[media-production:video:Format Your External Drive to ExFat]]
   * [[media-production:video:Record Voiceovers in iMovie]]
-  * [[media-production:video:Format Drive for Final Cut Pro]]
+  * [[media-production:video:Format Drive for Final Cut Pro X]]
