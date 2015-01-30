@@ -43,7 +43,7 @@ In this case you are using the External Hard Drive for Final Cut Pro- so select 
 
 (While it is erasing it will take the disk out, upload some temporary files, and erase the volume.)
 
-After a few seconds you will basically have the pop-up that you had at the beginning when you plugged External Hard Drive into computer, asking you: Do you want to use (name of your Hard Drive) to back up with Time Machine?
+After a few seconds you will basically have the pop-up that you had at the beginning when you plugged External Hard Drive into computer asking you : Do you want to use (name of your Hard Drive) to back up with Time Machine?
 
 4. Click Don’t Use 
 
