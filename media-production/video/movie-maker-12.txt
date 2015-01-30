@@ -5,9 +5,9 @@ Click [[http://go.microsoft.com/fwlink/p/?LinkID=255475|here]] to download and i
 
 Movie Maker 12 is really a very simple program to learn. First you'll want to have video to work with. You can get this from several sources. Maybe you want to work with a clip from a movie, or maybe you have video that you yourself recorded. As long as you have the file on your computer, and it is one of the [[http://windows.microsoft.com/en-us/windows-live/movie-maker-file-types-faq|accepted file extensions]], you can open it in Movie Maker by clicking the workspace to the right that says "**Click here to browse for videos and photos**."
 
-Once you have your video file loaded, it should appear to the right of the screen. 
-
 {{https://farm9.staticflickr.com/8659/16217706349_a3f5eda354_z.jpg}}
+
+Once you have your video file loaded, it should appear to the right of the screen.The video file will likely appear as one timeline, or one long thumbnail. To do basic editing on your video, you'll want to use Video Tools.
 
 {{https://farm9.staticflickr.com/8664/16403912275_711568094f_z.jpg}}
 
