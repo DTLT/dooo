@@ -124,6 +124,6 @@ The following screencasts need to have step-by-step instructions written (see An
   
   * [[media-production:video:format-your-external-drive-to-exfat|Format Your External Drive to ExFat]] - https://vimeo.com/75891286 **EVAN** - **DONE**
   
-  * [[media-production:video:green-screen-effect-in-imovie|Green Screen Effect in iMovie]] - https://www.youtube.com/watch?v=mm4o6wlA8Ak **EVAN**
+  * [[media-production:video:green-screen-effect-in-imovie|Green Screen Effect in iMovie]] - https://www.youtube.com/watch?v=mm4o6wlA8Ak **EVAN** - **DONE**
 
 {{indexmenu_n>15}}
