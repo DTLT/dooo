@@ -29,22 +29,22 @@ In this case you are using the External Hard Drive for Final Cut Pro- so select 
 
 *	Click on area that is the name of your external drive (Example: MY PASSPORT)
 
-*	Select the Erase tab
+4. Select the Erase tab
 
 * Format will Read: Windows NT File System (NTFS)- you will click on the drop down button where you read this to get the format you will use
 
-*	Click on Mac OS Extended (Journaled)
+5. Click on Mac OS Extended (Journaled)
 
 *	Below after you make that selection, you are able to change the name of your External Hard Drive or keep it the way that it is. 
 
-*	Finally click on the Erase Button on the bottom right of section. 
+6. Finally click on the Erase Button on the bottom right of section. 
 
-*	Pop- up will ask you again if you want to erase, click Erase again
+7. Pop- up will ask you again if you want to erase, click Erase again
 
 (While it is erasing it will take the disk out, upload some temporary files, and erase the volume.)
 
-After a few seconds you will basically have the pop-up that you had at the beginning when you plugged External Hard Drive into computer asking you : Do you want to use (name of your Hard Drive) to back up with Time Machine?
+*After a few seconds you will basically have the pop-up that you had at the beginning when you plugged External Hard Drive into computer asking you : Do you want to use (name of your Hard Drive) to back up with Time Machine?
 
-* Select Don’t Use 
+8. Select Don’t Use 
 
-4. Now your drive is formatted and ready to be used with Final Cut Pro X
+9. Now your drive is formatted and ready to be used with Final Cut Pro X
