@@ -131,6 +131,6 @@ The following screencasts need to have step-by-step instructions written (see An
   
   * [[media-production:video:download-youtube-videos-with-video-downloadhelper|Download YouTube Videos with Video DownloadHelper]]- https://www.youtube.com/watch?v=3CweoQmJ2JU **TYLER**-**DONE**
 
-  * [[media-production:video:convert-video-files-to-mp3-(audio-only)-files|Convert Video Files to MP3 (audio only) Files]]-  **TYLER**-**DONE**
+  * [[media-production:video:convert-video-files-to-mp3-(audio-only)-files|Convert Video Files to MP3 (audio only) Files]]- https://www.youtube.com/watch?v=toxXlgKPo0A **TYLER**-**DONE**
 
 {{indexmenu_n>15}}
