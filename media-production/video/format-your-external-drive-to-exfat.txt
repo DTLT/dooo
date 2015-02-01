@@ -8,10 +8,10 @@
 
 ===== Directions =====
 
-**IMPORTANT** If there are files on the external hard drive, **BACK THEM UP**. All files will be erased during this procedure so if you want to save any files from the external hard drive you need to save them before this tutorial.
+**IMPORTANT** If there are files on the external hard drive, **BACK THEM UP**. All files will be erased during this procedure. Save your files to another hard drive before following the steps of this tutorial.
 
-  - Plug the external hard drive into a USB port on the computer.
-  - Open **Disk Utility**. This can be found either by using the mac's search function (the magnifying glass in the top right) or in the Utilities folder in Applications.
+  - Plug the external hard drive into a USB port on the computer. If you are asked about using the drive with Time Machine, select **Don't Use**.
+  - Open **Disk Utility**. This can be found either by using the Mac's Spotlight search function (the magnifying glass in the top right of the screen) or in the Utilities folder within the Applications folder.
   - Select your external hard drive and navigate to the **Erase** tab.
   - Change the format to **ExFAT** using the drop down menu and name the drive whatever you'd like.
   - Select **Erase** and confirm the action in the window that appears.
