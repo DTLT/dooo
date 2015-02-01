@@ -6,30 +6,20 @@
 
 1- Firefox Browser
 
-1- Plug-in (Video DownloadHelper for Firefox)
+1- Firefox Add-on ([[http://www.downloadhelper.net|Video DownloadHelper for Firefox]])
 
-1- Web address of YouTube video you want to download.
+1- Web address of a YouTube video you want to download (Be mindful of Copyright issues).
 
 ==== Directions ====
 
-One of the easiest ways to download videos that exist on YouTube is by using the Firefox Web Browser + Plug-in ( Video DownloadHelper) . You can find this by searching for it on Google.
- 
-1. Search - VideoDownloadHelper for Firefox, and download it.  
-
-You can tell that you have it installed if you look to the left of your website address bar. If DownloadHelper is active and ready to use there will be an icon spinning that looks like three circles connected in the middle.  
-
-2. You can check by going to YouTube in Firefox and searching a video such as Example: Jaaam (The Fresh Prince Remix)
-
-Once there, look to the left of your website address bar and you should see the icon spinning when you hover over it. 
-
-3. When you see this icon click on the down arrow to the right of it, and you will be given several options of video quality. You always want to try and get the highest quality of the video shown to work with. Such as a (720p) file which in this video example is a MP4. 
-
-4. Click on your quality of video you want and then select download.
-
-5. When prompted for a location, send to your movie folder to store and click save.
-
-Video will then begin downloading; you can see this at bottom left of browser page.	
-
-6. Go to finder → movies folder
-
-And your video will be the most recent shown.  
+  - Open the Firefox Web Browser and navigate to the [[https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/|Video Download Helper plugin page]].
+  - Click the **Add to Firefox** button.
+  - Click the **Install Now** button in the Install add-ons dialogue box.
+  - Once installed, if you look to the left of your website address bar, there will be an icon that looks like three circles connected in the middle.
+  - Now, go to [[https://www.youtube.com|YouTube]] in Firefox and find a video such as [[https://www.youtube.com/watch?v=a4NCnH7RPZY|Jaaam (The Fresh Prince Remix)]].
+  - Once there, look to the left of your website address bar and you should see the circle icon now colored and spinning. This indicates there is a video that can be downloaded.
+  - Click on the down arrow to the right of the spinning colored balls icon.
+  - You will be given several options of video quality. You always want to try and get the highest quality of the video shown to work with. Look for something like 720p or 1080p and a format of MP4.
+  - Click on your quality of video you want and then select download from the secondary menu.
+  - When prompted for a location, choose something like your Movies folder and click **Save**.
+  - Your video will then begin downloading. When it's finished, navigate to the Movies folder. You should see it listed there.
