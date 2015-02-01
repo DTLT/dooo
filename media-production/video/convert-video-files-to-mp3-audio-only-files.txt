@@ -1,0 +1,27 @@
+===== Convert Video Files to MP3 (audio only) Files =====
+
+==== Ingrediants ====
+
+1-	Computer (Mac for this tutorial)
+
+1-	Evom Program  (Available at http://thelittleappfactory.com/evom/).
+
+1-  MP4 file- you wish to convert to a MP3 file
+
+=== Directions ===
+
+*Program called Evom is only on the Macintosh, other programs exist on the PC that you could use to do the same conversion.  
+
+1.	Open Evom (Available at http://thelittleappfactory.com/evom/). 
+
+2.	Drag MP4 file (usually located in your movies folder) into Evom program.
+
+3.	When prompted for a location, choose something like your Music folder. 
+
+4.	In the Format tab select MP3
+
+5.	Click on your quality of video you want for your MP3.
+
+6.	Then click Convert button
+
+ *To find your MP3 clip, go to Music folder. Double click the MP3 clip and it will open in QuickTime.
