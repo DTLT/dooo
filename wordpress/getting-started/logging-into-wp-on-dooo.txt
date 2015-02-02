@@ -1,5 +1,5 @@
 ===== Logging in to Domain of One's Own: Wordpress Application =====
-You may need to log into to your Wordpress through umw.domains if you've forgotten your password, or just for connivence. This serves as another way to login into your site instead of using the /wp-admin. This way you only have to remember your EagleNet username and password.
+You may need to log into to your Wordpress through umw.domains if you've forgotten your password, or just for convenience. This serves as another way to login into your site instead of using the /wp-admin. This way you only have to remember your EagleNet username and password.
 
   * First, you want to go to **umw.domains.** Once there, **click** Login/signup.
 {{https://farm9.staticflickr.com/8570/16391104145_27f1184755_c.jpg}} 
