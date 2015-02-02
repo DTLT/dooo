@@ -1,6 +1,6 @@
 ====== Setting Up Subdomains ======
 
-A [[domain-management:glossary|subdomain]] is one way of organizing and separating content on your site. For more information about subdomains, visit [[domain-management:what-is-a-subdomain]]. To create a subdomain, use the following steps:
+A subdomain is one way of organizing and separating content on your site. For more information about subdomains, visit [[domain-of-ones-own:domain-management:subdomains-vs-subfolders | Subdomains vs Subfolders]]. To create a subdomain, use the following steps:
 
 
 To get started you'll need to login to your control panel by going to the UMW Domains homepage and clicking **Login**.
