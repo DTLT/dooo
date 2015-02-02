@@ -5,7 +5,7 @@ You may need to log into to your Wordpress through umw.domains if you've forgott
 {{https://farm9.staticflickr.com/8570/16391104145_27f1184755_c.jpg}} 
   * **Sign-in** with your **EagleNet Login ID.**
 {{https://farm9.staticflickr.com/8622/16205203407_a5a0364f76_c.jpg}} 
-  * Your **Dashboard** should appear. **Click** the blog you want to access. 
+  * Your **Dashboard** should appear. **Click** the application for the blog you want to access. 
 {{https://farm8.staticflickr.com/7348/16203477828_0a17971eea_c.jpg}} 
   * An overview of your blog should come up in the next window. **Click** the middle link to access the dashboard of your blog.
 {{https://farm8.staticflickr.com/7345/15768652304_0a259d86d1_c.jpg}}
