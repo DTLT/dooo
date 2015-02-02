@@ -9,7 +9,7 @@ Pages, by default, are usually used to build a menu somewhere in your theme. Eac
 In addition to allowing you to more flexibly organize the pages on your site, Custom Menus now allow you to add posts, categories/tags, and custom links to your menu. With this feature, you can really build an entirely customized navigation tool for your site, and you can be sure that all your content is organized and available to your readers exactly how you want. 
 
 There are two primary components to building a Custom Menu: 
-  - You must designated and organize the links you want to be in your menu.
+  - You must designate and organize the links you want to be in your menu.
   - You must "place" the menu somewhere in your theme. Most themes will have at least one Custom Menu built into their design. Some may have several areas designated for Custom Menus. Older themes may not use Custom Menus at all; for these you will have to rely on the default menus created by the them based on your site's content. 
 
 ===== Building Your Custom Menu =====
