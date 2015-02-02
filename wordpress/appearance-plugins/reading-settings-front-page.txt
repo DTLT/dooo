@@ -11,7 +11,7 @@ Posts, as in blog posts, are a somewhat complex form of webpage. Each blog post 
 
 **Pages - **
 
-Pages, are a more static form of content. A static front page is sometimes a good idea if you want users of your blog/website to see a different landing page first. This way they are not just going right into the default of latest posts of your blog or website. This can be particularly helpful if you would like them to get some background information about your site or see something before they go straight into your blog. Pages are additional areas to put information that doesn't change much. 
+Pages, are a more static form of content. A static front page is sometimes a good idea if you want users of your blog/website to see a different landing page first. This way they are not just going right into the default or latest posts of your blog or website. This can be particularly helpful if you would like them to get some background information about your site or see something before they go straight into your blog. Pages are additional areas to put information that doesn't change much. 
 
 
 So what if you would like to make the front page of your WordPress site based on a page instead of your blog posts?
