@@ -10,7 +10,7 @@ There are two ways to change your widgets. Both are accessed by clicking on "App
 
 {{https://farm4.staticflickr.com/3948/15557925862_5a41f81feb_o_d.png}}
 
-The best way to find out what areas are available to you is to go to Appearance > Widgets and take a look at the areas listed on the right. Each widgetized area will appear as a box on the right. In the example show below, the theme contains three widgetized areas: Primary Sidebar, Content Sidebar, and Footer Widget Area. 
+The best way to find out what areas are available to you is to go to Appearance > Widgets and take a look at the areas listed on the right. Each widgetized area will appear as a box on the right. In the example shown below, the theme contains three widgetized areas: Primary Sidebar, Content Sidebar, and Footer Widget Area. 
 
 {{http://farm8.staticflickr.com/7311/12306550785_bfb4d20051_c.jpg}}
 
