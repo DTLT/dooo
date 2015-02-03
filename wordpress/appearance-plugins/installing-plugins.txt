@@ -17,7 +17,7 @@ Wordpress has a lot of functionality built-in, but occasionally you might find a
 
 See the [[wordpress:appearance-plugins:activating-plugins|managing plugins]] page for more information.
 
-4. To install a new plugin click “add new” either from the plugin sidebar or the main plugin menu, you will the be redirected to a search engine where you can search using general or specific terms to find plugins. - For example searching “photo gallery” brings up various plugins from different developers.
+4. To install a new plugin click “add new” either from the plugin sidebar or the main plugin menu, you will then be redirected to a search engine where you can search using general or specific terms to find plugins. - For example searching “photo gallery” brings up various plugins from different developers.
 
 5. Once you find your desired plugin to install it hit “install now”, which will automatically install the plugin and prompt you if you would like to activate it now or return to the menu.
 
