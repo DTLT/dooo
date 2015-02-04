@@ -1,5 +1,5 @@
 ====== Jetpack ======
-  * [[https://wordpress.org/plugins/jetpack/|Jetpack]] is a plugin for WordPress that adds several useful tools including customization, traffic, mobile, content, and performance tools.
+[[https://wordpress.org/plugins/jetpack/|Jetpack]] is a plugin for WordPress that adds several useful tools including customization, traffic, mobile, content, and performance tools.
   * To install Jetpack to your website, log on to your WordPress dashboard and make sure you have the plugin [[wordpress:site-administration:managing-comment-spam-with-akismet|Akismet]] installed and activated.
   * Now it's time to install Jetpack. From your dashboard, click on "**Plugins**" in the left-hand menu. Then choose “**Add New**.” 
 {{https://farm8.staticflickr.com/7558/16108870457_4b8f509701_c.jpg}} 
