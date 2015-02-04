@@ -84,8 +84,7 @@ This tutorial is designed to guide you through the process of printing a 3D obje
 7. Once your object has finished printing, carefully remove it from the platform, as the platform may still be hot!
 
 
-====== **REMEMBER: THE REPLICATOR DUAL USES ABS FILAMENT AND THE REPLICATOR 5TH GENERATION USES PLA FILAMENT**
- ======
+====== **REMEMBER: THE REPLICATOR DUAL USES ABS FILAMENT AND THE REPLICATOR 5TH GENERATION USES PLA FILAMENT**======
 
  
 
