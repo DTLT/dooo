@@ -48,7 +48,13 @@ This tutorial is designed to guide you through the process of printing a 3D obje
 
 //screenshot//
 
-5. 
+5. After the file is saved to the SD card, eject the SD card and insert it into the slot on the printer. The slot is on the right hand side, directly behind the Navigation Menu.  
+
+//Screenshot of SD card slot/reader//
+
+6. Once the card is inserted, use the menu interface on the printer to find your file and print it. Your file will be located under the **Build from SD** menu.  
+
+7. Once your object has finished printing, carefully remove it from the platform, as the platform may still be hot!
 
 
 
@@ -69,4 +75,17 @@ This tutorial is designed to guide you through the process of printing a 3D obje
 
 //screenshot//
 
-5. 
+5. After the file is saved to the USB, eject it and insert it into the slot on the printer. The slot is on the front of the printer, in the same area as the navigation menu.  
+
+//screenshot usb slot and main screen//
+
+6. Once the USB drive is inserted, use the menu interface on the printer to find your file and print it. Your file will be located under the **Build from SD** menu.  
+
+7. Once your object has finished printing, carefully remove it from the platform, as the platform may still be hot!
+
+
+====== **REMEMBER: THE REPLICATOR DUAL USES ABS FILAMENT AND THE REPLICATOR 5TH GENERATION USES PLA FILAMENT**
+ ======
+
+ 
+
