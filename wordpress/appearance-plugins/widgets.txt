@@ -14,7 +14,7 @@ The best way to find out what areas are available to you is to go to Appearance 
 
 {{http://farm8.staticflickr.com/7311/12306550785_bfb4d20051_c.jpg}}
 
-On the right, you will see a number of widgets available to you. WordPress comes with some default widgets. Other widgets might become available when you have a particular theme activated. Finally, some plugins provide additional widgets to you. 
+On the left, you will see a number of widgets available to you. WordPress comes with some default widgets. Other widgets might become available when you have a particular theme activated. Finally, some plugins provide additional widgets to you. 
 
 Widgets can present all different kinds of information. The simplest widgets allow you to add text to your site. But you'll also find widgets with many options that you can set to display dynamic content or to interact with other services. Below is a list of the default widgets available in WordPress. 
 
