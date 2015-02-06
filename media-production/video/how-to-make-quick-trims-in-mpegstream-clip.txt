@@ -18,4 +18,4 @@
   - Click **O** to set an out point (The area after the marker will turn a lighter grey).
   - Select **Edit -> Trim** or **Command/Control T** to trim the clip to the in and out points.
   - Select **File -> Save As** to save the file.
-  - Select **File -> Export as _____** to export the file in your selected format.
+  - Select **File -> Export as (Insert file format here)** to export the file in your selected format.
