@@ -1,0 +1,21 @@
+====== How to make quick trims in MpegStream clip ======
+
+===== Ingredients =====
+
+1 - Computer (Mac or PC)
+
+1 - Video Clip
+
+1 - MpegStream Software
+
+===== Directions =====
+
+  - Open the location of the video in Finder or Windows Explorer.
+  - Drag the video into the MpegStream window.
+  - Move the slider at the bottom to the location you would like to start the clip (Finer adjustments can be made by using the arrow keys).
+  - Click **I** to set an in point (The area before the marker will turn a lighter grey).
+  - Move the slider to the location you would like to end the clip.
+  - Click **O** to set an out point (The area after the marker will turn a lighter grey).
+  - Select **Edit -> Trim** or **Command/Control T** to trim the clip to the in and out points.
+  - Select **File -> Save As** to save the file.
+  - Select **File -> Export as _____** to export the file in your selected format.
