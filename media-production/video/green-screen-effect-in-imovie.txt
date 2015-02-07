@@ -6,13 +6,17 @@
 
 1 - iMovie Software
 
+1 - clip of green screen footage
+
+1 - background image or background video
+
 ===== Directions =====
 
-**NOTE** You should already have a background image and the green screen footage uploaded before this tutorial. If you need help uploading video to iMovie, you can find many tutorials from [[https://www.youtube.com/results?search_query=importing+video+into+imovie|Youtube]] or [[media-production:video:importing-video-from-a-camera-to-imovie|Here]]
+**NOTE** You should have already imported a background image and the green screen footage before following this tutorial. If you need help, we have instructions on [[http://digitalmediacookbook.com/import-video-into-imovie/|how to import video into iMovie]]
 
-  - Open the iMovie software.
-  - Drag the still image background onto the timeline.
-  - If the image has a zoom or other similar effect, click on **Adjust**,and select the **Fit** button.
-  - Drag the green screen footage into the timeline, and align it with the background image. If need be, you can drag the length of the still image to match the green screen footage.
+  - Open iMovie.
+  - Drag the still image background from the event are onto the timeline.
+  - If the image has a zoom or other similar effect, click on the **Adjust** button, and select the **Fit** button if the image is already in the right aspect ratio, or **Crop to Fill** to resize it to fill the background.
+  - Drag the green screen footage into the timeline, and align it on top of the background image. Drag the length of the still image to match the length of the green screen footage.
   - Select the green screen footage and return to the adjustment panel.
-  - Where the video overlay displays **Cutaway**, using the dropdown menu, select **GreenBlueScreen**.
+  - Where the video overlay setting displays **Cutaway**, using the dropdown menu and select **Green/Blue Screen**.
