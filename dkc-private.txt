@@ -68,9 +68,9 @@ The following screencasts need to have step-by-step instructions written (see An
 
   * Record Voiceovers in iMovie - https://www.youtube.com/watch?v=e3beLAj0FXc **TYLER**
   * Adding Custom Artwork to an Album in iTunes - https://www.youtube.com/watch?v=U73dY27Jmio
+  * Begin Editing in iMovie - https://www.youtube.com/watch?v=Z7Jnyym_1so
 
   
-
 ==== Completed ====
   * [[domain-of-ones-own:domain-management:domain-verification|Domain Verification]]: This is a tutorial on the domain verification process which now requires all users to verify that they are the owner of a domain within 2 weeks of it being registered. If they don't do this, the domain is suspended and their site becomes unavailable (until they do the verification). The BIG sticking point with this is that the verification emails invariably go into students' Junk Mail folder and they never remember to look there In order to do this tutorial, someone will probably need to register a domain (to get a screenshot of the email). It's also good to include information about the verification notice that appears in cPanel if you haven't verified your domain (see [[dkc-private:resending-verification|Resend Verification Email]] for more information) and as screenshot of what an unverified (suspended) domain looks like. You'll need to work with me or someone in DTLT to complete this tutorial. **Finished**
 
