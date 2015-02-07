@@ -19,4 +19,4 @@
   - If the image has a zoom or other similar effect, click on the **Adjust** button, and select the **Fit** button if the image is already in the right aspect ratio, or **Crop to Fill** to resize it to fill the background.
   - Drag the green screen footage into the timeline, and align it on top of the background image. Drag the length of the still image to match the length of the green screen footage.
   - Select the green screen footage and return to the adjustment panel.
-  - Where the video overlay setting displays **Cutaway**, using the dropdown menu and select **Green/Blue Screen**.
+  - Where the video overlay setting displays **Cutaway**, use the dropdown menu and select **Green/Blue Screen**.
