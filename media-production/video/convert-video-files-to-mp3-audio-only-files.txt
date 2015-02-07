@@ -10,7 +10,7 @@
 
 === Directions ===
 
-  - Open Evom (Available at http://thelittleappfactory.com/evom/)
+  - Open Evom
   - Drag video file into Evom program window.
   - Below the question "Where do you want to send this video?", choose **Folder**.
   - The default saving **Location** is your Desktop. Click change if you wish to change the location, such as your Music folder.
