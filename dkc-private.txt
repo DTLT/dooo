@@ -116,23 +116,17 @@ The following screencasts need to have step-by-step instructions written (see An
 
   * [[wordpress:getting-started:logging-into-wp-on-dooo]]: This needs to be a tutorial about how to login to a WP install. I'd like instructions on doing this via the /wp-admin link. You can link  [[http://docs.umwdomains.com/domain-of-ones-own/cpanel/finding-and-changing-account-and-application-information-and-passwords-in-cpanel|to the tutorial about changing your PW in Installatron]], in case they need to reset their pw. In addition, I would like a second section on how to login via cPanel (by logging into Domain of One's Own site and browsing to your installed application in cPanel). **Meredith** **DONE**
   
-  * [[media-production:video:format-your-external-drive-to-exfat|Format Your External Drive to ExFat]] - https://vimeo.com/75891286 **EVAN** - **DONE**
+  * [[media-production:video:format-your-external-drive-to-exfat|Format Your External Drive to ExFat]] - https://vimeo.com/75891286 **EVAN** - **DONE** **DMC**
   
-  * [[media-production:video:green-screen-effect-in-imovie|Green Screen Effect in iMovie]] - https://www.youtube.com/watch?v=mm4o6wlA8Ak **EVAN** - **DONE**
+  * [[media-production:video:green-screen-effect-in-imovie|Green Screen Effect in iMovie]] - https://www.youtube.com/watch?v=mm4o6wlA8Ak **EVAN** - **DONE** **DMC**
   
-  * [[media-production:video:green-screen-enhancements-in-imovie|Green Screen Enhancements in iMovie]] - https://www.youtube.com/watch?v=pWUSs6l1R-I **EVAN** - **DONE**
+  * [[media-production:video:green-screen-enhancements-in-imovie|Green Screen Enhancements in iMovie]] - https://www.youtube.com/watch?v=pWUSs6l1R-I **EVAN** - **DONE** **DMC**
  
-  * [[media-production:video:format-drive-for-final-cut-pro-x|Format Drive for Final Cut Pro X]] - https://vimeo.com/73134399 **TYLER** - **DONE**
+  * [[media-production:video:format-drive-for-final-cut-pro-x|Format Drive for Final Cut Pro X]] - https://vimeo.com/73134399 **TYLER** - **DONE** **DMC**
   
-  * [[media-production:video:download-youtube-videos-with-video-downloadhelper|Download YouTube Videos with Video DownloadHelper]]- https://www.youtube.com/watch?v=3CweoQmJ2JU **TYLER**-**DONE**
+  * [[media-production:video:download-youtube-videos-with-video-downloadhelper|Download YouTube Videos with Video DownloadHelper]]- https://www.youtube.com/watch?v=3CweoQmJ2JU **TYLER**-**DONE** **DMC**
 
-  * [[media-production:video:convert-video-files-to-mp3-(audio-only)-files|Convert Video Files to MP3 (audio only) Files]]- https://www.youtube.com/watch?v=toxXlgKPo0A **TYLER**-**DONE**
-
-  * Format drive for Final Cut Pro X - https://vimeo.com/73134399 **TYLER**-**DONE**
-
-  * Download YouTube Videos with Video DownloadHelper - https://www.youtube.com/watch?v=3CweoQmJ2JU **TYLER**-**DONE**
-
-  * Convert video files to MP3 (audio only) files - https://www.youtube.com/watch?v=toxXlgKPo0A **TYLER** - **DONE**
+  * [[media-production:video:convert-video-files-to-mp3-(audio-only)-files|Convert Video Files to MP3 (audio only) Files]]- https://www.youtube.com/watch?v=toxXlgKPo0A **TYLER**-**DONE** **DMC**
 
   * Download YouTube Videos with 4K Downloader - http://youtu.be/smd6z8Fv3RI **EVAN** - **DONE**
 
