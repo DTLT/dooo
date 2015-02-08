@@ -15,7 +15,7 @@
   - Navigate your browser to the [[http://www.youtube.com|YouTube]] video you could like to download.
   - Copy the video URL (either by using the URL bar or the Share button).
   - In the 4K Video Downloader software, click on the **Paste URL** button.
-  - Select the quality of the of the video.
+  - Select the quality of the video.
   - Click **Download**
   - The video will begin downloading.
   - To find the video, right click and select Show in Finder on Mac or Show File Location on PC. 
