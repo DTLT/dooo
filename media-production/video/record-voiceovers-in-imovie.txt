@@ -12,4 +12,41 @@
 
 ==== Directions ====
 
-  - Step 1 here
+1.	Open iMovie
+
+2.	Go to File → New Movie 
+
+3.	Select a Theme (for this tutorial No Theme)
+
+4.	Go to File → Import Media…
+
+5.	Next select the clips that you have imported by highlighting them all with the mouse
+
+6.	Once clip or clips are selected, drag them into your Timeline below; or press the E key on your keyboard - and all the clips will move into your timeline.
+
+7.	 Next go to the Window menu at the top of the iMovie program → Record Voiceover; or use the short cut, which is the V key on your keyboard.
+
+
+**Once you do this, look at your timeline and click on your clip (you can move the new audio you will be making to the left or right after it is made, to get it where you want it on the video clip). After you do this, look over at your large image of the video clip on the right, below it - there will be three icons (now that the voiceover tool is active). From left to right: X for closing the Voiceover tool, a Microphone symbol in the middle, and your Input Source Button.**
+
+8.	Click on the Input Source button
+
+9.	Click on the drop down tab and make sure your input device is selected (in this tutorial we are using the built-in microphone)
+
+
+** Once this is done, you will see your microphone symbol jumping up and down when you speak. If it is rising to the top when you are speaking your volume level is too high. You can adjust this by going back into your Input Source button and lowering the level of volume to your device, to a smaller amount. Do this until you’re comfortable with the level of volume you are putting out. **
+
+
+10.	To start recording, click the Microphone Symbol in the middle (it will give you a three second countdown and then you are ready to begin speaking).
+
+11.	When finished speaking, click the microphone symbol again and that will end your recording. 
+
+12.	You can move this recording anywhere you want on the clip by clicking on the new audio strip and sliding left or right. 
+
+13.	If you have audio on the original clip that you don’t want anymore simply right click the clip and select detach audio. 
+
+14.	Once you see the separated audio from the video, right click on the strip and select delete.
+
+15.	Now your clip has new audio you have recorded using the Voiceover tool. 
+
+
