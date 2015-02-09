@@ -66,9 +66,9 @@ This is documentation that needs to be written. Some of them may require a fair 
 
 The following screencasts need to have step-by-step instructions written (see Andy with any questions). Please put your name next to the document you're working on. Mark it DONE when finished:
 
-  * Record Voiceovers in iMovie - https://www.youtube.com/watch?v=e3beLAj0FXc **TYLER**
+  * Record Voiceovers in iMovie - https://www.youtube.com/watch?v=e3beLAj0FXc **TYLER** **DONE**
   * Adding Custom Artwork to an Album in iTunes - https://www.youtube.com/watch?v=U73dY27Jmio
-  * Begin Editing in iMovie - https://www.youtube.com/watch?v=Z7Jnyym_1so
+  * Begin Editing in iMovie - https://www.youtube.com/watch?v=Z7Jnyym_1so **TYLER**
 
   
 ==== Completed ====
