@@ -4,18 +4,17 @@
 
 1 - Computer (Mac or PC)
 
-1 - Browser
+1 - Web Browser
 
-1 - 4K Video Downloader Software
+1 - 4K Video Downloader Software (available at [[http://www.4kdownload.com]])
 
-===== Directions =====
+===== Directions ===== 
 
-**NOTE** In order to download videos at full 4K resolution, the software requires the paid version which can be purchased at: [[http://www.4kdownload.com]]
-
-  - Navigate your browser to the [[http://www.youtube.com|YouTube]] video you could like to download.
-  - Copy the video URL (either by using the URL bar or the Share button).
-  - In the 4K Video Downloader software, click on the **Paste URL** button.
+  - Navigate your browser to the [[http://www.youtube.com|YouTube]] video you would like to download.
+  - Copy the video URL (either by copying from the address bar, or by using the Share button).
+  - Open the 4K Video Downloader software and click on the **Paste URL** button.
   - Select the quality of the video.
+  - Specify the folder you would like to save to.
   - Click **Download**
-  - The video will begin downloading.
+  - The video will begin downloading and will display a progress bar.
   - To find the video, right click and select Show in Finder on Mac or Show File Location on PC. 
