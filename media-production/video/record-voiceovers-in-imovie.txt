@@ -1,33 +1,26 @@
 ===== Recording Voiceovers in iMovie =====
 
 ===Ingredients:====
-1-	Computer (Mac OS)
+1 - Computer (Mac OS)
 
-1-	iMovie program
+1 - Apple's iMovie program
 
-1-	Video clips you want to do a Voiceover recording on
+1 - Video clips that need a Voiceover (narration) recording
 
 
 
 
 ==== Directions ====
 
-1.	Open iMovie
-
-2.	Go to File → New Movie 
-
-3.	Select a Theme (for this tutorial No Theme)
-
-4.	Go to File → Import Media…
-
-5.	Next select the clips that you have imported by highlighting them all with the mouse
-
-6.	Once clip or clips are selected, drag them into your Timeline below; or press the E key on your keyboard - and all the clips will move into your timeline.
-
-7.	 Next go to the Window menu at the top of the iMovie program → Record Voiceover; or use the short cut, which is the V key on your keyboard.
-
-
-**Once you do this, look at your timeline and click on your clip (you can move the new audio you will be making to the left or right after it is made, to get it where you want it on the video clip). After you do this, look over at your large image of the video clip on the right, below it - there will be three icons (now that the voiceover tool is active). From left to right: X for closing the Voiceover tool, a Microphone symbol in the middle, and your Input Source Button.**
+  - Open iMovie
+  - Go to **File → New Movie**, or click the **New (+)** button and choose Movie
+  - Select a Theme (to keep it simple choose No Theme), then click the **Create**, and give your movie a name.
+  - Now you'll import your video clip that you want to voiceover. Go to **File → Import Media…** or drag the video into the Event area.
+  - Next select the clips that you have imported by highlighting them all with the mouse
+  - Once clip or clips are selected, drag them into your Timeline or press the E key on your keyboard. All the clips will move into your timeline.
+  - Next go to the Window menu and choose Record Voiceover, or you can press the V key on your keyboard.
+  - Place your Timeline cursor at the point in your video where you want to start recording (you'll be able to move the voiceover audio where you want it after you record).
+  - In the Playback window there will be three icons. X will close the Voiceover tool, the Microphone symbol starts the recording, and your Input Source Button.
 
 8.	Click on the Input Source button
 
@@ -48,5 +41,4 @@
 14.	Once you see the separated audio from the video, right click on the strip and select delete.
 
 15.	Now your clip has new audio you have recorded using the Voiceover tool. 
-
 
