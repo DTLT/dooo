@@ -17,4 +17,4 @@
   - Specify the folder you would like to save to.
   - Click **Download**
   - The video will begin downloading and will display a progress bar.
-  - To find the video, right click and select Show in Finder on Mac or Show File Location on PC. 
+  - To find the video, right click and select **Show in Finder** on Mac or **Show File Location** on PC. 
