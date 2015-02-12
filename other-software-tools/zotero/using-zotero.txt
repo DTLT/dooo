@@ -52,7 +52,7 @@ The Zotero Standalone is not much different than the one for Firefox. The main d
 
 3. When searching for articles, newspaper, etc. on your browser you will now have the option of saving that information to your Zotero Library. 
  
-4. When you are on a webpage that you want to save to your library, see if you have this icon your url bar: 
+4. When you are on a webpage that you want to save to your library, see if you have this icon in your url bar: 
 {{https://farm4.staticflickr.com/3941/15637101816_4c87445d38_o.png}}
 
 5. From here you can follow the steps above under Zotero Firefox and Adding Stuff to Your Library
