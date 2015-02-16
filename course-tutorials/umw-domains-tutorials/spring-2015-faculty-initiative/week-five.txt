@@ -9,21 +9,21 @@ Also recommended:
   *//[[http://www.uoc.edu/ojs/index.php/rusc/article/view/v9n2-weller | Martin Weller's "Digital Scholarship and the Tenure Process as an Indicator of Change in Universities," Universities and Knowledge Socieites Journal, Vol 9, No. 2 (July 2012)]]//
 
 ===== Reading & Review =====
-This week's readings provide a range of views about scholarship and research in the digital age. Martin Weller chapter's "The Nature of Scholarship" from his book //The Digital Scholar// provides an excellent overview of the nature of scholarship and what the qualifier digital might mean. There is no one agreed upon definition of this term, as Weller Notes, but he does cite some characteristics of Digital Scholarship based on the American Council of Learned Societies Commission on Cyberinstructure for the Humainities and Social Sciences observations:
+This week's readings provide a range of views about scholarship and research in the digital age. Martin Weller's chapter "The Nature of Scholarship" from his book //The Digital Scholar// provides an excellent overview of the nature of scholarship and what the qualifier "digital" might mean. There is no one agreed-upon definition of this term, as Weller notes, but he does cite some characteristics of Digital Scholarship, based on the American Council of Learned Societies Commission on Cyberinstructure for the Humanities and Social Sciences' observations:
 
->1. building a digital collection of Information for further study and anlysis,
->2. creating appropriate tools for collection building
->3. creating the appropriate tools for the analysis and study of collections  
->4. using digital collections and analytical tools to generate new intellectual products, and
->5. creating authoring tools for these new intellectual products, either in traditional form or in digital form
+>1. Building a digital collection of information for further study and analysis;
+>2. Creating appropriate tools for collection building;
+>3. Creating the appropriate tools for the analysis and study of collections;
+>4. Using digital collections and analytical tools to generate new intellectual products;
+>5. Creating authoring tools for these new intellectual products, either in traditional or in digital form.
 
-Alternatively, Kate Bowles examines the nature of academic labor and social media and raises some "reservations about hitching public online conversations to the pseudo-productivity of formal academic publication." Her work offers an interesting counterpoint to the idea that work online should fall into a strict idea of academic publishing. Perhaps the research and scholarship being done in these networks need to have a new, networked tone? 
+Alternatively, Kate Bowles examines the nature of academic labor and social media and raises some "reservations about hitching public online conversations to the pseudo-productivity of formal academic publication." Her work offers an interesting counterpoint to the idea that work online should fall into a strict idea of academic publishing. Perhaps the research and scholarship being done in these networks need to have new, networked tones? 
 
 From there we look at a larger shift in the nature of scholarship with the //Wired// article "The End of Theory: The Data Deluge Makes the Scientific Method Obsolete." How does a culture dominated by "Big Data" think about traditional research models? From the article: 
 
 >This is a world where massive amounts of data and applied mathematics replace every other tool that might be >brought to bear. Out with every theory of human behavior, from linguistics to sociology. Forget taxonomy, >ontology, and psychology. Who knows why people do what they do? The point is they do it, and we can track and >measure it with unprecedented fidelity. With enough data, the numbers speak for themselves.
 
-A nice follow-up to this article is Mike Caulfield's post "Short Notes on the Absence of Theory" which provides a brief, excellent overview of the emergence of big data in the education sphere as part of the Massive Open Online Course (MOOC) phenomenon. He provides an examination of the cultural context of this absence of theory in the field of Educational Technology, and academic research more broadly.
+A nice follow-up to this article is Mike Caulfield's post "Short Notes on the Absence of Theory," which provides a brief, excellent overview of the emergence of big data in the education sphere as part of the Massive Open Online Course (MOOC) phenomenon. He provides an examination of the cultural context of this absence of theory in the field of Educational Technology, and academic research more broadly.
 
 
 ===== Other Work =====
