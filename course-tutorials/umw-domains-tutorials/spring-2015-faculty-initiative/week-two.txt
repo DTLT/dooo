@@ -41,7 +41,7 @@ This week, spend some time getting to know your WordPress blog better and making
 
   * Does your site have a title? If not, make sure you choose one. 
 
-  * Edit and/or write your "About" page. Use this as the starting place to diagram who you are for people who come across your new home on the Web. There is no one way to write an "About" page -- what you decide to put here (pictures, professional information, personal details) should be a reflection of the kind of presence you hope to build for yourself online. 
+  * Edit and/or write your "About" page. Use this as the starting place to diagram who you are for people who come across your new home on the Web. There is no one way to write an "About" page -- what you decide to put there (pictures, professional information, personal details) should be a reflection of the kind of presence you hope to build for yourself online. 
 
   * Explore the [[http://wordpress.org/themes/ | WordPress Theme Repository]]. Your theme controls everything about how your site looks, and how your site looks [[http://blog.crazyegg.com/2011/12/19/does-web-design-matter/ | does impact how people]] perceive your content. 
 
