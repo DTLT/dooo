@@ -11,9 +11,9 @@ One goal of Domain of One’s Own is to help participants develop a deeper under
    * //[[http://www.smallpieces.com/content/preface.html | Small Pieces, Loosely Joined: Preface]]//, David Weinberger (2002)
    * //[[http://blog.jonudell.net/2011/01/24/seven-ways-to-think-like-the-web/ | Seven Ways to Think about the Web]]//, Jon Udell (2011) //(feel free to skim this one)//
 
-You'll notice that the readings & resources for this week cover a fairly large swath of time. Bush's article from 1945 predates the Internet by almost six decades. It's still worth reviewing and reflecting upon, however, in that it brilliantly foreshadowed the systems that ultimately became the Internet and the Web. 
+You'll notice that the readings and resources for this week cover a fairly large swath of time. Bush's article from 1945 predates the Internet by almost six decades. It's still worth reviewing and reflecting upon, however, in that it brilliantly foreshadowed the systems that ultimately became the Internet and the Web. 
 
-Weinberger's piece (a preface to a longer book that examines the Web) is a great introduction to how the Web was different from anything that came before and how its inherent qualities of openness (and, perhaps, democratization) have ultimately informed what it has become. 
+Weinberger's piece (a preface to a longer book that examines the Web) is a great introduction to how the Web was different from anything that came before it and how its inherent qualities of openness (and, perhaps, democratization) have ultimately informed what it has become. 
 
 Udell's short piece is a bit more theoretical -- but it proposes a number of suggestions about how we should be thinking about and interacting with the Web. Udell is known for advocating that we become more nuanced and critical users of the Internet. This article summarizes some of the reasons why he thinks that we need to be more self-aware about our interactions with these technologies and spaces.
 
