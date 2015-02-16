@@ -24,4 +24,4 @@ This week, spend some time setting up a couple of plugins for your blog as well 
 
   * [[http://akismet.com | Akismet]]: Akismet filters out comment and track-back spam so your site doesn't quickly become a spam farm. You will need to signup for an API Key with Akismet. Be sure that you move the slider to $0 for recommended donation to get it for free. You can [[http://docs.umwdomains.com/wordpress/site-administration/managing-comment-spam-with-akismet|find a tutorial about setting up Akismet here]].
 
-  * Sign up for an account on [[http://twitter.com | Twitter]] and send out a tweet using the hashtag [[https://twitter.com/search?q=%23umwdomains&src=hash | #umwdomains]]. Twitter is one environment to build a professional network of peers—explore it a bit. 
+  * Sign up for an account on [[http://twitter.com | Twitter]] and send out a tweet using the hashtag [[https://twitter.com/search?q=%23umwdomains&src=hash | #umwdomains]]. Twitter is one environment in which you can build a professional network of peers—explore it a bit. 
