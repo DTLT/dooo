@@ -1,3 +1,5 @@
+{{indexmenu_n>3}}
+
 ====== Explanation of the HTML File ======
 
 This is a walk-through of the contents of the HTML file that Timeplot uses. In particular, it walks you through the Javascript in the file. 
@@ -179,6 +181,3 @@ Finally, there are tags to close the entire body of the file and the entire HTML
  
 </html>
 </code>
-
-
-{{indexmenu_n>3}}
