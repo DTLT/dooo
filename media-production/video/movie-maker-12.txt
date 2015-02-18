@@ -27,7 +27,7 @@ The other effect set under the Animation tab is called **Pan and zoom**. Pan and
 
 {{https://farm8.staticflickr.com/7394/16570783151_3001dcc9c0_z.jpg}}
 
-The other effects offered in Movie Maker 12 are under the **Visual Effects** tab.
+The other effects offered in Movie Maker 12 are under the **Visual Effects** tab. Visual Effects are applied to the entirety of your selected clip. These effects add a filter to your clip, these include Black and White, Artistic, Motion and fades, and more. 
 
 {{https://farm9.staticflickr.com/8622/16571544592_ed24130c68_c.jpg}}
 
