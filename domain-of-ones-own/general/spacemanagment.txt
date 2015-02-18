@@ -63,7 +63,7 @@ Here you'll see that this public_html/ is using a lot of memory. This means that
 
 Now we cannot really do anything about this for you. What we highly recommend doing is to create an account on a image hosting site. This way you can have a lot more space to to hold the images and then just embed them into your posts. This was it doesn't actually use this memory space on the site.
 
-We highly recommend [[https://www.flickr.com/|flikr]], but there are many other sites that may meet your needs such as [[http://imgur.com|imgur]].
+We highly recommend [[https://www.flickr.com/|Flickr]], but there are many other sites that may meet your needs such as [[http://imgur.com|Imgur]].
 
 ==== Managing Content ====
 
