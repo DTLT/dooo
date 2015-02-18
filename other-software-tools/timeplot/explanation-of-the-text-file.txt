@@ -1,3 +1,5 @@
+{{indexmenu_n>4}}
+
 ====== Explanation of the Text File ======
 
 The text file (which uses a .txt extension) is the file that holds the raw data that the Javascript code reads into the program to create the data points on your Timeplot. When plotted correctly, the x-axis of the Timeplot will display dates and the y-axis will display the range of data values. 
@@ -14,7 +16,7 @@ First log into your Domain of One's Own account at [[http://www.umwdomains.com|u
 
 {{:timeplot:umwdomains_homepage.png?300|}} {{:timeplot:umwdomains_login_page.png?275|}}
 
-In the Dashboard, scroll down and click on the File Manager. Then select **Web Root** from the pop up window and click **Go**. You may want to review  [[http://docs.umwdomains.com/cpanel/accessing-your-files-through-the-file-manager|the tutorial on the File Manager here]].
+In the Dashboard, scroll down and click on the File Manager. Then select **Web Root** from the pop up window and click **Go**. You may want to review  [[domain-of-ones-own:cpanel:accessing-your-files-through-the-file-manager|the tutorial on the File Manager here]].
 
 {{:timeplot:screen_shot_2014-07-02_at_4.37.05_pm.png?300|}}{{:timeplot:filemanager_pop_up.png?280|}}
 
@@ -55,6 +57,4 @@ In the images below, you'll see we've added additional ratings for President Bus
 =====Using the Text File=====
 If you installed Timeplot using Installatron on Domain of One's Own, you'll have received a set of sample files that include the President Bush approval ratings data in .txt file. The file contains all three ratings. You may replace this data with your own data. 
 
-In the [[timeplot:basic-tutorial|Basic Tutorial]], we will walk you through how to modify the text file so that your data appears in your Timeplot. 
-
-{{indexmenu_n>4}}
+In the [[other-software-tools:timeplot:basic-tutorial|Basic Tutorial]], we will walk you through how to modify the text file so that your data appears in your Timeplot. 
