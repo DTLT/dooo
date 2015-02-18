@@ -1,3 +1,5 @@
+{{indexmenu_n>9}}
+
 ====== Embedding Your Timeplot in WordPress ======
 
 Once you've completed you Timeplot, you may wish to embed it into your analysis in a WordPress post. This approach allows you to have the Timeplot functional within the text of your analysis, where you can further explain the data visualization. 
@@ -10,7 +12,7 @@ Next, you will want to activate the iFrame plugin that was included with the pac
 
 {{https://farm4.staticflickr.com/3861/15207282591_a8861898e1_c.jpg}}
 
-Now, go ahead and create the post with the text of your analysis by going to **Post** --> **Add New**. If you've already written the post, go ahead and edit it by going to **Post** --> **All Posts** and locating the post you wish to edit. [[wordpress:publishing-content|You can learn more about creating/editing content on WordPress generally here]]. 
+Now, go ahead and create the post with the text of your analysis by going to **Post** --> **Add New**. If you've already written the post, go ahead and edit it by going to **Post** --> **All Posts** and locating the post you wish to edit. [[wordpress:creating-content:publishing-content|You can learn more about creating/editing content on WordPress generally here]]. 
 
 Once you have the post editor open, locate the part of your text where you wish to insert the Timeplot. On a new line, type the following code: 
 
@@ -25,12 +27,3 @@ When you're done, save your post, and view it.
 {{https://farm4.staticflickr.com/3838/15187221776_1a04e9cbb7_z.jpg}}
 
 Keep in mind that how your post and Timeplot looks will depend to some extent on the theme you have active on your WordPress site. You may need to adjust the width and height of the Timeplot in the "[iframe]" code in order to get it to fit properly on your page. 
-
-
-
-
-
-
-
-
-{{indexmenu_n>9}}
