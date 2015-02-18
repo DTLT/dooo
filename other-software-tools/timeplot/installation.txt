@@ -1,7 +1,8 @@
+{{indexmenu_n>2}}
+
 ====== Installation ======
 
-
-This tutorial walks you through how to install Timeplot using the [[cpanel:installing-applications-with-installatron|Installatron]] tool in Domain of One's Own. 
+This tutorial walks you through how to install Timeplot using the [[domain-of-ones-own:cpanel:installing-applications-with-installatron|Installatron]] tool in Domain of One's Own. 
 
 To get started you'll need to login to your control panel by going to the UMW Domains homepage and clicking Login.
 
@@ -44,8 +45,7 @@ When Timeplot has successfully installed, you will see a summary view that shows
 
 {{https://farm6.staticflickr.com/5575/14914969001_2b2102e212_b.jpg}}
 
-If you click on the link to your site, you should see a basic Timeplot (as seen below), showing the sample data that is included in the install. You may proceed to the [[timeplot:basic-tutorial|Basic Tutorial]] to learn how to customize the Timeplot with your own data. 
+If you click on the link to your site, you should see a basic Timeplot (as seen below), showing the sample data that is included in the install. You may proceed to the [[other-software-tools:timeplot:basic-tutorial|Basic Tutorial]] to learn how to customize the Timeplot with your own data. 
 <html>
 <iframe src="http://www.umwdomains.com/timeplotsample/" width="800px" height="300px"></iframe>
 </html>
-{{indexmenu_n>2}}
