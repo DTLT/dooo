@@ -43,3 +43,7 @@ Audio files will appear below the video files as a green wavelength in the works
 You can edit your audio in much the same way as you edit the video clips. To edit your audio files, click on **Music tools**. The controls are options are nearly identical to those in Video Tools. You can change the music volume, split the audio, add a fade in and fade out, etc.
 
 {{https://farm8.staticflickr.com/7372/16386792989_e828a87560_z.jpg}}
+
+Once you're happy with your project, you can finalize it as a video file by going to **File** > **Save movie**.
+
+{{https://farm8.staticflickr.com/7373/16387249507_fa7c7f9cb8_o.png}}
