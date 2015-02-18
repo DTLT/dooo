@@ -1,3 +1,5 @@
+{{indexmenu_n>5}}
+
 ===== Explanation of the XML File =====
 
 The XML file (which uses the .xml extension) contains information about events that you want to plot against your numerical data. It is also read in by the Javascript code in the main HTML file. It is specially structured so that the javascript can read it. 
@@ -16,7 +18,7 @@ First log into your Domain of One's Own account at [[http://www.umwdomains.com|u
 
 {{:timeplot:umwdomains_homepage.png?300|}} {{:timeplot:umwdomains_login_page.png?275|}}
 
-In the Dashboard, scroll down and click on the File Manager. Then select **Web Root** from the pop up window and click **Go**. You may want to review  [[http://docs.umwdomains.com/cpanel/accessing-your-files-through-the-file-manager|the tutorial on the File Manager here]].
+In the Dashboard, scroll down and click on the File Manager. Then select **Web Root** from the pop up window and click **Go**. You may want to review  [[domain-of-ones-own:cpanel:accessing-your-files-through-the-file-manager|the tutorial on the File Manager here]].
 
 {{:timeplot:screen_shot_2014-07-02_at_4.37.05_pm.png?300|}}{{:timeplot:filemanager_pop_up.png?280|}}
 
@@ -97,5 +99,3 @@ We recommend you use the following formats for date/time:
 If you installed Timeplot using Installatron on Domain of One's Own, you'll have received a set of sample files that include event data corresponding to President Bush's approval ratings in .xml file. You may replace the event data with your own.
 
 In the Basic Tutorial, we will walk you through how to modify the XML file so that your events appear in your Timeplot.
-
-{{indexmenu_n>5}}
