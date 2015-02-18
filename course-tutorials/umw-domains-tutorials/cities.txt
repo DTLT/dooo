@@ -22,3 +22,9 @@ For this class, you will need to set up a subdomain in which you'll install Word
 </WRAP>
  
 {{page>wordpress:getting-started:installing-wordpress}}
+
+====== Timeplot ======
+
+{{page>other-software-tools:timeplot:installation}}
+{{page>other-software-tools:timeplot:basic-tutorial}}
+{{page>other-software-tools:timeplot:embedding-your-timeplot-into-wordpress}}
