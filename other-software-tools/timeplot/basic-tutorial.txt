@@ -1,8 +1,10 @@
+{{indexmenu_n>7}}
+
 ====== Basic Tutorial ======
 
-Before starting this tutorial, make sure you have [[timeplot:installation|installed Timeplot]]. 
+Before starting this tutorial, make sure you have [[other-software-tools:timeplot:installation|installed Timeplot]]. 
 
-This tutorial will walk you through modifying the files that are created when you install Timeplot so that you can plot your own data. By the end, you will have a single data set plotted on a timeline, with visible axis markers, and rollover data information. For additional features, including adding more data sets to your timeline and adding events, [[timeplot:advanced-tutorial|please review the Advanced Tutorial]]. 
+This tutorial will walk you through modifying the files that are created when you install Timeplot so that you can plot your own data. By the end, you will have a single data set plotted on a timeline, with visible axis markers, and rollover data information. For additional features, including adding more data sets to your timeline and adding events, [[other-software-tools:timeplot:advanced-tutorial|please review the Advanced Tutorial]]. 
 
 **NOTE**
 
@@ -14,7 +16,7 @@ First log into your Domain of One's Own account at [[http://www.umwdomains.com|u
 
 {{:timeplot:umwdomains_homepage.png?300|}} {{:timeplot:umwdomains_login_page.png?275|}}
 
-In the Dashboard, scroll down and click on the File Manager. Then select **Web Root** from the pop up window and click **Go**. You may want to review  [[http://docs.umwdomains.com/cpanel/accessing-your-files-through-the-file-manager|the tutorial on the File Manager here]].
+In the Dashboard, scroll down and click on the File Manager. Then select **Web Root** from the pop up window and click **Go**. You may want to review  [[domain-of-ones-own:cpanel:accessing-your-files-through-the-file-manager|the tutorial on the File Manager here]].
 
 {{:timeplot:screen_shot_2014-07-02_at_4.37.05_pm.png?300|}}{{:timeplot:filemanager_pop_up.png?280|}}
 
@@ -25,9 +27,9 @@ Once inside find the file folder for your Timeplot; it should look like the imag
 
 Inside you should see three files: 
 
-  * index.html ([[timeplot:explanation-of-the-javascript-code-file|Details about the HTML file can be found here.]])
-  * data.txt ([[timeplot:explanation-of-the-text-file|Details about the Text file can be found here.]])
-  * events.xml ([[timeplot:explanation-of-the-xml-file|Details about the XML file can be found here.]])
+  * index.html ([[other-software-tools:timeplot:explanation-of-the-javascript-code-file|Details about the HTML file can be found here.]])
+  * data.txt ([[other-software-tools:timeplot:explanation-of-the-text-file|Details about the Text file can be found here.]])
+  * events.xml ([[other-software-tools:timeplot:explanation-of-the-xml-file|Details about the XML file can be found here.]])
 
 {{:timeplot:timeplot_file.png?|}}
 
@@ -45,7 +47,7 @@ For the most part, the files that were created when you installed Timeplot, are 
 
 To start, open the data.txt file following the instructions above about **Opening Your Files**. 
 
-Next, if you haven't already, review the [[timeplot:explanation-of-the-text-file|Explanation of the Text File]]. 
+Next, if you haven't already, review the [[other-software-tools:timeplot:explanation-of-the-text-file|Explanation of the Text File]]. 
 
 It should be clear how to edit/replace the sample data with your own. If you have already collected/formatted your data in a Text file on your computer (and/or shared it in Google Drive for your class), you can delete the contents of the sample file and simply copy/paste your data in its place. 
 
@@ -55,13 +57,13 @@ Below that, you will see the actual numerical data. Replace it with your own dat
 
 {{https://farm4.staticflickr.com/3852/15139878712_181495c222_z.jpg}}
 
-The sample data for Timeplot includes two sets of data. The plot will display two lines, one for each of these sets. You should plan on replacing the data with your own two sets of data in the text file. Later, if you wish, you can add additional data sets, being sure to use commas to separate the values for each date/row. You will need to [[timeplot:advanced-tutorial|proceed to the Advanced Tutorial]] for information about how to plot those additional sets. 
+The sample data for Timeplot includes two sets of data. The plot will display two lines, one for each of these sets. You should plan on replacing the data with your own two sets of data in the text file. Later, if you wish, you can add additional data sets, being sure to use commas to separate the values for each date/row. You will need to [[other-software-tools:timeplot:advanced-tutorial|proceed to the Advanced Tutorial]] for information about how to plot those additional sets. 
 
 When you are done exit out of the File Manager. Browse to the location of your TimePlot and you should now see your data plotted on the timeline. 
 
 ===== Editing the Event File =====
 
-Just like you opened the data.txt file, you can also open and edit the events.xml file. If you haven't already, we recommend you review the [[timeplot:explanation-of-the-xml-file|explanation of the XML File]]. 
+Just like you opened the data.txt file, you can also open and edit the events.xml file. If you haven't already, we recommend you review the [[other-software-tools:timeplot:explanation-of-the-xml-file|explanation of the XML File]]. 
 
 In this file, we've placed three sample events. The first is a basic event with a start date. The second is an event with a start and end date. The third has a start and end date as well as a description. You can use this format to add your own events to the Timeplot. 
 
@@ -89,6 +91,3 @@ By default, the x- and y-axis labels are placed at the left and bottom of the gr
 Depending on the lowest/highest values in your data set(s), you may wish to adjust the data range for your Timeplot. 
 
 {{https://farm4.staticflickr.com/3867/15117448196_67dda60385_c.jpg}}
-
-
-{{indexmenu_n>7}}
