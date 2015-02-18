@@ -18,7 +18,7 @@ First log into your Domain of One's Own account at [[http://www.umwdomains.com|u
 
 {{:timeplot:umwdomains_homepage.png?300|}} {{:timeplot:umwdomains_login_page.png?275|}}
 
-In the Dashboard, scroll down and click on the File Manager. Then select **Web Root** from the pop up window and click **Go**. You may want to review  [[http://docs.umwdomains.com/cpanel/accessing-your-files-through-the-file-manager|the tutorial on the File Manager here]].
+In the Dashboard, scroll down and click on the File Manager. Then select **Web Root** from the pop up window and click **Go**. You may want to review  [[domain-of-ones-own:cpanel:accessing-your-files-through-the-file-manager|the tutorial on the File Manager here]].
 
 {{:timeplot:screen_shot_2014-07-02_at_4.37.05_pm.png?300|}}{{:timeplot:filemanager_pop_up.png?280|}}
 
