@@ -1,3 +1,5 @@
+{{indexmenu_n>8}}
+
 ====== Advanced Tutorial =====
 
 Once you've created a basic Timeplot, with a single line of data plotted, you may decide that you want to place additional data on your graph. This tutorial will cover
@@ -78,7 +80,7 @@ You can choose whatever hexadecimal color code you like for these properties. We
 {{https://farm4.staticflickr.com/3912/14960516749_1f5f329973_c.jpg}} 
 
 =====Changing the Color of Events=====
-You may also change the color of the lines/bands created by your event data. Making this change requires editing your event XML file (instead of the HTML file). If you used the default XML file that was installed, the file name will be "events.xml" You may refer to the [[timeplot:explanation-of-the-xml-file|explanation of the XML File]] for a reminder about how to access and edit that file. 
+You may also change the color of the lines/bands created by your event data. Making this change requires editing your event XML file (instead of the HTML file). If you used the default XML file that was installed, the file name will be "events.xml" You may refer to the [[other-software-tools:timeplot:explanation-of-the-xml-file|explanation of the XML File]] for a reminder about how to access and edit that file. 
 
 Once you have the file open, you can simply add a "color" property to each event. You can use different colors, for example, to group events that have a similar theme. 
 
@@ -103,5 +105,3 @@ Note that the color is, once again, defined as a hexadecimal code. In addition, 
 Make sure you save your XML file when you're done editing it. 
 
 **NOTE: You may find after editing your XML file that you must browse to and refresh that file in order for the changes to become evident in your Timeplot (Alternatively, you can empty your browse cache).**
-
-{{indexmenu_n>8}}
