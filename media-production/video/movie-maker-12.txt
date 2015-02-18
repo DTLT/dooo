@@ -31,6 +31,9 @@ The other effects offered in Movie Maker 12 are under the **Visual Effects** tab
 
 {{https://farm9.staticflickr.com/8622/16571544592_ed24130c68_c.jpg}}
 
+Another thing you might want to do with Movie Maker is add audio to your project. You can either drag an audio file from your computer into the workspace, or you can click on the Home tab and choose 
+**Add music** under **Add**. You can also add your own narration to the video. Do this by clicking on **Record narration** also under Add. Choose the part of the video that you wish to narrate, then press **Record** to begin. Press **Stop** when finished and save the narration.
+
 {{https://farm8.staticflickr.com/7341/16385071798_285348d2dc.jpg}}
 
 {{https://farm8.staticflickr.com/7288/16216822598_4ba95bfd05_z.jpg}}
