@@ -33,7 +33,7 @@ Here you can now see how your space is being used.
 
 {{https://farm6.staticflickr.com/5599/15703938582_e1a65649ba_d.jpg}}
 
-So now we can see the in this case the back ups are responsible for using most of the space
+So now we can see that, in this case, the back ups are responsible for using most of the space.
 
 ==== Managing Backups ====
 
