@@ -25,5 +25,7 @@ To apply transitions to your clips, click on the Animations tab. With the clip y
 
 The other effect set under the Animation tab is called **Pan and zoom**. Pan and zoom effects will last for the duration of a clip. They are used to zoom in and pan on certain areas of the clip. Unlike the transitions, you cannot change the duration of the pan and zoom, but you can apply the same effect to all of your clips by clicking **Apply to all**.
 
+{{https://farm8.staticflickr.com/7394/16570783151_3001dcc9c0_z.jpg}}
+
 {{https://farm8.staticflickr.com/7288/16216822598_4ba95bfd05_z.jpg}}
 
