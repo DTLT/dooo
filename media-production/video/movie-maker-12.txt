@@ -19,5 +19,9 @@ The most immediately useful tool here is the **Split** tool. By splitting your t
 
 With your video split, you'll also be able to take advantage of many of the animations and visual effects Movie Maker has to offer. Oh, and keep in mind that splitting is not the only way to have multiple segments in your timeline; you can also use multiple video files at once with Movie Maker.
 
+To apply transitions to your clips, click on the Animations tab. With the clip you'd like to add a transition to selected, and simply choose the transition you like from the top menu labeled Transitions. Transitions are applied to the beginning of your clip. You can change their duration from Transitions menu and apply the same transition to all of your clips.
+
+{{https://farm9.staticflickr.com/8600/16571284482_42de8e42b8_z.jpg}}
+
 {{https://farm8.staticflickr.com/7288/16216822598_4ba95bfd05_z.jpg}}
 
