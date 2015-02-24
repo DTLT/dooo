@@ -1,2 +1,8 @@
 ====== ENGL202x: Writing about Music ======
 
+===== Presentation Tools =====
+
+  * Microsoft Powerpoint
+  * [[http://prezi.com/|Prezi]]
+  * [[http://drive.google.com|Google Presentations]] (Docs/Drive)
+  * iMovie
