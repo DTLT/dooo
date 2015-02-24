@@ -8,13 +8,13 @@
     * Useful Resource: [[http://computers.tutsplus.com/tutorials/how-to-add-audio-to-powerpoint-presentations--cms-20488]]
    * **Video:**You can insert a video from a file on your computer (PC & Mac) or you can embed from an online service like YouTube (PC only).
    * 
-==== [[http://prezi.com/|Prezi]] ====
+==== Prezi (www.prezi.com) ====
 
 Audio can be uploaded/added to a presentation and video can be embedded from an online service.
    * Example with embedded audio: [[https://prezi.com/oficgbpunwrz/the-imprezzing-prezi-song/]]
    * Example with embedded video: [[https://prezi.com/uh_7jvp0ykpf/great-jazz-bassists-and-their-influence-through-the-ages/]]
 
-==== [[http://drive.google.com|Google Slides]] (Docs/Drive) ====
+==== Google Slides (drive.google.com) ====
 
    * You can embed videos from YouTube, but you can't add audio, specifically. 
    * A useful video tutorial for playing audio by way of a video: [[https://www.youtube.com/watch?v=VhPWZ4a_pMw]] 
