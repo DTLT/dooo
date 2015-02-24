@@ -7,7 +7,7 @@
    * **Audio:** You can play sound during a slide transition, or you can add sound that is played when someone clicks an icon. Alternatively, you can play audio in the background of the presentation. 
     * Useful Resource: [[http://computers.tutsplus.com/tutorials/how-to-add-audio-to-powerpoint-presentations--cms-20488]]
    * **Video:**You can insert a video from a file on your computer (PC & Mac) or you can embed from an online service like YouTube (PC only).
-   * 
+
 ==== Prezi (www.prezi.com) ====
 
 Audio can be uploaded/added to a presentation and video can be embedded from an online service.
@@ -22,3 +22,31 @@ Audio can be uploaded/added to a presentation and video can be embedded from an 
 ==== iMovie (Mac Only) ====
 
 You can create a movie comprised of any number of video clips and audio clips, layered together. 
+
+===== Getting Your Media =====
+
+You'll need to find and edit whatever media clips (audio or video) you want to work with in your presentation.
+
+==== Audio ====
+
+* If you already have an mp3 file of your audio, you'll likely need to edit it into smaller clips. We recommend the free, open-source software [[http://audacity.sourceforge.net/|Audacity]] for editing. 
+
+* If you need to get an mp3 file, there are a number of ways to do this. You may be able to save as an mp3 from iTunes, for example: [[http://support.apple.com/en-us/HT204310]]
+
+* You can also download an MP3 from a YouTube video using a converter like [[http://www.youtube-mp3.org/]]. 
+
+* If you have an audio file that you can play on your computer from another source but you can't figure out how to get it into an mp3 format, you could download the free version of Audio Hijack. ([[https://rogueamoeba.com/audiohijack/]]). This will let you record the audio off of your computer (up to a 10-minute clip with the free version).
+
+==== Video ====
+
+* The most common way to get video clips tends to be to download them off of YouTube with something like Video DownloadHelper: [[http://digitalmediacookbook.com/download-youtube-video-with-video-downloadhelper/]] or [[http://www.clipconverter.cc/]]. 
+
+* You may then need to edit/trim your clips, and for that we recommend MPEGStreamclip: [[http://www.squared5.com/]] This tool will let you open a file that you've already downloaded (from a site like YouTube) and edit it, or you can actually load it directly from YouTube: [[http://digitalmediacookbook.com/using-mpeg-streamclip-to-trim-youtube-videos/]]
+
+* You can also use iMovie to do more advanced editing and trimming of your clips. 
+
+
+==== Tutorials at the DKC ====
+
+The tutors at the DKC can help you as you prepare your presentations: [[http://dkc.umw.edu]]
+
