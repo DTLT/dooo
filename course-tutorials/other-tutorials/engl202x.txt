@@ -46,7 +46,8 @@ You'll need to find and edit whatever media clips (audio or video) you want to w
 * You can also use iMovie to do more advanced editing and trimming of your clips. 
 
 
-==== Tutorials at the DKC ====
+===== Useful Resources =====
 
-The tutors at the DKC can help you as you prepare your presentations: [[http://dkc.umw.edu]]
-
+  * The tutors at the DKC can help you as you prepare your presentations: [[http://dkc.umw.edu]]
+  * Check out the [[Digital Media Cookbook|http://digitalmediacookbook.com/]] for some useful tutorials on audio and video. 
+  * Check out [[Auadacity's tutorials | http://audacity.sourceforge.net/manual-1.2/tutorials.html]] for useful info on editing audio with that program. 
