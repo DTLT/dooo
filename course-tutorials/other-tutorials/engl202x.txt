@@ -29,13 +29,13 @@ You'll need to find and edit whatever media clips (audio or video) you want to w
 
 ==== Audio ====
 
-* If you already have an mp3 file of your audio, you'll likely need to edit it into smaller clips. We recommend the free, open-source software [[http://audacity.sourceforge.net/|Audacity]] for editing. 
-
 * If you need to get an mp3 file, there are a number of ways to do this. You may be able to save as an mp3 from iTunes, for example: [[http://support.apple.com/en-us/HT204310]]
 
 * You can also download an MP3 from a YouTube video using a converter like [[http://www.youtube-mp3.org/]]. 
 
 * If you have an audio file that you can play on your computer from another source but you can't figure out how to get it into an mp3 format, you could download the free version of Audio Hijack. ([[https://rogueamoeba.com/audiohijack/]]). This will let you record the audio off of your computer (up to a 10-minute clip with the free version).
+
+* If you already have an mp3 file of your audio, you'll likely need to edit it into smaller clips. We recommend the free, open-source software [[http://audacity.sourceforge.net/|Audacity]] for editing. 
 
 ==== Video ====
 
