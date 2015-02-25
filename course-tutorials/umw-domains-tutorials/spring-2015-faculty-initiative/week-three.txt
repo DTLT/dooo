@@ -18,7 +18,7 @@ Finally, "The Connected Teacher" video is an interview with Alec Couros by Howar
 
 
 ===== Other Work =====
-This week, spend some time setting up a couple of plugins for your blog as well as getting a Twitter account. Install the following WordPress Plugins on your blog ([[http://docs.umwdomains.com/wordpress/appearance-plugins/installing-plugins |here is a help guide]]):
+This week, spend some time setting up a couple of plugins for your blog as well as getting a Twitter account. Install the following WordPress Plugins on your blog ([[http://docs.umwdomains.com/wordpress/appearance-plugins/installing-plugins | here is a help guide]]):
 
   * [[http://jetpack.me/ | Jetpack]]: This is a suite of plugins, all of which enable you to check stats, post via email, enable subscriptions, etc. This plugin requires you to get a (free) WordPress.com account for it to work on your self-hosted blog.
 
