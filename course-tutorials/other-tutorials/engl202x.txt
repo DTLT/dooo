@@ -49,5 +49,5 @@ You'll need to find and edit whatever media clips (audio or video) you want to w
 ===== Useful Resources =====
 
   * The tutors at the DKC can help you as you prepare your presentations: [[http://dkc.umw.edu]]
-  * Check out the [[Digital Media Cookbook|http://digitalmediacookbook.com/]] for some useful tutorials on audio and video. 
-  * Check out [[Auadacity's tutorials | http://audacity.sourceforge.net/manual-1.2/tutorials.html]] for useful info on editing audio with that program. 
+  * Check out the [[http://digitalmediacookbook.com/|Digital Media Cookbook]] for some useful tutorials on audio and video. 
+  * Check out [[http://audacity.sourceforge.net/manual-1.2/tutorials.html|Auadacity's tutorials]] for useful info on editing audio with that program. 
