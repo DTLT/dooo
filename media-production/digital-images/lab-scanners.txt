@@ -1,3 +1,5 @@
+==== Using the Epson Scanner ====
+
   - If the scanner is not on (green light on the front), the power button is on the lower right side.
   - Lift the lid of the scanner and place your item to be scanned on the glass, with the top pointing away from you and pressed against the top right corner of the glass.
   - DO NOT TOUCH THE GLASS!
