@@ -5,6 +5,7 @@ We've provided instructions below about generating your backup in cPanel and imp
 
 
 {{page>domain-of-ones-own:migrating:site-migration:generating-a-cpanel-backup}}
-
+{{page>domain-of-ones-own:migrating:site-migration:restoring-a-cpanel-backup}}
+{{page>domain-of-ones-own:migrating:site-migration:elements-of-a-backup-file}}
 
 {{indexmenu_n>2}}
