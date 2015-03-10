@@ -3,7 +3,7 @@ In addition to taking ownership for your domain, you will also need to backup an
 
 We've provided instructions below about generating your backup in cPanel and importing it into a new Web hosting account using cPanel. In addition, we've provided an article that outlines the components of a backup file, if you are interested in understanding how backups work. 
 
-{{page>domain-of-ones-own:migrating:site-migration:choosing-a-web-host}}
+{{page>domain-of-ones-own:migrating:site-migration:picking-a-web-host}}
 {{page>domain-of-ones-own:migrating:site-migration:generating-a-cpanel-backup}}
 {{page>domain-of-ones-own:migrating:site-migration:restoring-a-cpanel-backup}}
 {{page>domain-of-ones-own:migrating:site-migration:elements-of-a-backup-file}}
