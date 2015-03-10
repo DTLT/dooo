@@ -6,3 +6,5 @@ Generating a backup can take anywhere from a few minutes to a few hours dependin
 {{https://farm6.staticflickr.com/5475/14066279660_9a295c3406_c.jpg}}
 
 The backup file you download will be a compressed file full of folders. To find out what these files and folders are and how to use the backup take a look at [[migrating:site-migration:elements-of-a-backup-file|Elements of a Backup File]]
+
+{{indexmenu_n>1}}
