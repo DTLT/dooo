@@ -1,8 +1,8 @@
 ====== Restoring a cPanel Backup ======
 
-If you've [[migrating:site-migration:generating-a-cpanel-backup|generated a cPanel backup]] of your Home Folder, MySQL Databases, and/or Email Forwarders and Filters you can restore that backup to your existing account or any other webhost that supports the cPanel control panel. This makes it very easy to get your data moved to a new host when you migrate your account away from Domain of One's Own. Here is the process for restoring a backup in cPanel.
+If you've [[domain-of-ones-own:migrating:site-migration:generating-a-cpanel-backup|Generated a cPanel Backup]] of your Home Folder, MySQL Databases, and/or Email Forwarders and Filters you can restore that backup to your existing account or any other webhost that supports the cPanel control panel. This makes it very easy to get your data moved to a new host when you migrate your account away from Domain of One's Own. Here is the process for restoring a backup in cPanel.
 
- 1. To begin you will need to login to Domain of One's Own and navigate to the Dashboard.
+ 1. To begin you will need to login to cPanel at your Web host. 
  2. Once logged in you will find the Backup Manager located under the Files menu in your control panel. {{http://farm8.staticflickr.com/7363/11805376673_cbf74d8a33_o.png}}
  3. To restore a partial backup that you previously created click the **Restore** button {{http://farm6.staticflickr.com/5522/11841142815_f57d72ae07_c.jpg}}
  4. You'll have the option to choose which backup you're restoring. The Home Directory would be a backup of all files and folders in your account, the MySQL databases are databases used by Wordpress and other software packages, and Email Forwarders & Filters are rules that are setup to forward your email addresses associated with your domain to other addresses. Go ahead and choose which backup you'd like to restore (and if you have multiples you can always come back to this screen). {{http://farm4.staticflickr.com/3784/11841935606_2d734c451c_c.jpg}}
