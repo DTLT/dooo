@@ -1,5 +1,10 @@
 ====== Site Migration ======
+In addition to taking ownership for your domain, you will also need to backup and migrate the files and databases that make up your actual Web site. cPanel allows you to easily generate a backup file of your site. Once you have the backup, you will need to choose a Web hosting company, purchase a Web hosting plan, and import or migrate your files into your new account. If you choose a Web hosting company that uses cPanel, this migration will be much easier. 
 
-{{namespace>domain-of-ones-own:migrating:site-migration}}
+We've provided instructions below about generating your backup in cPanel and importing it into a new Web hosting account using cPanel. In addition, we've provided an article that outlines the components of a backup file, if you are interested in understanding how backups work. 
+
+
+{{page>domain-of-ones-own:migrating:site-migration:generating-a-cpanel-backup}}
+
 
 {{indexmenu_n>2}}
