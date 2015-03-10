@@ -29,4 +29,4 @@ The **logs folder** contains log files for access and error information on your 
 
 The **mysql folder** contains a backup of all databases in your account. Each **.sql** file can be imported to another web host typically using a tool like PHPmyAdmin.
 
-{{indexmenu_n>2}}
+{{indexmenu_n>3}}
