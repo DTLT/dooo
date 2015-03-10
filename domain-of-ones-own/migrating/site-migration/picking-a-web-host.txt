@@ -1,0 +1,10 @@
+====== Picking a Web Host ======
+
+There are literally hundreds, if not thousands, of Web hosting companies that you can move to when you decide to migrate your site off of Domain of One's Own. Generally, here are a few guidelines to help you get started in your search: 
+
+  * **LAMP**: You will need to find a Web hosting company that provides LAMP hosting. LAMP is an acronym for the technology stack that the Domain of One's Own Server uses: Linux, Apache, MySQL, PHP. These are a set of open-source Web technologies, and most Web hosts offer LAMP hosting. 
+  * **Monthly vs Annual Costs**: Many Web hosting companies will quote you a low monthly cost that you can only get if you pay for your hosting up-front for a certain number of months vs. years. You can get very good deals by paying these costs at the onset, but be aware that the initial cost will then be higher. 
+  * **Start Small**: Unless you're running a number of Web sites with on Domain of One's Own with significant amounts of traffic, you can probably get by with the "entry-level" plan that most hosts offer. You should be able to move to a more robust plan in the future if you decide you need more resources. 
+  * **Upselling**: At the time of checkout, many hosts will try to convince you to buy additional features and services. Be sure you check to see if any other costs have been tacked-on to your purchase before you provide your credit card. 
+
+The University of Mary Washington has negotiated a discount offer through HostGator which students who are graduating or alumni can take advantage of when migrating off of Domain of One's Own. For details about this arrangement, please login to your account on [[http://umw.domains|Domain of One's Own]] and navigate to Mange Your Account>Migrating Information>HostGator Offer.
