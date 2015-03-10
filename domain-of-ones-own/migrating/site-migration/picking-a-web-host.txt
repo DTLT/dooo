@@ -1,4 +1,4 @@
-====== Picking a Web Host ======
+====== Choosing a Web Host ======
 
 There are literally hundreds, if not thousands, of Web hosting companies that you can move to when you decide to migrate your site off of Domain of One's Own. Generally, here are a few guidelines to help you get started in your search: 
 
