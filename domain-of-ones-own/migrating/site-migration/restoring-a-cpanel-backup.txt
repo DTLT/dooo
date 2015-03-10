@@ -9,3 +9,5 @@ If you've [[migrating:site-migration:generating-a-cpanel-backup|generated a cPan
  5. On this final screen you will click **Choose File** to select the backup file from your computer where you have it stored and then click **Upload** to upload the file and restore the contents. The time for the restoration process to complete depends on the size of the backup file and the speed of your internet connection. Once this is done a new window will display the contents of the files that were restored. {{http://farm4.staticflickr.com/3823/11842386706_820b8e78f6_c.jpg}}
 
 This restoration process is available as part of cPanel, a control panel package that is used by many webhosts, and can make the process of migrating your account to a new company simple and efficient. It's also great for restoring files from a backup when something major breaks on your website which is why it's important to regularly grab a backup file of your account.
+
+{{indexmenu_n>2}}
