@@ -1,0 +1,33 @@
+**Create a Freeze Frame in iMovie**
+
+**Ingredients:**
+
+1 - Computer (Mac OS)
+
+1 - Apple's iMovie program
+
+1 - Video clips that you want to get freeze frame from
+ 
+**Directions**
+
+1.	Open iMovie
+
+2.	Go to File → **New Movie**, or click the **New (+)** button and choose Movie
+
+3.	Select a Theme (to keep it simple choose No Theme), then click the **Create**, and give your movie a name.
+
+4.	Now you'll import your video clip(s) that you want to get a freeze frame from. Go to **File** → **Import Media**… or drag the video into the Event area.
+
+5.	Next select the clips that you have imported by highlighting them all with the mouse
+
+6.	Once clip or clips are selected, drag them into your Timeline or press the **E** key on your keyboard. All the clips will move into your timeline.
+
+7.	Now that your clip is in the timeline play clip and find the section you want to have as a freeze frame; once you find that particular moment pause the clip. 
+
+8.	Once clip is paused where you want, click on the **Modify** tab located at top left of desktop screen. 
+
+9.	Click on **Add Freeze Frame**. 
+
+10.	Once you do this you are able to adjust the length of the freeze frame by pulling the edge of the clip left or right. 
+
+https://www.youtube.com/watch?v=leCx9ul-0yg 
