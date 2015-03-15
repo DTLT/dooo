@@ -136,3 +136,5 @@ The following screencasts need to have step-by-step instructions written (see An
 {{indexmenu_n>15}}
 
   * [[media-production:video:Record Voiceovers in iMovie]] - https://www.youtube.com/watch?v=e3beLAj0FXc **TYLER** - **DONE - DMC** 
+
+  * [[media-production:video:Create a Freeze Frame in iMovie]] - https://www.youtube.com/watch?v=leCx9ul-0yg  **TYLER** - **DONE**
