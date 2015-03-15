@@ -66,7 +66,7 @@ This is documentation that needs to be written. Some of them may require a fair 
 
 The following screencasts need to have step-by-step instructions written (see Andy with any questions). Please put your name next to the document you're working on. Mark it DONE when finished:
 
-  * Create a Freeze Frame in iMovie - https://www.youtube.com/watch?v=leCx9ul-0yg **TYLER**
+  * Create a Freeze Frame in iMovie - https://www.youtube.com/watch?v=leCx9ul-0yg **TYLER** - **DONE**
   * Capture a Still Frame from a Video Using VLC - https://www.youtube.com/watch?v=Z3vq1vy2sgg
   * Adding Custom Artwork to an Album in iTunes - https://www.youtube.com/watch?v=U73dY27Jmio
   * Begin Editing in iMovie - https://www.youtube.com/watch?v=Z7Jnyym_1so **TYLER**
