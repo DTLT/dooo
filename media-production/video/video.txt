@@ -19,3 +19,4 @@
   * [[media-production:video:Download YouTube Videos with 4K Downloader]]
   * [[media-production:video:How to make quick trims in MpegStream clip]]
   * [[media-production:video:Record Voiceovers in iMovie]]
+  * [[media-production:video:Create a Freeze Frame in iMovie]]
