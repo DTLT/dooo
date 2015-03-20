@@ -20,3 +20,4 @@
   * [[media-production:video:How to make quick trims in MpegStream clip]]
   * [[media-production:video:Record Voiceovers in iMovie]]
   * [[media-production:video:Create a Freeze Frame in iMovie]]
+  * [[media-production:video:Capture a Still Frame from a Video Using VLC]]
