@@ -1,0 +1,15 @@
+====== Capture a Still Frame from a Video Using VLC ======
+
+
+===== Ingredients =====
+
+1 - Computer (Mac or PC)
+
+1 - VLC Software
+
+1 - Video File (.mp4 recommended)
+
+===== Directions =====
+
+  - Navigate to the video file in Finder
+  - Right click on the file and select **Open with...**
