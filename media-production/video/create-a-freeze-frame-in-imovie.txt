@@ -13,11 +13,10 @@
   - Open iMovie
   - Go to File → **New Movie**, or click the **New (+)** button and choose Movie
   - Select a Theme (to keep it simple choose No Theme), then click the **Create**, and give your movie a name.
-  - Now you'll import your video clip(s) that you want to get a freeze frame from. Go to **File** → **Import Media**… or drag the video into the Event area.
+  - Now you'll import your video clip(s) that you want to get a still image ("freeze frame") from. Go to **File** → **Import Media**… or drag the video into the Event area.
   - Next select the clips that you have imported by highlighting them all with the mouse
   - Once clip or clips are selected, drag them into your Timeline or press the **E** key on your keyboard. All the clips will move into your timeline.
   - Now that your clip is in the timeline, play the clip and find the frame you want to have as a still image ("freeze frame").
   - Move the timeline indicator to that frame and click the mouse to lock it down.
   - Now choose the **Modify** Menu and select **Add Freeze Frame**. This will add a 4 second still image to the timeline.
   - Once it's in your timeline, you are able to adjust the length of the freeze frame by dragging the edge of the clip left or right. 
-
