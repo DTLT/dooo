@@ -1,6 +1,6 @@
-****Create a Freeze Frame in iMovie****
+=====Create a Freeze Frame in iMovie=====
 
-**Ingredients:**
+=====Ingredients:=====
 
 1 - Computer (Mac OS)
 
@@ -8,7 +8,7 @@
 
 1 - Video clip(s) that you want to get a freeze frame from
  
-**Directions**
+=====Directions=====
 
   - Open iMovie
   - Go to File → **New Movie**, or click the **New (+)** button and choose Movie
