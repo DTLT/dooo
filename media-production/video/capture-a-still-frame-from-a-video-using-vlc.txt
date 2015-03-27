@@ -1,9 +1,9 @@
 ====== Capture a Still Frame from a Video Using VLC ======
 
 
-===== Ingredients =====
+===== Ingredients ====
 
-1 - Computer (Mac or PC)
+1 - Computer (Mac)
 
 1 - VLC Software
 
@@ -11,5 +11,8 @@
 
 ===== Directions =====
 
-  - Navigate to the video file in Finder
-  - Right click on the file and select **Open with...**
+  - Navigate to the video file in Finder.
+  - Right click on the file and select **Open with...** and select VLC.
+  - Pause the video, and navigate the video to the frame you'd like to capture.
+  - From the video menu, select snapshot, or use the keyboard shortcut Option, Command, and 'S'.
+  - The snapshot has been automatically saved to the Pictures folder. 
