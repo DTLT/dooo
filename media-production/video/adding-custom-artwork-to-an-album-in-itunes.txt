@@ -10,9 +10,9 @@
 
   - Using your internet browser of choice, navigate to the image you would like to choose.
   - Right click on the picture and select **Copy Image**.
-  - Open iTunes and navigate to the album you would like to use the photo as a cover for.
+  - Open iTunes and navigate to the album you are adding the cover art to.
   - Right click on the album cover (it will be blank if it doesn't have one) and select **Get Info**.
-  - Confirm this is the action you would like to take in the dialog box that appears.
-  - Select the "Artwork" tab in the window that opens.
+  - Confirm that you will be editing multiple items in the dialog box that appears.
+  - Select the "Artwork" tab in the information window that opens.
   - Paste the image in by using the keyboard shortcut Command - V.
-  - Select **Ok**.
+  - Select **Ok**. Your artwork will now be changed.
