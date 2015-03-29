@@ -12,7 +12,7 @@
 
 ===== Directions =====
 
-**NOTE** This is a continuation of the [[http://digitalmediacookbook.com/green-screen-effect-in-imovie/|Green Screen Effect in iMovie]]. You'll need to completed that recipe before you attempt this one.
+**NOTE** This is a continuation of the [[http://digitalmediacookbook.com/green-screen-effect-in-imovie/|Green Screen Effect in iMovie]]. You'll need to complete that recipe before you attempt this one.
 
   - In the adjustment panel, where previously we had selected **Fit** to have the image fit the screen, we now want to select **Crop to Fill** to have the image fill the screen with the correct aspect ratio. You can adjust the position and size of the selected area by clicking and dragging the boundary box.
   - Next, we select **Color Correction**. Increase the saturation to make the subject look less washed out.
