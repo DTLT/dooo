@@ -5,7 +5,9 @@
 
 1 - Computer (Mac or Windows)
 
-1 - VLC Software
+1 - [[http://umwnewmedia.org/vlc/
+|VLC Software]]
+
 
 1 - Video File (anything that VLC can open)
 
