@@ -33,9 +33,9 @@ You can also organize your items by group.
 
 ==== Generating Bibliographies, Citations and Reports ====
 Generating bibliographies is probably the most helpful task that Zotero can perform. 
-  * To **generate a bibliography,** select all for the items you want to include in it (hold down Shift and click on the items you want cited) and then //right click// on the selected items and click on Create Bibliography from Items...{picture} 
-  * You can then select which citation style and which form you want your bibliography to be created with. {picture}
-  * Your bibliography will then be copied to your clipboard and ready for you to paste. 
+  * To **generate a bibliography,** select all for the items you want to include in it (hold down Shift and click on the items you want cited) and then //right click// on the selected items and click on Create Bibliography from Items...{{https://farm8.staticflickr.com/7611/16795993879_f91872b597_z.jpg}}
+  * You can then select which citation style you want your bibliography to be created with. {{https://farm8.staticflickr.com/7655/16774800437_e4419d5986.jpg}}
+  * Your bibliography will then be copied to your clipboard and ready for you to paste into your document. 
 
 For more complex features on Zotero, please refer to this page:[[https://www.zotero.org/support/start]].
 
