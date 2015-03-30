@@ -3,16 +3,16 @@
 
 ===== Ingredients ====
 
-1 - Computer (Mac)
+1 - Computer (Mac or Windows)
 
 1 - VLC Software
 
-1 - Video File (.mp4 recommended)
+1 - Video File (anything that VLC can open)
 
 ===== Directions =====
 
-  - Navigate to the video file in Finder.
-  - Right click on the file and select **Open with...** and select VLC.
+  - Navigate to the video file on your hard drive.
+  - Right click on the file and select **Open with...** and select VLC. Alternatively you can open VLC and from the **File Menu** choose **Open File...** and select your video.
   - Pause the video, and navigate the video to the frame you'd like to capture.
   - From the video menu, select snapshot, or use the keyboard shortcut Option, Command, and 'S'.
   - The snapshot has been automatically saved to the Pictures folder. 
