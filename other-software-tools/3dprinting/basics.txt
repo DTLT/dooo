@@ -28,4 +28,5 @@
   * **Low** resolution is for objects that are very basic in shape/design, or for first prototypes that don't need as much detail. 
 
 10. If you didn't save the 3D printer friendly object file (.makerbot) to a flash drive, then move your .makerbot file to a **flash drive**. 
+
 11. Turn on the 3D printer, change the filament if necessary, insert your flash drive, **copy the object file to the internal storage on printer** (so you can take your flash drive out) and then print your object! 
