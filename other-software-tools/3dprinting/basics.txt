@@ -23,7 +23,7 @@
 8. You can **turn it** and **scale it** as necessary. {{https://farm4.staticflickr.com/3941/15494237501_291baeb4cd_c.jpg}}
 
 9. When you have it just right, **Export Print File.** You can check **Standard** resolution as well. Click **Save Settings**. 
-* Check **raft** to make your object more stable when printing.
+  * Check **raft** to make your object more stable when printing.
   * If you have overhanging elements to your object, you can also check **Support.**
   * **High** resolution is if you have have very grainual details that you absolutely need to appear on the object. 
   * **Low** resolution is for objects that are very basic in shape/design, or for first prototypes that don't need as much detail. 
