@@ -13,6 +13,6 @@
 
   - Navigate to the video file on your hard drive.
   - Right click on the file and select **Open with...** and select VLC. Alternatively you can open VLC and from the **File Menu** choose **Open File...** and select your video.
-  - Pause the video, and navigate the video to the frame you'd like to capture.
-  - From the video menu, select snapshot, or use the keyboard shortcut Option, Command, and 'S'.
-  - The snapshot has been automatically saved to the Pictures folder. 
+  - Advance the video to the frame you'd like to capture (Note: the "e" key will advance forward a frame at a time).
+  - From the **Video** menu, select **Snapshot**, or use the keyboard shortcut **Option-Command-s**.
+  - The snapshot (still frame) will be automatically saved to the Pictures folder. 
