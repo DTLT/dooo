@@ -1,9 +1,0 @@
-======Finding Users======
-Sometimes a user may be unable to access their UMW Blogs account because they do not remember their blog's website address. You can help them locate it by searching their username (if they remember it) or their UMW email address.
-  - **Login** to UMW Blogs using LastPass. Use the second **dtlt** option. {{https://farm4.staticflickr.com/3849/15216164628_6d0e785410_o.png}} {{https://farm3.staticflickr.com/2944/15399580271_f52393113b_o.png}}
-  - Hover over the **My Sites** menu, which is on the left-hand side of the WordPress Admin bar.{{https://farm4.staticflickr.com/3905/15379734066_82a7113c8f_o.png}}
-  - Hover over the **Network Admin**. {{https://farm3.staticflickr.com/2949/15379734086_54355eb8fa_o.png}}
-  - Click on **Dashboard**. {{https://farm4.staticflickr.com/3917/15216246007_f614a781f0_o.png}}
-  - Hover over **Users**. {{https://farm4.staticflickr.com/3858/15402434922_8eb6bbaa63_o.png}}
-  - Click on **All Users**. {{https://farm4.staticflickr.com/3930/15399580251_3fb2fd45f3_o.png}}
-  - Search for your user by their **full email** ending in either **@umw.edu** or **@mail.umw.edu** or their **username**. {{https://farm3.staticflickr.com/2950/15216164448_eb17a49a11_c.jpg}}

@@ -1,7 +1,0 @@
-======Plug-in Management======
-  - Login to **umwblogs.org** using LastPass. The username is the second **umwdtlt** option. {{https://farm3.staticflickr.com/2950/15399151321_101f03ca87_o.png}} 
-  - Once you are logged in, run your cursor over "**My Sites**," which is on the left-hand side of the WordPress Admin bar. {{https://farm4.staticflickr.com/3928/15215675050_d58f7d8738_b.jpg}}
-  - Select "**Network Admin**." {{https://farm3.staticflickr.com/2941/15379306536_98651d2742_o.png}}
-  - Run your cursor over "**Plugins**," which can be found in the left-hand column. {{https://farm3.staticflickr.com/2950/15215738488_6951cca0c2_o.png}}
-  - Select "**Plugin Management**" from the "**Plugins**" menu options.{{https://farm3.staticflickr.com/2941/15215674980_0f45ff5962_o.png}}
-  - Here you can see what plugins are activated for all users, and which are not activated for users, but are still available for users to activate themselves if they so choose. You can find this by looking at the "**User Control**" column. {{https://farm3.staticflickr.com/2946/15379306486_b4ee9a3e95_z.jpg}}
