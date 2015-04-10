@@ -1,0 +1,77 @@
+====== Begin Editing in iMovie ======
+
+
+===== Ingredients: =====
+
+
+1 - Computer (Mac OS)
+
+1 - Apple's iMovie program
+
+1 - Video clips that you want to make a movie with
+
+
+
+
+===== Directions: =====
+
+==== Adding Clip to Timeline Area ====
+ 
+1.     Click on clip and drag down to timeline or click on clip and push Key E on keyboard.
+ 
+
+
+
+==== Adding a Section of a Clip to the Timeline area. ====
+
+1.     Click on clip and drag out to the right for the portion you want in Timeline.
+
+2.     Release the click and click on the Plus (+) Sign that appears on the selected area of clip in the right hand corner of highlighted clip.
+(This can be done to multiple clips, you can also hit the E key after the range of the clip is selected to move it into Timeline faster)
+
+
+
+ 
+==== Selecting the Entire Clip from Imported Media Area ====
+
+1.     Click on clip
+
+2.     Push X key on key board (this will select entire clip)
+
+3.     Push E key to bring into Timeline (E= End of Timeline)
+
+
+
+
+ 
+==== To show all Clips in Timeline Window ====
+
+1. Hold down SHIFT key and then hit the Z key (this will size all of timeline into a more viewable format)
+ 
+
+
+
+
+ 
+==== Adding a Clip between two other Clips in Timeline ====
+
+
+1.     Take cursor and put between the two clips and click down (cursor will stay there)
+
+2.     Select range of clip in Imported Media Area
+
+3.     Hit W key to insert portion of clip in between the two clips (W= Within)
+
+ 
+
+
+
+ 
+==== Another Way to Add a Clip to the Timeline (Making a Connected Clip) ====
+
+
+1.	Click on clip you want to use, and drag out portion you want to use. 
+
+2.	Make sure your cursor is where you want the connected clip to go on timeline.
+
+3.	Once portion is highlighted and your cursor is in correct spot on timeline hit the Q key on the keyboard.  (Q= Connected clip or Cut Away Clip)
