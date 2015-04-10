@@ -22,3 +22,4 @@
   * [[media-production:video:Create a Freeze Frame in iMovie]]
   * [[media-production:video:Capture a Still Frame from a Video Using VLC]]
   * [[media-production:video:Adding Custom Artwork to an Album in iTunes]]
+  * [[media-production:video:Begin Editing in iMovie]]
