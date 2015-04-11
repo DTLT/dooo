@@ -1,37 +1,37 @@
-#Terminal Commands
+====== Terminal Commands ======
 
-##View size of folders
+===== View size of folders =====
 
 Navigate to a folder and then type:
 
-`du -Psckx * | sort -nr`
+''du -Psckx * | sort -nr''
 
 This will print a list of folders/files ordered by their size. This is useful for troubleshooting what is taking up space in a user's account.
 
-##View all running processes
+===== View all running processes =====
 
-`ps -auxf`
+''ps -auxf''
 
-##Run ClamAV scan on all users
+===== Run ClamAV scan on all users =====
 
-`clamscan -ir /home/*/public_html/ -l /var/log/clamscan.log`
+''clamscan -ir /home/*/public_html/ -l /var/log/clamscan.log''
 
-##View activity in MySQL
+===== View activity in MySQL =====
 
-`watch mysqladmin process`
+''watch mysqladmin process''
 
-##View all cron jobs for each user
+===== View all cron jobs for each user =====
 
-`for user in $(cut -f1 -d: /etc/passwd); do echo $user; crontab -u $user -l; done`
+''for user in $(cut -f1 -d: /etc/passwd); do echo $user; crontab -u $user -l; done''
 
-##List all files (recursive within subfolders) in reverse order of date they were modified
+===== List all files (recursive within subfolders) in reverse order of date they were modified =====
 
-`find . -printf '%T@ %c %p\n' | sort -k 1n,1 -k 7 | cut -d' ' -f2-`
+''find . -printf '%T@ %c %p\n' | sort -k 1n,1 -k 7 | cut -d' ' -f2-''
 
 Basically after running this it will spit out a list from oldest to newest files so it's easier to spot if a site that hadn't been changed in a while was hacked.
 
-##Fix Folder and File permissions
+===== Fix Folder and File permissions =====
 
-`find . -type d -exec chmod 755 {} \;`
+''find . -type d -exec chmod 755 {} \;''
 
-`find . -type f -exec chmod 644 {} \;`
+''find . -type f -exec chmod 644 {} \;''
