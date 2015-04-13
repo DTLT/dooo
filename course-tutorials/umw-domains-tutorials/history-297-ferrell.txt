@@ -18,3 +18,7 @@ For this class, you will need to set up a subdomain in which you'll install Word
 </WRAP>
  
 {{page>wordpress:getting-started:installing-wordpress}}
+
+====== Creating a Timeline ======
+
+{{page>other-software-tools:spreadsheet-timeline:using-the-umw-spreadsheet-timeline}}
