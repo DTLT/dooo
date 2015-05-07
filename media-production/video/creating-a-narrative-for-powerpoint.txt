@@ -2,7 +2,7 @@
 
 //How to use ScreenFlow//:
 
-ScreenFlow is an IOS application that makes recording visuals and audios easy. 
+ScreenFlow is a Mac application that makes recording visuals and audios easy. 
 
 There are a lot of ways where you can add audio by using different video editing applications, but the easiest and most smooth way of proceeding to record the application that you use, is to do it with ScreenFlow. 
 
