@@ -5,3 +5,6 @@ If you have questions or need help, please visit the Digital Knowledge Center (I
 To get started, you'll need to log into the course website. To do that, scroll down the course site's home page to find the "Meta" widget, and click the "Log In" link. You should have received your username and password via email; if you did not, or if you have forgotten it, use the "Lost your password?" link on the log in page. The email on file in your account is your UMW email address.
 
 {{page>wordpress:creating-content:creating-a-post}}
+{{page>wordpress:creating-content:visual-editor-vs-text-editor}}
+{{page>wordpress:creating-content:uploading-and-displaying-files}}
+{{page>wordpress:creating-content:embedding-videos}}
