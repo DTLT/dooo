@@ -1,6 +1,6 @@
 ====== URL syndication from UMW Blogs ======
 
-If you have questions or need help, please visit the Digital Knowledge Center (ITCC 408) and meet with a peer tutor. Walk-ins are available, but we highly recommend [[http://dkc.umw.edu | making an appointment]] to ensure you'll get the help you need.
+If you have questions or need help, please visit the Digital Knowledge Center (ITCC 408) and meet with a peer tutor. Drop-in assistance is available, but we highly recommend [[http://dkc.umw.edu | making an appointment]] to ensure you'll get the help you need. Online appointments are also available! Please check the box requesting an online appointment during the signup process.
 
 {{page>wordpress:getting-started:registering-for-a-username-and-blog}}
 {{page>wordpress:getting-started:logging-into-umw-blogs}}
