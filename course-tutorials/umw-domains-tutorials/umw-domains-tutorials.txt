@@ -55,7 +55,7 @@
 
 ==== Sociology and Anthropology ====
   * [[course-tutorials:umw-domains-tutorials:urban-sociology|SOCG 313: Urban Sociology]] (Martin)
-
+  * [[course-tutorials:umw-domains-tutorials:sociology-of-the-family|SOCG 331: Sociology of the Family]] (Schleef)
 ==== Other Projects ====
 
   * [[course-tutorials:umw-domains-tutorials:history-department-workshop|History Department Workshop]]
