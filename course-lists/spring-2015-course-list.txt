@@ -12,9 +12,6 @@
 ==== Computer Science ====
   * Paul Bond, Martha Burtis, and Jim Groom's [[http://noir106.us | CPSC 106: Digital Storytelling]]
 
-==== Education ====
-  * 
-
 ==== Economics ====
   * Steven Greenlaw's [[http://econ202.umwblogs.org | ECON 202: Principles of Microeconomics]]
   * Steven Greenlaw's [[http://econ300.umwblogs.org | ECON 300: Introduction to Economic Analysis]]
@@ -69,9 +66,6 @@
   * Bruce O'Brien's [[http://oriens.umwblogs.org | HIST 332: Rule and Rebellion in the Roman East]]
   * Jess Rigelhaupt's [[http://amst201s15.umwblogs.org | AMST 201: Introduction to American Studies]]
 
-==== Honors Program ====
-  * 
-
 ==== Interdisciplinary Science Studies ====
   * Melina Patterson and Jess Rigelhaupt's [[http://freedomrides.us | IDIS 300M: Freedom Rides Revisited]]
 
@@ -95,6 +89,3 @@
 
 ==== Theatre and Dance ====
   * Mark Snyder's [[http://audiorecording.umwblogs.org | THEA 452D: Audio Recording]] 
-
-==== Women's and Gender Studies ====
-  * 
