@@ -6,4 +6,4 @@
   * All Canvas Courses have 500 MB of storage space for content. 
 
 //What Browsers Work Best with Canvas?//
-  * [[https://guides.instructure.com/m/4214/l/41056-which-browsers-does-canvas-support|Which Browsers Does Canvas Support?]]
+  * [[https://community.canvaslms.com/docs/DOC-1284|Which Browsers Does Canvas Support?]]
