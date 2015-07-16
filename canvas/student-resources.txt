@@ -1,10 +1,5 @@
 ====== Student Resource Links ======
 
-UMW-Specific Tutorials: 
-  * How do I Connect my Mobile Device to UMW's Canvas Account?
-  * How to Submit a Course Evaluation
-  * How to take a UMW Placement Exam for Modern Foreign Languages, Calculus or Latin
-
 Top Most-Requested Tutorials
   * [[https://community.canvaslms.com/docs/DOC-1270|How Do I View My Courses?]]
   * [[https://community.canvaslms.com/docs/DOC-2863|How Do I Add a Profile Picture?]]
