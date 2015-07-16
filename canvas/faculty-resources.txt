@@ -8,16 +8,18 @@ Top Most-Requested Tutorials:
   * [[https://community.canvaslms.com/docs/DOC-2625|How do I Weight the Final Grade based on Assignment Groups?]]
   * [[https://community.canvaslms.com/docs/DOC-2651|How do I Restrict Online File Submission Types in Assignments?]]
   * [[https://community.canvaslms.com/docs/DOC-2663|How do I Create a Peer-Review Assignment?]]
-  * 
+  * [[https://community.canvaslms.com/docs/DOC-2641|How do I Create a GoogleDocs Collaboration?]]
+  * [[https://community.canvaslms.com/docs/DOC-1959|How do I Use the Conference Interface?]]
   * [[https://community.canvaslms.com/docs/DOC-1848|Where is the Front Page and How Do I Edit it?]]
-  * [[https://community.canvaslms.com/docs/DOC-2670|How do I Compose and Send a Message?]]
-  * [[https://community.canvaslms.com/docs/DOC-2674|How do I Send a Message to the Entire Class?]]
- 
-  * [[https://community.canvaslms.com/docs/DOC-2863|How do I Add a Profile Picture?]]
-  
-  * [[https://community.canvaslms.com/docs/DOC-2557|How do I Create a New Module?]]
+  * [[https://community.canvaslms.com/docs/DOC-2677|How do I copy a Canvas course?]]
+  * [[https://community.canvaslms.com/docs/DOC-2779|How do I Allow Students to Attach Files to a Discussion?]]
+  * [[https://community.canvaslms.com/docs/DOC-2723|Where can I Find External Apps to Use in My Course?]]
+  * [[https://community.canvaslms.com/docs/DOC-2770|How do I Lock or Restrict Files or Folders in Canvas?]]
   * [[https://community.canvaslms.com/docs/DOC-2785|How do I Use the Gradebook?]] 
- 
   * [[https://community.canvaslms.com/docs/DOC-2583|What is the SpeedGrader and How do I Use it?]]
   * [[https://community.canvaslms.com/docs/DOC-2952|How do I Mute or Unmute an Assignment in the SpeedGrader?]]
   * [[https://community.canvaslms.com/docs/DOC-2818|How do I View My Students' Grades as a Point Value instead of a Percentage?]]
+  * [[https://community.canvaslms.com/docs/DOC-2670|How do I Compose and Send a Message?]]
+  * [[https://community.canvaslms.com/docs/DOC-2674|How do I Send a Message to the Entire Class?]]
+  * [[https://community.canvaslms.com/docs/DOC-2863|How do I Add a Profile Picture?]]
+  * [[https://community.canvaslms.com/docs/DOC-2557|How do I Create a New Module?]]
