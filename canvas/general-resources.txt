@@ -2,6 +2,8 @@
 
 Welcome to Canvas! Canvas is a cloud-native learning platform and learning management system used by millions of students across the globe. 
 
+Join the [[https://community.canvaslms.com/welcome|Canvas Community]] to find all things Canvas!
+
 ===== Canvas Guides =====
 
 The complete Canvas Guides will help you learn the ins and outs of Canvas like a pro. 
