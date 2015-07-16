@@ -26,12 +26,10 @@ The MagicMarker app is the efficient and effective way for instructors to record
 
 ===== Mobile Guides - Polls for Canvas =====
 
-The Polls for Canvas app is the easy way for instructors to request student opinion in the classroom. All students need is a smartphone. Download the Polls for Canvas app on Android and iOS devices.
+The Polls for Canvas App is the easy way for instructors to request student opinion in the classroom. All students need is a smartphone. Download the Polls for Canvas App on Android and iOS devices.
 
-  * [[http://guides.instructure.com/m/22678|Polls for Canvas Android Phone Guide]]
-  * [[http://guides.instructure.com/m/22679|Polls for Canvas Android Tablet Guide]]
-  * [[http://guides.instructure.com/m/22288|Polls for Canvas iOS Phone Guide]]
-  * [[http://guides.instructure.com/m/22677|Polls for Canvas iOS Tablet Guide]]
+  * [[https://community.canvaslms.com/docs/DOC-4046|Polls for Canvas Guide]]
+ 
 
 ===== Mobile Guides - SpeedGrader =====
 
