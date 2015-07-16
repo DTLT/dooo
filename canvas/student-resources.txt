@@ -1,22 +1,21 @@
 ====== Student Resource Links ======
 
 UMW-Specific Tutorials: 
-  * How to Configure Mobile Apps with the UMW URL
+  * How do I Connect my Mobile Device to UMW's Canvas Account?
   * How to Submit a Course Evaluation
   * How to take a UMW Placement Exam for Modern Foreign Languages, Calculus or Latin
 
 Top Most-Requested Tutorials
-  * [[http://guides.instructure.com/m/8470/l/103948-how-do-i-view-my-courses|How Do I View My Courses?]]
-  * [[http://guides.instructure.com/m/4212/l/196070-will-canvas-work-on-my-mobile-device|How Do I Access Canvas Mobile Apps]]
-  * [[http://guides.instructure.com/m/4212/l/41467-how-do-i-add-a-profile-picture|How Do I Add a Profile Picture?]]
-  * [[http://guides.instructure.com/m/4212/l/41960-how-do-i-add-my-cell-phone-number-to-canvas-to-receive-texts|How Do I Get Texts on my Cell from Canvas?]]
-  * [[http://guides.instructure.com/m/4212/l/54352-how-do-i-view-the-rubric-for-an-assignment|How Do I View a Rubric for an Assignment?]]
-  * [[http://guides.instructure.com/m/4212/l/54363|How Do I Submit a Peer Review?]]  
-  * [[http://guides.instructure.com/m/4212/l/103951|How Do I Know How if I Have a Peer Review to Complete?]] 
-  * [[http://guides.instructure.com/m/4212/l/55293-how-do-i-join-a-google-docs-collaboration|How Do I Join a GoogleDocs Collaboration?]]
-  * [[http://guides.instructure.com/m/4212/l/41982-how-do-i-join-a-web-conference|How Do I Join a Web Conference?]]
-  * [[http://guides.instructure.com/m/4212/l/55565-which-groups-am-i-enrolled-in|Which Group Am I Enrolled In?]]
-  * 
+  * [[https://community.canvaslms.com/docs/DOC-1270|How Do I View My Courses?]]
+  * [[https://community.canvaslms.com/docs/DOC-2863|How Do I Add a Profile Picture?]]
+  * [[https://community.canvaslms.com/docs/DOC-2894|How do I Add an Additional Address as a Contact method in Canvas]]
+  * [[https://community.canvaslms.com/docs/DOC-2896|How Do I Add a Text (SMS) Contact Method in Canvas?]]
+  * [[https://community.canvaslms.com/docs/DOC-3115|How Do I View a Rubric for an Assignment?]]
+  * [[https://community.canvaslms.com/docs/DOC-3138|How Do I Submit a Peer Review to an Assignment?]] 
+  * [[https://community.canvaslms.com/docs/DOC-3130|How Do I Join a GoogleDocs Collaboration?]]
+  * [[https://community.canvaslms.com/docs/DOC-1831|How Do I Join a Web Conference?]]
+  * [[https://community.canvaslms.com/docs/DOC-3280|Which Group Am I Enrolled In?]]
+
 
 Hidden Tips & Tricks
    * [[http://guides.instructure.com/m/4152/l/55015-what-are-what-if-grades|How Do I Do Hypothetical Grading]]  
