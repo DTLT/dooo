@@ -4,7 +4,7 @@ Welcome to Canvas! Canvas is a cloud-native learning platform and learning manag
 
 ===== Canvas Guides =====
 
-Once you’re up and running with Canvas, the complete Canvas Guides will help you learn the ins and outs of Canvas like a pro. 
+The complete Canvas Guides will help you learn the ins and outs of Canvas like a pro. 
 
   * [[https://community.canvaslms.com/docs/DOC-4131|Instructor Guide]]  
   * [[https://community.canvaslms.com/docs/DOC-4121|Student Guide]]
