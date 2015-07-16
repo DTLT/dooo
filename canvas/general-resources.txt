@@ -2,9 +2,8 @@
 
 Welcome to Canvas! Canvas is a cloud-native learning platform and learning management system used by millions of students across the globe. These guides will get you started with the basics of Canvas.
 
-  * [[http://guides.instructure.com/m/4151|Getting Started]]
-  * [[http://guides.instructure.com/m/8470|Student Quickstart Guide]] 
-  * [[http://guides.instructure.com/m/8472|Instructor Quickstart Guide]]
+  * [[https://community.canvaslms.com/docs/DOC-4121]] 
+  * [[https://community.canvaslms.com/docs/DOC-4131]]
 
 ===== Canvas Guides =====
 
