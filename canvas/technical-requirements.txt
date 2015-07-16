@@ -2,8 +2,8 @@
 
 //How Much Storage Space do You Have?// 
 
-  * All Canvas Users have 50MB of storage space for files. 
-  * All Canvas Courses have 500 MB of storage space for content. 
+  * All Canvas Users at UMW have **50** MB of storage space for files. 
+  * All Canvas Courses at UMW have **500** MB of storage space for content. 
 
 //What Browsers Work Best with Canvas?//
   * [[https://community.canvaslms.com/docs/DOC-1284|Which Browsers Does Canvas Support?]]
