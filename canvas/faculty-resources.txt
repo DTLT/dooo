@@ -1,17 +1,21 @@
 ====== Faculty Resource Links ======
 
 Top Most-Requested Tutorials:
+  * [[https://community.canvaslms.com/docs/DOC-1795|What will Analytics Tell Me About My Course?]]
+  * [[https://community.canvaslms.com/docs/DOC-1814|How do I Delay Posting an Announcement Until a Specific Date?]]
+  * [[https://community.canvaslms.com/docs/DOC-2618|How do I Publish Assignments with Draft State?]] 
   * [[https://community.canvaslms.com/docs/DOC-1848|Where is the Front Page and How Do I Edit it?]]
   * [[https://community.canvaslms.com/docs/DOC-2670|How do I Compose and Send a Message?]]
   * [[https://community.canvaslms.com/docs/DOC-2674|How do I Send a Message to the Entire Class?]]
-  * [[https://community.canvaslms.com/docs/DOC-2663|How to Create a Peer-Review Assignment]]
-  * [[https://community.canvaslms.com/docs/DOC-2863|How to Add a Profile Picture]]
-  * [[https://community.canvaslms.com/docs/DOC-2618|How to Publish Assignments with Draft State]] 
+  * [[https://community.canvaslms.com/docs/DOC-2663|How do I Create a Peer-Review Assignment?]]
+  * [[https://community.canvaslms.com/docs/DOC-2863|How do I Add a Profile Picture?]]
+  
   * [[https://community.canvaslms.com/docs/DOC-2557|How do I Create a New Module?]]
   * [[https://community.canvaslms.com/docs/DOC-2785|How do I Use the Gradebook?]] 
   * [[https://community.canvaslms.com/docs/DOC-2623|How do I Add Assignment Groups to Weight Grades?]]
+  * [[https://community.canvaslms.com/docs/DOC-2583|What is the SpeedGrader and How do I Use it?]]
+  * [[https://community.canvaslms.com/docs/DOC-2952|How do I Mute or Unmute an Assignment in the SpeedGrader?]]
   * [[https://community.canvaslms.com/docs/DOC-2818|How do I View My Students' Grades as a Point Value instead of a Percentage?]]
-  * [[http://guides.instructure.com/m/4152/l/55016-how-do-i-use-speedgrader|How to Use the Speedgrader]]
   * [[http://guides.instructure.com/m/4152/l/65779-how-do-i-allow-students-to-attach-files-to-a-discussion|How to Allow Students to Attach Files to Discussions]]
   * [[http://guides.instructure.com/m/4152/l/74551-where-can-i-find-external-apps-to-use-in-my-course|How to Add External Apps (LTIs) to Your Course]]
   * [[http://guides.instructure.com/m/4152/l/41391-how-do-i-lock-files-and-folders-in-canvas|How to Lock Files]]
