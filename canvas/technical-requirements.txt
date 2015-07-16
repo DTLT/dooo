@@ -11,3 +11,4 @@
 //How do I Access Canvas using a mobile browser instead of the app, on my phone or tablet?//
   * [[https://community.canvaslms.com/docs/DOC-1656|How do I access Canvas using a mobile browser on my iOS device?]]
   * [[https://community.canvaslms.com/docs/DOC-1546|How do I access Canvas using a mobile browser on my Android?]]
+  * [[https://community.canvaslms.com/docs/DOC-1543|How do I find UMW's URL to access Canvas on my mobile apps?]]
