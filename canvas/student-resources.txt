@@ -18,4 +18,4 @@ Top Most-Requested Tutorials
 
 
 Hidden Tips & Tricks
-   * [[http://guides.instructure.com/m/4152/l/55015-what-are-what-if-grades|How Do I Do Hypothetical Grading]]  
+   * [[https://community.canvaslms.com/docs/DOC-2858|What are What-IF grades? (Hypothetical Grading)]]  
