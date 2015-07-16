@@ -1,10 +1,5 @@
 ====== Faculty Resource Links ======
 
-UMW-Specific Tutorials:  
-  * How to Configure Mobile Apps with the UMW URL
-  * How to Add a QEP Module to Your Course
-  * How to Find Evaluation Reports
-
 Top Most-Requested Tutorials:
   * [[http://guides.instructure.com/m/4152/l/57075-how-do-i-change-the-course-home-page|How to Change the Course Home Page]]
   * [[http://guides.instructure.com/m/4152/l/48305-how-do-i-compose-and-send-a-message|How to Compose a Message]]
