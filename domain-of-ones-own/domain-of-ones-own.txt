@@ -1,8 +1,0 @@
-{{indexmenu_n>1}}
-
-====== UMW Domains ======
-
-  * [[domain-of-ones-own:general:general|General Information]]
-  * [[domain-of-ones-own:cpanel:cpanel|cPanel]]
-  * [[domain-of-ones-own:domain-management:domain-management|Domain Management]]
-  * [[domain-of-ones-own:migrating:migrating|Migrating Off Domain of One's Own]]
