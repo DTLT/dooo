@@ -8,7 +8,6 @@ These pages archive the courses taught using UMW Blogs since Fall of 2008. If yo
   * [[Fall 2015 Course List|Fall 2015]]
 
 === Archives ===
-  * [[Summer 2015 Course List|Summer 2015]]
   * [[Fall 2008 Course List|Fall 2008]]
   * [[Spring 2009 Course List|Spring 2009]]
   * [[Summer 2009 Course List|Summer 2009]]
@@ -25,3 +24,4 @@ These pages archive the courses taught using UMW Blogs since Fall of 2008. If yo
   * [[Spring 2014 Course List|Spring 2014]]
   * [[Fall 2014 Course List|Fall 2014]]
   * [[Spring 2015 Course List|Spring 2015]]
+  * [[Summer 2015 Course List|Summer 2015]]
