@@ -1,4 +1,0 @@
-=====cPanel=====
-{{indexmenu_n>2}}
-
-{{namespace>domain-of-ones-own:cpanel}}

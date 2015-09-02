@@ -5,6 +5,7 @@
 These pages archive the courses taught using UMW Blogs since Fall of 2008. If you know of a course that was taught on UMW Blogs that we don't have listed here, please email Ryan at <rbrazell@umw.edu>.
 
 === Current Semester ===
+  * [[Fall 2015 Course List|Fall 2015]]
   * [[Summer 2015 Course List|Summer 2015]]
 
 === Archives ===

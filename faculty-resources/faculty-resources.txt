@@ -1,5 +1,0 @@
-{{indexmenu_n>8}}
-
-====== Faculty Resources ======
-
-  * [[faculty-resources:generate-an-ebook|Generate an eBook]]

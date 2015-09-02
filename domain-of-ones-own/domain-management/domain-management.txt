@@ -1,5 +1,0 @@
-{{indexmenu_n>3}}
-
-====== Domain Management ======
-
-{{namespace>domain-of-ones-own:domain-management}}
