@@ -9,7 +9,9 @@
 
 
 ==== Computer Science ====
-
+  * Jen Polack's [[http://ds106.us/tag/polackfall15/ | CPSC 106: Digital Storytelling]]
+  * Paul Bond's [[http://ds106.us/tag/ds106tales/ | CPSC 106: Digital Storytelling]]
+ 
  
 ==== Education ====
  
@@ -28,6 +30,8 @@
 
 
 ==== History and American Studies ====
+  * Krystyn Moon's [[http://immigrantalexandria.org/ | HIST 449: Immigrant Alexandria]]
+  * Krystyn Moon's [[http://americansexualities.umwblogs.org/ | AMST 303: American Studies Seminar: Gender and Sexuality in America]]
 
 
 ==== Honors Program ====
