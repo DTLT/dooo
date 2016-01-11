@@ -2,5 +2,3 @@
 
 ~~NOTOC~~
 Support for Domain of One's Own has moved to [[http://docs.umwdtlt.org]]. Please visit us there!
-
----
