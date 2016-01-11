@@ -1,5 +1,5 @@
 #Meta Documentation on the Domain of One's Own Project
 
-Here you will find documentation on the hardware, software, plugins, and processes that power UMW Domains. The Division of Teaching and Learning Technologies works hard to make the work we do as easy to copy as possible. If you have any questions don't hesitate to contact us at [[support@umwdomains.com]]
+Here you will find documentation on the hardware, software, plugins, and processes that power UMW Domains. The Division of Teaching and Learning Technologies works hard to make the work we do as easy to copy as possible. If you have any questions don't hesitate to contact us at [[dtlt@umwdomains.com]]
 
 {{namespace>meta}}
